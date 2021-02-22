@@ -3,12 +3,12 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch."
 heroID: 61701
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: de
 ref: "Cassanbel"
 toc: true
 ---
- **Description:** Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch.
+ **Beschreibung:** Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch.
 ## Details
  **Profession:** Meereskreaturen
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frostpfeil
- **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
+ **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
 ### 2 Spell: Ozeansegen
- **Description:** Stellt bei anvisierten verbündeten Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))> LP wieder her.
+ **Beschreibung:** Stellt bei anvisierten verbündeten Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))> LP wieder her.
 
 ### 3 Spell: Eisschild
- **Description:** Verleiht anvisierten verbündeten Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek. lang Immunität gegen Wasserzauberschaden. Gegnerische Einheiten, die durch Schilde geschützte Einheiten angreifen, werden 3 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
+ **Beschreibung:** Verleiht anvisierten verbündeten Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek. lang Immunität gegen Wasserzauberschaden. Gegnerische Einheiten, die durch Schilde geschützte Einheiten angreifen, werden 3 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
 ### 4 Spell: Flutwellen
- **Description:** Wirkt <Flutwellen>, die alle gegnerischen Einheiten mit Wucht treffen, <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zufügen und sie 10 Sek. lang <span style="color: #e07c44;font-size:20px">abschrecken</span><span style="color: black">. Außerdem besteht eine Chance von 20 % für 2 Sek. langes <span style="color: #e07c44;font-size:20px">Erstarren.</span><span style="color: black">
+ **Beschreibung:** Wirkt <Flutwellen>, die alle gegnerischen Einheiten mit Wucht treffen, <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zufügen und sie 10 Sek. lang <span style="color: #e07c44;font-size:20px">abschrecken</span><span style="color: black">. Außerdem besteht eine Chance von 20 % für 2 Sek. langes <span style="color: #e07c44;font-size:20px">Erstarren.</span><span style="color: black">
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Ich werde die klägliche Tiefsee beschützen und ich werde die tyrannischen Piraten auslöschen!</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Ich werde die klägliche Tiefsee beschützen und ich werde die tyrannischen Piraten auslöschen!</span>
 
 
 ### Skin 2: **Aufregender Sommer**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Selbst in der Sommerhitze möchte ich auf der ganzen Welt Anmut verbreiten!</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Selbst in der Sommerhitze möchte ich auf der ganzen Welt Anmut verbreiten!</span>
 
  **Skin features:** 
 

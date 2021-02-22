@@ -3,12 +3,12 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Obwohl er in einer komplett anderen Welt ist, hält Ezio an seiner Überzeugung fest. Er arbeitet in der Dunkelheit, um dem Licht zu dienen."
 heroID: 61901
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: de
 ref: "Ezio"
 toc: true
 ---
- **Description:** Obwohl er in einer komplett anderen Welt ist, hält Ezio an seiner Überzeugung fest. Er arbeitet in der Dunkelheit, um dem Licht zu dienen.
+ **Beschreibung:** Obwohl er in einer komplett anderen Welt ist, hält Ezio an seiner Überzeugung fest. Er arbeitet in der Dunkelheit, um dem Licht zu dienen.
 ## Details
  **Profession:** 
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Verst.-Kl.-Attentat
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">bluten</span><span style="color: black">.
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">bluten</span><span style="color: black">.
 
 ### 2 Spell: Heimlichkeit
- **Description:** Gewährt verbündeten Einheiten in einem großen Bereich Heimlichkeit und macht sie <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang immun gegen Einheitenschaden.
+ **Beschreibung:** Gewährt verbündeten Einheiten in einem großen Bereich Heimlichkeit und macht sie <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang immun gegen Einheitenschaden.
 
 ### 3 Spell: Schweigen
- **Description:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">verstummen</span><span style="color: black">.
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und lässt sie {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">verstummen</span><span style="color: black">.
 
 ### 4 Spell: Adlerauge
- **Description:** Gewährt allen verbündeten Einheiten <span style="color: #e07c44;font-size:20px">Falkenauge</span><span style="color: black"> und erhöht „Krit. Treffer“ und Präzision <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang um 900.
+ **Beschreibung:** Gewährt allen verbündeten Einheiten <span style="color: #e07c44;font-size:20px">Falkenauge</span><span style="color: black"> und erhöht „Krit. Treffer“ und Präzision <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang um 900.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **null**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Eine geheimnisvolle Person aus einer anderen Welt. Besitzt außerordentliche Attentatsfähigkeiten.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Eine geheimnisvolle Person aus einer anderen Welt. Besitzt außerordentliche Attentatsfähigkeiten.</span>
 
 
 ### Skin 2: **Revelations**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Nach zahllosen Toten und massenhaft Ruhm sind seine Schritte nicht mehr zögerlich.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Nach zahllosen Toten und massenhaft Ruhm sind seine Schritte nicht mehr zögerlich.</span>
 
  **Skin features:** 
 

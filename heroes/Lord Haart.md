@@ -3,12 +3,12 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart wurde getötet und wiederbelebt. Als General der Untotenarmee ist er jetzt noch stärker als zu Lebzeiten."
 heroID: 60401
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: de
 ref: "Lord Haart"
 toc: true
 ---
- **Description:** Lord Haart wurde getötet und wiederbelebt. Als General der Untotenarmee ist er jetzt noch stärker als zu Lebzeiten.
+ **Beschreibung:** Lord Haart wurde getötet und wiederbelebt. Als General der Untotenarmee ist er jetzt noch stärker als zu Lebzeiten.
 ## Details
  **Profession:** Todesritter
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Sorge
- **Description:** Belegt gegnerische Einheiten, außer Nekropolis, in einem großen Bereich mit <span style="color: #e07c44;font-size:20px">Niedriger Moral</span><span style="color: black"> und verringert ihr ANG-Tempo um {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)> %. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
+ **Beschreibung:** Belegt gegnerische Einheiten, außer Nekropolis, in einem großen Bereich mit <span style="color: #e07c44;font-size:20px">Niedriger Moral</span><span style="color: black"> und verringert ihr ANG-Tempo um {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)> %. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
 
 ### 3 Spell: Kleine Todeswelle
- **Description:** Fügt allen Einheiten, außer Nekropolis-Einheiten, <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu. Einheiten mit „Niedriger Moral“ erleiden 50 % mehr Schaden.
+ **Beschreibung:** Fügt allen Einheiten, außer Nekropolis-Einheiten, <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu. Einheiten mit „Niedriger Moral“ erleiden 50 % mehr Schaden.
 
 ### 4 Spell: Tötungsbefehl
- **Description:** Befiehlt Todesrittern, einmal einen <span style="color: #48b946;font-size:20px">Kritischen Schlag</span><span style="color: black"> zu verüben. Der Schaden erhöht sich dieses Mal um 20 %. Verringert die ABW des Ziels um {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Beschreibung:** Befiehlt Todesrittern, einmal einen <span style="color: #48b946;font-size:20px">Kritischen Schlag</span><span style="color: black"> zu verüben. Der Schaden erhöht sich dieses Mal um 20 %. Verringert die ABW des Ziels um {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Das Leben ist doch bloß ein Fluch! Der Tod ist ein Segen, den Ihr nicht begreift.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Das Leben ist doch bloß ein Fluch! Der Tod ist ein Segen, den Ihr nicht begreift.</span>
 
  **Skin features:** 
 
@@ -61,7 +61,7 @@ toc: true
 
 ### Skin 2: **Der Tod von Deyja**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Die Anhänger der Wahrheit fürchten den Tod nicht!</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Die Anhänger der Wahrheit fürchten den Tod nicht!</span>
 
  **Skin features:** 
 

@@ -3,12 +3,12 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte."
 heroID: 60502
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: de
 ref: "Vidomina"
 toc: true
 ---
- **Description:** Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte.
+ **Beschreibung:** Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte.
 ## Details
  **Profession:** Totenbeschwörer
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Nekromantie
- **Description:** Beschwört 9 Skelette der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> im Zielbereich. Die Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
+ **Beschreibung:** Beschwört 9 Skelette der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> im Zielbereich. Die Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
 
 ### 3 Spell: Tote beleben
- **Description:** Fügt gegnerischen Einheiten, außer Nekropolis-Fraktion, innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu und stellt LP von verbündeten Nekropolis-Einheiten um <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> wieder her.
+ **Beschreibung:** Fügt gegnerischen Einheiten, außer Nekropolis-Fraktion, innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu und stellt LP von verbündeten Nekropolis-Einheiten um <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> wieder her.
 
 ### 4 Spell: Untotenarmee
- **Description:** Beschwört so viele Skelette der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> im Zielbereich, wie sich gegnerische Einheiten darin befinden. Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
+ **Beschreibung:** Beschwört so viele Skelette der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> im Zielbereich, wie sich gegnerische Einheiten darin befinden. Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Der Tod ist wie ein Himmelskörper: Er zieht ganze Fluten von Knochen an, die alles umhüllen!</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Der Tod ist wie ein Himmelskörper: Er zieht ganze Fluten von Knochen an, die alles umhüllen!</span>
 
 
 ### Skin 2: **Zucker-Hexe**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Reine Seelen werden immer von Festen und Süßigkeiten angezogen.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Reine Seelen werden immer von Festen und Süßigkeiten angezogen.</span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Lehrling der Ketzerei**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Die meisten sehen nur die Hässlichkeit und das Chaos des Todes, doch ich sehe ewige Wahrheit.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Die meisten sehen nur die Hässlichkeit und das Chaos des Todes, doch ich sehe ewige Wahrheit.</span>
 
  **Skin features:** 
 

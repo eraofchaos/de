@@ -3,12 +3,12 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert."
 heroID: 60301
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: de
 ref: "Gelu"
 toc: true
 ---
- **Description:** Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert.
+ **Beschreibung:** Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert.
 ## Details
  **Profession:** Waldläufer
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Luftpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
 ### 2 Spell: Steinhaut
- **Description:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span><span style="color: black">, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Beschreibung:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span><span style="color: black">, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 3 Spell: Präzision
- **Description:** Gewährt verbündeten Einheiten in einem großen Bereich 100 % krit. Treffer und Präzision. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek.
+ **Beschreibung:** Gewährt verbündeten Einheiten in einem großen Bereich 100 % krit. Treffer und Präzision. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek.
 
 ### 4 Spell: Wahnsinn
- **Description:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und steigert <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang ihr ANG-Tempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %.
+ **Beschreibung:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und steigert <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang ihr ANG-Tempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %.
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Gelus Geschichte ist geheimnisumwoben. Das Einzige, das man sicher weiß, ist, dass er halb Elf ist und von daher wahrscheinlich Vori-Blut in sich trägt.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Gelus Geschichte ist geheimnisumwoben. Das Einzige, das man sicher weiß, ist, dass er halb Elf ist und von daher wahrscheinlich Vori-Blut in sich trägt.</span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Erkundungsteam**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Meisterschützen unter Gelus Kommando erfüllen die Herzen ihrer Feinde mit Furcht. Schon viele gegnerische Offiziere wurden von weit hinter der Front durch ihre Pfeile getötet.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Meisterschützen unter Gelus Kommando erfüllen die Herzen ihrer Feinde mit Furcht. Schon viele gegnerische Offiziere wurden von weit hinter der Front durch ihre Pfeile getötet.</span>
 
  **Skin features:** 
 
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Armageddonklinge**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Über die Verbrechen der Dämonen werde ich mit meinem scharfen Schwert urteilen.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Über die Verbrechen der Dämonen werde ich mit meinem scharfen Schwert urteilen.</span>
 
  **Skin features:** 
 
@@ -86,7 +86,7 @@ toc: true
 
 ### Skin 4: **Schwingen des Triumphes**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Das Böse darf nicht siegen! Die Allianz der Gerechtigkeit hat sich versammelt, um Luzifer Kreegans Invasion abzuwehren, und schwört, den Frieden in Erathia zu beschützen.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Das Böse darf nicht siegen! Die Allianz der Gerechtigkeit hat sich versammelt, um Luzifer Kreegans Invasion abzuwehren, und schwört, den Frieden in Erathia zu beschützen.</span>
 
  **Skin features:** 
 
@@ -96,7 +96,7 @@ toc: true
 
 ### Skin 5: **Frühlingsfest-Feierlichkeiten**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Die Ankunft des Frühlings verheißt ein glückliches neues Jahr. Das Festfeuerwerk feiert den Wandel der Jahreszeiten.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Die Ankunft des Frühlings verheißt ein glückliches neues Jahr. Das Festfeuerwerk feiert den Wandel der Jahreszeiten.</span>
 
  **Skin features:** 
 

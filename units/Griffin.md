@@ -1,0 +1,244 @@
+---
+title: "Greif"
+permalink: /units/Griffin/
+excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
+unitID: 103
+last_modified_at: 2021-02-22
+locale: de
+ref: "Greif"
+toc: true
+---
+## General information
+ **Beschreibung:** Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug.
+
+ **Klasse:** [Ansturm](/units/Unit Class Charging/)
+
+ **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
+
+ **Fraktion: ** [Schloss](/units/Faction Castle/)
+
+ **Race:** Tier
+
+ **Members:** [x9](/units/Unit Member x9/)
+
+ **Rank:** [SR](/units/Unit Rank SR/)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+
+ **Unit description:** Sturzflug: Fügt beim Angriff 3 gegnerischen Einheiten Schaden zu.
+
+ **Short description:** Lufteinheit. Unbegrenzte Gegenangriffe.
+
+ **Position :** Verursacht früh im Spiel Schadensspitzen. Führt häufig Gegenangriffe durch und verursacht Flächenschaden.
+
+ **Recommend:** Wenn du das Bewegungstempo erhöhst, werden deine Armeen deutlich effektiver.
+
+## Grundwerte
+ **Base HP: 1850.0**
+
+ **Base ATK: 151.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Grün | 75.7 | 6.25 | 1387.5 |
+  | Blau | 151.4 | 12.5 | 2775.0 |
+  | Blau +1 | 227.1 | 18.75 | 4162.5 |
+  | Blau +2 | 317.94 | 26.25 | 5827.5 |
+  | Lila | 408.78 | 33.75 | 7492.5 |
+  | Lila +1 | 499.62 | 41.25 | 9157.5 |
+  | Lila +2 | 605.6 | 50.0 | 11100.0 |
+  | Lila +3 | 711.58 | 58.75 | 13042.5 |
+  | Orange | 817.56 | 67.5 | 14985.0 |
+  | Orange +1 | 938.68 | 77.5 | 17205.0 |
+  | Orange +2 | 1059.8 | 87.5 | 19425.0 |
+  | Orange +3 | 1180.92 | 97.5 | 21645.0 |
+  | Orange +4 | 1302.04 | 107.5 | 23865.0 |
+  | Orange +5 | 1483.72 | 122.5 | 27195.0 |
+  | Rot | 1725.96 | 142.5 | 31635.0 |
+
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.5 | 3.13 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.53 | 3.75 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.55 | 4.38 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
+
+## Ausrüstung
+
+  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Sägekrallen](/equipment/Sägekrallen/) | **ANG** | **ABW** | 
+  | [Kopfschutz der Schnelligkeit](/equipment/Kopfschutz der Schnelligkeit/) | **LP** | **ABW** | 
+  | [Erzgreifenfeder](/equipment/Erzgreifenfeder/) | **ANG** | **ABW** | 
+  | [Wappen des Imperiums](/equipment/Wappen des Imperiums/) | **LP** | **ABW** | 
+
+## Empfohlene Heilige Embleme
+
+* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zeuge](/Emblem/Witness/) (Gut)
+
+## Kombinationsinfo
+
+* [Hohe Moral](/combination/Hohe Moral/) 
+
+
+## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimative Fähigkeit: Sturzangriff-Konter
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bei einem Angriff besteht eine Wahrscheinlichkeit, dass Greifen 3 Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügen. Der Standardangriff kann ebenfalls Sturzflug auslösen.</span><span style="color: black">
+
+### Gewöhnliche Fähigkeit 1 : Befehlsturm
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn sich Greifen auf dem Schlachtfeld befinden, steigt der ANG deiner fliegenden Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+### Gewöhnliche Fähigkeit 2 : Glorreicher Ansturm
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn Greifen den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">, genießen, steigt 15 Sek. lang ihr Bewegungstempo um 30, der Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Kritischer Treffer um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+### Gewöhnliche Fähigkeit 3 : Erzengel
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Greifen steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Greifen erhalten einen Zusatzbonus von 10 % auf ihre LP für jede verbündete Flugeinheit auf dem Schlachtfeld.</span><span style="color: black">
+
+### Fraktions-Spezialfähigkeit I : Belagerungskampf
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1.5+2.5)"
+    let str8 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*10+50"
+    let str6 = "LEVEL*5+25"
+    let str3 = "LEVEL*0.5+2.5"
+    let str4 = "LEVEL*1+5"
+    let str1 = "LEVEL*6+94"
+    let str2 = "LEVEL*1+9"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevanz
+### Kaderverbindung
+
+* **Schloss**  (Schloss-Kader)
+* **Ansturm**  (Ansturm-Kader)
+
+### Heldenbonus
+* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+
+## Talent
+
+* Angriff
+* LP
+* Schaden (Einheit)
+* SCHD-Reduzierung (Einheit)
+
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** NO
+
+ **Awaking Name:** null
+
+ **Awaking Beschreibung:** null
+
+### Awaking Tasks
+ 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+
+ 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+
+ 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+
+ 4. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe beim Meisterduell zu gewinnen.</span>
+
+## Awaken Skills
+
+### 1st Skill (or 2nd): Speerform.-Durchm.
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+
+### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+
+### 3rd Skill (or 4th): Dichte Formation
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+
+### 4th Skill (or 3rd): Gefeite Formation
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+
+### 5th Skill (or 6th): Infiltrationsstrat.
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+
+### 6th Skill (or 5th): Erschöpfungstaktik
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+
+## Technical info
+ **runart:** 1
+
+ **summon:** 1
+
+ **defshow:** 4.0
+
+ **Rush:** 2
+
+ **Speedattack:** 160
+
+ **Attack Show:** 6.0
+
+ **Attack Area:** 80
+
+ **Attack Range:** 300
+
+ **Attack Speed Show:** 6.0
+
+ **Defense Show:** 4.0
+
+ **Score:** 761
+
+ **HP Show:** 7
+
+ **disrdcvol:** 40
+
+ **Dead Type:** 1
+
+ **s:** 1
+
+ **label1:** 2
+
+ **speedmove:** 120
+
+ **posclass:** 3
+
+ **talk1:** Niemand entkommt meinem tödlichen Griff!
+
+ **talk2:** Möchtet Ihr Euch mit diesen Krallen anlegen?
+
+ **talk3:** Mich erwischt Ihr nie!
+

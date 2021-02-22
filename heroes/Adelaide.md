@@ -3,12 +3,12 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: de
 ref: "Adelaide"
 toc: true
 ---
- **Description:** Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte.
+ **Beschreibung:** Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte.
 ## Details
  **Profession:** Kleriker
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frostpfeil
- **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
+ **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
 ### 2 Spell: Eisstrahl
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> Wasserzauberschaden bei <span style="color: #e07c44;font-size:20px">verlangsamten Zielen.</span><span style="color: black">
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> Wasserzauberschaden bei <span style="color: #e07c44;font-size:20px">verlangsamten Zielen.</span><span style="color: black">
 
 ### 3 Spell: Eismauer
- **Description:** Beschwört 1 Eismauer, die gegnerische Einheiten in der Nähe {($olast11+$olast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">einfriert.</span><span style="color: black">
+ **Beschreibung:** Beschwört 1 Eismauer, die gegnerische Einheiten in der Nähe {($olast11+$olast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">einfriert.</span><span style="color: black">
 
 ### 4 Spell: Frostring
- **Description:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und lässt <span style="color: #e07c44;font-size:20px">verlangsamte</span><span style="color: black"> Ziele 5 Sek. lang <span style="color: #e07c44;font-size:20px">erstarren.</span><span style="color: black">
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und lässt <span style="color: #e07c44;font-size:20px">verlangsamte</span><span style="color: black"> Ziele 5 Sek. lang <span style="color: #e07c44;font-size:20px">erstarren.</span><span style="color: black">
 
 
 ## HERO Biography
@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Ich bin aus meinem Eisparadies zurückgekehrt, doch in der Welt sind Jahrzehnte vergangen.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Ich bin aus meinem Eisparadies zurückgekehrt, doch in der Welt sind Jahrzehnte vergangen.</span>
 
  **Skin features:** 
 
@@ -59,7 +59,7 @@ toc: true
 
 ### Skin 2: **Kämpfer-Champion**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Eine Heldin unter Helden und Champion der Arena! </span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Eine Heldin unter Helden und Champion der Arena! </span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Worli-Magierin**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Niemand hat je den Winter von Vori überlebt.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Niemand hat je den Winter von Vori überlebt.</span>
 
  **Skin features:** 
 
@@ -78,7 +78,7 @@ toc: true
 
 ### Skin 4: **Weihnachtslied**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Nach einem langen Jahr öffnen und verschließen wir unsere Herzen nur zu dieser Zeit.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Nach einem langen Jahr öffnen und verschließen wir unsere Herzen nur zu dieser Zeit.</span>
 
  **Skin features:** 
 
