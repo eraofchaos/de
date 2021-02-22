@@ -11,13 +11,13 @@ sidebar:
 ---
 
 {% capture notice-update20210216 %}
-** Client-Update ** (Version ** 142 (3100) **):
+**Client-Update** (Version **142 (3100)**):
 
 * Einige Tipps für das aktuelle Ereignis wurden korrigiert
 * 1 Zeichenfolge zu Lokalisierungsdateien hinzugefügt (Hauptauswirkung auf die Update-Größe)
 * Neue Kampfberechnung (Version 10124): Keine Änderungen auf der Clientseite, möglicherweise Korrekturen auf der Serverseite.
 
-** Wiki-Update **
+**Wiki-Update**
 
 [Fraktionsaltar für 2021] (https://eraofchaos.github.io/FactionAltar/) - Beende den Fraktionsaltar mit Drop-Einheiten / Seelen und Drop-Chance. Klicken Sie auf "Faction Altar Drop Details", um mehr zu sehen.
 
