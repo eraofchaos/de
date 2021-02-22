@@ -19,9 +19,9 @@ sidebar:
 
 **Wiki-Update**
 
-[Fraktionsaltar für 2021] (https://eraofchaos.github.io/FactionAltar/) - Beende den Fraktionsaltar mit Drop-Einheiten / Seelen und Drop-Chance. Klicken Sie auf "Faction Altar Drop Details", um mehr zu sehen.
+[Fraktionsaltar für 2021](https://eraofchaos.github.io/FactionAltar/) - Beende den Fraktionsaltar mit Drop-Einheiten / Seelen und Drop-Chance. Klicken Sie auf "Faction Altar Drop Details", um mehr zu sehen.
 
-Vielen Dank für Ihre Aktivität. Wir haben ** 3,6.000 Unique User **, ungefähr ** 30.000 Besucher pro Woche ** aus ** 86 Ländern **.
+Vielen Dank für Ihre Aktivität. Wir haben **3,600 Unique User**, ungefähr **30000 Besucher pro Woche** aus **86 Ländern**.
 Aufgrund technischer Einschränkungen bei Github (wir haben ungefähr 4000 Seiten im Wiki) sollten wir das Wiki für jede Sprache aufteilen. Danach werden die Sprachen DE / FR / RU / IT / ES auf den aktuellen Spielstatus aktualisiert.
 {% endcapture %}
 
