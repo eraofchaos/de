@@ -3,7 +3,7 @@ title: "Geist"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Geist"
 toc: true
@@ -160,7 +160,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Gespenst
 
@@ -184,16 +184,16 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unsichtbarkeit&gt;</span><span style="color: #645252;font-size:18px">Die Magieresistenz von Unsichtbarkeit wird verdoppelt. Wenn der Geist gegnerischen Zauberschaden erleidet, entfesselt er einen fatalen Segen, der die Schadensreduzierung verbündeter Nekropolis-Einheiten bis zum Ende der Schlacht um 10 % erhöht, bis 3 Stapel.</span>
 
 ### 3rd Skill (or 4th): Panikattacke
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Einheiten, die von Grauenhaftes Kreischen mit Stille belegt werden, erhalten für die Dauer der Stille einen Malus von 50 % auf ihre Magieresistenz.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px"> Einheiten, die von &lt;Grauenhaftes Kreischen&gt; mit Stille belegt werden, haben für die Dauer der Stille eine um 50 % reduzierte Magieresistenz und um 20 % reduzierten SCHD (Einheit).</span>
 
 ### 4th Skill (or 3rd): Meisterhaftes Kreischen
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px">Der Bonus auf Magieresistenz für verbündete Nekropolis-Einheiten in derselben Reihe wird 25 Sek. lang um 50 % erhöht.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px"> Magieresistenz für verbündete Nekropolis-Einheiten in derselben Reihe für die nächsten 25 Sek. um 50 % und SCHD (Einheit) um 20 % erhöht.</span>
 
 ### 5th Skill (or 6th): Quaky Soul
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 8 % reduziert, bis 20 Stapel. Der Effekt kann nicht gebannt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die ABW des Geists um 10 %. Wenn verbündete Helden einen Erdzauber wirken, stellt der Geist bei Helden 5 Mana wieder her, und die Erd-Magieresistenz und der SCHD (Einheit) aller gegnerischen Einheiten werden um 4 % bzw. 2 % verringert. Bis 20 Stapel. Effekte können nicht aufgehoben werden und dauern über die gesamte Schlacht an.</span>
 
 ### 6th Skill (or 5th): Grauenhaftes Schauspiel
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Erdzauber wirkt, stellt der Geist bei Helden 5 Mana wieder her, und die Magieresistenz aller gegnerischen Einheiten wird bis zum Ende der Schlacht um 16 % reduziert, bis 6 Stapel. Der Effekt kann nicht gebannt werden.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die ABW des Geists um 10 %. Wenn verbündete Helden einen Erdzauber wirken, stellt der Geist bei Helden 5 Mana wieder her, und die Erd-Magieresistenz und der SCHD (Einheit) aller Gegner werden um 8 % bzw. 4 % verringert. Bis 6 Stapel. Effekte können nicht aufgehoben werden und dauern über die gesamte Schlacht an.</span>
 
 ## Technical info
  **runart:** 0

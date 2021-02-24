@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die in jadegrüne Mäntel gekleideten Leprechauns waren einst Kinder des Waldes, die frei und ohne Sorgen unter dem Schutz des Weltenbaumes lebten. Doch die Kriegsfanfaren Erathias haben ihren Mut erweckt, den Weltenbaum zu beschützen."
 unitID: 909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Leprechaun"
 toc: true
@@ -196,10 +196,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Schwerer Schlag
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit um 3 %. Falls das Ziel den Status „Verbrennung“ hat, wird seine ABW ebenfalls um 2 % verringert. Jeder Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) des Ziels um 3 %. Falls das Ziel von „Verbrennung“ betroffen ist, wird seine ABW ebenfalls um 2 % verringert. Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
 
 ### 2nd Skill (or 1st): Direkter Hieb
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit um 3 %. Falls das Ziel den Status „Einfrieren“ hat, wird seine ABW ebenfalls um 2 % verringert. Jeder Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) des Ziels um 3 %. Falls das Ziel von „Erstarren“ betroffen ist, wird seine ABW ebenfalls um 2 % verringert. Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
 
 ### 3rd Skill (or 4th): Glückszahl
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> Das Stapeln für die eigenen Fähigkeitseffekte des Leprechauns wird um 5 – 12 Stapel erhöht.</span>

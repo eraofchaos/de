@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Regnanpirat"
 toc: true
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** König der Piraten
 
- **Awaking Beschreibung:** 
+ **Awaking Beschreibung:** Lichtet den Anker und setzt die Segel! Reißt alles in Stücke! Plündert und erobert alles! Verwandelt die Meere in einen Spielplatz!
 
 ### Awaking Tasks
  1. 

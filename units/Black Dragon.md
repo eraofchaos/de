@@ -3,7 +3,7 @@ title: "Schwarzer Drache"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Schwarzer Drache"
 toc: true

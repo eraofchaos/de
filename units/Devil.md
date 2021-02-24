@@ -3,7 +3,7 @@ title: "Teufel"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
 unitID: 507
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Teufel"
 toc: true
@@ -100,7 +100,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 1 : Grausame Folter
  **Beschreibung:** <span style="color: #645252;font-size:20px">Fügt 3 zufälligen gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Kritischer Treffer steigt gegen Einheiten mit </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> um 500.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 2 : Verdorren
+### Gewöhnliche Fähigkeit 2 : Withering
  **Beschreibung:** <span style="color: #645252;font-size:20px">Solange ein Teufel auf dem Schlachtfeld ist, fügt er allen gegnerischen Einheiten alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP als Schaden zu.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Seelentod

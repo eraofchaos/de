@@ -3,7 +3,7 @@ title: "Regnanseherin"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen."
 unitID: 9907
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Regnanseherin"
 toc: true
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Gezeitenelementar
 
- **Awaking Beschreibung:** 
+ **Awaking Beschreibung:** Lichtet den Anker und setzt die Segel! Reißt alles in Stücke! Plündert und erobert alles! Verwandelt die Meere in einen Spielplatz!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Setze Naga und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Turm-Einheiten ein, um die Stufe Kämpe oder höher von Drachenutopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Mal zu bestehen. (Überfälle zählen nicht für die Mission.)</span>

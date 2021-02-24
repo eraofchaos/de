@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan ist der älteste Schwiegersohn von König Tralossk und steht in der Thronfolge an zweiter Stelle. Er wartet auf den Tag, an dem er den Thron besteigen kann."
 heroID: 61504
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Wystan"
 toc: true
@@ -41,7 +41,7 @@ toc: true
  **Beschreibung:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span><span style="color: black">, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 4 Spell: Morast
- **Beschreibung:** Beschwört einen Morast am bestimmten Ort, der das ANG-Tempo verbündeter Festung-Einheiten in einem äußerst großen Bereich um <span style="color: #e07c44;font-size:20px">10 %</span><span style="color: black"> erhöht, im Sekundentakt ihre LP entsprechend <span style="color: #e07c44;font-size:20px">3 %</span><span style="color: black"> ihrer max. LP wiederherstellt, das ANG-Tempo gegnerischer Einheiten, außer fliegenden Einheiten, um <span style="color: #e07c44;font-size:20px">30 %</span><span style="color: black"> und deren Bewegungstempo um <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> verringert. Dauer: {($olast11+$olast12*($sklevel-1))/1000} Sek.
+ **Beschreibung:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: #e07c44;font-size:20px">10%</span><span style="color: black"> and restore HP by <span style="color: #e07c44;font-size:20px">3%</span><span style="color: black"> of their Max HP every second; reduces ATK speed by <span style="color: #e07c44;font-size:20px">30%</span><span style="color: black"> and movement speed by <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
 
 
 ## HERO Biography

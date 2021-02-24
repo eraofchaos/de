@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Unit Rank SR"
 toc: false
@@ -48,7 +48,7 @@ classes: wide
   | 34 | [Regnanpirat](/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  König der Piraten  |
   | 35 | [Dendroidenwache](/units/Dendroid Guard/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Dendroidensoldat  |
   | 36 | [Sturmelementar](/units/Storm Elemental/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Blitzgewitter  |
-  | 37 | [Geist](/units/Wight/) | Zauberer | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
+  | 37 | [Geist](/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
   | 38 | [Einhorn](/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Kriegseinhorn  |
   | 39 | [Eiselementar](/units/Ice Elemental/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  Stiller Schneegeist  |
   | 40 | [Wyvern](/units/Wyvern/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 500.0 | 5544 |  Wyvernkönig  |

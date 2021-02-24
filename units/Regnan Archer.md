@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Regnanbogensch."
 toc: true
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Beschreibung:** 
+ **Awaking Beschreibung:** Die Piratinnen mit ihren glutroten Augen erfüllen die Männer mit Angst und Schrecken. Narren und Ignoranten verfallen ihrem Charme, während all jene, die mit wahrer Intelligenz gesegnet sind, niemals ihre Blicke kreuzen.
 
 ### Awaking Tasks
  1. 

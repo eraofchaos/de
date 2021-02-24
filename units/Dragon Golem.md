@@ -1,9 +1,9 @@
 ---
 title: "Drachengolem"
 permalink: /units/Dragon Golem/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die ultimative Erfindung der Zwergenschmiede: Jede Kompofffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Die verfaulten, finsteren Knochen bedeuten für manche das Ende, doch für den Geist sind sie Wiege und Brutstätte seiner Wiedergeburt. Die Sporen seiner Schwingen, die beißende Kälte seiner Krallen und sein trauervolles Gebrüll lassen selbst den Tod erschaudern.[-]"
+excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Drachengolem"
 toc: true
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Beschreibung:** Die ultimative Erfindung der Zwergenschmiede: Jede Kompofffff,fontsize=20,outlinecolor=3c1e0aff,outlinesize=1]Die verfaulten, finsteren Knochen bedeuten für manche das Ende, doch für den Geist sind sie Wiege und Brutstätte seiner Wiedergeburt. Die Sporen seiner Schwingen, die beißende Kälte seiner Krallen und sein trauervolles Gebrüll lassen selbst den Tod erschaudern.[-]
+ **Beschreibung:** The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power.
 
  **Klasse:** [Abwehr](/units/Unit Class Defense/)
 

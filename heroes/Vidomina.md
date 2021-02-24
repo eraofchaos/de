@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte."
 heroID: 60502
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Vidomina"
 toc: true

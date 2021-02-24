@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Gog"
 toc: true
@@ -95,7 +95,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimative Fähigkeit: Feuerwand
+### Ultimative Fähigkeit: Fire Wall
  **Beschreibung:** <span style="color: #645252;font-size:20px">Die Gog beschwört vor sich eine Feuerwand, die gegnerischen Einheiten, die von ihr umgeben sind, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Die Feuerwand bleibt 8 Sek. lang bestehen.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Flammende Explosion

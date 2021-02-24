@@ -3,7 +3,7 @@ title: "Oger"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Oger"
 toc: true

@@ -3,7 +3,7 @@ title: "Mumie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
 unitID: 308
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Mumie"
 toc: true

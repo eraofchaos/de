@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "index.md"
 toc: false
@@ -43,7 +43,7 @@ classes: wide
   | 21 | [Erzmagier](/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Erzmagier  |
   | 22 | [Feuerelementar](/units/Fire Elemental/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  Energieelementar  |
   | 23 | [Feuervogel](/units/Firebird/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 848.5 | 4525 |  Phönix  |
-  | 24 | [Geist](/units/Wight/) | Zauberer | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
+  | 24 | [Geist](/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
   | 25 | [Giftbrut](/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 26 | [Gigant](/units/Giant/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titan  |
   | 27 | [Gnoll](/units/Gnoll/) | Offensiv | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |

@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Betrachter"
 toc: true

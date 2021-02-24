@@ -2,7 +2,7 @@
 title: "Kampfformation INTERNAL"
 permalink: /Battle Formation/Battle Formation internal
 excerpt: "Kampfformation.Jede Fraktion hat eigene Potenziale und Energie. Lass die exklusive Kampfformation aufleuchten, um deine latente Kraft zu aktivieren."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "index.md"
 toc: false

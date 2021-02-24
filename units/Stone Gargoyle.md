@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
 unitID: 602
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Stone Gargoyle"
 toc: true

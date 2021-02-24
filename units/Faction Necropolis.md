@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Faction Necropolis"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | [Dunkler Kämpe](/units/Dark Champion/) | Offensiv | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |   -   |
   | 3 | [Skelett](/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skelettkrieger  |
   | 4 | [Wandelnde Tote](/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombie  |
-  | 5 | [Geist](/units/Wight/) | Zauberer | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
+  | 5 | [Geist](/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
   | 6 | [Vampir](/units/Vampire/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Vampirlord  |
   | 7 | [Schwarzer Ritter](/units/Black Knight/) | Ansturm | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  Schattenritter  |
   | 8 | [Lich](/units/Lich/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Todes-Lich  |

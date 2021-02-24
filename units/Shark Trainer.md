@@ -3,7 +3,7 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
@@ -68,7 +68,7 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Stahlsäbel](/equipment/Stahlsäbel/) | **ANG** | **ABW** | 
+  | [Steel Scimitar](/equipment/Steel Scimitar/) | **ANG** | **ABW** | 
   | [Schutzriemen](/equipment/Schutzriemen/) | **LP** | **ABW** | 
   | [Schutzhandschuhe](/equipment/Schutzhandschuhe/) | **ANG** | **ABW** | 
   | [Haizügel](/equipment/Haizügel/) | **LP** | **ABW** | 

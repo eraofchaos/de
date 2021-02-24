@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Wyvern"
 toc: true

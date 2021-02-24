@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Stille"
 permalink: /combination/Silence/
 excerpt: "Kombinationsinfo - Stille. Units and Heroes Formation."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Stille.md"
 toc: false

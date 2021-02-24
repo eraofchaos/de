@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Unit Member x9"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
   | 17 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
   | 18 | [Skelett](/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skelettkrieger  |
   | 19 | [Wandelnde Tote](/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombie  |
-  | 20 | [Geist](/units/Wight/) | Zauberer | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
+  | 20 | [Geist](/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
   | 21 | [Druidin](/units/Druid/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Erzdruide  |
   | 22 | [Goblin](/units/Goblin/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  Hobgoblin  |
   | 23 | [Wolfsreiter](/units/Wolf Rider/) | Ansturm | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  Wolfskrieger  |

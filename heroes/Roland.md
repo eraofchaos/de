@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn."
 heroID: 60103
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: de
 ref: "Roland"
 toc: true
