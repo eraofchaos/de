@@ -104,28 +104,29 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn sich der Eisdämon auf dem Schlachtfeld befindet, erleiden gegnerische Abwehr-Einheiten mit mehr als 50 % LP alle 3 Sekunden Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der max. LP. Dieser Effekt verstärkt sich um 30 % bei Einheiten, die mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">Frostbiss</span><span style="color: black"><span style="color: #645252;font-size:20px"> belegt sind.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Wenn der Eisdämon gegen Einheiten kämpft, die mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">Erstarren<span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Frostbiss</span><span style="color: black"><span style="color: #645252;font-size:20px"> oder </span><span style="color: black"><span style="color: #48b946;font-size:20px">Zeitstopp</span><span style="color: black"><span style="color: #645252;font-size:20px"> belegt sind, fügt er alle 3 Sekunden zusätzlichen Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seines eigenen ANG zu.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Während der Eisdämon auf dem Schlachtfeld ist, wird alle 3 Sekunden ein Urteil gefällt, wonach das Angriffstempo aller gegnerischen Einheiten mit weniger als 50 % LP um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> verringert wird. Außerdem besteht eine Chance von 10 %, dass sie mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">Frostbiss</span><span style="color: black"><span style="color: #645252;font-size:20px"> belegt werden.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Herrscher des Eises
- **Beschreibung:** <span style="color: #645252;font-size:20px">Eisdämon und Einheiten – außer Festung – in einem großen Radius des Eisdämons werden immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">Erstarren</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">Zeitstopp</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Alle 13 Sekunden gewährt der Eisdämon verbündeten Fernkampf-/Zauberer-Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Kristallrüstung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> und erhöht ihre SCHD-Reduzierung (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt kann nicht entfernt oder gestapelt werden, dauert 6 Sekunden und verschwindet, wenn die Einheit 5 Mal Schaden erlitten hat. Für den Eisdämon verdoppelt sich die Anzahl der Male.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Eisdämon und Einheiten – außer Festung – in einem großen Radius des Eisdämons werden immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">Erstarren</span><span style="color: black"><span style="color: #645252;font-size:20px"> und </span><span style="color: black"><span style="color: #48b946;font-size:20px">Zeitstopp</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Alle 13 Sekunden gewährt der Eisdämon verbündeten Fernkampf-/Zauberer-Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Kristallrüstung&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> und erhöht so ihre SCHD-Reduzierung (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die SCHD-Reflexion um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt kann nicht entfernt oder gestapelt werden, dauert 6 Sekunden und verschwindet, wenn die Einheit 5 Mal Schaden erlitten hat. Für den Eisdämon verdoppelt sich die Anzahl der Male.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Elementare Affinität
- **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten beherrschen die arkane Konflux-Magie und erhöhen die Magieresistenz von Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Offensive Elemente
- **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Konflux-Einheiten greifen mit der Macht der Elemente an. Wenn sie gegen Einheiten kämpfen, die nicht zum Konflux gehören, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 6 : Frostdomäne
- **Beschreibung:** <span style="color: #645252;font-size:20px"> Werden 3 Konflux-Einheiten eingesetzt, erhöhen sich SCHD (Einheit) des Eisdämons um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 Sekunden nach Beginn der Schlacht bildet sich die </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Frostdomäne&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne existiert 15 Sekunden lang. Danach wird die Domäne alle 30 Sekunden ausgelöst.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px"> Werden 3 Konflux-Einheiten eingesetzt, erhöhen sich SCHD (Einheit) des Eisdämons um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 Sekunden nach Beginn der Schlacht bildet sich die </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Frostdomäne&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne existiert 15 Sekunden lang. Danach wird die Domäne alle 30 Sekunden ausgelöst.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
+    let str20 = "LEVEL*2+5"
     let str7 = "LEVEL*0.7+4.5"
     let str8 = "LEVEL*5+25"
     let str5 = "LEVEL*0.7+4.5"
-    let str18 = "LEVEL*2+4"
+    let str18 = "(LEVEL*1.5)"
     let str6 = "LEVEL*5+25"
-    let str19 = "LEVEL*2+5"
+    let str19 = "LEVEL*2+4"
     let str3 = "LEVEL*1+15"
     let str4 = "LEVEL*0.5+12.5"
     let str1 = "LEVEL*5+45"
@@ -134,13 +135,14 @@ toc: true
     let str13 = "LEVEL*3+10"
     let str10 = "LEVEL*0.2+1.8"
     let str11 = "LEVEL*0.5+23.5"
-    let str16 = "(LEVEL*3+15)"
-    let str17 = "(LEVEL*1.5)"
+    let str16 = "LEVEL*2+2"
+    let str17 = "(LEVEL*3+15)"
     let str9 = "LEVEL*1.5+22.5"
     let str14 = "LEVEL*1+10"
     let str15 = "LEVEL*5+25"
     let res="ERR";
     try {
+     res = eval(str20); document.getElementById('str20').textContent = res;
      res = eval(str7); document.getElementById('str7').textContent = res;
      res = eval(str8); document.getElementById('str8').textContent = res;
      res = eval(str5); document.getElementById('str5').textContent = res;
@@ -202,7 +204,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe beim Meisterduell zu gewinnen.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -210,10 +212,10 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>

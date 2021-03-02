@@ -2,14 +2,14 @@
 title: "Era of Chaos - Heilendes Meer - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Heilendes Meer. List of ALL Heilendes Meer questions with correct answers"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "healingSea"
 toc: false
 classes: wide
 ---
 
-#### <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
+#### <span style="color: #3c2a1e;font-size:22px">Ereignisregeln</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
    <span style="color: #3c2a1e">1. Während des Ereignisses würfeln Spieler, um tolle Belohnungen zu erhalten.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">2. Feldbelohnungen werden jedes Mal aktualisiert, wenn du den Startpunkt passierst.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">3. Während des Ereignisses kannst du jeden Tag kostenlose Würfelwürfe erhalten. Sobald du deine kostenlosen Würfelwürfe aufgebraucht hast, kannst du weitere kaufen. Die Würfe werden am Tag darauf zurückgesetzt.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
@@ -26,7 +26,7 @@ classes: wide
 
  -  Ein kleines unauffälliges Token. Wer weiß, ob es sich als nützlich erweist ... (reward one from below)
 
-    1.  **500x Seelenstein** (Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen.) 
+    1.  **500x Seelenstein ** (Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen.) 
 
     2.  **3x Lila Kristall** (Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten stark verbessern. Gibt beim Benutzen 450 Einheiten-ERF.) 
 
@@ -65,7 +65,7 @@ classes: wide
 
 ##### 2. Das Feuer anfachen oder das Feuer löschen, _________. 
 
-   **Title:**  Das Feuer anfachen oder löschen.
+   **Title:** Das Feuer anfachen oder löschen.
 
    **Question:** Das Feuer anfachen oder das Feuer löschen, _________.
 
@@ -93,7 +93,7 @@ classes: wide
 
 ##### 4. Wollen wir einen Schneemann bauen? 
 
-   **Title:**  Schneemann
+   **Title:** Schneemann
 
    **Question:** Wollen wir einen Schneemann bauen?
 
@@ -107,7 +107,7 @@ classes: wide
 
 ##### 5. Der Zentaur und der Minotaurus machen einen Liegstütz-Wettbewerb. Wer gewinnt? 
 
-   **Title:**  Liegestütze
+   **Title:** Liegestütze
 
    **Question:** Der Zentaur und der Minotaurus machen einen Liegstütz-Wettbewerb. Wer gewinnt?
 
@@ -119,11 +119,11 @@ classes: wide
 
 ---
 
-##### 6. Who looks more likely to interrupt an adventurer's adventure? 
+##### 6. Wer wird wahrscheinlicher das Abenteuer eines Abenteurers unterbrechen? 
 
-   **Title:**  Alter Abenteurer
+   **Title:** Alter Abenteurer
 
-   **Question:** Who looks more likely to interrupt an adventurer's adventure?
+   **Question:** Wer wird wahrscheinlicher das Abenteuer eines Abenteurers unterbrechen?
 
    **Correct Answer:** **B. Meisterschütze** 
 
@@ -133,11 +133,11 @@ classes: wide
 
 ---
 
-##### 7. Who died and then destroyed the ice wall? 
+##### 7. Wer starb und zerstörte dann die Eismauer? 
 
-   **Title:**  Nekromantie des untoten Königs
+   **Title:** Nekromantie des untoten Königs
 
-   **Question:** Who died and then destroyed the ice wall?
+   **Question:** Wer starb und zerstörte dann die Eismauer?
 
    **Correct Answer:** **B. Goldener Drache** 
 
@@ -149,7 +149,7 @@ classes: wide
 
 ##### 8. Mut, Glaube und ________! 
 
-   **Title:**  Motto
+   **Title:** Motto
 
    **Question:** Mut, Glaube und ________!
 
@@ -163,7 +163,7 @@ classes: wide
 
 ##### 9. Das Inferno ist leer und alle ________ sind hier. 
 
-   **Title:**  Engel und Dämonen
+   **Title:** Engel und Dämonen
 
    **Question:** Das Inferno ist leer und alle ________ sind hier.
 
@@ -177,7 +177,7 @@ classes: wide
 
 ##### 10. Trickst du mich einmal aus, Schande über dich. Trickst du mich zweimal aus, _______. 
 
-   **Title:**  Tricks mich aus
+   **Title:** Tricks mich aus
 
    **Question:** Trickst du mich einmal aus, Schande über dich. Trickst du mich zweimal aus, _______.
 

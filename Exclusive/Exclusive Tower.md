@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gremlin](/units/Gremlin/) | [Langbogen](/Exclusive/Gremlin Long Bow/) | - | Aufladung | - | - |
-  | 2  | [Stone Gargoyle](/units/Stone Gargoyle/) | [Schwert](/Exclusive/Stone Gargoyle Sword/) | - | Aufladung | - | - |
+  | 2  | [Stein-Wasserspeier](/units/Stone Gargoyle/) | [Schwert](/Exclusive/Stone Gargoyle Sword/) | - | Aufladung | - | - |
   | 3  | [Eisengolem](/units/Iron Golem/) | [Irisschild](/Exclusive/Iron Golem Iris Shield/) | - | Aufladung | - | - |
   | 4  | [Erzmagier](/units/Arch Mage/) | [Arkangesang](/Exclusive/Arch Mage Arcane Chant/) | - | Aufladung | - | - |
   | 5  | [Dschinn](/units/Genie/) | [Lyra](/Exclusive/Genie Lyra/) | - | Fernkampf | - | - |
-  | 6  | [Naga](/units/Naga/) | [Nagaschwert](/Exclusive/Naga Naga Sword/) | - | Unterstützung | - | - |
+  | 6  | [Naga](/units/Naga/) | [Nagaschwert](/Exclusive/Naga Naga Sword/) | + | Unterstützung | - | - |
   | 7  | [Gigant](/units/Giant/) | [Tausend Tonnen](/Exclusive/Giant Thousand Ton/) | - | Unterstützung | - | - |
   | 8  | [Magisches Luftschiff](/units/Magic Airship/) | [Polaris](/Exclusive/Magic Airship Polaris/) | - | Fernkampf | - | - |
   | 9  | [Drachengolem](/units/Dragon Golem/) | - | - | - | none | none |

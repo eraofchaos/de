@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Pikenier](/units/Pikeman/) | [Schwert](/Exclusive/Pikeman Sword/) | - | Aufladung | - | - |
-  | 2  | [Scharfschütze](/units/Marksman/) | [Langbogen](/Exclusive/Marksman Long Bow/) | + | Aufladung | - | - |
-  | 3  | [Greif](/units/Griffin/) | [Ehrenansturm](/Exclusive/Griffin Knight Pike/) | - | Aufladung | - | - |
+  | 2  | [Scharfschütze](/units/Marksman/) | [Langbogen](/Exclusive/Marksman Long Bow/) | - | Aufladung | - | - |
+  | 3  | [Greif](/units/Griffin/) | [Ritterpike](/Exclusive/Griffin Knight Pike/) | - | Aufladung | - | - |
   | 4  | [Schwertkämpfer](/units/Swordsman/) | [Irisschild](/Exclusive/Swordsman Iris Shield/) | - | Aufladung | - | - |
-  | 5  | [Mönch](/units/Monk/) | [Arkangesang](/Exclusive/Monk Arcane Chant/) | + | Aufladung | - | - |
-  | 6  | [Kavallerist](/units/Cavalier/) | [Ehrenansturm](/Exclusive/Cavalier Knight Pike/) | + | Aufladung | - | - |
-  | 7  | [Engel](/units/Angel/) | [Durendal](/Exclusive/Angel Durandel/) | + | Unterstützung | - | - |
+  | 5  | [Mönch](/units/Monk/) | [Arkangesang](/Exclusive/Monk Arcane Chant/) | - | Aufladung | - | - |
+  | 6  | [Kavallerist](/units/Cavalier/) | [Ritterpike](/Exclusive/Cavalier Knight Pike/) | + | Aufladung | - | - |
+  | 7  | [Engel](/units/Angel/) | [Durendal](/Exclusive/Angel Durandel/) | - | Unterstützung | - | - |
   | 8  | [Paladin](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Unterstützung | - | - |
   | 9  | [Richterin](/units/Judicator/) | [](/Exclusive/Judicator /) | - | Hauptstadt | - | - |

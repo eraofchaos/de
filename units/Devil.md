@@ -109,7 +109,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 1 : Grausame Folter
  **Beschreibung:** <span style="color: #645252;font-size:20px">Fügt 3 zufälligen gegnerischen Einheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Kritischer Treffer steigt gegen Einheiten mit </span><span style="color: black"><span style="color: #e07c44;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> um 500.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 2 : Withering
+### Gewöhnliche Fähigkeit 2 : Verdorren
  **Beschreibung:** <span style="color: #645252;font-size:20px">Solange ein Teufel auf dem Schlachtfeld ist, fügt er allen gegnerischen Einheiten alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> seiner max. LP als Schaden zu.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Seelentod

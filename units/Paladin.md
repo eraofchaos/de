@@ -72,7 +72,7 @@ toc: true
   | [Richterschwert](/equipment/Richterschwert/) | **ANG** | **ABW** | 
   | [Schwurhelm](/equipment/Schwurhelm/) | **LP** | **ABW** | 
   | [Eiserner Schulterschutz](/equipment/Eiserner Schulterschutz/) | **ANG** | **ABW** | 
-  | [Forged Bracers](/equipment/Forged Bracers/) | **LP** | **ABW** | 
+  | [Geschmiedeter Armschutz](/equipment/Geschmiedeter Armschutz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
@@ -111,7 +111,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 2 : Ansporn
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der Paladin ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Niedrige Moral&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Paladin verleiht sich und verbündeten Einheiten in hoher Reichweite </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> und 500 Krit. Treffer. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 3 : Innocent Domain
+### Gewöhnliche Fähigkeit 3 : Domäne der Unschuld
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der Paladin ist immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Krankheit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Erhöht die Schadensreduzierung aller verbündeten Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, solange er auf dem Schlachtfeld ist.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf

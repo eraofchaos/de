@@ -74,6 +74,12 @@ toc: true
 
 ## Exklusiv
 
+ **Name:** [Düstere Gezeiten](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 
@@ -100,7 +106,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 1 : Eiskalte Flosse
  **Beschreibung:** <span style="color: #645252;font-size:20px">Immun gegen den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Erstarren&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Zeitstopp&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sowie gegen Wasserzauberschaden. Für jede eingesetzte Bucht-Einheit steigt der Schaden der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und Krit. Treffer erhöhen sich um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn Revyaratan eingesetzt ist, erhalten alle verbündeten Einheiten eine Erhöhung von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> für SCHD (Einheit), Angriffstempo und Krit. Schaden. Für Bucht-Einheiten erhöht sich dieser Effekt zusätzlich um 2,5 %.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 2 : Skeleton Covet
+### Gewöhnliche Fähigkeit 2 : Skelettgier
  **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Markiert 2 gegnerische Einheiten zu Beginn des Kampfes. Markierte Einheiten erleiden eine Reduktion von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des Angriffstempos, Krit. SCHD und SCHD-Reduzierung (Einheit). Sie können nach ihrem ersten Tod außerdem nicht durch Engelsfähigkeiten wiederbelebt werden. &lt;Wildes Maul&gt; hat eine Chance von 30 % auf Wiederherstellung von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der eigenen max. LP.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Die unbezähmbare Strömung
@@ -109,7 +115,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Pirate Conflict
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
   <script language="JavaScript">

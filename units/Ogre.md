@@ -17,7 +17,7 @@ toc: true
 
  **Fraktion:** [Burg](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Barbar
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -202,13 +202,13 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px">Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der Effekt wird verdoppelt, solange &lt;Amoklauf&gt; aktiv ist.</span>
 
 ### 4th Skill (or 3rd): Aufrüttelndes Kriegslied
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in &lt;Rampage&gt; state</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Amoklauf&gt;</span><span style="color: #645252;font-size:18px"> Die Schadensreduzierung des Ogers wird um 20 % erhöht. Der ANG wird auf 200 % des ANGs der vorherigen Fähigkeit erhöht, solange &lt;Amoklauf&gt; aktiv ist.</span>
 
 ### 5th Skill (or 6th): Uralte Woge
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 150 % des Effekts der vorherigen Fähigkeit erhöht.</span>
 
 ### 6th Skill (or 5th): Schutz des Patriarchen
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftheilung&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt bleibt auch nach dem Tod des Ogers aktiv.</span>
 
 ## Technical info
  **runart:** 1

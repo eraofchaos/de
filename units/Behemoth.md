@@ -180,7 +180,7 @@ toc: true
 
  **Awaking Name:** Ur-Behemoth
 
- **Awaking Beschreibung:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
+ **Awaking Beschreibung:** Er herrscht über zahlreiche wilde Kreaturen. Niemand, der auf Erden wandelt, verbreitet mehr Schrecken. Auch riesige Kreaturen sind machtlos gegen ihn. Die Stärke anderer Kreaturen ist für ihn bedeutungslos. Die Berge zollen ihm ebenfalls Tribut, denn er ist der König der unbarmherzigen Wildnis.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Setze Behemoth und mindestens </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Burg-Einheiten ein, um die Stufe Kämpe oder höher von Drachenutopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Mal zu bestehen. (Überfälle zählen nicht für die Mission.)</span>

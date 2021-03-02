@@ -74,7 +74,7 @@ toc: true
 
 ## Exklusiv
 
- **Name:** [Ehrenansturm](/Exclusive/Sprite Knight Pike/) 
+ **Name:** [Ritterpike](/Exclusive/Sprite Knight Pike/) 
 
  **Item to Rangaufstieg:** -
 
@@ -107,7 +107,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht die Pixie-Einheit die Magieresistenz aller verbündeten Einheiten in ihrem Weg um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt wird für die Pixie-Einheit verdoppelt.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Inspiration
- **Beschreibung:** <span style="color: #645252;font-size:20px">When Sprite units are on the battlefield, it increases friendly heroes' basic mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Solange eine Pixie-Einheit auf dem Schlachtfeld ist, erhöht sie das Anfangsmana verbündeter Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Hingabe
  **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn eine Pixie-Einheit getötet wird, lässt sie die Zieleinheit </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verstummen“</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -179,7 +179,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe beim Meisterduell zu gewinnen.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -187,10 +187,10 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>

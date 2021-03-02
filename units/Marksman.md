@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Schlägt zweimal zu. Effektiv gegen große Einheiten.
 
- **Position :** Deal colossal burst damage and a double strike. Most effective against large units.
+ **Position :** Verursacht kolossale Schadensspitzen und verfügt über Doppelschlag. Besonders effektiv gegen große Einheiten.
 
  **Recommend:** Krieger, Magier und Priester ergänzen sich gut.
 
@@ -120,7 +120,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Defense Resonance
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

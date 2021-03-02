@@ -18,7 +18,7 @@ classes: wide
   | 4 | [Gremlin](/units/Gremlin/) | Fernkampf | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |   -   |
   | 5 | [Eisengolem](/units/Iron Golem/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Goldgolem  |
   | 6 | [Meerelementar](/units/Sea Elemental/) | Zauberer | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  Gezeitenelementar  |
-  | 7 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 7 | [Stein-Wasserspeier](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 8 | [Pikenier](/units/Pikeman/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  Hellebardenträger  |
   | 9 | [Scharfschütze](/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Meisterbogenschütze  |
   | 10 | [Harpyie](/units/Harpy/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
@@ -26,9 +26,9 @@ classes: wide
   | 12 | [Greif](/units/Griffin/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
   | 13 | [Betrachter](/units/Beholder/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  Böses Auge  |
   | 14 | [Zentaur](/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Zentaurenführer  |
-  | 15 | [Gnoll](/units/Gnoll/) | Offensiv | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 15 | [Gnoll](/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnollkrieger  |
   | 16 | [Zwerg](/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
-  | 17 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 17 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Großelf  |
   | 18 | [Skelett](/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skelettkrieger  |
   | 19 | [Wandelnde Tote](/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombie  |
   | 20 | [Geist](/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |

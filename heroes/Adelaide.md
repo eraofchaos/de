@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Adelaide"
 toc: true
@@ -67,13 +67,13 @@ toc: true
    - Brandneues Kampfbild
    - Einzigartiger Avatar
 
-### Skin 3: **Worli-Magierin**
+### Skin 3: **Vori-Magierin**
 
  **Beschreibung:** <span style="color: #ffffff;font-size:20px">Niemand hat je den Winter von Vori überlebt.</span>
 
  **Skin features:** 
 
-   - Worli-Magierin
+   - Vori-Magierin
    - Einzigartiger Avatar
 
 ### Skin 4: **Weihnachtslied**

@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon wird von vielen seiner Ältesten als magisches Wunderkind betrachtet. Sein Lebensziel ist es, der mächtigste Drachentöter der Welt zu werden."
 heroID: 61202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Dracon"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Beschreibung:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
 
 ### 4 Spell: Klonen
- **Beschreibung:** Copy 1 of friendly units to fight in the battlefield. It has <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> of the original unit's ATK and takes {($duplidmg11+$duplidmg12*($sklevel-1))}% more damage. Lasts for 30s.
+ **Beschreibung:** Kopiert 1 eigene Einheit. Sie verfügt über <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))} %</span><span style="color: black"> des ANG der Originaleinheit und erleidet {($duplidmg11+$duplidmg12*($sklevel-1))} % mehr Schaden. Dauer: 30 Sek.
 
 
 ## HERO Biography

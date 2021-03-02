@@ -73,7 +73,7 @@ toc: true
   |:-------------|:-------------:|:------------:|
   | [Kriegsaxt der Wildnis](/equipment/Kriegsaxt der Wildnis/) | **ANG** | **ABW** | 
   | [Helm der Wildnis](/equipment/Helm der Wildnis/) | **LP** | **ABW** | 
-  | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ANG** | **ABW** | 
+  | [Panzerhandschuhe der Wildnis](/equipment/Panzerhandschuhe der Wildnis/) | **ANG** | **ABW** | 
   | [Schulterschutz der Wildnis](/equipment/Schulterschutz der Wildnis/) | **LP** | **ABW** | 
 
 ## Exklusiv

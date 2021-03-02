@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Hochmut"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Hochmut. Hochmut. Era of Chaos Heiliges Emblem Hochmut. Era of Chaos Chaos Hochmut"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Arrogance.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Hochmut](/Emblem/Arrogance/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +2, ABW +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den Schaden eingesetzter Einheiten um 3 %, wenn sie gegen ein Ziel mit mehr als 50 % LP kämpfen.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +6, ABW +0,2 %</span> | 
   | [Hochmut](/Emblem/Arrogance/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +6, ABW +0,3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den Schaden eingesetzter Einheiten um 6 %, wenn sie gegen ein Ziel mit mehr als 50 % LP kämpfen.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +16, ABW +0,7 %</span> | 
-  | [Hochmut](/Emblem/Arrogance/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +13, ABW +0,5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den Schaden eingesetzter Einheiten um 12 %, wenn sie gegen ein Ziel mit mehr als 50 % LP kämpfen.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +30, DEF +1.5%</span> | 
+  | [Hochmut](/Emblem/Arrogance/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +13, ABW +0,5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den Schaden eingesetzter Einheiten um 12 %, wenn sie gegen ein Ziel mit mehr als 50 % LP kämpfen.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +30, ABW +1,5 %</span> | 
   | [Hochmut](/Emblem/Arrogance/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +20, ABW +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den Schaden eingesetzter Einheiten um 20 %, wenn sie gegen ein Ziel mit mehr als 50 % LP kämpfen.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +55, ABW +2 %</span> | 
 
   |         Beschreibung            | 

@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "index.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 9 |  **10x** SSR-Seelenstein-Auswahlpaket(Wähle nach dem Öffnen einen der SSR-Seelensteine.) |  **3000x** Schekel  | **5** |
   | 10 |  **10x** Schillernde Perle(Kann gegen seltene Einheiten-Seelensteine getauscht werden.) |  **1250x** Schekel  | **7** |
   | 11 |  **1x** „Oranges Heiliges Emblem“-Auswahlpaket(Wähle nach dem Öffnen eines der orangen Heiligen Embleme.) |  **2500x** Schekel  | **6** |
-  | 12 |  **5x** Mehrfachwahl- Formstein-Paket(Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1) |  **880x** Schekel  | **6** |
+  | 12 |  **5x** Mehrfachwahl- Formstein-Paket(Gewährt eines der folgenden zur Auswahl: guter, rechtschaffener, neutraler, böser oder chaotischer Formstein ×1.) |  **880x** Schekel  | **6** |
   | 13 |  **1x** Staubige Schatzkarte(Eine eintausend Jahre alte, empfindliche Karte. Der Legende sagt enthüllt sie ein unglaubliches Geheimnis. Zum Entdecken von Schätzen auf der Gildenkarte.) |  **1250x** Schekel  | **2** |
   | 14 |  **1x** Alte Karte(Eine alte Karte, auf der offenbar ein Schatz eingezeichnet ist. Zum Entdecken von Schätzen auf der Gildenkarte.) |  **500x** Schekel  | **3** |
   | 15 |  **50x** Talenttrank-Zutaten(Die Zutaten für einen Talenttrank. Gewährt nach dem Mischen einen Talenttrank für eine zufällige Einheit.) |  **180x** Schekel  | **10** |

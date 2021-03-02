@@ -2,7 +2,7 @@
 title: "Kampfformation Nekropolis"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "Kampfformation Nekropolis"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionNecropolis"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **Necropolis units will receive an increase of 5% unit damage when against units in Low Morale** |
+  | **2** | **Wenn Nekropolis-Einheiten Einheiten mit „Niedriger Moral“ gegenüberstehen, erhöht sich der Einheitenschaden gegen sie um 5 %.** |
   | **3** | **Erhöht die LP aller Nekropolis-Einheiten um 8 %.** |
   | **4** | **Erhöht die ABW aller Nekropolis-Einheiten um 8 %.** |
   | **5** | **Erhöht den KRIT. SCHD aller verbündeten Nekropolis-Einheiten 6 Sekunden lang um 12 %, wenn ein verbündeter Held einen Erdzauber wirkt.** |

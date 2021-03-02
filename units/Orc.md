@@ -189,7 +189,7 @@ toc: true
 
  3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Ork-Seelen im Untergrund: Stufen 14-2 and 14-4.</span>
 
- 4. <span style="color: #876741;font-size:18px">Deploy Orc with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Stronghold units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #876741;font-size:18px">Setze einen Ork und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Burg-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 

@@ -1,6 +1,6 @@
 ---
 title: "Exklusiv - Medusas Bogen"
-permalink: /Exclusive/Medusa Medusa's bow/
+permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Medusas Bogen. Medusas Bogen. Era of Chaos Exklusiv Medusas Bogen. Medusa Exklusiv."
 last_modified_at: 2021-03-02
 locale: de

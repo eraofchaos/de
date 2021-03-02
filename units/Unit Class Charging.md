@@ -17,7 +17,7 @@ classes: wide
   | 3 | [Hai-Ausbilder](/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Hai-Reiter  |
   | 4 | [Harpyie](/units/Harpy/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
   | 5 | [Greif](/units/Griffin/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
-  | 6 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 6 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Heldenhafte Ritter  |
   | 7 | [Mantikor](/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Skorpikor  |
   | 8 | [Pixie](/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 9 | [Einhorn](/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Kriegseinhorn  |

@@ -155,7 +155,7 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Tower**  (Turm-Kader)
+* **Turm**  (Turm-Kader)
 * **Abwehr**  (Abwehr-Kader)
 
 ### Heldenbonus

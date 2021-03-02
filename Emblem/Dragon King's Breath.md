@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Odem des Drachenkönigs"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Odem des Drachenkönigs. Odem des Drachenkönigs. Era of Chaos Heiliges Emblem Odem des Drachenkönigs. Era of Chaos Böse Odem des Drachenkönigs"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Dragon King's Breath.md"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | [Odem des Drachenkönigs](/Emblem/Dragon King's Breath/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +1,5, „Heiliges Emblem“-ABW +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn eingesetzte Einheiten den Status &lt;Erstarren&gt;, &lt;Betäubung&gt; oder &lt;Versteinerung&gt; haben, werden 2 % ihrer LP wiederhergestellt. AKZ 10 Sek.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +4, „Heiliges Emblem“-ABW +4</span> | 
   | [Odem des Drachenkönigs](/Emblem/Dragon King's Breath/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +4,5, „Heiliges Emblem“-ABW +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn eingesetzte Einheiten den Status &lt;Erstarren&gt;, &lt;Betäubung&gt; oder &lt;Versteinerung&gt; haben, werden 4 % ihrer LP wiederhergestellt. AKZ 10 Sek.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +11,5, „Heiliges Emblem“-ABW +11,5</span> | 
   | [Odem des Drachenkönigs](/Emblem/Dragon King's Breath/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +9, „Heiliges Emblem“-ABW +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn eingesetzte Einheiten den Status &lt;Erstarren&gt;, &lt;Betäubung&gt; oder &lt;Versteinerung&gt; haben, werden 6 % ihrer LP wiederhergestellt. AKZ 10 Sek.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +22,5, „Heiliges Emblem“-ABW +22,5</span> | 
-  | [Odem des Drachenkönigs](/Emblem/Dragon King's Breath/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +15, „Heiliges Emblem“-ABW +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;frozen, stunned, or petrified&gt;, their HP is restored by 10%. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +37,5, „Heiliges Emblem“-ABW +37,5</span> | 
+  | [Odem des Drachenkönigs](/Emblem/Dragon King's Breath/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +15, „Heiliges Emblem“-ABW +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn eingesetzte Einheiten den Status &lt;Erstarren&gt;, &lt;Betäubung&gt; oder &lt;Versteinerung&gt; haben, werden 10 % ihrer LP wiederhergestellt. AKZ 10 Sek.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +37,5, „Heiliges Emblem“-ABW +37,5</span> | 
 
   |         Beschreibung            | 
   |:-------------------------------|

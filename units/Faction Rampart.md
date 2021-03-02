@@ -16,7 +16,7 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
   | 1 | [Zentaur](/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Zentaurenführer  |
   | 2 | [Zwerg](/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
-  | 3 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 3 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Großelf  |
   | 4 | [Pegasus](/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Silberpegasus  |
   | 5 | [Dendroidenwache](/units/Dendroid Guard/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Dendroidensoldat  |
   | 6 | [Grüner Drache](/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  Goldener Drache  |

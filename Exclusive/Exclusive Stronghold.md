@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Goblin](/units/Goblin/) | [Schwert](/Exclusive/Goblin Sword/) | - | Aufladung | - | - |
-  | 2  | [Wolfsreiter](/units/Wolf Rider/) | [Ehrenansturm](/Exclusive/Wolf Rider Knight Pike/) | - | Aufladung | - | - |
+  | 2  | [Wolfsreiter](/units/Wolf Rider/) | [Ritterpike](/Exclusive/Wolf Rider Knight Pike/) | - | Aufladung | - | - |
   | 3  | [Ork](/units/Orc/) | [Langbogen](/Exclusive/Orc Long Bow/) | - | Aufladung | - | - |
   | 4  | [Oger](/units/Ogre/) | [Irisschild](/Exclusive/Ogre Iris Shield/) | - | Aufladung | - | - |
   | 5  | [Roc](/units/Roc/) | [Arkangesang](/Exclusive/Roc Arcane Chant/) | - | Aufladung | - | - |
-  | 6  | [Zyklop](/units/Cyclops/) | [Langbogen](/Exclusive/Cyclops Long Bow/) | - | Aufladung | - | - |
+  | 6  | [Zyklop](/units/Cyclops/) | [Langbogen](/Exclusive/Cyclops Long Bow/) | + | Aufladung | - | - |
   | 7  | [Behemoth](/units/Behemoth/) | [Blutrünstiger Geist](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Unterstützung | - | - |
   | 8  | [Berserker](/units/Berserker/) | [Berserkeraxt](/Exclusive/Berserker Berserker's Axe/) | - | Unterstützung | - | - |
   | 9  | [Troll](/units/Troll/) | - | - | - | none | none |

@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodyt](/units/Troglodyte/) | [Schwert](/Exclusive/Troglodyte Sword/) | - | Aufladung | - | - |
-  | 2  | [Harpyie](/units/Harpy/) | [Ehrenansturm](/Exclusive/Harpy Knight Pike/) | - | Aufladung | - | - |
+  | 2  | [Harpyie](/units/Harpy/) | [Ritterpike](/Exclusive/Harpy Knight Pike/) | - | Aufladung | - | - |
   | 3  | [Betrachter](/units/Beholder/) | [Dunkler Blick](/Exclusive/Beholder Dark Gaze/) | - | Fernkampf | - | - |
-  | 4  | [Medusa](/units/Medusa/) | [Medusas Bogen](/Exclusive/Medusa Medusa's bow/) | - | Fernkampf | - | - |
+  | 4  | [Medusa](/units/Medusa/) | [Medusas Bogen](/Exclusive/Medusa Medusa's Bow/) | - | Fernkampf | - | - |
   | 5  | [Minotaurus](/units/Minotaur/) | [Irisschild](/Exclusive/Minotaur Iris Shield/) | - | Aufladung | - | - |
-  | 6  | [Mantikor](/units/Manticore/) | [Skorpionschwanz](/Exclusive/Manticore Scorpion tail/) | - | Fernkampf | - | - |
+  | 6  | [Mantikor](/units/Manticore/) | [Skorpionschwanz](/Exclusive/Manticore Scorpion Tail/) | + | Fernkampf | - | - |
   | 7  | [Schwarzer Drache](/units/Black Dragon/) | [Schwarze Drachenschuppe](/Exclusive/Black Dragon Black Dragon's Scale/) | - | Unterstützung | - | - |
-  | 8  | [Roter Drache](/units/Red Dragon/) | - | - | - | none | none |
+  | 8  | [Roter Drache](/units/Red Dragon/) | [Auslöschung](/Exclusive/Red Dragon Annihilation/) | - | Unterstützung | - | - |
   | 9  | [Böse Zauberin](/units/Evil Sorceress/) | - | - | - | none | none |

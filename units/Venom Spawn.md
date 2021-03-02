@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Seelen-Diebstahl für eine Wende im Match. Zum Sterben geboren.
 
- **Position :** 
+ **Position :** Seelen-Diebstahl für eine Wende im Match. Zum Sterben geboren.
 
 ## Grundwerte
  **Base HP: 13350.0**

@@ -107,7 +107,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der Efreet wirkt einen Feuersturm auf einen Zielbereich, der allen gegnerischen Truppen dort </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt und 15 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Verbrennung“</span><span style="color: black"><span style="color: #645252;font-size:20px"> verursacht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Flammenschild
- **Beschreibung:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erschafft der Efreet einen &lt;Feuerschild&gt; für alle verbündeten Inferno-Einheiten, der </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang 15 % des erlittenen Schadens reflektiert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Glühend heiß
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der &lt;Feuerschild&gt; des Efreet erhöht die Schadensreduzierung der Einheit um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Magieresistenz um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -208,7 +208,7 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuergott&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo des Efreet wird erhöht um 5 % für jede Inferno-Einheit auf dem Schlachtfeld.</span>
 
 ### 6th Skill (or 5th): Zaubergeflecht
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">Efreeti's ATK speed will be increased by 5% for every Caster Unit on the battlefield</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuergott&gt;</span><span style="color: #645252;font-size:18px">Das Angriffstempo des Efreet wird erhöht um 5 % für jede Zauberer-Einheit auf dem Schlachtfeld.</span>
 
 ## Technical info
  **runart:** 0

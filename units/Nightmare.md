@@ -169,7 +169,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Beschreibung:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
+ **Awaking Beschreibung:** Aus dem Reich der Träume kommend und die Lava auf dem Weg in die Welt der Lebenden überquerend, ist sein Körper von einer schrecklichen Aura umgeben. Die Flammen, die er ausatmet, verbrennen alles zu Asche, und geschmolzenes, heißes Magma fließt durch seine Venen. Wenn er angreift, sind selbst die tapfersten aller Krieger durch ihre Angst geschwächt und haben Mühe, ihre Schwerter zu heben und gegen ihn zu kämpfen.
 
 ### Awaking Tasks
  1. 

@@ -2,7 +2,7 @@
 title: "Kampfformation Bucht"
 permalink: /Battle Formation/Battle Formation Faction Cove internal
 excerpt: "Kampfformation Bucht"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionCove"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
   | **3** | **Erhöht die LP aller Bucht-Einheiten um 8 %.** |
   | **4** | **Erhöht die ABW aller Bucht-Einheiten um 8 %.** |
   | **5** | **Für jede zusätzlich aufgestellte Bucht-Einheit erhöht sich die Schadensreduzierung von Bucht-Einheiten um 3 %.** |
-  | **6** | **Increases 10% ATK for all Cove Units** |
+  | **6** | **Erhöht den ANG aller Bucht-Einheiten um 10 %.** |
   | **7** | **Erhöht die Einheitenmagieresistenz aller Bucht-Einheiten um 10 %.** |
   | **8** | **Für jede zusätzlich aufgestellte Bucht-Einheit erhöht sich der ANG von Bucht-Einheiten um 8 %.** |
   | **9** | **Erhöht das Angriffstempo aller Bucht-Einheiten um 4 %.** |

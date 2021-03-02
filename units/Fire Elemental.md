@@ -197,7 +197,7 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird der ANG zweier zufälliger Offensiv-Einheiten 10 Sek. lang um 50 % erhöht, ihr Lebensentzug um 10 %.</span>
 
 ### 4th Skill (or 3rd): Elementare Raserei
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Has a 30% chance to unleash &lt;Heavenly Fire&gt; on 1 random hostile unit when the friendly hero casts a fire spell</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px">Wenn ein verbündeter Held einen Feuerzauber wirkt, wird mit einer Wahrscheinlichkeit von 30 % &lt;Himmelsfeuer&gt; auf eine zufällige gegnerische Einheit gewirkt.</span>
 
 ### 5th Skill (or 6th): Fluch der tosenden Flamme
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Feuerenergie-Übertragung&gt;</span><span style="color: #645252;font-size:18px">Die Boni werden verdoppelt, die Stapel bleiben wie gehabt.</span>

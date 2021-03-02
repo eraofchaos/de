@@ -156,7 +156,7 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Tower**  (Turm-Kader)
+* **Turm**  (Turm-Kader)
 * **Offensiv**  (Offensiv-Kader)
 
 ### Heldenbonus
@@ -206,7 +206,7 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt 3 Sek. lang Immunität gegen Zauberschaden.</span>
 
 ### 6th Skill (or 5th): Magiedurchdrungene Klinge
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt der Einheit 6 Sek. lang 30 % Bonusschaden.</span>
 
 ## Technical info
  **runart:** 1

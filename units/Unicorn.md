@@ -77,7 +77,7 @@ toc: true
 
 ## Exklusiv
 
- **Name:** [Ehrenansturm](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Ritterpike](/Exclusive/Unicorn Knight Pike/) 
 
  **Item to Rangaufstieg:** -
 
@@ -92,7 +92,7 @@ toc: true
 
 ## Kombinationsinfo
 
-* [Blind](/combination/Blind/) 
+* [Blindheit](/combination/Blindheit/) 
 * [Schild](/combination/Schild/) 
 
 

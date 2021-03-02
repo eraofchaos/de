@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Höhere Reichweite bei „Schnelles Schneiden“.
 
- **Position :** 
+ **Position :** Höhere Reichweite bei „Schnelles Schneiden“.
 
 ## Grundwerte
  **Base HP: 6336.0**

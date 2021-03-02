@@ -19,7 +19,7 @@ classes: wide
   | 3 | [Greif](/units/Griffin/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
   | 4 | [Schwertkämpfer](/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Kreuzritter  |
   | 5 | [Mönch](/units/Monk/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Zelot  |
-  | 6 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 6 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Heldenhafte Ritter  |
   | 7 | [Paladin](/units/Paladin/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Oberster Paladin  |
   | 8 | [Engel](/units/Angel/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Erzengel  |
   | 9 | [Richterin](/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |   -   |

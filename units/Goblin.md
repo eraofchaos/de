@@ -74,7 +74,7 @@ toc: true
   | [Stachelknüppel](/equipment/Stachelknüppel/) | **ANG** | **ABW** | 
   | [Ledergürtel](/equipment/Ledergürtel/) | **LP** | **ABW** | 
   | [Knochenkette](/equipment/Knochenkette/) | **ANG** | **ABW** | 
-  | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **LP** | **ABW** | 
+  | [Lederner Schulterschutz](/equipment/Lederner Schulterschutz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
@@ -109,7 +109,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 1 : Amoklauf
  **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Goblins steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die LP des Goblins unter 35 % sinken, wird der Effekt verdoppelt. Bleibt auch dann aktiv, wenn die LP wieder geheilt werden.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 2 : Execution
+### Gewöhnliche Fähigkeit 2 : Hinrichtung
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bei Angriffen auf eine Einheit, die weniger als 30 % ihrer LP hat, steigt der ANG des Goblins um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Blutdurst
@@ -198,7 +198,7 @@ toc: true
 ### 3rd Skill (or 4th): Waffengeschick
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:18px">Der ANG des Goblins wird um zusätzliche 150 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
 
-### 4th Skill (or 3rd): Unarmed Counter
+### 4th Skill (or 3rd): Waffenloser Konter
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:20px">Der Schaden des Goblins wird um 30 % erhöht, wenn er Ziele mit weniger als 30 % LP angreift.</span>
 
 ### 5th Skill (or 6th): Blutdurst-Spezialität

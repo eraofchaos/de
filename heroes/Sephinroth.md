@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, die einzige bekannte Zauberin Antagarichs soll angeblich die uneheliche Tochter von König Greifenherz sein."
 heroID: 61402
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Sephinroth"
 toc: true
@@ -51,6 +51,16 @@ toc: true
 
  **Beschreibung:** <span style="color: #ffffff;font-size:20px">Ich bin die Prinzessin aus der Prophezeiung!</span>
 
+
+### Skin 2: **Kämpfer-Champion**
+
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Eine Heldin unter Helden und Champion der Arena!</span>
+
+ **Skin features:** 
+
+   - Arena-Meisterin
+   - Brandneues Kampfbild
+   - Einzigartiger Avatar
 
 
 ## Initial Mastery

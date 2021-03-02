@@ -68,12 +68,18 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Steel Scimitar](/equipment/Steel Scimitar/) | **ANG** | **ABW** | 
+  | [Stahlsäbel](/equipment/Stahlsäbel/) | **ANG** | **ABW** | 
   | [Schutzriemen](/equipment/Schutzriemen/) | **LP** | **ABW** | 
   | [Schutzhandschuhe](/equipment/Schutzhandschuhe/) | **ANG** | **ABW** | 
   | [Haizügel](/equipment/Haizügel/) | **LP** | **ABW** | 
 
 ## Exklusiv
+
+ **Name:** [Wellen brechen](/Exclusive/Shark Trainer Break Waves/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
 
 
 ## Empfohlene Heilige Embleme
@@ -104,12 +110,12 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der Hai-Ausbilder erhält eine Verstärkung seines SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Sterben Ziel-Einheiten von Hai-Ausbilder und Hai, erhalten Hai-Ausbilder und Hai </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Krit. Treffer und </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Krit. SCHD und sie stellen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP wieder her. Dieser Buff hält den gesamten Kampf lang an und kann bis zu 3 Mal gestapelt werden. Greifen Hai-Ausbilder und sein Hai 9-Mann-Einheiten an, werden 3 Einheiten gleichzeitig attackiert und nehmen Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des Angriffs des Hai-Ausbilders. Der Angriff von 1- oder 4-Mann-Einheiten erhöht ihren SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str21"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihr Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str22"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Alle 20 Sekunden lässt der Hai-Ausbilder den Hai Ziele verschlingen, sodass sie 3 Sekunden lang unfähig sind, sich zu bewegen, anzugreifen oder Fähigkeiten zu wirken. Außerdem erleiden sie Schaden in Höhe von 30 % ihrer max. LP.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Blutiges Messer – Herrschaft
- **Beschreibung:** <span style="color: #645252;font-size:20px">Shark Trainer casts &lt;Bloodied Knife&gt;, every 8s dealing damage to targeted units equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str23"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">  of Shark Trainer's Attack as well as reducing their Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str24"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str25"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 5s. Also grants Shark Trainer 1 stack of the &lt;Bloodied Knife&gt; buff, increasing Shark Trainer's Unit DMG by 15% and Attack Speed by 10% for every stack. When Shark Trainer has 3 stacks of the &lt;Bloodied Knife&gt; buff, casting &lt;Bloodied Knife&gt; buff will remove all &lt;Bloodied Knife&gt; buffs and deal damage to targeted units equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str26"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Shark Trainer's Attack.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Hai-Ausbilder wirkt &lt;Blutiges Messer&gt; und fügt den Zielen alle 8 Sekunden </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str23"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Außerdem reduziert dies 5 Sekunden lang ihren SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str24"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und das Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str25"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gewährt dem Hai-Ausbilder 1 Stapel des Buffs &lt;Blutiges Messer&gt;, was den SCHD (Einheit) des Hai-Ausbilders um 15 % und das Angriffstempo um 10 % pro Stapel  erhöht. Hat der Hai-Ausbilder 3 Stapel des Buffs &lt;Blutiges Messer&gt;, entfernt das Wirken von &lt;Blutiges Messer&gt; alle &lt;Blutiges Messer&gt;-Buffs und fügt den Zielen Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str26"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des Angriffs des Hai-Ausbilders zu.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str27"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Pirate Conflict
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str28"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
   <script language="JavaScript">

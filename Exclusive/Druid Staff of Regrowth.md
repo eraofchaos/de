@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Fernkampf
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1560
 

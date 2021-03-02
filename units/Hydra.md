@@ -106,7 +106,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Es besteht die Chance, dass die Hydra nach einem Angriff einen Kopfstoß 1, 2, 3 oder 4 Mal ausführt und dabei jedes Mal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Die Chance auf einen weiteren Kopfstoß erhöht sich jeweils um 60 %, 40 %, 30 % oder 10 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Seuchendominanz
- **Beschreibung:** <span style="color: #645252;font-size:20px">For every Fortress unit deployed, Hydra's unit's damage increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Hydra's Crit Hit will be increased by another 100 for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Für jede eingesetzte Festung-Einheit steigt der Schaden der Hydra um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Zusätzlich steigt Kritischer Treffer der Hydra um 100 für jeden Debuff auf dem Ziel, bis zu 5 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Verfolgungsbiss
  **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn das Ziel ihrem Angriff ausweicht, greift die Hydra ein weiteres Mal erneut an und verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Sobald der Verfolgungsbiss ausgelöst wurde, erzielt sie innerhalb von 3 Sek. einen garantierten kritischen Treffer.</span><span style="color: black">
@@ -114,7 +114,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Beschreibung:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Rise of Vitality
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -125,7 +125,7 @@ toc: true
     let str7 = "(LEVEL*0.3+1)"
     let str5 = "(LEVEL*1+7)"
     let str6 = "(LEVEL*300+2000)"
-    let str3 = "(LEVEL*0.1+3.9)"
+    let str3 = "LEVEL*10+90"
     let str4 = "LEVEL*2+200"
     let str1 = "(LEVEL*0.5+2.5)"
     let str2 = "(LEVEL*1+59)"
@@ -169,7 +169,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Chaos-Hydra
+ **Awaking Name:** Chaoshydra
 
  **Awaking Beschreibung:** Die Ur-Hydras schlafen in den Tiefen der Sümpfe und sind die ältesten Kreaturen in der Gegend. Ihre riesigen Körper sind mit Moos bedeckt, was ihnen dabei hilft, mit ihrer dunklen Umgebung zu verschmelzen, wodurch viele, die den Fehler machen, sich in ihr Reich zu begeben, ihre Gegenwart übersehen. Doch die lautlose Gefahr ist da und man kann nur noch beten, dass sie nicht aufwachen.
 
@@ -187,7 +187,7 @@ toc: true
 ### 1st Skill (or 2nd): Todesnebel
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Chaosnebel&gt;</span><span style="color: #645252;font-size:18px"> Fügt gegnerischen Einheiten, die von dem Nebel betroffen sind, pro Sekunde Schaden in Höhe von 1,5 % der max. LP zu. Wirkt zudem einmal &lt;Chaosnebel&gt; auf gegnerische Einheiten in einem großen Radius in der Nähe und stellt pro Sekunde 1,5 % der eigenen max. LP wieder her.</span>
 
-### 2nd Skill (or 1st): Chaosnebel
+### 2nd Skill (or 1st): Tumultnebel
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Chaosnebel&gt;</span><span style="color: #645252;font-size:18px"> Verringert den SCHD (Einheit) gegnerischer Einheiten, die von dem Nebel betroffen sind, um 25 %, verringert das Angriffstempo gegnerischer Einheiten in einem großen Radius in der Nähe um 20 % und erhöht den eigenen Krit. Gesamt-SCHD um 20 %.</span>
 
 ### 3rd Skill (or 4th): Durchbohrender Kopfstoß

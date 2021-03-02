@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Grottenteufel](/units/Pit Fiend/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Foltermeister  |
   | 7 | [Eisengolem](/units/Iron Golem/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Goldgolem  |
   | 8 | [Efreet](/units/Efreeti/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  Efreetsultan  |
-  | 9 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 9 | [Stein-Wasserspeier](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 10 | [Erzmagier](/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Erzmagier  |
   | 11 | [Harpyie](/units/Harpy/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
   | 12 | [Greif](/units/Griffin/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
@@ -28,7 +28,7 @@ classes: wide
   | 14 | [Zwerg](/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 15 | [Minotaurus](/units/Minotaur/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Minotaurenkönig  |
   | 16 | [Echsenmensch](/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 17 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 17 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Großelf  |
   | 18 | [Schlangenfliege](/units/Serpent Fly/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 19 | [Pegasus](/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Silberpegasus  |
   | 20 | [Regnanpirat](/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  König der Piraten  |

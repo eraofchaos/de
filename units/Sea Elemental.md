@@ -108,7 +108,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 1 : Geschenk der Flut
  **Beschreibung:** <span style="color: #645252;font-size:20px">Sobald er das Schlachtfeld betritt, erzeugt der Meerelementar einen </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Eisschild&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> für verbündete Einheiten in seinem Weg. Der Meereselementar </span><span style="color: black"><span style="color: #48b946;font-size:20px">„verlangsamt“</span><span style="color: black"><span style="color: #645252;font-size:20px"> Angreifer. Der Schild bleibt </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. bestehen.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 2 : Tidal Rite
+### Gewöhnliche Fähigkeit 2 : Ritual der Gezeiten
  **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erzeugt der Meerelementar einen Kreis, der seine LP um <span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"> erhöht. Die Heilung gegnerischer Einheiten wird während des ganzen Kampfes alle 2 Sek. um 1 % reduziert.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Abgrundkäfig
@@ -117,7 +117,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Pirate Conflict
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -203,7 +203,7 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt 3 Sek. lang Immunität gegen Zauberschaden.</span>
 
 ### 6th Skill (or 5th): Magiedurchdrungene Klinge
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magisches Erwachen&gt;</span><span style="color: #645252;font-size:18px">Gewährt der Einheit 6 Sek. lang 30 % Bonusschaden.</span>
 
 ## Technical info
  **runart:** 0

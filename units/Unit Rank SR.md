@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Grottenteufel](/units/Pit Fiend/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Foltermeister  |
   | 10 | [Eisengolem](/units/Iron Golem/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Goldgolem  |
   | 11 | [Efreet](/units/Efreeti/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  Efreetsultan  |
-  | 12 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 12 | [Stein-Wasserspeier](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 13 | [Erzmagier](/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Erzmagier  |
   | 14 | [Regnanschlange](/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 15 | [Nachtmahr](/units/Nightmare/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |    |
@@ -39,8 +39,8 @@ classes: wide
   | 25 | [Minotaurus](/units/Minotaur/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Minotaurenkönig  |
   | 26 | [Magisches Luftschiff](/units/Magic Airship/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |
   | 27 | [Echsenmensch](/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 28 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
-  | 29 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 28 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Heldenhafte Ritter  |
+  | 29 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Großelf  |
   | 30 | [Schlangenfliege](/units/Serpent Fly/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 31 | [Mantikor](/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Skorpikor  |
   | 32 | [Pegasus](/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Silberpegasus  |

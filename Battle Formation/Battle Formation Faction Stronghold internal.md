@@ -2,7 +2,7 @@
 title: "Kampfformation Burg"
 permalink: /Battle Formation/Battle Formation Faction Stronghold internal
 excerpt: "Kampfformation Burg"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionStronghold"
 toc: false
@@ -46,11 +46,11 @@ classes: wide
   | 4 | Stronghold - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
   | 5 | Stronghold - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Goblin](/units/Goblin) |
   | 6 | Stronghold - Physical Trials | LP + **0.9** % | 70 |   |
-  | 7 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Orc](/units/Orc) |
+  | 7 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Ork](/units/Orc) |
   | 8 | Stronghold - Physical Trials | LP + **0.9** % | 70 |   |
-  | 9 | Stronghold - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Orc](/units/Orc) |
+  | 9 | Stronghold - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Ork](/units/Orc) |
   | 10 | Stronghold - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 11 | Stronghold - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Orc](/units/Orc) |
+  | 11 | Stronghold - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Ork](/units/Orc) |
   | 12 | Stronghold - Storm Assaulter | ANG + **0.9** % | 70 |   |
   
 
@@ -71,10 +71,10 @@ classes: wide
   | 10 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Wolfsreiter](/units/Wolf Rider) |
   | 11 | Stronghold - Physical Trials | LP + **1** % | 80 |   |
   | 12 | Stronghold - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 13 | Stronghold - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Orc](/units/Orc) |
+  | 13 | Stronghold - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Ork](/units/Orc) |
   | 14 | Stronghold - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 15 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 16 | Stronghold - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Orc](/units/Orc) |
+  | 16 | Stronghold - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Ork](/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | ANG + **1** % | 80 |   |
   

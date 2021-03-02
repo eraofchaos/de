@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Catherine ist die Königin von Erathia und deshalb gezwungen, Krieg zu führen, um das Königreich ihres Vaters zu beschützen. Sie wird bis zum finalen Showdown der Armageddonklinge kämpfen."
 heroID: 60102
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Catherine"
 toc: true
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Königliche Hochzeit**
 
- **Beschreibung:** <span style="color: #ffffff;font-size:20px">I hope our union will bring peace to the nation and happiness to our people. </span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Ich hoffe, unser Bund wird dem Land Frieden und unserem Volk Zufriedenheit bringen.</span>
 
  **Skin features:** 
 
@@ -92,7 +92,7 @@ toc: true
 
    - Großzügige Gastgeberin
    - Brandneues Heldendesign
-   - Unique avatar
+   - Einzigartiger Avatar
 
 ### Skin 5: **Schwingen des Triumphes**
 

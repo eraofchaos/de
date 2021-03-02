@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Explosiver Blitz
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Entfesselter Blitz&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt den Fähigkeitenschaden.</span>
 
-### 5th Skill (or 6th): Conflux Aura
+### 5th Skill (or 6th): Konflux-Aura
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kraft der Elemente&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 10 Sekunden lang das Angriffstempo bei zwei zufälligen Einheiten der hinteren Reihe um 25 %, wenn ein Held einen Luftzauber wirkt.</span>
 
 ### 6th Skill (or 5th): Konflux-Explosion

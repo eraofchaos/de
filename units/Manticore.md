@@ -74,7 +74,7 @@ toc: true
 
 ## Exklusiv
 
- **Name:** [Skorpionschwanz](/Exclusive/Manticore Scorpion tail/) 
+ **Name:** [Skorpionschwanz](/Exclusive/Manticore Scorpion Tail/) 
 
  **Item to Rangaufstieg:** -
 
@@ -103,7 +103,7 @@ toc: true
 ### Ultimative Fähigkeit: Paralysierendes Gift
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der Mantikor greift das Ziel alle 20 Sek. an und fügt dem Ziel und Gegnern in einem gewissen Radius um das Ziel </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zu. Außerdem wird die ABW dieser Einheiten 10 Sek. lang um 30 % reduziert.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 1 : Tactical Decision
+### Gewöhnliche Fähigkeit 1 : Taktische Entscheidung
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff des Mantikors reduziert mit 25 % Wahrscheinlichkeit die Schadensreduzierung von Nahkampfeinheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Gegen Fernkampf-/Zauberer-Einheiten besteht eine Wahrscheinlichkeit von 25 %, dass Kritischer Treffer verbündeter Einheiten 6 Sek. lang um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht wird, bis 8 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : null
@@ -150,7 +150,7 @@ toc: true
 ### Heldenbonus
 * [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

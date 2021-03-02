@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem ist die größte aller Hexen Enroths. In beiden Kriegen kämpfte sie für Roland Eisenfaust. Sobald Roland zum König gekrönt wurde, zog Gem nach Erathia und baute sich dort ein neues Zuhause auf."
 heroID: 60304
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Gem"
 toc: true

@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka führt seine Truppen zum Ruhm, indem er alle einschüchtert. Bis jetzt war seine Taktik äußerst effektiv."
 heroID: 60802
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Rashka"
 toc: true
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** R
 
- **Specialty:** Fire Lord
+ **Specialty:** Feuer-Lord
 
  **Specialty Desc:** Unter Rashkas Führung wird Efreeti zum Feuer-Lord aufgewertet. Seine Kampf- und Angriffsfähigkeiten verbessern sich stark.
 

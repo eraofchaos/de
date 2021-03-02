@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Massenstille. Weicht Angriffen aus. Regeneriert Magie.
 
- **Position :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+ **Position :** Lässt den Feind direkt vor sich verstummen, verursacht beim Tod Stille bei allen Feinden.
 
  **Recommend:** Kreaturen mit niedriger Gesundheit und hohem Angriff. Extrem mächtig, wenn du daran denkst, sie schnell zu heilen.
 
@@ -109,7 +109,7 @@ toc: true
 ### Gewöhnliche Fähigkeit 1 : Inkarnation des Schreckens
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der ANG des Geistes steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Erhöht den ANG um 8 % für jede verbündete Einheit, die auf dem Schlachtfeld stirbt. Wirkt die ganze Schlacht über, maximal 10 Stapel.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 2 : Misfortune Curse
+### Gewöhnliche Fähigkeit 2 : Fluch des Missgeschicks
  **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn ein Geist besiegt wird, wirkt er </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stille&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> auf alle gegnerischen Einheiten. Wirkungsdauer: </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Unsichtbarkeit
@@ -182,7 +182,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Geist-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wight and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Setze einen Geist ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 
 ## Awaken Skills
 
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Meisterhaftes Kreischen
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Grauenhaftes Kreischen&gt;</span><span style="color: #645252;font-size:18px"> Magieresistenz für verbündete Nekropolis-Einheiten in derselben Reihe für die nächsten 25 Sek. um 50 % und SCHD (Einheit) um 20 % erhöht.</span>
 
-### 5th Skill (or 6th): Quaky Soul
+### 5th Skill (or 6th): Erschütterte Seele
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inkarnation des Schreckens&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die ABW des Geists um 10 %. Wenn verbündete Helden einen Erdzauber wirken, stellt der Geist bei Helden 5 Mana wieder her, und die Erd-Magieresistenz und der SCHD (Einheit) aller gegnerischen Einheiten werden um 4 % bzw. 2 % verringert. Bis 20 Stapel. Effekte können nicht aufgehoben werden und dauern über die gesamte Schlacht an.</span>
 
 ### 6th Skill (or 5th): Grauenhaftes Schauspiel

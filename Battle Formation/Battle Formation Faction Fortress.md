@@ -2,7 +2,7 @@
 title: "Kampfformation Festung"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Kampfformation Festung"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionFortress"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Festung](/units/Faction Fortress)
 
-  **Beschreibung:** Unity and solidarity, people were born free
+  **Beschreibung:** Einigkeit und Solidarität für alle, die in Freiheit geboren sind.
 
 **Info** You can find this feature under **Arsenal** -> **Kampfformation** -> **Festung** 
 {: .notice--danger}
@@ -27,7 +27,7 @@ classes: wide
   | **5** | **Wenn Festungseinheiten kranken Einheiten gegenüberstehen, erhöht sich ihr Einheitenschaden um 5 %.** |
   | **6** | **Erhöht den ANG aller Festungseinheiten um 10 %.** |
   | **7** | **Erhöht die Einheitenmagieresistenz aller Festungseinheiten um 10 %.** |
-  | **8** | **Fortress units will receive an increase of 12% CRIT DMG when against the units suffering from disease** |
+  | **8** | **Wenn Festungseinheiten kranken Einheiten gegenüberstehen, erhöht sich ihr KRIT. SCHD um 12 %.** |
   | **9** | **Erhöht das Angriffstempo aller Festungseinheiten um 4 %.** |
 
 ## Kampfformation Circle 1:

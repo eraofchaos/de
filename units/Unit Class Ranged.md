@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Scharfschütze](/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Meisterbogenschütze  |
   | 7 | [Medusa](/units/Medusa/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  Medusenkönigin  |
   | 8 | [Echsenmensch](/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 9 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 9 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Großelf  |
   | 10 | [Pegasus](/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Silberpegasus  |
   | 11 | [Sturmelementar](/units/Storm Elemental/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Blitzgewitter  |
   | 12 | [Wespenwurz](/units/Waspwort/) | Fernkampf | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |   -   |

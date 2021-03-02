@@ -76,7 +76,7 @@ toc: true
 
 ## Exklusiv
 
- **Name:** [Medusas Bogen](/Exclusive/Medusa Medusa's bow/) 
+ **Name:** [Medusas Bogen](/Exclusive/Medusa Medusa's Bow/) 
 
  **Item to Rangaufstieg:** -
 
@@ -156,7 +156,7 @@ toc: true
 * [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sephinroth](/heroes/Sephinroth/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -1,7 +1,7 @@
 ---
 title: "Gorgone"
 permalink: /units/Gorgon/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
+excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
 last_modified_at: 2021-03-02
 locale: de
@@ -9,7 +9,7 @@ ref: "Gorgone"
 toc: true
 ---
 ## General information
- **Beschreibung:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
+ **Beschreibung:** Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr.
 
  **Klasse:** [Abwehr](/units/Unit Class Defense/)
 
@@ -99,7 +99,7 @@ toc: true
 * [Verbrennung](/combination/Verbrennung/) 
 * [Niedrige Moral](/combination/Niedrige Moral/) 
 * [Krankheit](/combination/Krankheit/) 
-* [Blind](/combination/Blind/) 
+* [Blindheit](/combination/Blindheit/) 
 * [Stille](/combination/Stille/) 
 * [Betäubung](/combination/Betäubung/) 
 
@@ -127,7 +127,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Beschreibung:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Rise of Vitality
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
   <script language="JavaScript">

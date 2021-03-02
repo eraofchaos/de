@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Reflektiert Zaubersprüche. Domäne-Buffs.
 
- **Position :** 
+ **Position :** Reflektiert Zaubersprüche. Domäne-Buffs.
 
 ## Grundwerte
  **Base HP: 5770.0**
@@ -166,7 +166,7 @@ toc: true
 ### Heldenbonus
 * [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

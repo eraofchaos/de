@@ -80,7 +80,7 @@ toc: true
 
 ## Exklusiv
 
- **Name:** [Ehrenansturm](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Ritterpike](/Exclusive/Cavalier Knight Pike/) 
 
  **Item to Rangaufstieg:** -
 
@@ -108,7 +108,7 @@ toc: true
   <p id="log"></p>
   </form>
 ### Ultimative Fähigkeit: Lanzengang
- **Beschreibung:** <span style="color: #645252;font-size:20px">When a Cavalier unit is on the battlefield, their 1st attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Auf dem Schlachtfeld verursacht der erste Angriff eines Kavalleristen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden. Das Ziel wird außerdem 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Glorreicher Ansturm
  **Beschreibung:** <span style="color: #645252;font-size:20px">Kritischer Treffer des Kavalleristen steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt wird verdoppelt, wenn die Einheit den Status </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px"> genießt.</span><span style="color: black">
@@ -122,7 +122,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf
  **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Defense Resonance
+### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
  **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -177,7 +177,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Champion Knights
+ **Awaking Name:** Heldenhafte Ritter
 
  **Awaking Beschreibung:** Brechen wir auf, tapfere Ritter von Erathia! Der Lorbeerkranz des Siegers wartet auf Euch. Kämpft für Eure Überzeugung und für Gerechtigkeit. Erfüllt Euer Schicksal!
 
@@ -186,7 +186,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Ressourcen im Gildenabenteuer.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Heldenhafter-Ritter-Seelen im Untergrund: Stufen 16-2 und 16-4. </span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Setze einen Kavalleristen ein und gewinne </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe im Meisterduell unter der Führung von Mullich. </span>
 
@@ -208,7 +208,7 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung zusätzlich um 20 %. Der Effekt wird verdoppelt, wenn die Einheit „Hohe Moral“ hat.</span>
 
 ### 6th Skill (or 5th): Ruhiger Geist
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Im Kampf wird „Hohe Moral“ aktiviert. Garantierter kritischer Treffer. Wirkungsdauer 10 Sek.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Im Kampf wird ein garantierter Krit. Treffer mit dem „Hohe Moral“-Effekt zugefügt. Wirkungsdauer 10 Sek.</span>
 
 ## Technical info
  **runart:** 1

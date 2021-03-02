@@ -17,13 +17,13 @@ classes: wide
   | 3 | [Oger](/units/Ogre/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.6 | 2523 |  Ogermagier  |
   | 4 | [Dämon](/units/Demon/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 114.4 | 2489 |    |
   | 5 | [Behemoth](/units/Behemoth/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  Ur-Behemoth  |
-  | 6 | [Leprechaun](/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Wächtergeist des heiligen Baumes  |
+  | 6 | [Leprechaun](/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Meister-Leprechaun  |
   | 7 | [Eisengolem](/units/Iron Golem/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Goldgolem  |
   | 8 | [Regnanschlange](/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 9 | [Nachtmahr](/units/Nightmare/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |    |
   | 10 | [Giftbrut](/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 11 | [Schwertkämpfer](/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Kreuzritter  |
-  | 12 | [Drachenschildkröte](/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 12 | [Drachenschildkröte](/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Urzeit-Drachenschildkröte  |
   | 13 | [Zentaur](/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Zentaurenführer  |
   | 14 | [Zwerg](/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 15 | [Minotaurus](/units/Minotaur/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Minotaurenkönig  |

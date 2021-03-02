@@ -24,5 +24,5 @@ classes: wide
   | 5 | [Meerelementar](/units/Sea Elemental/) | Zauberer | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  Gezeitenelementar  |
   | 6 | [Regnanschlange](/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 7 | [Meerjungfrau](/units/Mermaid/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |   -   |
-  | 8 | [Drachenschildkröte](/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 8 | [Drachenschildkröte](/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Urzeit-Drachenschildkröte  |
   | 9 | [Regnanpirat](/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  König der Piraten  |

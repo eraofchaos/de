@@ -157,7 +157,7 @@ toc: true
 ### Heldenbonus
 * [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Magieresistenz
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Konstitution des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px">Wenn ein gegnerischer Held einen Zauber wirkt, erhält der Minotaurus 10 Sek. lang „Hohe Moral“, und seine Schadensreduzierung wird um 10 % erhöht. Kann während der Schlacht 3 Mal gestapelt werden.</span>
 
-### 5th Skill (or 6th): Ferocious Will
+### 5th Skill (or 6th): Wilder Wille
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Höhere Wildheit&gt;</span><span style="color: #645252;font-size:18px">Gegen Feinde mit „Blutung“ wird der Schaden des Minotaurus um 20 % erhöht. Wenn der Minotaurus den Status „Blutung“ erleidet, wird sein Angriffstempo 6 Sek. lang um 20 % erhöht.</span>
 
 ### 6th Skill (or 5th): Blutige Versessenheit

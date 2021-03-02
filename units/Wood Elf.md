@@ -174,7 +174,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Grand Elf
+ **Awaking Name:** Großelf
 
  **Awaking Beschreibung:** Die Vögel im Wald sind ihre Augen, die fliegenden Pfeile ihr Ruf, der Segen der Natur lässt sie erstrahlen. Es sind die noblen Jäger, die den Willen des großen Waldes vollstrecken, die Großelfen von Tulalyon!
 
@@ -185,11 +185,11 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Großelfen-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Rampart Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Setze eine Waldelfe und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schutzwall-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Phantom Concentration
+### 1st Skill (or 2nd): Phantomkonzentration
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Pfeilhagel&gt;</span><span style="color: #645252;font-size:18px">Solange die Boni von &lt;Wahnsinn&gt; aktiv sind, wird der Schaden der Einheit 5 Sek. lang um 20 % erhöht.</span>
 
 ### 2nd Skill (or 1st): Dauerregen

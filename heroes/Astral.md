@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral kam vor ungefähr einem Jahrzehnt nach Erathia und wurde schnell von der Magiergilde von Bracada anerkannt. Nachdem er in der Gilde eine hohe Position einnahm, scherzten einige, dass dabei bestimmt Magie im Spiel war."
 heroID: 61203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Astral"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Gedankenmagier
+   - Brandneues Kampfbild
+   - Einzigartiger Avatar und Zaubereffekt
+
+### Skin 3: **Macht des Drachenvaters**
+
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Donner umhüllt meinen Körper und Drachenfeuer tost in meiner Seele! Ich bin die Nemesis und der Erlass des Himmels! Ich bin die perfekte Verbindung von Macht und Magie in dieser Welt!</span>
+
+ **Skin features:** 
+
+   - Macht des Drachenvaters
    - Brandneues Kampfbild
    - Einzigartiger Avatar und Zaubereffekt
 

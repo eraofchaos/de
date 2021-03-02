@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Aufladung
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 

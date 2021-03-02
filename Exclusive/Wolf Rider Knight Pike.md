@@ -1,17 +1,17 @@
 ---
-title: "Exklusiv - Ehrenansturm"
+title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Wolf Rider Knight Pike/
-excerpt: "Era of Chaos Ehrenansturm. Ehrenansturm. Era of Chaos Exklusiv Ehrenansturm. Wolfsreiter Exklusiv."
+excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Wolfsreiter Exklusiv."
 last_modified_at: 2021-03-02
 locale: de
-ref: "Wolf Rider Ehrenansturm.md"
+ref: "Wolf Rider Ritterpike.md"
 toc: false
 classes: wide
 ---
  [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Ehrenansturm** 
+ **Name: Ritterpike** 
 
  **Exklusiv for Unit:** [Wolfsreiter](/units/Wolf Rider/) 
 

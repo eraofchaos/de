@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Ciele gehörte zu den ersten Helden, die sich den Elementaren anschlossen, und ist eine stets siegreiche Generalin auf dem Schlachtfeld. Sie entdeckte die Verbindung unter den Magie-Elementaren mit ihren magischen Pfeilen."
 heroID: 60705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Ciele"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Chinesischer Valentinstag
+   - Brandneues Kampfbild
+   - Einzigartiger Avatar und Zaubereffekt
+
+### Skin 3: **Weihnachtsbote**
+
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Der wunderschöne Weihnachtsbote bringt Geschenke mit! Selbst die Kälte der Winternächte kann die Freude des Weihnachtsfestes nicht vertreiben!</span>
+
+ **Skin features:** 
+
+   - Weihnachtsbote mit Geschenken
    - Brandneues Kampfbild
    - Einzigartiger Avatar und Zaubereffekt
 

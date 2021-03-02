@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  [Hohe Moral](/combination/High Morale/){: .btn .btn--primary} [Verlangsamung](/combination/Slow/){: .btn .btn--success} [Blutung](/combination/Bleeding/){: .btn .btn--warning} [Verbrennung](/combination/Burning/){: .btn .btn--danger} [Niedrige Moral](/combination/Low Morale/){: .btn .btn--info} [Krankheit](/combination/Disease/){: .btn .btn--primary} [Blind](/combination/Blind/){: .btn .btn--success} [Stille](/combination/Silence/){: .btn .btn--warning} [Betäubung](/combination/Stun/){: .btn .btn--danger} [Schild](/combination/Shield/){: .btn .btn--info} [Schock](/combination/Static/){: .btn .btn--primary} [Versteinerung](/combination/Petrify/){: .btn .btn--success} [Seuche](/combination/Plague/){: .btn .btn--warning} [Erstarren](/combination/Freeze/){: .btn .btn--danger} [Abschreckung](/combination/Deterrence/){: .btn .btn--info} 
+  [Hohe Moral](/combination/High Morale/){: .btn .btn--primary} [Verlangsamung](/combination/Slow/){: .btn .btn--success} [Blutung](/combination/Bleeding/){: .btn .btn--warning} [Verbrennung](/combination/Burning/){: .btn .btn--danger} [Niedrige Moral](/combination/Low Morale/){: .btn .btn--info} [Krankheit](/combination/Disease/){: .btn .btn--primary} [Blindheit](/combination/Blind/){: .btn .btn--success} [Stille](/combination/Silence/){: .btn .btn--warning} [Betäubung](/combination/Stun/){: .btn .btn--danger} [Schild](/combination/Shield/){: .btn .btn--info} [Schock](/combination/Static/){: .btn .btn--primary} [Versteinerung](/combination/Petrify/){: .btn .btn--success} [Seuche](/combination/Plague/){: .btn .btn--warning} [Erstarren](/combination/Freeze/){: .btn .btn--danger} [Abschreckung](/combination/Deterrence/){: .btn .btn--info} 
 
 
 #### Einheiten und Helden verursachen „Betäubung“.
@@ -27,7 +27,7 @@ classes: wide
   | 9 | [Psy-Elementar](/units/Psy-Elementar/) | [Shiva](/heroes/Shiva/) |
   | 10 | [Steinelementar](/units/Steinelementar/) | [Luna](/heroes/Luna/) |
   | 11 | [Troglodyt](/units/Troglodyt/) | [Erdamon](/heroes/Erdamon/) |
-  | 12 | [Gnoll](/units/Gnoll/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 12 | [Gnoll](/units/Gnoll/) | [Drache Mutare](/heroes/Drache Mutare/) |
   | 13 | [Drachenschildkröte](/units/Drachenschildkröte/) | [Mutare](/heroes/Mutare/) |
   | 14 | [Wespenwurz](/units/Wespenwurz/) | [Sephinroth](/heroes/Sephinroth/) |
   | 15 | [Richterin](/units/Richterin/) | [Jeddite](/heroes/Jeddite/) |

@@ -182,7 +182,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Monster im Gildenabenteuer.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Power Lich souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Todes-Lich-Seelen im Untergrund: Stufen 17-2 und 17-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Setze Vidomina und Lich ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 

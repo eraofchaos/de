@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Mutare kam in Nighon erst vor kurzer Zeit an die Macht, kann aber schon seit ihrer Geburt Drachen befehligen. In Schlachten ist sie dadurch nahezu unverwundbar."
 heroID: 61301
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Mutare"
 toc: true
@@ -40,7 +40,7 @@ toc: true
 ### 3 Spell: Rasend
  **Beschreibung:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und erhöht {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang den zugefügten Schaden um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %</span><span style="color: black">.
 
-### 4 Spell: Landslide
+### 4 Spell: Erdrutsch
  **Beschreibung:** Fügt gegnerischen Einheiten im Wirkungsbereich alle 0,8 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Schaden zu. Diese Einheiten werden außerdem {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">betäubt</span><span style="color: black">. Wirkungsdauer: {$olast11/1000} Sek.
 
 

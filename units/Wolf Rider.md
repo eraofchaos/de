@@ -78,7 +78,7 @@ toc: true
 
 ## Exklusiv
 
- **Name:** [Ehrenansturm](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Ritterpike](/Exclusive/Wolf Rider Knight Pike/) 
 
  **Item to Rangaufstieg:** -
 

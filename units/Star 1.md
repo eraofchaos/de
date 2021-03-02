@@ -20,9 +20,9 @@ classes: wide
   | 6 | [Scharfschütze](/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Meisterbogenschütze  |
   | 7 | [Troglodyt](/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Dunkler Troglodyt  |
   | 8 | [Zentaur](/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Zentaurenführer  |
-  | 9 | [Gnoll](/units/Gnoll/) | Offensiv | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Gnoll](/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnollkrieger  |
   | 10 | [Mönch](/units/Monk/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Zelot  |
-  | 11 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 11 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Heldenhafte Ritter  |
   | 12 | [Skelett](/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skelettkrieger  |
   | 13 | [Pixie](/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 14 | [Wandelnde Tote](/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombie  |

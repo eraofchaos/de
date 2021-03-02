@@ -28,7 +28,7 @@ classes: wide
   | 6 | [Böse Zauberin](/units/Evil Sorceress/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 633.6 | 5770 |   -   |
   | 7 | [Dendroidenwache](/units/Dendroid Guard/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Dendroidensoldat  |
   | 8 | [Drachengolem](/units/Dragon Golem/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |   -   |
-  | 9 | [Drachenschildkröte](/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 9 | [Drachenschildkröte](/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Urzeit-Drachenschildkröte  |
   | 10 | [Druidin](/units/Druid/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Erzdruide  |
   | 11 | [Dschinn](/units/Genie/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  Meisterdschinn  |
   | 12 | [Dunkler Kämpe](/units/Dark Champion/) | Offensiv | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |   -   |
@@ -46,7 +46,7 @@ classes: wide
   | 24 | [Geist](/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Gespenst  |
   | 25 | [Giftbrut](/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 26 | [Gigant](/units/Giant/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titan  |
-  | 27 | [Gnoll](/units/Gnoll/) | Offensiv | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 27 | [Gnoll](/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnollkrieger  |
   | 28 | [Goblin](/units/Goblin/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  Hobgoblin  |
   | 29 | [Gog](/units/Gog/) | Zauberer | + | R | x9 | <i class="fas fa-star"/> | 102.6 | 629 |  Magog  |
   | 30 | [Gorgone](/units/Gorgon/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 3094 |  Mächtige Gorgone  |
@@ -56,12 +56,12 @@ classes: wide
   | 34 | [Grüner Drache](/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  Goldener Drache  |
   | 35 | [Hai-Ausbilder](/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Hai-Reiter  |
   | 36 | [Harpyie](/units/Harpy/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
-  | 37 | [Hydra](/units/Hydra/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  Chaos-Hydra  |
+  | 37 | [Hydra](/units/Hydra/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  Chaoshydra  |
   | 38 | [Höllenhund](/units/Hell Hound/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 77.8 | 827 |   -   |
   | 39 | [Imp](/units/Imp/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 51.3 | 1224 |  Intimus  |
-  | 40 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 40 | [Kavallerist](/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Heldenhafte Ritter  |
   | 41 | [Knochendrache](/units/Bone Dragon/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  Geisterdrache  |
-  | 42 | [Leprechaun](/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Wächtergeist des heiligen Baumes  |
+  | 42 | [Leprechaun](/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Meister-Leprechaun  |
   | 43 | [Lich](/units/Lich/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Todes-Lich  |
   | 44 | [Magisches Luftschiff](/units/Magic Airship/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |
   | 45 | [Mantikor](/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Skorpikor  |
@@ -96,14 +96,14 @@ classes: wide
   | 74 | [Schwertkämpfer](/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Kreuzritter  |
   | 75 | [Skelett](/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skelettkrieger  |
   | 76 | [Spartaner](/units/Spartan Warriors/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 216.0 | 2825 |   -   |
-  | 77 | [Steinelementar](/units/Stone Elemental/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |   -   |
-  | 78 | [Stone Gargoyle](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 77 | [Stein-Wasserspeier](/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 78 | [Steinelementar](/units/Stone Elemental/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |   -   |
   | 79 | [Sturmelementar](/units/Storm Elemental/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Blitzgewitter  |
   | 80 | [Teufel](/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Erzteufel  |
   | 81 | [Troglodyt](/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Dunkler Troglodyt  |
   | 82 | [Troll](/units/Troll/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.3 | 9051 |   -   |
   | 83 | [Vampir](/units/Vampire/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Vampirlord  |
-  | 84 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 84 | [Waldelfe](/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Großelf  |
   | 85 | [Wandelnde Tote](/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombie  |
   | 86 | [Weißer Tiger](/units/White Tiger/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1078.2 | 6138 |   -   |
   | 87 | [Wespenwurz](/units/Waspwort/) | Fernkampf | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |   -   |

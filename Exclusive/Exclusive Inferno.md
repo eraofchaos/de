@@ -19,8 +19,8 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Imp](/units/Imp/) | [Irisschild](/Exclusive/Imp Iris Shield/) | - | Aufladung | - | - |
   | 2  | [Gog](/units/Gog/) | [Arkangesang](/Exclusive/Gog Arcane Chant/) | - | Aufladung | - | - |
-  | 3  | [Höllenhund](/units/Hell Hound/) | [Ehrenansturm](/Exclusive/Hell Hound Knight Pike/) | - | Aufladung | - | - |
-  | 4  | [Dämon](/units/Demon/) | [Irisschild](/Exclusive/Demon Iris Shield/) | - | Aufladung | - | - |
+  | 3  | [Höllenhund](/units/Hell Hound/) | [Ritterpike](/Exclusive/Hell Hound Knight Pike/) | - | Aufladung | - | - |
+  | 4  | [Dämon](/units/Demon/) | [Irisschild](/Exclusive/Demon Iris Shield/) | + | Aufladung | - | - |
   | 5  | [Grottenteufel](/units/Pit Fiend/) | [Schwert](/Exclusive/Pit Fiend Sword/) | - | Aufladung | - | - |
   | 6  | [Efreet](/units/Efreeti/) | [Arkangesang](/Exclusive/Efreeti Arcane Chant/) | - | Aufladung | - | - |
   | 7  | [Teufel](/units/Devil/) | [Teufelssense](/Exclusive/Devil Devil Scythe/) | - | Unterstützung | - | - |

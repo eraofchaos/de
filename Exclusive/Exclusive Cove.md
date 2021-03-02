@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Regnanpirat](/units/Regnan Pirates/) | [Schwert](/Exclusive/Regnan Pirates Sword/) | - | Aufladung | - | - |
-  | 2  | [Regnanbogensch.](/units/Regnan Archer/) | - | - | - | none | none |
+  | 1  | [Regnanpirat](/units/Regnan Pirates/) | [Schwert](/Exclusive/Regnan Pirates Sword/) | + | Aufladung | - | - |
+  | 2  | [Regnanbogensch.](/units/Regnan Archer/) | [Wunder](/Exclusive/Regnan Archer Miracle/) | - | Unterstützung | - | - |
   | 3  | [Meerelementar](/units/Sea Elemental/) | [Arkangesang](/Exclusive/Sea Elemental Arcane Chant/) | - | Aufladung | - | - |
   | 4  | [Regnanschlange](/units/Regnan Serpent/) | [Tagesgezeiten](/Exclusive/Regnan Serpent Day Tides/) | - | Fernkampf | - | - |
-  | 5  | [Meerjungfrau](/units/Mermaid/) | [Night Tides](/Exclusive/Mermaid Night Tides/) | - | Fernkampf | - | - |
+  | 5  | [Meerjungfrau](/units/Mermaid/) | [Nachtgezeiten](/Exclusive/Mermaid Night Tides/) | - | Fernkampf | - | - |
   | 6  | [Drachenschildkröte](/units/Dragon Turtle/) | [Gehorsamkeit](/Exclusive/Dragon Turtle Obedience/) | - | Unterstützung | - | - |
   | 7  | [Regnanseherin](/units/Regnan Seer/) | [](/Exclusive/Regnan Seer /) | - | Hauptstadt | - | - |
-  | 8  | [Revyaratan](/units/Revyaratan/) | - | - | - | none | none |
-  | 9  | [Hai-Ausbilder](/units/Shark Trainer/) | - | - | - | none | none |
+  | 8  | [Revyaratan](/units/Revyaratan/) | [Düstere Gezeiten](/Exclusive/Revyaratan Gloom Tides/) | - | Fernkampf | - | - |
+  | 9  | [Hai-Ausbilder](/units/Shark Trainer/) | [Wellen brechen](/Exclusive/Shark Trainer Break Waves/) | - | Unterstützung | - | - |

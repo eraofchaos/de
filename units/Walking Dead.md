@@ -190,8 +190,8 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Disease Outbreak
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
+### 1st Skill (or 2nd): Epidemie
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftgas&gt;</span><span style="color: #645252;font-size:18px">Verursacht zusätzlich Schaden in Höhe von 2 % der max. LP.</span>
 
 ### 2nd Skill (or 1st): Ansteckende Krankheit
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Giftgas&gt;</span><span style="color: #645252;font-size:18px">Wirkt zu Beginn der Schlacht &lt;Giftgas&gt; auf alle verbündeten Nekropolis-Nahkampfeinheiten; bleibt bis zum Ende der Schlacht bestehen. Der Schaden ist 6 Mal stapelbar.</span>

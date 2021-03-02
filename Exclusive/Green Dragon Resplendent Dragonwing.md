@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Unterstützung
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1610
 

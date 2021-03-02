@@ -156,7 +156,7 @@ toc: true
 ### Heldenbonus
 * [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -179,20 +179,20 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Monster im Gildenabenteuer.</span>
 
- 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Troglodyt-Seelen im Untergrund: Stufen 14-2 and 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> „Dunkler Troglodyt“-Seelen im Untergrund: Stufen 14-2 and 14-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Setze einen Troglodyt und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Ferocious Assassination
+### 1st Skill (or 2nd): Grausames Attentat
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Schadenseffekt um 50 % und das Angriffstempo um 30 %.</span>
 
 ### 2nd Skill (or 1st): Speerformation-Schock
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht 5 Sek. lang den Betäubungseffekt um 50 % und ABW um 30 %.</span>
 
 ### 3rd Skill (or 4th): Scharfsinnige Berührung
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Keen&gt;</span><span style="color: #645252;font-size:18px"> Reduces the duration of Slow by 1s for Troglodyte. When slowed, deals damage equal to 500% of own ATK to the target unit and increases own DEF by 15% for 7s. CD is 15s.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Verlangsamung für den Troglodyten um 1 Sek. Während Verlangsamung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und die eigene ABW um 15 % erhöht. AKZ 15 Sek.</span>
 
 ### 4th Skill (or 3rd): Geschärfte Berührung
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Geschärft&gt;</span><span style="color: #645252;font-size:18px"> Verringert die Dauer von Blutung für den Troglodyten um 1 Sek. Während Blutung wird der Zieleinheit 7 Sek. lang Schaden in Höhe von 500 % des eigenen ANG zugefügt und das eigene Angriffstempo um 15 % erhöht. AKZ 15 Sek.</span>

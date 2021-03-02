@@ -111,7 +111,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Solange sich ein Betrachter auf dem Schlachtfeld befindet, sinkt das Anfangsmana gegnerischer Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Jedes Mal, wenn eine gegnerische Einheit stirbt, verlieren gegnerische Helden weitere 10 Mana.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Energie sammeln
- **Beschreibung:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht erhöht der Betrachter die LP deiner Einheiten in hohem Radius um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bleibt die gesamte Schlacht über aktiv.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit : Finsterer Konflikt
  **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
@@ -151,7 +151,7 @@ toc: true
 ### Heldenbonus
 * [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

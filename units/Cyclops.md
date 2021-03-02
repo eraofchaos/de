@@ -17,7 +17,7 @@ toc: true
 
  **Fraktion:** [Burg](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Barbar
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -73,7 +73,7 @@ toc: true
   | [Fels](/equipment/Fels/) | **ANG** | **ABW** | 
   | [Fesseln des Krieges](/equipment/Fesseln des Krieges/) | **LP** | **ABW** | 
   | [Stachliger Armschutz](/equipment/Stachliger Armschutz/) | **ANG** | **ABW** | 
-  | [Leather Trousers](/equipment/Leather Trousers/) | **LP** | **ABW** | 
+  | [Lederhose](/equipment/Lederhose/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -104,7 +104,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimative Fähigkeit: Fire Wall
+### Ultimative Fähigkeit: Feuerwand
  **Beschreibung:** <span style="color: #645252;font-size:20px">Die Gog beschwört vor sich eine Feuerwand, die gegnerischen Einheiten, die von ihr umgeben sind, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt. Die Feuerwand bleibt 8 Sek. lang bestehen.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Flammende Explosion

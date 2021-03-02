@@ -2,7 +2,7 @@
 title: "Kampfformation Schutzwall"
 permalink: /Battle Formation/Battle Formation Faction Rampart internal
 excerpt: "Kampfformation Schutzwall"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | Level |         Effect        |
   |:------|:---------------------|
   | **2** | **Wenn Schutzwall-Einheiten blutenden oder verlangsamten Einheiten gegenüberstehen, erhöht sich ihre Präzision pro aktivem Effekt um 40.** |
-  | **3** | **Increases 8% HP for all Rampart Units** |
+  | **3** | **Erhöht die LP aller Schutzwall-Einheiten um 8 %.** |
   | **4** | **Erhöht die ABW aller Schutzwall-Einheiten um 8 %.** |
   | **5** | **Wenn Schutzwall-Einheiten blutenden oder verlangsamten Einheiten gegenüberstehen, erhöht sich ihr Kritischer Treffer pro aktivem Effekt um 25.** |
   | **6** | **Erhöht den ANG aller Schutzwall-Einheiten um 10 %.** |

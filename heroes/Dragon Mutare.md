@@ -1,9 +1,9 @@
 ---
-title: "Dragon Mutare"
+title: "Drache Mutare"
 permalink: /heroes/Dragon Mutare/
-excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. Nachdem sie aus der Drachenblutphiole getrunken hatte, wurde Mutare zu einem Drachen mit einem menschlichen Bewusstsein. Manche glauben, dass ihre Verwandlung die Ankunft des Drachenvaters ankündigt."
+excerpt: "Era of Chaos Drache Mutare. Drache Mutare. Nachdem sie aus der Drachenblutphiole getrunken hatte, wurde Mutare zu einem Drachen mit einem menschlichen Bewusstsein. Manche glauben, dass ihre Verwandlung die Ankunft des Drachenvaters ankündigt."
 heroID: 61302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Dragon Mutare"
 toc: true
@@ -69,6 +69,16 @@ toc: true
  **Skin features:** 
 
    - Mit Schneeflocken spielender Weihnachtself
+   - Brandneues Kampfbild
+   - Einzigartiger Avatar und Zaubereffekt
+
+### Skin 4: **Lord des Frostes**
+
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Der Wind erhebt sich und Schneestürme toben auf mein Geheiß. Der Frost ist meine Krone und ich allein habe die gefrorenen Lande erobert!</span>
+
+ **Skin features:** 
+
+   - Lord des Frostes
    - Brandneues Kampfbild
    - Einzigartiger Avatar und Zaubereffekt
 

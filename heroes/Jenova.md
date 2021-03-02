@@ -3,14 +3,14 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. Als Kind wurde sie von Dunkelelfen entführt und verkauft. Irgendwann wurde Jenova jedoch von einem rachsüchtigen Einhorn aus ihrem Elend befreit. Seit dieser Zeit verehrt sie diese geheimnisvollen Kreaturen im Wald und will ihr ganzes Leben mit ihnen verbringen. Niemand weiß besser über Einhörner Bescheid als Jenova, die deren Schnelligkeit und Intelligenz im Krieg nutzt, um einen taktischen Vorteil zu gewinnen."
 heroID: 60202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Jenova"
 toc: true
 ---
  **Beschreibung:** Als Kind wurde sie von Dunkelelfen entführt und verkauft. Irgendwann wurde Jenova jedoch von einem rachsüchtigen Einhorn aus ihrem Elend befreit. Seit dieser Zeit verehrt sie diese geheimnisvollen Kreaturen im Wald und will ihr ganzes Leben mit ihnen verbringen. Niemand weiß besser über Einhörner Bescheid als Jenova, die deren Schnelligkeit und Intelligenz im Krieg nutzt, um einen taktischen Vorteil zu gewinnen.
 ## Details
- **Profession:** Ranger
+ **Profession:** Waldläufer
 
  **Race:** Schutzwall
 

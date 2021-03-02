@@ -68,7 +68,7 @@ toc: true
   | [Kern des Polarsterns](/equipment/Kern des Polarsterns/) | **ANG** | **ABW** | 
   | [Himmlischer Stern](/equipment/Himmlischer Stern/) | **LP** | **ABW** | 
   | [Sternengeist-Krone](/equipment/Sternengeist-Krone/) | **ANG** | **ABW** | 
-  | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **LP** | **ABW** | 
+  | [Mächtige Armschiene](/equipment/Mächtige Armschiene/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

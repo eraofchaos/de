@@ -150,7 +150,7 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Tower**  (Turm-Kader)
+* **Turm**  (Turm-Kader)
 * **Magie**  (Zauberer-Kader)
 
 ### Heldenbonus

@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Assassinenweg"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos Assassinenweg. Assassinenweg. Era of Chaos Heiliges Emblem Assassinenweg. Era of Chaos Neutral Assassinenweg"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Path of an Assassin.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Assassinenweg](/Emblem/Path of an Assassin/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +6, LP +3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht Durchdringung um 90. Gewährt zu Beginn des Kampfes 30 Sek. lang +200 „Krit. Treffer“-Wert.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +16, LP +7 %</span> | 
   | [Assassinenweg](/Emblem/Path of an Assassin/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +13, LP +5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht Durchdringung um 120. Gewährt zu Beginn des Kampfes 30 Sek. lang +300 „Krit. Treffer“-Wert.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +30, LP +15 %</span> | 
-  | [Assassinenweg](/Emblem/Path of an Assassin/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +20, HP +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht Durchdringung um 240. Gewährt zu Beginn des Kampfes 30 Sek. lang +600 „Krit. Treffer“-Wert.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +55, LP +20 %</span> | 
+  | [Assassinenweg](/Emblem/Path of an Assassin/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +20, LP +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht Durchdringung um 240. Gewährt zu Beginn des Kampfes 30 Sek. lang +600 „Krit. Treffer“-Wert.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +55, LP +20 %</span> | 
   | [Assassinenweg](/Emblem/Path of an Assassin/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +2, LP +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht Durchdringung um 60. Gewährt zu Beginn des Kampfes 30 Sek. lang +100 „Krit. Treffer“-Wert.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +6, LP +2 %</span> | 
 
   |         Beschreibung            | 

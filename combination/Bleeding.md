@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  [Hohe Moral](/combination/High Morale/){: .btn .btn--primary} [Verlangsamung](/combination/Slow/){: .btn .btn--success} [Blutung](/combination/Bleeding/){: .btn .btn--warning} [Verbrennung](/combination/Burning/){: .btn .btn--danger} [Niedrige Moral](/combination/Low Morale/){: .btn .btn--info} [Krankheit](/combination/Disease/){: .btn .btn--primary} [Blind](/combination/Blind/){: .btn .btn--success} [Stille](/combination/Silence/){: .btn .btn--warning} [Betäubung](/combination/Stun/){: .btn .btn--danger} [Schild](/combination/Shield/){: .btn .btn--info} [Schock](/combination/Static/){: .btn .btn--primary} [Versteinerung](/combination/Petrify/){: .btn .btn--success} [Seuche](/combination/Plague/){: .btn .btn--warning} [Erstarren](/combination/Freeze/){: .btn .btn--danger} [Abschreckung](/combination/Deterrence/){: .btn .btn--info} 
+  [Hohe Moral](/combination/High Morale/){: .btn .btn--primary} [Verlangsamung](/combination/Slow/){: .btn .btn--success} [Blutung](/combination/Bleeding/){: .btn .btn--warning} [Verbrennung](/combination/Burning/){: .btn .btn--danger} [Niedrige Moral](/combination/Low Morale/){: .btn .btn--info} [Krankheit](/combination/Disease/){: .btn .btn--primary} [Blindheit](/combination/Blind/){: .btn .btn--success} [Stille](/combination/Silence/){: .btn .btn--warning} [Betäubung](/combination/Stun/){: .btn .btn--danger} [Schild](/combination/Shield/){: .btn .btn--info} [Schock](/combination/Static/){: .btn .btn--primary} [Versteinerung](/combination/Petrify/){: .btn .btn--success} [Seuche](/combination/Plague/){: .btn .btn--warning} [Erstarren](/combination/Freeze/){: .btn .btn--danger} [Abschreckung](/combination/Deterrence/){: .btn .btn--info} 
 
 
 #### Einheiten und Helden verursachen „Blutung“.
@@ -17,7 +17,7 @@ classes: wide
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
   | 1 | [Zentaur](/units/Zentaur/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Pegasus](/units/Pegasus/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 2 | [Pegasus](/units/Pegasus/) | [Drache Mutare](/heroes/Drache Mutare/) |
   | 3 | [Ork](/units/Ork/) | [Wystan](/heroes/Wystan/) |
   | 4 | [Dendroidenwache](/units/Dendroidenwache/) | - |
   | 5 | [Behemoth](/units/Behemoth/) | - |
@@ -32,7 +32,7 @@ classes: wide
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
   | 1 | [Grüner Drache](/units/Grüner Drache/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Höllenhund](/units/Höllenhund/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 2 | [Höllenhund](/units/Höllenhund/) | [Drache Mutare](/heroes/Drache Mutare/) |
   | 3 | [Lich](/units/Lich/) | - |
   | 4 | [Wandelnde Tote](/units/Wandelnde Tote/) | - |
   | 5 | [Medusa](/units/Medusa/) | - |

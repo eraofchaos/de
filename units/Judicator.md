@@ -98,7 +98,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimative Fähigkeit: Ray of Judgment
+### Ultimative Fähigkeit: Strahl des Gerichts
  **Beschreibung:** <span style="color: #645252;font-size:20px">Die Richterin beschwört alle 25 Sek. 2 Strahlen des Gerichts. Wenn diese erscheinen, <span style="color: #48b946;font-size:20px">„betäuben“</span><span style="color: black"> sie gegnerische Einheiten in Reichweite 1 Sek. lang, und sie fügen ihnen <span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"> der max. LP als Schaden zu und reduzieren ihre Heilung 8 Sek. lang um <span style="color: #48b946;font-size:20px"><span id="str2"></span> %.</span><span style="color: black"></span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Segen

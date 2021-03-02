@@ -2,7 +2,7 @@
 title: "Kampfformation Turm"
 permalink: /Battle Formation/Battle Formation Faction Tower internal
 excerpt: "Kampfformation Turm"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionTower"
 toc: false
@@ -30,10 +30,10 @@ classes: wide
   | **5** | **Turm-Einheiten erhalten pro Turm-Einheit auf dem Feld +30 auf Ausweichen.** |
   | **6** | **Erhöht den ANG aller Turm-Einheiten um 10 %.** |
   | **7** | **Erhöht die Einheitenmagieresistenz aller Turm-Einheiten um 10 %.** |
-  | **8** | **Increases Crit DMG of all friendly Tower units by 12% for 6 seconds when a friendly hero casts a support spell.** |
+  | **8** | **Erhöht den KRIT. SCHD aller verbündeten Turm-Einheiten 6 Sekunden lang um 12 %, wenn ein verbündeter Held einen Hilfszauber wirkt.** |
   | **9** | **Erhöht das Angriffstempo aller Turm-Einheiten um 4 %.** |
   | **10** | **Erhöht den ANG aller Turm-Einheiten um 15 %.** |
-  | **11** | **Increases 17% HP for all Tower Units** |
+  | **11** | **Erhöht die LP aller Turm-Einheiten um 17 %.** |
   | **12** | **Erhöht die ABW aller verbündeten Turm-Einheiten 6 Sekunden lang um 8 %, wenn ein verbündeter Held einen Hilfszauber wirkt.** |
 
 ## Kampfformation Circle 1:
@@ -120,22 +120,22 @@ classes: wide
   | 3 | Tower - Storm Assaulter | ANG + **1.4** % | 100 |   |
   | 4 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
   | 5 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
-  | 6 | Tower - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 6 | Tower - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Magierin](/units/Mage) |
   | 7 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
   | 8 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
   | 9 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
   | 10 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
-  | 11 | Tower - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 11 | Tower - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Magierin](/units/Mage) |
   | 12 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 13 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 14 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
   | 15 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
-  | 16 | Tower - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Mage](/units/Mage) |
+  | 16 | Tower - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Magierin](/units/Mage) |
   | 17 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
   | 18 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
   | 19 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 20 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
-  | 21 | Tower - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 21 | Tower - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Magierin](/units/Mage) |
   | 22 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
   | 23 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
   | 24 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |

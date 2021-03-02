@@ -1,17 +1,17 @@
 ---
-title: "Exklusiv - Ehrenansturm"
+title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Cavalier Knight Pike/
-excerpt: "Era of Chaos Ehrenansturm. Ehrenansturm. Era of Chaos Exklusiv Ehrenansturm. Kavallerist Exklusiv."
+excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Kavallerist Exklusiv."
 last_modified_at: 2021-03-02
 locale: de
-ref: "Cavalier Ehrenansturm.md"
+ref: "Cavalier Ritterpike.md"
 toc: false
 classes: wide
 ---
  [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Ehrenansturm** 
+ **Name: Ritterpike** 
 
  **Exklusiv for Unit:** [Kavallerist](/units/Cavalier/) 
 
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Verkrüppelnder Wurfspeer> Zu Beginn der Schlacht wirft der Ritter seinen Wurfspeer, der einer zufälligen gegnerischen Einheit Schaden in Höhe von 200 % seines ANG zufügt und die ABW des Ziels 30 Sek. lang um 10 % reduziert. Ist das Ziel eine Fernkampf-/Zauberer-Einheit, wird ihr Schaden um 20 % reduziert. |
+  |  Initial  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Kavalleristen wird um 25 % erhöht, wenn er Fernkampfschaden erleidet. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Kavalleristen um 20 % und seinen Schaden um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Die ABW des Kavalleristen wird um 10 % erhöht. Zu Beginn der Schlacht wird die Durchdringung aller verbündeten Schloss-Einheiten um 300 erhöht. Dieser Effekt kann nicht gebannt werden. |

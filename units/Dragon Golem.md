@@ -1,7 +1,7 @@
 ---
 title: "Drachengolem"
 permalink: /units/Dragon Golem/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
+excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
 last_modified_at: 2021-03-02
 locale: de
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Beschreibung:** The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power.
+ **Beschreibung:** Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht.
 
  **Klasse:** [Abwehr](/units/Unit Class Defense/)
 
@@ -157,7 +157,7 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Tower**  (Turm-Kader)
+* **Turm**  (Turm-Kader)
 * **Abwehr**  (Abwehr-Kader)
 
 ### Heldenbonus

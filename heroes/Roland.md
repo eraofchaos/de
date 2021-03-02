@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn."
 heroID: 60103
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Roland"
 toc: true
@@ -62,7 +62,7 @@ toc: true
    - Brandneues Heldendesign
    - Einzigartiger Avatar
 
-### Skin 3: **Royal Wedding**
+### Skin 3: **Königliche Hochzeit**
 
  **Beschreibung:** <span style="color: #ffffff;font-size:20px">Ich hoffe, unser Bund wird Enroth Frieden und unserem Volk Zufriedenheit bringen.</span>
 

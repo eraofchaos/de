@@ -152,7 +152,7 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Tower**  (Turm-Kader)
+* **Turm**  (Turm-Kader)
 * **Magie**  (Zauberer-Kader)
 
 ### Heldenbonus
@@ -199,7 +199,7 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magiefeld&gt;</span><span style="color: #645252;font-size:18px">Zu Beginn der Schlacht wird ein weiteres &lt;Magiefeld&gt; für alle verbündeten Turm-Einheiten erschaffen; der Effekt wird nicht verdoppelt, sondern stapelt sich mit dem Effekt der vorherigen Fähigkeit.</span>
 
 ### 5th Skill (or 6th): Todeszoll
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Bei jedem Tod des Ziels wird das Mana gegnerischer Helden um 2 reduziert.</span>
 
 ### 6th Skill (or 5th): Energie-Unterdrückung
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energieverlust&gt;</span><span style="color: #645252;font-size:18px">Der Fähigkeiteneffekt wird auf 200 % des Effekts der vorherigen Fähigkeit erhöht.</span>

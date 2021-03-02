@@ -1,11 +1,11 @@
 ---
-title: "Stone Gargoyle"
+title: "Stein-Wasserspeier"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
 unitID: 602
 last_modified_at: 2021-03-02
 locale: de
-ref: "Stone Gargoyle"
+ref: "Stein-Wasserspeier"
 toc: true
 ---
 ## General information
@@ -157,7 +157,7 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Tower**  (Turm-Kader)
+* **Turm**  (Turm-Kader)
 * **Offensiv**  (Offensiv-Kader)
 
 ### Heldenbonus
@@ -187,7 +187,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe beim Meisterduell zu gewinnen.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -195,10 +195,10 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>

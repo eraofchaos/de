@@ -72,6 +72,12 @@ toc: true
 
 ## Exklusiv
 
+ **Name:** [Wespenwurzblatt](/Exclusive/Waspwort Waspwort Leaf/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 
@@ -109,7 +115,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Beschreibung:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Rise of Vitality
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -179,7 +185,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe beim Meisterduell zu gewinnen.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -187,10 +193,10 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
 
 ### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
 
 ### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
 
 ### 4th Skill (or 3rd): Gefeite Formation
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>

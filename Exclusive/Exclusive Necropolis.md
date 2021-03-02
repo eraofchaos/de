@@ -18,10 +18,10 @@ classes: wide
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Skelett](/units/Skeleton/) | [Irisschild](/Exclusive/Skeleton Iris Shield/) | - | Aufladung | - | - |
-  | 2  | [Wandelnde Tote](/units/Walking Dead/) | [Irisschild](/Exclusive/Walking Dead Iris Shield/) | + | Aufladung | - | - |
+  | 2  | [Wandelnde Tote](/units/Walking Dead/) | [Irisschild](/Exclusive/Walking Dead Iris Shield/) | - | Aufladung | - | - |
   | 3  | [Geist](/units/Wight/) | [Arkangesang](/Exclusive/Wight Arcane Chant/) | - | Aufladung | - | - |
-  | 4  | [Vampir](/units/Vampire/) | [Ehrenansturm](/Exclusive/Vampire Knight Pike/) | - | Aufladung | - | - |
-  | 5  | [Lich](/units/Lich/) | [Todestribut](/Exclusive/Lich Death Tribute/) | + | Fernkampf | - | - |
+  | 4  | [Vampir](/units/Vampire/) | [Ritterpike](/Exclusive/Vampire Knight Pike/) | - | Aufladung | - | - |
+  | 5  | [Lich](/units/Lich/) | [Todestribut](/Exclusive/Lich Death Tribute/) | - | Fernkampf | - | - |
   | 6  | [Schwarzer Ritter](/units/Black Knight/) | [Unheilssäbel](/Exclusive/Black Knight Nether Sabre/) | + | Unterstützung | - | - |
   | 7  | [Knochendrache](/units/Bone Dragon/) | [Knochen des unsterblichen Drachen](/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Unterstützung | - | - |
   | 8  | [Mumie](/units/Mummy/) | [Gaze](/Exclusive/Mummy Gauze/) | - | Fernkampf | - | - |

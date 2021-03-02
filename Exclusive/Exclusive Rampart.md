@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Zentaur](/units/Centaur/) | [Irisschild](/Exclusive/Centaur Iris Shield/) | + | Aufladung | - | - |
+  | 1  | [Zentaur](/units/Centaur/) | [Irisschild](/Exclusive/Centaur Iris Shield/) | - | Aufladung | - | - |
   | 2  | [Zwerg](/units/Dwarf/) | [Irisschild](/Exclusive/Dwarf Iris Shield/) | - | Aufladung | - | - |
-  | 3  | [Waldelfe](/units/Wood Elf/) | [Langbogen](/Exclusive/Wood Elf Long Bow/) | + | Aufladung | - | - |
+  | 3  | [Waldelfe](/units/Wood Elf/) | [Langbogen](/Exclusive/Wood Elf Long Bow/) | - | Aufladung | - | - |
   | 4  | [Pegasus](/units/Pegasus/) | [Langbogen](/Exclusive/Pegasus Long Bow/) | + | Aufladung | - | - |
   | 5  | [Dendroidenwache](/units/Dendroid Guard/) | [Irisschild](/Exclusive/Dendroid Guard Iris Shield/) | - | Aufladung | - | - |
-  | 6  | [Einhorn](/units/Unicorn/) | [Ehrenansturm](/Exclusive/Unicorn Knight Pike/) | - | Aufladung | - | - |
-  | 7  | [Grüner Drache](/units/Green Dragon/) | [Prächtiger Drachenflügel](/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Unterstützung | - | - |
-  | 8  | [Druidin](/units/Druid/) | [Stab des Nachwachsens](/Exclusive/Druid Staff of Regrowth/) | + | Fernkampf | - | - |
+  | 6  | [Einhorn](/units/Unicorn/) | [Ritterpike](/Exclusive/Unicorn Knight Pike/) | - | Aufladung | - | - |
+  | 7  | [Grüner Drache](/units/Green Dragon/) | [Prächtiger Drachenflügel](/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Unterstützung | - | - |
+  | 8  | [Druidin](/units/Druid/) | [Stab des Nachwachsens](/Exclusive/Druid Staff of Regrowth/) | - | Fernkampf | - | - |
   | 9  | [Mantis](/units/Mantis/) | - | - | - | none | none |

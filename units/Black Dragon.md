@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
+ **Unit description:** Drachenodem: Greift Feinde mit hoher Reichweite an und fügt ihnen „Verbrennung“ zu.
 
  **Short description:** Allrounder, Magieangriff und -abwehr.
 
@@ -158,7 +158,7 @@ toc: true
 ### Heldenbonus
 * [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -188,7 +188,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Magnetschuppen
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der schwarze Drache 1 Stapel eines Buffs, bis 6 Stapel. Der Buff kann nicht gebannt werden.</span>
 
 ### 2nd Skill (or 1st): Geschmolzene Drachenrüstung
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Magieimmunität&gt;</span><span style="color: #645252;font-size:18px">Für jeden gewirkten &lt;Drachenodem&gt; erhält der Schwarze Drache 2 Stapel eines Buffs, bis 4 Stapel. Der Buff kann nicht gebannt werden.</span>

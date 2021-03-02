@@ -1,17 +1,17 @@
 ---
-title: "Exklusiv - Ehrenansturm"
+title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Sprite Knight Pike/
-excerpt: "Era of Chaos Ehrenansturm. Ehrenansturm. Era of Chaos Exklusiv Ehrenansturm. Pixie Exklusiv."
+excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Pixie Exklusiv."
 last_modified_at: 2021-03-02
 locale: de
-ref: "Sprite Ehrenansturm.md"
+ref: "Sprite Ritterpike.md"
 toc: false
 classes: wide
 ---
  [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Ehrenansturm** 
+ **Name: Ritterpike** 
 
  **Exklusiv for Unit:** [Pixie](/units/Sprite/) 
 
@@ -23,7 +23,7 @@ classes: wide
 
  **Open:** -
 
- **Power:** 1560
+ **Power:** 1440
 
 ## Rangaufstieg
 
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 234 | 11.69 | 167.0 |
-  | 2 | 265 | 14.03 | 200.4 |
-  | 3 | 296 | 16.36 | 233.8 |
-  | 4 | 328 | 18.7 | 267.2 |
-  | 5 | 359 | 21.04 | 300.6 |
-  | 6 | 390 | 23.38 | 334.0 |
-  | 7 | 421 | 25.71 | 367.4 |
+  | 1 | 216 | 11.69 | 167.0 |
+  | 2 | 245 | 14.03 | 200.4 |
+  | 3 | 274 | 16.36 | 233.8 |
+  | 4 | 302 | 18.7 | 267.2 |
+  | 5 | 331 | 21.04 | 300.6 |
+  | 6 | 360 | 23.38 | 334.0 |
+  | 7 | 389 | 25.71 | 367.4 |
 
 

@@ -115,7 +115,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Beschreibung:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Rise of Vitality
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
   <script language="JavaScript">

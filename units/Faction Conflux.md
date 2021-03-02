@@ -17,7 +17,7 @@ classes: wide
   | 1 | [Psy-Elementar](/units/Psychic Elemental/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  Magie-Elementar  |
   | 2 | [Feuervogel](/units/Firebird/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 848.5 | 4525 |  Phönix  |
   | 3 | [Eisdämon](/units/Ice Demon/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |   -   |
-  | 4 | [Leprechaun](/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Wächtergeist des heiligen Baumes  |
+  | 4 | [Leprechaun](/units/Leprechaun/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Meister-Leprechaun  |
   | 5 | [Pixie](/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 6 | [Sturmelementar](/units/Storm Elemental/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Blitzgewitter  |
   | 7 | [Eiselementar](/units/Ice Elemental/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  Stiller Schneegeist  |

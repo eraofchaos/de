@@ -1,7 +1,7 @@
 ---
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Stone Gargoyle Sword/
-excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Stone Gargoyle Exklusiv."
+excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Stein-Wasserspeier Exklusiv."
 last_modified_at: 2021-03-02
 locale: de
 ref: "Stone Gargoyle Schwert.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Schwert** 
 
- **Exklusiv for Unit:** [Stone Gargoyle](/units/Stone Gargoyle/) 
+ **Exklusiv for Unit:** [Stein-Wasserspeier](/units/Stone Gargoyle/) 
 
  **Item to Rangaufstieg:** -
 

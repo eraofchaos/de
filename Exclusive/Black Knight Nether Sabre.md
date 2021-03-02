@@ -33,8 +33,8 @@ classes: wide
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Schwarzen Ritters wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Der Schaden des Schwarzen Ritters wird um 25 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht bereitet der Schwarze Ritter seinen Sturmangriff vor. Während dieser Zeit ist er immun gegen Schaden. Nach 6 Sek. erscheint er vor der gegnerischen Einheit am Ende der Reihe; sollte kein passendes Ziel vorhanden sein, greift er eine zufällige Einheit der hinteren Reihe mit einem kritischen Treffer an. (Kein Erwachen-Effekt. Nur einmal pro Schlacht.) |
-  | **4x** <i class="fas fa-star"/> | ? | Wenn der Schwarze Ritter einen kritischen Treffer erzielt, wird Kritischer Treffer 5 Sek. lang um 50 erhöht. Bis 10 Stapel. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Lebensentzug des Schwarzen Ritters wird um 10 % erhöht und nach jedem erzielten kritischen Treffer zusätzlich 5 Sek. lang um 10 %. |
+  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
+  | **5x** <i class="fas fa-star"/> | ? | Der Lebensentzug des Schwarzen Ritters wird um 20 % erhöht und nach jedem erzielten kritischen Treffer zusätzlich 5 Sek. lang um 20 %. |
   | **6x** <i class="fas fa-star"/> | ? | <Auferstehung des Königs> Beschwört alle 20 Sek. 1 Schwarzen Ritter; wenn das Ziel getötet wird, wird mit einer bestimmten Wahrscheinlichkeit 1 Schwarzer Ritter beschworen. Wenn ein Schwarzer Ritter erscheint, steigt Kritischer Treffer um 100 und Durchdringung um 50. |
 
 

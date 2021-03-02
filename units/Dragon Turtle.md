@@ -116,7 +116,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Ruhiger Körper
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind Stürme gewöhnt; ihre LP werden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, und sie haben eine Wahrscheinlichkeit von 40 %, „Betäubung“ zu widerstehen, solange sie ein Heiliges Emblem ausgerüstet haben.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Pirate Conflict
+### Fraktions-Spezialfähigkeit II : Piratenoffensive
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -167,7 +167,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Urzeit-Drachenschildkröte
 
  **Awaking Beschreibung:** 
 

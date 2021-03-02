@@ -116,7 +116,7 @@ toc: true
 ### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Beschreibung:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">
 
-### Fraktions-Spezialfähigkeit II : Rise of Vitality
+### Fraktions-Spezialfähigkeit II : Erhöhte Vitalität
  **Beschreibung:** <span style="color: #645252;font-size:20px">Burg-Einheiten sind geübt in der Heilung auf dem Schlachtfeld; ihre LP-Regeneration wird erhöht – sie stellen alle 3 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> LP wieder her –, und sie erhalten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Lebensentzug.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -171,40 +171,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Gnollkrieger
 
- **Awaking Beschreibung:** null
+ **Awaking Beschreibung:** Diese blassen Bestien unter dem Mondlicht sind furchtlose Krieger des Sumpflandes. Sie stellen die höchste Soldatenelite der Gnoll-Klans dar und kämpfen für die Befreiung des Festungsvolkes.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Setze einen Gnoll und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Festung-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #876741;font-size:18px"> Zwerge einmal in der Zwergenschatzkammer zu töten. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #876741;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Monster im Gildenabenteuer.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Gnollkrieger-Seelen im Untergrund: Stufen 14-2 and 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe beim Meisterduell zu gewinnen.</span>
+ 4. <span style="color: #876741;font-size:18px">Setze einen Gnoll und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Festung-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Kettenschlag
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kettenschlag&gt;</span><span style="color: #645252;font-size:18px"> Fügt der Zieleinheit zusätzlichen Schaden in Höhe von 400 % des eigenen ANG zu.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Kettenpeinigen
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kettenschlag&gt;</span><span style="color: #645252;font-size:18px"> Verlängert die Wirkungsdauer des Betäubungseffekts der Fähigkeit um 5 Sek.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Ruf der Wildnis
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Primitive Wildnis&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die Durchdringung um 100. Dieser Effekt wird gegen mit Betäubung belegte Gegner verdoppelt.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Ruf des Ungezähmten
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Primitive Wildnis&gt;</span><span style="color: #645252;font-size:18px"> Erhöht den Krit. Gesamt-SCHD um 15 %. Dieser Effekt wird gegen mit Seuche belegte Gegner verdoppelt.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Garantierte Tötung
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:18px"> Erhöht im Kampf gegen Einheiten, deren LP unter 60 % liegen, den eigenen Krit. Treffer um 250.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Durchbrechen
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hinrichtung&gt;</span><span style="color: #645252;font-size:18px"> Erhöht im Kampf gegen Einheiten, deren LP unter 60 % liegen, den eigenen SCHD (Einheit) um 20 %.</span>
 
 ## Technical info
  **runart:** 1

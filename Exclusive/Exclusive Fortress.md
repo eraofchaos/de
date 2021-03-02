@@ -19,10 +19,10 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gnoll](/units/Gnoll/) | [Schwert](/Exclusive/Gnoll Sword/) | - | Aufladung | - | - |
   | 2  | [Echsenmensch](/units/Lizardman/) | [Langbogen](/Exclusive/Lizardman Long Bow/) | - | Aufladung | - | - |
-  | 3  | [Schlangenfliege](/units/Serpent Fly/) | [Arkangesang](/Exclusive/Serpent Fly Arcane Chant/) | - | Aufladung | - | - |
+  | 3  | [Schlangenfliege](/units/Serpent Fly/) | [Arkangesang](/Exclusive/Serpent Fly Arcane Chant/) | + | Aufladung | - | - |
   | 4  | [Basilisk](/units/Basilisk/) | [Basiliskenschwanz](/Exclusive/Basilisk Basilisk's Tail/) | - | Fernkampf | - | - |
   | 5  | [Gorgone](/units/Gorgon/) | [Gorgonenhorn](/Exclusive/Gorgon Gorgon's Horn/) | - | Unterstützung | - | - |
   | 6  | [Wyvern](/units/Wyvern/) | [Wyvernschwanz](/Exclusive/Wyvern Wyvern's Tail/) | - | Fernkampf | - | - |
   | 7  | [Hydra](/units/Hydra/) | [Hydrakopf](/Exclusive/Hydra Hydra's Head/) | - | Unterstützung | - | - |
-  | 8  | [Wespenwurz](/units/Waspwort/) | - | - | - | none | none |
+  | 8  | [Wespenwurz](/units/Waspwort/) | [Wespenwurzblatt](/Exclusive/Waspwort Waspwort Leaf/) | - | Fernkampf | - | - |
   | 9  | [Weißer Tiger](/units/White Tiger/) | - | - | - | none | none |

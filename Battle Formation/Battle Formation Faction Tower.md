@@ -2,7 +2,7 @@
 title: "Kampfformation Turm"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Kampfformation Turm"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionTower"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | **5** | **Turm-Einheiten erhalten pro Turm-Einheit auf dem Feld +30 auf Ausweichen.** |
   | **6** | **Erhöht den ANG aller Turm-Einheiten um 10 %.** |
   | **7** | **Erhöht die Einheitenmagieresistenz aller Turm-Einheiten um 10 %.** |
-  | **8** | **Increases Crit DMG of all friendly Tower units by 12% for 6 seconds when a friendly hero casts a support spell.** |
+  | **8** | **Erhöht den KRIT. SCHD aller verbündeten Turm-Einheiten 6 Sekunden lang um 12 %, wenn ein verbündeter Held einen Hilfszauber wirkt.** |
   | **9** | **Erhöht das Angriffstempo aller Turm-Einheiten um 4 %.** |
 
 ## Kampfformation Circle 1:

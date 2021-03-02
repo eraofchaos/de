@@ -2,7 +2,7 @@
 title: "Kampfformation Dungeon"
 permalink: /Battle Formation/Battle Formation Faction Dungeon internal
 excerpt: "Kampfformation Dungeon"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "BattleFormationFactionDungeon"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | **9** | **Erhöht das Angriffstempo aller Dungeon-Einheiten um 4 %.** |
   | **10** | **Erhöht den ANG aller Dungeon-Einheiten um 15 %.** |
   | **11** | **Erhöht die LP aller Dungeon-Einheiten um 17 %.** |
-  | **12** | **Dungeon units will receive an increase of 5% unit damage when against the bleeding units** |
+  | **12** | **Wenn Dungeon-Einheiten blutenden Einheiten gegenüberstehen, erhöht sich der Einheitenschaden um 5 %.** |
 
 ## Kampfformation Circle 1:
 

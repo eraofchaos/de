@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Fernkampf
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
@@ -29,10 +29,10 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Brennendes Land> Der Feuervogel fügt gegnerischen Einheiten in seiner Reihe alle 10 Sek. 5 Mal Schaden sowie 8 Sek. lang „Verbrennung“ zu. |
+  |  Initial  | ? | <Brennendes Land> Der Feuervogel fügt allen gegnerischen Einheiten, die in derselben Reihe wie das Ziel stehen, 3 Mal alle 10 Sek. Schaden und zu sowie 8 Sek. lang „Verbrennung“. |
   | **1x** <i class="fas fa-star"/> | ? | Der Feuervogel ist immun gegen Schaden durch Feuerzauber. |
   | **2x** <i class="fas fa-star"/> | ? | Der ANG des Feuervogels wird um 10 % erhöht, das Angriffstempo um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | [color=645252,fontsize=20]Wenn der Feuervogel eine 1- oder 4-Mann-Einheit angreift, fügt sein Angriff gegnerischen Einheiten in einem gewissen Radius um das Ziel 60 % Schaden sowie „Verbrennung“ zu.[-] |
+  | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |
   | **4x** <i class="fas fa-star"/> | ? | Gegen Einheiten mit „Verbrennung“ wird Durchdringung des Feuervogels um 400 erhöht. |
   | **5x** <i class="fas fa-star"/> | ? | Wenn ein verbündeter Held einen Feuerzauber wirkt, stellt die Einheit 10 % ihrer LP wieder her. Der Effekt kann einmal alle 5 Sek. ausgelöst werden. |
   | **6x** <i class="fas fa-star"/> | ? | Der Schaden des Feuervogels wird um 20 % erhöht. Wenn ein gegnerischer Held einen Feuerzauber wirkt, werden Schaden und Schadensreduzierung des Feuervogels 5 Sek. lang um 20 % erhöht. |

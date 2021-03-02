@@ -104,10 +104,10 @@ toc: true
   <p id="log"></p>
   </form>
 ### Ultimative Fähigkeit: Verurteilen
- **Beschreibung:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Engel verursacht </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden an 3 zufälligen gegnerischen Einheiten und </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;betäubt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> sie 3 Sek. lang.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Auferstehung
- **Beschreibung:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Engel erweckt 1 deiner Einheiten wieder und stellt </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> LP dieser Einheit wieder her.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Strahlkraft
  **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn sich ein Engel auf dem Schlachtfeld befindet, regenerieren alle verbündeten Einheiten alle 2 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP.</span><span style="color: black">
@@ -182,7 +182,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Erzengel-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Angel and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Setze Engel ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 
 ## Awaken Skills
 

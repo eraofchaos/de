@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Pixie](/units/Sprite/) | [Ehrenansturm](/Exclusive/Sprite Knight Pike/) | - | Aufladung | - | - |
+  | 1  | [Pixie](/units/Sprite/) | [Ritterpike](/Exclusive/Sprite Knight Pike/) | - | Aufladung | - | - |
   | 2  | [Sturmelementar](/units/Storm Elemental/) | [Langbogen](/Exclusive/Storm Elemental Long Bow/) | - | Aufladung | - | - |
   | 3  | [Eiselementar](/units/Ice Elemental/) | [Arkangesang](/Exclusive/Ice Elemental Arcane Chant/) | - | Aufladung | - | - |
   | 4  | [Feuerelementar](/units/Fire Elemental/) | [Feuerenergie](/Exclusive/Fire Elemental Fire Energy/) | - | Fernkampf | - | - |
   | 5  | [Steinelementar](/units/Stone Elemental/) | [Energiekern](/Exclusive/Stone Elemental Energy Core/) | - | Fernkampf | - | - |
   | 6  | [Psy-Elementar](/units/Psychic Elemental/) | [Geistkern](/Exclusive/Psychic Elemental Spirit Core/) | - | Unterstützung | - | - |
-  | 7  | [Feuervogel](/units/Firebird/) | [Ewige Flamme](/Exclusive/Firebird Eternal Flame/) | - | Fernkampf | - | - |
+  | 7  | [Feuervogel](/units/Firebird/) | [Ewige Flamme](/Exclusive/Firebird Eternal Flame/) | + | Fernkampf | - | - |
   | 8  | [Eisdämon](/units/Ice Demon/) | - | - | - | none | none |
-  | 9  | [Leprechaun](/units/Leprechaun/) | - | - | - | none | none |
+  | 9  | [Leprechaun](/units/Leprechaun/) | [Dornen](/Exclusive/Leprechaun Thorns/) | - | Unterstützung | - | - |

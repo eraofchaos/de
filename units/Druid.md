@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Negiert Schild, erhöht Krit. Treffer.
 
- **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+ **Position :** Unterstützt Truppen in der hinteren Reihe, erhöht den Schaden verbündeter Einheiten und bietet Immunität gegen Magieschaden.
 
 ## Grundwerte
  **Base HP: 844.0**
