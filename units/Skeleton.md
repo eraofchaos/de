@@ -3,7 +3,7 @@ title: "Skelett"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde."
 unitID: 301
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Skelett"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Untot
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 57.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Rostiger Helm](/equipment/Rostiger Helm/) | **LP** | **ABW** | 
   | [Unheiliger Schild](/equipment/Unheiliger Schild/) | **ANG** | **ABW** | 
   | [Rostiger Schulterschutz](/equipment/Rostiger Schulterschutz/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Skeleton Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

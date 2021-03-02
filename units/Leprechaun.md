@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die in jadegrüne Mäntel gekleideten Leprechauns waren einst Kinder des Waldes, die frei und ohne Sorgen unter dem Schutz des Weltenbaumes lebten. Doch die Kriegsfanfaren Erathias haben ihren Mut erweckt, den Weltenbaum zu beschützen."
 unitID: 909
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Leprechaun"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Einhorn
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 134.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,9 @@ toc: true
   | [QuellederMacht](/equipment/QuellederMacht/) | **LP** | **ABW** | 
   | [Lifeguard](/equipment/Lifeguard/) | **ANG** | **ABW** | 
   | [DieLeichtigkeitdesWindes](/equipment/DieLeichtigkeitdesWindes/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

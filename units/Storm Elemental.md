@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Sturmelementar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 99.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Donnerkern](/equipment/Donnerkern/) | **LP** | **ABW** | 
   | [Magische Klaue](/equipment/Magische Klaue/) | **ANG** | **ABW** | 
   | [Blitzbetrachter](/equipment/Blitzbetrachter/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Langbogen](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

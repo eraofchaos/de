@@ -3,7 +3,7 @@ title: "Dschinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Dschinn"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/units/Faction Tower/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Seltsames Kristallornament](/equipment/Seltsames Kristallornament/) | **LP** | **ABW** | 
   | [Roter Kupferarmschutz](/equipment/Roter Kupferarmschutz/) | **ANG** | **ABW** | 
   | [Verzauberte Rüstung](/equipment/Verzauberte Rüstung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Lyra](/Exclusive/Genie Lyra/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

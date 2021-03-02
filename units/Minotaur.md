@@ -3,7 +3,7 @@ title: "Minotaurus"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Minotaurus"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon-Truppen
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 108.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Gorgonen-Schulterpanzer](/equipment/Gorgonen-Schulterpanzer/) | **LP** | **ABW** | 
   | [Gorgonenbänder](/equipment/Gorgonenbänder/) | **ANG** | **ABW** | 
   | [Gorgonengürtel](/equipment/Gorgonengürtel/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Minotaur Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

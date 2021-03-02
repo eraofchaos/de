@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Gog"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Feuriges Horn](/equipment/Feuriges Horn/) | **LP** | **ABW** | 
   | [Flammenschweif](/equipment/Flammenschweif/) | **ANG** | **ABW** | 
   | [Versengender Armschutz](/equipment/Versengender Armschutz/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Gog Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

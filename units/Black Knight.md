@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Schwarzer Ritter"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Untot
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Visier der Toten](/equipment/Visier der Toten/) | **LP** | **ABW** | 
   | [Albtraum-Armschutz](/equipment/Albtraum-Armschutz/) | **ANG** | **ABW** | 
   | [Albtraum-Schulterschutz](/equipment/Albtraum-Schulterschutz/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Unheilssäbel](/Exclusive/Black Knight Nether Sabre/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

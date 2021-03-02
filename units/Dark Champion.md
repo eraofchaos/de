@@ -3,12 +3,12 @@ title: "Dunkler Kämpe"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
 unitID: 309
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Dunkler Kämpe"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Untot
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1029.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Schwerer Helm des Vorlebens](/equipment/Schwerer Helm des Vorlebens/) | **LP** | **ABW** | 
   | [Rettendes Infernofeuer](/equipment/Rettendes Infernofeuer/) | **ANG** | **ABW** | 
   | [Schulterblatt des Hades](/equipment/Schulterblatt des Hades/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

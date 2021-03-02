@@ -3,12 +3,12 @@ title: "Giftbrut"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen."
 unitID: 509
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Giftbrut"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 375.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **LP** | **ABW** | 
   | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ANG** | **ABW** | 
   | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

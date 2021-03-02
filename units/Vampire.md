@@ -3,7 +3,7 @@ title: "Vampir"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Vampir"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Böser Geist
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 74.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Leichte Rüstung des Blutdurstes](/equipment/Leichte Rüstung des Blutdurstes/) | **LP** | **ABW** | 
   | [Schattenschultern](/equipment/Schattenschultern/) | **ANG** | **ABW** | 
   | [Schattenumhang](/equipment/Schattenumhang/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Ehrenansturm](/Exclusive/Vampire Knight Pike/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Berserker"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/units/Faction Stronghold/)
 
  **Race:** Ork
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 678.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Knochenkette](/equipment/Knochenkette/) | **LP** | **ABW** | 
   | [Tierknochenhelm](/equipment/Tierknochenhelm/) | **ANG** | **ABW** | 
   | [Lederband](/equipment/Lederband/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Berserkeraxt](/Exclusive/Berserker Berserker's Axe/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

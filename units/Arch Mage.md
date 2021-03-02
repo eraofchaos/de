@@ -3,7 +3,7 @@ title: "Erzmagier"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Erzmagier"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/units/Faction Tower/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Kristallkrone der Magie](/equipment/Kristallkrone der Magie/) | **LP** | **ABW** | 
   | [Mystische Manakugel](/equipment/Mystische Manakugel/) | **ANG** | **ABW** | 
   | [Umhang der Magier](/equipment/Umhang der Magier/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Arch Mage Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

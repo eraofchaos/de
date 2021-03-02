@@ -3,7 +3,7 @@ title: "Echsenmensch"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Echsenmensch"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Bestienmeister
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 174.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Armschutz des Kriegers](/equipment/Armschutz des Kriegers/) | **LP** | **ABW** | 
   | [Schulterblatt des Kriegers](/equipment/Schulterblatt des Kriegers/) | **ANG** | **ABW** | 
   | [Jagdbogen](/equipment/Jagdbogen/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Langbogen](/Exclusive/Lizardman Long Bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Psy-Elementar"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Psy-Elementar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 212.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Himmlischer Stern](/equipment/Himmlischer Stern/) | **LP** | **ABW** | 
   | [Sternengeist-Krone](/equipment/Sternengeist-Krone/) | **ANG** | **ABW** | 
   | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Geistkern](/Exclusive/Psychic Elemental Spirit Core/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

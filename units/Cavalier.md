@@ -3,7 +3,7 @@ title: "Kavallerist"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Kavallerist"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Mensch
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -77,6 +77,15 @@ toc: true
   | [Visier der Abwehr](/equipment/Visier der Abwehr/) | **LP** | **ABW** | 
   | [Schild des Schutzes](/equipment/Schild des Schutzes/) | **ANG** | **ABW** | 
   | [Paladin-Schulterschutz](/equipment/Paladin-Schulterschutz/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Ehrenansturm](/Exclusive/Cavalier Knight Pike/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

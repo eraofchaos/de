@@ -3,7 +3,7 @@ title: "Richterin"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Richterin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Mensch
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Himmlische Segenshaube](/equipment/Himmlische Segenshaube/) | **LP** | **ABW** | 
   | [Leichter Umhang](/equipment/Leichter Umhang/) | **ANG** | **ABW** | 
   | [Göttliche Armschiene](/equipment/Göttliche Armschiene/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [](/Exclusive/Judicator /) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

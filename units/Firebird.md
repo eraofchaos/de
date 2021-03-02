@@ -3,7 +3,7 @@ title: "Feuervogel"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht."
 unitID: 907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Feuervogel"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Einhorn
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 848.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Rune der Wiederauferstehung](/equipment/Rune der Wiederauferstehung/) | **LP** | **ABW** | 
   | [Krallen der tosenden Flamme](/equipment/Krallen der tosenden Flamme/) | **ANG** | **ABW** | 
   | [Regenbogenfarbene Schwingen](/equipment/Regenbogenfarbene Schwingen/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Ewige Flamme](/Exclusive/Firebird Eternal Flame/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Assassine"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Neutrale Armee](/units/Faction Neutral Army/)
+ **Fraktion:** [Neutrale Armee](/units/Faction Neutral Army/)
 
  **Race:** Assassinengilde
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 269.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Versteckte Klinge](/equipment/Versteckte Klinge/) | **LP** | **ABW** | 
   | [Assassinengürtel](/equipment/Assassinengürtel/) | **ANG** | **ABW** | 
   | [Lederstiefel](/equipment/Lederstiefel/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

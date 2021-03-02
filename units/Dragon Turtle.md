@@ -3,7 +3,7 @@ title: "Drachenschildkröte"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Drachenschildkröte"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 362.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Stachliger Schildkrötenpanzer](/equipment/Stachliger Schildkrötenpanzer/) | **LP** | **ABW** | 
   | [Scharfe Kralle der Drachenschildkröte](/equipment/Scharfe Kralle der Drachenschildkröte/) | **ANG** | **ABW** | 
   | [Schwanz der Drachenschildkröte](/equipment/Schwanz der Drachenschildkröte/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Gehorsamkeit](/Exclusive/Dragon Turtle Obedience/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

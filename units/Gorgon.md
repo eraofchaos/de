@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Gorgone"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Tier
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 121.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Barbaren-Rückenpanzerung](/equipment/Barbaren-Rückenpanzerung/) | **LP** | **ABW** | 
   | [Tödliches Ochsenhorn](/equipment/Tödliches Ochsenhorn/) | **ANG** | **ABW** | 
   | [Magischer Ochsenhuf](/equipment/Magischer Ochsenhuf/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Gorgonenhorn](/Exclusive/Gorgon Gorgon's Horn/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

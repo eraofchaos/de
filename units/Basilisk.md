@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
 unitID: 804
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Basilisk"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Tier
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 121.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Gehärtete Schuppe](/equipment/Gehärtete Schuppe/) | **LP** | **ABW** | 
   | [Giftkralle](/equipment/Giftkralle/) | **ANG** | **ABW** | 
   | [Versteinernder Zahn](/equipment/Versteinernder Zahn/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Basiliskenschwanz](/Exclusive/Basilisk Basilisk's Tail/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

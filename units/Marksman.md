@@ -3,7 +3,7 @@ title: "Scharfschütze"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Scharfschütze"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 85.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Stahlkappe](/equipment/Stahlkappe/) | **LP** | **ABW** | 
   | [Durchschussbolzen](/equipment/Durchschussbolzen/) | **ANG** | **ABW** | 
   | [Lederpanzerhandschuhe](/equipment/Lederpanzerhandschuhe/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Langbogen](/Exclusive/Marksman Long Bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

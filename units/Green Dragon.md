@@ -3,7 +3,7 @@ title: "Grüner Drache"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Grüner Drache"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/units/Faction Rampart/)
 
  **Race:** Drache
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 1018.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Drachenschuppen-Rüstung](/equipment/Drachenschuppen-Rüstung/) | **LP** | **ABW** | 
   | [Klauen des Verfalls](/equipment/Klauen des Verfalls/) | **ANG** | **ABW** | 
   | [Giftiges Drachenblut](/equipment/Giftiges Drachenblut/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Prächtiger Drachenflügel](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Faction Cove"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
 
   [Battle Formation](/Battle Formation/Battle Formation Faction Cove)
 
- [Konflux](/units/Faction Conflux){: .btn .btn--primary} [Inferno](/units/Faction Inferno){: .btn .btn--success} [Dungeon](/units/Faction Dungeon){: .btn .btn--warning} [Festung](/units/Faction Fortress){: .btn .btn--danger} [Schutzwall](/units/Faction Rampart){: .btn .btn--info} [Schloss](/units/Faction Castle){: .btn .btn--primary} [Turm](/units/Faction Tower){: .btn .btn--success} [Burg](/units/Faction Stronghold){: .btn .btn--warning} [Bucht](/units/Faction Cove){: .btn .btn--danger} [Neutrale Armee](/units/Faction Neutral Army){: .btn .btn--info} [Nekropolis](/units/Faction Necropolis){: .btn .btn--primary} 
+ [Konflux](/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/units/Faction Dungeon/){: .btn .btn--warning} [Festung](/units/Faction Fortress/){: .btn .btn--danger} [Schutzwall](/units/Faction Rampart/){: .btn .btn--info} [Schloss](/units/Faction Castle/){: .btn .btn--primary} [Turm](/units/Faction Tower/){: .btn .btn--success} [Burg](/units/Faction Stronghold/){: .btn .btn--warning} [Bucht](/units/Faction Cove/){: .btn .btn--danger} [Neutrale Armee](/units/Faction Neutral Army/){: .btn .btn--info} [Nekropolis](/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

@@ -3,7 +3,7 @@ title: "Oger"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Oger"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Ritualgürtel](/equipment/Ritualgürtel/) | **LP** | **ABW** | 
   | [Stammestalisman](/equipment/Stammestalisman/) | **ANG** | **ABW** | 
   | [Ritualschulterschutz](/equipment/Ritualschulterschutz/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Ogre Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

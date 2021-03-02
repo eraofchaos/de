@@ -3,7 +3,7 @@ title: "Mumie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
 unitID: 308
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Mumie"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Untot
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 141.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Uralte Bandage](/equipment/Uralte Bandage/) | **LP** | **ABW** | 
   | [Pupille des Toten](/equipment/Pupille des Toten/) | **ANG** | **ABW** | 
   | [Atem des Todes](/equipment/Atem des Todes/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Gaze](/Exclusive/Mummy Gauze/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

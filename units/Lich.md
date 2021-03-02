@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Lich"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Untot
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 228.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Aaskrone](/equipment/Aaskrone/) | **LP** | **ABW** | 
   | [Seelengürtel](/equipment/Seelengürtel/) | **ANG** | **ABW** | 
   | [Leichte Rüstung der Unterwelt](/equipment/Leichte Rüstung der Unterwelt/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Todestribut](/Exclusive/Lich Death Tribute/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

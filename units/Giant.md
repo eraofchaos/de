@@ -3,7 +3,7 @@ title: "Gigant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Gigant"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/units/Faction Tower/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Schulterschutz aus purem Gold](/equipment/Schulterschutz aus purem Gold/) | **LP** | **ABW** | 
   | [Donnerhelm](/equipment/Donnerhelm/) | **ANG** | **ABW** | 
   | [Blitzharnisch](/equipment/Blitzharnisch/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Tausend Tonnen](/Exclusive/Giant Thousand Ton/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

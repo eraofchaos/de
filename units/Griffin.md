@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Greif"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Tier
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Kopfschutz der Schnelligkeit](/equipment/Kopfschutz der Schnelligkeit/) | **LP** | **ABW** | 
   | [Erzgreifenfeder](/equipment/Erzgreifenfeder/) | **ANG** | **ABW** | 
   | [Wappen des Imperiums](/equipment/Wappen des Imperiums/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Ehrenansturm](/Exclusive/Griffin Knight Pike/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

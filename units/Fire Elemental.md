@@ -3,7 +3,7 @@ title: "Feuerelementar"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Feuerelementar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 195.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Kochender Schild](/equipment/Kochender Schild/) | **LP** | **ABW** | 
   | [Saphirbetrachter](/equipment/Saphirbetrachter/) | **ANG** | **ABW** | 
   | [Meerblaue scharfe Kralle](/equipment/Meerblaue scharfe Kralle/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Feuerenergie](/Exclusive/Fire Elemental Fire Energy/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

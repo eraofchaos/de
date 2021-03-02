@@ -3,7 +3,7 @@ title: "Meerelementar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
 unitID: 9903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Meerelementar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 201.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Kern des Wasserelementars](/equipment/Kern des Wasserelementars/) | **LP** | **ABW** | 
   | [Wellenstrom](/equipment/Wellenstrom/) | **ANG** | **ABW** | 
   | [Wirbelnarbe](/equipment/Wirbelnarbe/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Sea Elemental Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

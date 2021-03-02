@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Roter Drache"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Drache
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 769.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Uralte Schwingen](/equipment/Uralte Schwingen/) | **LP** | **ABW** | 
   | [Versengende Klauen](/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
   | [Brutaler Drachenschwanz](/equipment/Brutaler Drachenschwanz/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

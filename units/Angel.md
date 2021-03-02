@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Engel"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Engel
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Leichte Kampfrüstung](/equipment/Leichte Kampfrüstung/) | **LP** | **ABW** | 
   | [Leichte Panzerhandschuhe](/equipment/Leichte Panzerhandschuhe/) | **ANG** | **ABW** | 
   | [Schulterschutz der Leichtigkeit](/equipment/Schulterschutz der Leichtigkeit/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Durendal](/Exclusive/Angel Durandel/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Hydra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Einhorn
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 769.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Ohrringe des Herrschers](/equipment/Ohrringe des Herrschers/) | **LP** | **ABW** | 
   | [Seuchen-Drachenklaue](/equipment/Seuchen-Drachenklaue/) | **ANG** | **ABW** | 
   | [Scharfe Rückenstacheln](/equipment/Scharfe Rückenstacheln/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Hydrakopf](/Exclusive/Hydra Hydra's Head/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

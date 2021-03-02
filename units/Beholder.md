@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Betrachter"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Böser Geist
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Pupille des Todes](/equipment/Pupille des Todes/) | **LP** | **ABW** | 
   | [Böser Stoßzahn](/equipment/Böser Stoßzahn/) | **ANG** | **ABW** | 
   | [Abgrundtentakel](/equipment/Abgrundtentakel/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Dunkler Blick](/Exclusive/Beholder Dark Gaze/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

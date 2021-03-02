@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern."
 unitID: 506
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Efreet"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Böser Geist
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 225.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Leichte Rüstung der Flamme](/equipment/Leichte Rüstung der Flamme/) | **LP** | **ABW** | 
   | [Armschutz der Flamme](/equipment/Armschutz der Flamme/) | **ANG** | **ABW** | 
   | [Schulterschutz der Flamme](/equipment/Schulterschutz der Flamme/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Efreeti Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,12 +3,12 @@ title: "Böse Zauberin"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie war einst die heilige Jungfrau des Tempels Baa. Ihre Haut ist von Natur aus mit Runen bedeckt, die ihr furchterregende Kräfte ähnlich jener von Dämonen verleihen."
 unitID: 709
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Böse Zauberin"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon-Truppen
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 633.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **LP** | **ABW** | 
   | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ANG** | **ABW** | 
   | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

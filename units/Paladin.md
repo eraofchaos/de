@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
 unitID: 108
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Paladin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 128.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Schwurhelm](/equipment/Schwurhelm/) | **LP** | **ABW** | 
   | [Eiserner Schulterschutz](/equipment/Eiserner Schulterschutz/) | **ANG** | **ABW** | 
   | [Forged Bracers](/equipment/Forged Bracers/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [](/Exclusive/Paladin /) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

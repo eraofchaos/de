@@ -3,7 +3,7 @@ title: "Einhorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Einhorn"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/units/Faction Rampart/)
 
  **Race:** Einhorn
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Träumersteine](/equipment/Träumersteine/) | **LP** | **ABW** | 
   | [Kristallhufe](/equipment/Kristallhufe/) | **ANG** | **ABW** | 
   | [Nebelmähne](/equipment/Nebelmähne/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Ehrenansturm](/Exclusive/Unicorn Knight Pike/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Knochendrache"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Drache
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 758.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Drakonischer Schädel](/equipment/Drakonischer Schädel/) | **LP** | **ABW** | 
   | [Durchbohrende Krallen](/equipment/Durchbohrende Krallen/) | **ANG** | **ABW** | 
   | [Seelenedelstein](/equipment/Seelenedelstein/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Knochen des unsterblichen Drachen](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

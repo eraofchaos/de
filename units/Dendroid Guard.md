@@ -3,7 +3,7 @@ title: "Dendroidenwache"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dendroidenwachen sind die Verkörperung ihrer bewaldeten Heimat. Sie sind nicht sonderlich geschickt, aber extrem hart im Nehmen. Mit den Ranken des Waldes erwürgen sie arglose Gegner."
 unitID: 205
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Dendroidenwache"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/units/Faction Rampart/)
 
  **Race:** Unhold
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 396.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Krone der Fülle](/equipment/Krone der Fülle/) | **LP** | **ABW** | 
   | [Immergrün-Rune](/equipment/Immergrün-Rune/) | **ANG** | **ABW** | 
   | [Rankenrüstung](/equipment/Rankenrüstung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Dendroid Guard Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

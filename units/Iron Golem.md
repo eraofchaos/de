@@ -3,7 +3,7 @@ title: "Eisengolem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Eisengolem"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/units/Faction Tower/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Stachelbewehrter Schulterschutz](/equipment/Stachelbewehrter Schulterschutz/) | **LP** | **ABW** | 
   | [Arkanes Herz](/equipment/Arkanes Herz/) | **ANG** | **ABW** | 
   | [Brustpanzer aus gehärtetem Eisen](/equipment/Brustpanzer aus gehärtetem Eisen/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Iron Golem Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

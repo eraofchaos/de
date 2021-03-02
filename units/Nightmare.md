@@ -3,7 +3,7 @@ title: "Nachtmahr"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Nachtmahr"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 84.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Abgrundfeuer](/equipment/Abgrundfeuer/) | **LP** | **ABW** | 
   | [Asche-Hufeisen](/equipment/Asche-Hufeisen/) | **ANG** | **ABW** | 
   | [Flammende Pferdemähne](/equipment/Flammende Pferdemähne/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [](/Exclusive/Nightmare /) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

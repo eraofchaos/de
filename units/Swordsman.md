@@ -3,7 +3,7 @@ title: "Schwertkämpfer"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Schwertkämpfer"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Ofiziershelm](/equipment/Ofiziershelm/) | **LP** | **ABW** | 
   | [Schild des Imperiums](/equipment/Schild des Imperiums/) | **ANG** | **ABW** | 
   | [Schulterschutz des Imperiums](/equipment/Schulterschutz des Imperiums/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Swordsman Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Geist"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Geist"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Leichte Rüstung des Requiems](/equipment/Leichte Rüstung des Requiems/) | **LP** | **ABW** | 
   | [Verfluchte Seele](/equipment/Verfluchte Seele/) | **ANG** | **ABW** | 
   | [Kleid des Requiems](/equipment/Kleid des Requiems/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Wight Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

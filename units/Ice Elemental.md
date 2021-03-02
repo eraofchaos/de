@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Eiselementar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Kopfschmuck der Gezeiten](/equipment/Kopfschmuck der Gezeiten/) | **LP** | **ABW** | 
   | [Zeichen des Ozeans](/equipment/Zeichen des Ozeans/) | **ANG** | **ABW** | 
   | [Gewand der Meerjungfrau](/equipment/Gewand der Meerjungfrau/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Ice Elemental Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

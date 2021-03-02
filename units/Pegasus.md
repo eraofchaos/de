@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Pegasus"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/units/Faction Rampart/)
 
  **Race:** Wald
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 195.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Immergrün-Reif](/equipment/Immergrün-Reif/) | **LP** | **ABW** | 
   | [Panzerhandschuhe der Rosen](/equipment/Panzerhandschuhe der Rosen/) | **ANG** | **ABW** | 
   | [Wunderrüstung](/equipment/Wunderrüstung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Langbogen](/Exclusive/Pegasus Long Bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

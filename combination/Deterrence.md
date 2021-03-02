@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Abschreckung"
 permalink: /combination/Deterrence/
 excerpt: "Kombinationsinfo - Abschreckung. Units and Heroes Formation."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Abschreckung.md"
 toc: false

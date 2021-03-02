@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Imp"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 51.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Düsteres Katar](/equipment/Düsteres Katar/) | **LP** | **ABW** | 
   | [Düstere Schwingen](/equipment/Düstere Schwingen/) | **ANG** | **ABW** | 
   | [Düstere leichte Rüstung](/equipment/Düstere leichte Rüstung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Imp Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

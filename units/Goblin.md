@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Goblin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/units/Faction Stronghold/)
 
  **Race:** Ork
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Ledergürtel](/equipment/Ledergürtel/) | **LP** | **ABW** | 
   | [Knochenkette](/equipment/Knochenkette/) | **ANG** | **ABW** | 
   | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Schwert](/Exclusive/Goblin Sword/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

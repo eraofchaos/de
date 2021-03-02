@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Roc"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/units/Faction Stronghold/)
 
  **Race:** Einhorn
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Gewitterflügel](/equipment/Gewitterflügel/) | **LP** | **ABW** | 
   | [Blitzkrallen](/equipment/Blitzkrallen/) | **ANG** | **ABW** | 
   | [Blitzrüstung](/equipment/Blitzrüstung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Roc Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

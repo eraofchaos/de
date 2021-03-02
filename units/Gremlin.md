@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gremlins haben sich verpflichtet, dem Turm zu dienen. Sie greifen mit ihren verzauberten Kettenkugeln aus der Ferne an."
 unitID: 601
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Gremlin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/units/Faction Tower/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Verzauberte Haube](/equipment/Verzauberte Haube/) | **LP** | **ABW** | 
   | [Verzauberte Handschuhe](/equipment/Verzauberte Handschuhe/) | **ANG** | **ABW** | 
   | [Windfester Umhang](/equipment/Windfester Umhang/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Langbogen](/Exclusive/Gremlin Long Bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Naga"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/units/Faction Tower/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Schulterschutz des Seefahrers](/equipment/Schulterschutz des Seefahrers/) | **LP** | **ABW** | 
   | [Kopfschmuck des Schlangengottes](/equipment/Kopfschmuck des Schlangengottes/) | **ANG** | **ABW** | 
   | [Robuste und geschmeidige Hüftplatte](/equipment/Robuste und geschmeidige Hüftplatte/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Nagaschwert](/Exclusive/Naga Naga Sword/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

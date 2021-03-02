@@ -3,7 +3,7 @@ title: "Zwerg"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Zwerg"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/units/Faction Rampart/)
 
  **Race:** Wald
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Hörnerhelm](/equipment/Hörnerhelm/) | **LP** | **ABW** | 
   | [Panzerhandschuhe des Herdfeuers](/equipment/Panzerhandschuhe des Herdfeuers/) | **ANG** | **ABW** | 
   | [Schulterschutz des Herdfeuers](/equipment/Schulterschutz des Herdfeuers/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Dwarf Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,12 +3,12 @@ title: "Weißer Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden."
 unitID: 809
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Weißer Tiger"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Einhorn
 
@@ -33,7 +33,7 @@ toc: true
 
  **Base ATK: 1078.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -68,6 +68,9 @@ toc: true
   | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **LP** | **ABW** | 
   | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ANG** | **ABW** | 
   | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

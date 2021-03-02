@@ -3,7 +3,7 @@ title: "Schwarzer Drache"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Schwarzer Drache"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Drache
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 430.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Verheerendes Feuer](/equipment/Verheerendes Feuer/) | **LP** | **ABW** | 
   | [Verdunkelnde Schwingen](/equipment/Verdunkelnde Schwingen/) | **ANG** | **ABW** | 
   | [Eisenschuppe](/equipment/Eisenschuppe/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Schwarze Drachenschuppe](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

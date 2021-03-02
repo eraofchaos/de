@@ -3,7 +3,7 @@ title: "Magisches Luftschiff"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Magisches Luftschiff"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/units/Faction Tower/)
 
  **Race:** Mensch
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 208.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Steuersystem](/equipment/Steuersystem/) | **LP** | **ABW** | 
   | [Hauptkontrollturm](/equipment/Hauptkontrollturm/) | **ANG** | **ABW** | 
   | [Beobachtungsdeck](/equipment/Beobachtungsdeck/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Polaris](/Exclusive/Magic Airship Polaris/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

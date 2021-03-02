@@ -3,7 +3,7 @@ title: "Spartaner"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Spartaner"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Neutrale Armee](/units/Faction Neutral Army/)
+ **Fraktion:** [Neutrale Armee](/units/Faction Neutral Army/)
 
  **Race:** Assassinengilde
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 216.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Stahlschild](/equipment/Stahlschild/) | **LP** | **ABW** | 
   | [Durchdringender Speer](/equipment/Durchdringender Speer/) | **ANG** | **ABW** | 
   | [Fußlappen](/equipment/Fußlappen/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

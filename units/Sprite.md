@@ -3,7 +3,7 @@ title: "Pixie"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Pixie"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 69.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Gewand von Mond und Sternen](/equipment/Gewand von Mond und Sternen/) | **LP** | **ABW** | 
   | [Leuchtende Schmetterlingsflügel](/equipment/Leuchtende Schmetterlingsflügel/) | **ANG** | **ABW** | 
   | [Smaragd-Armreif](/equipment/Smaragd-Armreif/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Ehrenansturm](/Exclusive/Sprite Knight Pike/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,7 +3,7 @@ title: "Regnanschlange"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Regnanschlange"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 100.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Muschelhorn](/equipment/Muschelhorn/) | **LP** | **ABW** | 
   | [Krallen der Meerjungfrau](/equipment/Krallen der Meerjungfrau/) | **ANG** | **ABW** | 
   | [Mazarinflosse](/equipment/Mazarinflosse/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Tagesgezeiten](/Exclusive/Regnan Serpent Day Tides/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

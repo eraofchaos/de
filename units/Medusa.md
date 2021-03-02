@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wunderschöne Frauen mit Schlangenkörpern und Schlangenhaaren. Wer in ihre Augen schaut, wird zu Stein."
 unitID: 704
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Medusa"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Böser Geist
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 202.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Sich windendes Schlangenhaar](/equipment/Sich windendes Schlangenhaar/) | **LP** | **ABW** | 
   | [Krone der Königin](/equipment/Krone der Königin/) | **ANG** | **ABW** | 
   | [Abgrundrüstung](/equipment/Abgrundrüstung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Medusas Bogen](/Exclusive/Medusa Medusa's bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

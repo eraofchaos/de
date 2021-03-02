@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Mönch"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/units/Faction Castle/)
 
  **Race:** Mensch
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Mystikerkappe](/equipment/Mystikerkappe/) | **LP** | **ABW** | 
   | [Ritualrune](/equipment/Ritualrune/) | **ANG** | **ABW** | 
   | [Einfache leichte Rüstung](/equipment/Einfache leichte Rüstung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Arkangesang](/Exclusive/Monk Arcane Chant/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

@@ -3,12 +3,12 @@ title: "Regnanseherin"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen."
 unitID: 9907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Regnanseherin"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1006.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Halskette von Poseidons Seele](/equipment/Halskette von Poseidons Seele/) | **LP** | **ABW** | 
   | [Strahlendes Stirnband](/equipment/Strahlendes Stirnband/) | **ANG** | **ABW** | 
   | [Edler Armreif](/equipment/Edler Armreif/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [](/Exclusive/Regnan Seer /) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

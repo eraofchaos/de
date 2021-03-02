@@ -3,7 +3,7 @@ title: "Höllenhund"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Höllenhunde greifen den Feind mit drei Köpfen an. Ihr Körper ist von glühend heißer Lava überzogen, und ihre Spuren hinterlassen Flammen."
 unitID: 503
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Höllenhund"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Tier
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 77.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Höllische Rüstung](/equipment/Höllische Rüstung/) | **LP** | **ABW** | 
   | [Versengende Klauen](/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
   | [Flammenmähne](/equipment/Flammenmähne/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Ehrenansturm](/Exclusive/Hell Hound Knight Pike/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

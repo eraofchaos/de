@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
 unitID: 801
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Gnoll"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Bestienmeister
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Werwolf-Turmschild](/equipment/Werwolf-Turmschild/) | **LP** | **ABW** | 
   | [Werwolfkette](/equipment/Werwolfkette/) | **ANG** | **ABW** | 
   | [Werwolf-Panzerhandschuhe](/equipment/Werwolf-Panzerhandschuhe/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Schwert](/Exclusive/Gnoll Sword/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

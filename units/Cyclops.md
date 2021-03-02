@@ -3,7 +3,7 @@ title: "Zyklop"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Zyklop"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 678.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Fesseln des Krieges](/equipment/Fesseln des Krieges/) | **LP** | **ABW** | 
   | [Stachliger Armschutz](/equipment/Stachliger Armschutz/) | **ANG** | **ABW** | 
   | [Leather Trousers](/equipment/Leather Trousers/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Langbogen](/Exclusive/Cyclops Long Bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

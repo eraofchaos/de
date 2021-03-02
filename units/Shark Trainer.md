@@ -3,12 +3,12 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion: ** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/units/Faction Cove/)
 
  **Race:** Pirat
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Schutzriemen](/equipment/Schutzriemen/) | **LP** | **ABW** | 
   | [Schutzhandschuhe](/equipment/Schutzhandschuhe/) | **ANG** | **ABW** | 
   | [Haizügel](/equipment/Haizügel/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

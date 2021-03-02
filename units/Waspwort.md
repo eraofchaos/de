@@ -3,7 +3,7 @@ title: "Wespenwurz"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
 unitID: 808
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Wespenwurz"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Tier
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 950.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Giftdorn](/equipment/Giftdorn/) | **LP** | **ABW** | 
   | [Blumen-Overlord](/equipment/Blumen-Overlord/) | **ANG** | **ABW** | 
   | [Killerbiene](/equipment/Killerbiene/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

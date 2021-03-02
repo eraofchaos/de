@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Troglodyt"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon-Truppen
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 86.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Schädelplatte des Wirts](/equipment/Schädelplatte des Wirts/) | **LP** | **ABW** | 
   | [Rückenbrecherstich](/equipment/Rückenbrecherstich/) | **ANG** | **ABW** | 
   | [Stark ätzendes Blut](/equipment/Stark ätzendes Blut/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Schwert](/Exclusive/Troglodyte Sword/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

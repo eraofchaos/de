@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Wyvern"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/units/Faction Fortress/)
 
  **Race:** Tier
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 500.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Seuchenzahn](/equipment/Seuchenzahn/) | **LP** | **ABW** | 
   | [Imp-Rückenstacheln](/equipment/Imp-Rückenstacheln/) | **ANG** | **ABW** | 
   | [Drachenschwingen](/equipment/Drachenschwingen/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Wyvernschwanz](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

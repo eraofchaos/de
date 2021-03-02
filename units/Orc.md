@@ -3,7 +3,7 @@ title: "Ork"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Ork"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/units/Faction Stronghold/)
 
  **Race:** Ork
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Gürtel der Zurückhaltung](/equipment/Gürtel der Zurückhaltung/) | **LP** | **ABW** | 
   | [Eiserner Schulterschutz](/equipment/Eiserner Schulterschutz/) | **ANG** | **ABW** | 
   | [Blutdürstiger Schulterschutz](/equipment/Blutdürstiger Schulterschutz/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Langbogen](/Exclusive/Orc Long Bow/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

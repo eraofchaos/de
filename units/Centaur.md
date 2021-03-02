@@ -3,7 +3,7 @@ title: "Zentaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Zentaur"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion: ** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/units/Faction Rampart/)
 
  **Race:** Wald
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Helm der Wildnis](/equipment/Helm der Wildnis/) | **LP** | **ABW** | 
   | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ANG** | **ABW** | 
   | [Schulterschutz der Wildnis](/equipment/Schulterschutz der Wildnis/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Irisschild](/Exclusive/Centaur Iris Shield/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

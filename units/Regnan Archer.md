@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Regnanbogensch."
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/units/Faction Cove/)
 
  **Race:** Pirat
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 235.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Kappe des Ansehens](/equipment/Kappe des Ansehens/) | **LP** | **ABW** | 
   | [Stahlpfeil](/equipment/Stahlpfeil/) | **ANG** | **ABW** | 
   | [Jägerkleidung](/equipment/Jägerkleidung/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

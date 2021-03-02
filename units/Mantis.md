@@ -3,12 +3,12 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ihre rasiermesserscharfen, riesigen Klingen demonstrieren ihren Stolz als legendäres Geschöpf. Die Elfen von Vori verliehen der Mantis hohe und ausdauernde Vitalität."
 unitID: 209
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Mantis"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion: ** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/units/Faction Rampart/)
 
  **Race:** Einhorn
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1140.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **LP** | **ABW** | 
   | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ANG** | **ABW** | 
   | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 

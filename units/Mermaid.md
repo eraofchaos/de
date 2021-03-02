@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Meerjungfrau"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion: ** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 185.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Meermensch-Ohrringe](/equipment/Meermensch-Ohrringe/) | **LP** | **ABW** | 
   | [Flexibler Fischschwanz](/equipment/Flexibler Fischschwanz/) | **ANG** | **ABW** | 
   | [Schutz des Meeres](/equipment/Schutz des Meeres/) | **LP** | **ABW** | 
+
+## Exklusiv
+
+ **Name:** [Night Tides](/Exclusive/Mermaid Night Tides/) 
+
+ **Item to Rangaufstieg:** -
+
+ **Skin:** -
+
 
 ## Empfohlene Heilige Embleme
 

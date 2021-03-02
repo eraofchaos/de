@@ -3,12 +3,12 @@ title: "Eisdämon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Eisdämon ist selbst auf der Konflux-Ebene eine seltsame Existenz. Er ist wie ein Stück Eis, das niemals schmilzt. Er blendet deine Augen und raubt dir den Atem. Er ist wie die Leichen, die in Gletschergräbern ruhen."
 unitID: 908
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: de
 ref: "Eisdämon"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion: ** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Frostberührung](/equipment/Frostberührung/) | **LP** | **ABW** | 
   | [Eiskalter Helm](/equipment/Eiskalter Helm/) | **ANG** | **ABW** | 
   | [Thron aus Eis](/equipment/Thron aus Eis/) | **LP** | **ABW** | 
+
+## Exklusiv
+
 
 ## Empfohlene Heilige Embleme
 
