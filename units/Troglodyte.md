@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Troglodyt"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Schwert](/Exclusive/Troglodyte Sword/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

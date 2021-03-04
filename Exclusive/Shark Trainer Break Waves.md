@@ -2,7 +2,7 @@
 title: "Exklusiv - Wellen brechen"
 permalink: /Exclusive/Shark Trainer Break Waves/
 excerpt: "Era of Chaos Wellen brechen. Wellen brechen. Era of Chaos Exklusiv Wellen brechen. Hai-Ausbilder Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Shark Trainer Wellen brechen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Orkan> Alle 15 Sek. schwenkt der Hai-Ausbilder seine Klinge und fügt allen gegnerischen Einheiten in großer Reichweite 100 % Schaden zu. Fügt außerdem Abschreckung zu und verringert den SCHD (Einheit) gegnerischer Einheiten 7 Sek. lang um 30 %. |
+  |  Erwachen  | ? | <Orkan> Alle 15 Sek. schwenkt der Hai-Ausbilder seine Klinge und fügt allen gegnerischen Einheiten in großer Reichweite 100 % Schaden zu. Fügt außerdem Abschreckung zu und verringert den SCHD (Einheit) gegnerischer Einheiten 7 Sek. lang um 30 %. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht Krit. Treffer des Hai-Ausbilders und der Haie um 400. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn eine Blase erworben wird, erhöht sich das eigene Angriffstempo für 8 Sek. um 20 %. Das Angriffstempo erhöht sich um 20 % gegen Einheiten, die mit Blutung belegt sind. |
   | **3x** <i class="fas fa-star"/> | ? | <Blutfehde> Wenn ein Hai-Ausbilder oder ein Hai zum ersten Mal unter 50 % LP fällt, erhalten sie eine Blase in Höhe von 30 % der eigenen max. LP für den gesamten Kampf, die nicht entfernt werden kann. Gleichzeitig gehen der Hai und der Hai-Ausbilder in den Zustand „Vergeltung“ über. In den nächsten 10 Sek. fügen Angriffe dem Ziel Schaden in Höhe von 8 % der max. LP zu und verursachen 12 Sek. lang „Blutung“, die nicht entfernt werden kann. Diese Fähigkeit kann nicht zum Verstummen gebracht werden. |

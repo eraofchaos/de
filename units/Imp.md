@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Imp"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Irisschild](/Exclusive/Imp Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

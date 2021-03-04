@@ -2,7 +2,7 @@
 title: "Exklusiv - Energiekern"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Energiekern. Energiekern. Era of Chaos Exklusiv Energiekern. Steinelementar Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Stone Elemental Energiekern.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Felsenschlag> Die Einheit schlägt auf den Boden ein, was gegnerischen Einheiten in einem großen Bereich Schaden in Höhe von 200 % des ANG zufügt und sie 3 Sek. lang „hochschlägt“ und „betäubt“. AKZ 20 Sek., Start-AKZ 10 Sek. |
+  |  Erwachen  | ? | <Felsenschlag> Die Einheit schlägt auf den Boden ein, was gegnerischen Einheiten in einem großen Bereich Schaden in Höhe von 200 % des ANG zufügt und sie 3 Sek. lang „hochschlägt“ und „betäubt“. AKZ 20 Sek., Start-AKZ 10 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Steinelementars wird erhöht um 20 %. Der Effekt wird verdoppelt, wenn der Steinelementar von einer Zauberer-Einheit angegriffen wird. |
   | **2x** <i class="fas fa-star"/> | ? | <Lehm> Wenn gegnerische oder verbündete Helden einen Erdzauber wirken, stellt der Steinelementar 2 % seiner max. LP wieder her. |
   | **3x** <i class="fas fa-star"/> | ? | <Felsenschlag> Senkt das Angriffstempo gegnerischer Einheiten 8 Sek. lang um 20 %. Die Schadensreduzierung von Einheiten, die durch <Flammentrio> „Verbrennung“ erlitten haben, wird 8 Sek. lang um 15 % reduziert. |

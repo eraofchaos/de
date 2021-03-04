@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Betrachter"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Dunkler Blick](/Exclusive/Beholder Dark Gaze/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

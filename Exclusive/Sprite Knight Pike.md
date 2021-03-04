@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Pixie Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Sprite Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Erhöht zu Beginn des Kampfes für 30 Sek. den SCHD (Einheit) des Pixies um 20 % und das Angriffstempo um 20 %. |
+  |  Erwachen  | ? | Erhöht zu Beginn des Kampfes für 30 Sek. den SCHD (Einheit) des Pixies um 20 % und das Angriffstempo um 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Pixies um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den Krit. Treffer des Pixies um 200. |
   | **3x** <i class="fas fa-star"/> | ? | Der Pixie fügt der Zieleinheit Schaden in Höhe von 450 % des eigenen ANG zu und verursacht 3 Sek. lang zufällig „Erstarren“, „Verbrennung“, „Versteinerung“ oder „Schock“. Die AKZ beträgt 18 Sek. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Roc Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Roc Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Statischer Puls> Roc setzt die Blitze in seinem Körper ein, um gegnerischen Einheiten in einem großen Radius jede Sekunde Schaden in Höhe von 2 % seiner max. LP zuzufügen und das Angriffstempo 5 Sek. lang um 20 % zu verringern. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Statischer Puls> Roc setzt die Blitze in seinem Körper ein, um gegnerischen Einheiten in einem großen Radius jede Sekunde Schaden in Höhe von 2 % seiner max. LP zuzufügen und das Angriffstempo 5 Sek. lang um 20 % zu verringern. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht Rocs ANG um 20 % und den Krit. Gesamt-SCHD um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht Rocs SCHD (Einheit) um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn Roc Gegner während <Statischer Puls> angreift, erhöht er das eigene Angriffstempo um 30 % und den Krit. Gesamt-SCHD um 40 %. |

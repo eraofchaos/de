@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Erzmagier Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Arch Mage Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Magie einflößen> Die Magierin füllt ihren Stab mit Magie und startet einen mächtigen Angriff, der an der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG verursacht. Die AKZ beträgt 18 Sek. |
+  |  Erwachen  | ? | <Magie einflößen> Die Magierin füllt ihren Stab mit Magie und startet einen mächtigen Angriff, der an der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG verursacht. Die AKZ beträgt 18 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | <Magisches Erwachen> Wenn die Magierin durch den Hilfszauber eines verbündeten Helden gestärkt wird, wirkt sie sofort ein Mal <Magie einflößen>. |
   | **2x** <i class="fas fa-star"/> | ? | Füllt die Rüstung mit Magie, wenn <Magie einflößen> gewirkt wird. Dadurch wird für 3 Sek. die SCHD-Reduzierung (Einheit) von verbündeten Einheiten in großer Reichweite um sich selbst herum um 10 % und die Magieresistenz um 40 % erhöht. Kann nicht gestapelt werden. |
   | **3x** <i class="fas fa-star"/> | ? | Tränkt die Waffe mit <Wassermagie – Erstarren>, wenn <Magie einflößen> gewirkt wird: Der nächste Angriff lässt die Zieleinheit garantiert für 2 – 4 Sek. erstarren. |

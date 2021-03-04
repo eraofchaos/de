@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Waldelfe Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Wood Elf Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Pfeilhagel> Die normalen Angriffe der Waldelfe haben eine Chance von 3 %, <Pfeilhagel> auszulösen. Dabei wird ein Sperrfeuer von Pfeilen auf das Zielgebiet entfesselt, welches dem Zielgebiet alle 0,5 Sek. 3 Sek. lang Schaden in Höhe von 20 % des ANG der Waldelfe zufügt. |
+  |  Erwachen  | ? | <Pfeilhagel> Die normalen Angriffe der Waldelfe haben eine Chance von 3 %, <Pfeilhagel> auszulösen. Dabei wird ein Sperrfeuer von Pfeilen auf das Zielgebiet entfesselt, welches dem Zielgebiet alle 0,5 Sek. 3 Sek. lang Schaden in Höhe von 20 % des ANG der Waldelfe zufügt. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) der Waldelfe um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Der ANG der Waldelfe wird um 20 % erhöht, das Angriffstempo um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Die Auslöserate von <Pfeilhagel> erhöht sich auf 200 % der ursprünglichen Fähigkeit. Es besteht eine Chance von 50 %, Gegner zu verlangsamen, wodurch deren Angriffstempo um 10 % verringert wird. Hält 5 Sek. lang an. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Pikenier Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Pikeman Schwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Heiliger-Speer-Schlag> Der Pikenier fügt der Zieleinheit einmal alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu. Dabei verringert er die ABW des Ziels 7 Sek. lang um 4 %, was bis zu 4 Mal stapelbar ist. Wenn die Zieleinheit betäubt ist, wird auch die Zähigkeit 6 Sek. lang um 150 verringert. |
+  |  Erwachen  | ? | <Heiliger-Speer-Schlag> Der Pikenier fügt der Zieleinheit einmal alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu. Dabei verringert er die ABW des Ziels 7 Sek. lang um 4 %, was bis zu 4 Mal stapelbar ist. Wenn die Zieleinheit betäubt ist, wird auch die Zähigkeit 6 Sek. lang um 150 verringert. |
   | **1x** <i class="fas fa-star"/> | ? | Das Angriffstempo des Pikeniers wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Pikeniers um 150. |
   | **3x** <i class="fas fa-star"/> | ? | <Eifriger Ansturm> Löst einen zusätzlichen <Heiliger-Speer-Schlag> aus, wenn der Pikenier „Hohe Moral“ hat. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Pegasus Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Pegasus Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Jeder Standardangriff fügt dem Ziel zusätzlichen Schaden in Höhe von 30 % des ANG zu. |
+  |  Erwachen  | ? | Jeder Standardangriff fügt dem Ziel zusätzlichen Schaden in Höhe von 30 % des ANG zu. |
   | **1x** <i class="fas fa-star"/> | ? | Der Schaden des Pegasus wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Der ANG des Pegasus wird um 20 % erhöht, das Angriffstempo um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Klingensturm> Der Pegasus wirft alle 25 Sek. einen Rosendorn, der allen gegnerischen Einheiten Schaden in Höhe von 5 % der max. LP + 20 % ANG zufügt. Die Feinde bluten 10 Sek. lang. |

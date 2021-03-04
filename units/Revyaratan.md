@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Revyaratan"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Düstere Gezeiten](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

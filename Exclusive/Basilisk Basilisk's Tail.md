@@ -2,7 +2,7 @@
 title: "Exklusiv - Basiliskenschwanz"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Basiliskenschwanz. Basiliskenschwanz. Era of Chaos Exklusiv Basiliskenschwanz. Basilisk Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Basilisk Basiliskenschwanz.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Wenn ein Angriff eine Zieleinheit trifft, besteht eine Chance von 8 %, ihr zusätzlich Schaden in Höhe von 100 % des eigenen ANG zuzufügen und sie 3 Sek. lang zu versteinern. |
+  |  Erwachen  | ? | Wenn ein Angriff eine Zieleinheit trifft, besteht eine Chance von 8 %, ihr zusätzlich Schaden in Höhe von 100 % des eigenen ANG zuzufügen und sie 3 Sek. lang zu versteinern. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) und die LP des Basilisken jeweils um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Sobald Basilisk-Angriffe den Erwachen-Effekt auslösen, erhöht sich die ABW für 3 Sek. um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn das Ziel getötet wird, erhält die Einheit ein [Seuchen-Miasma], das 20 Sek. lang Schaden in Höhe von 30 % ihrer LP absorbiert. Dieser Effekt ist nicht stapelbar. Wenn die LP der Einheit zum ersten Mal unter 30 % sinken, wird ebenfalls ein [Seuchen-Miasma] gewirkt. |

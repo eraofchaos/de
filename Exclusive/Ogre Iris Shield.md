@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Oger Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Ogre Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Beschwört alle 30 Sek. einen Opferkreis, in dem gegnerische Einheiten 15 Sek. lang 1,5 % der max. LP als Schaden erleiden. Verbündete Einheiten im Kreis stellen während der Wirkungsdauer 5 % des ANG als LP wieder her. |
+  |  Erwachen  | ? | Beschwört alle 30 Sek. einen Opferkreis, in dem gegnerische Einheiten 15 Sek. lang 1,5 % der max. LP als Schaden erleiden. Verbündete Einheiten im Kreis stellen während der Wirkungsdauer 5 % des ANG als LP wieder her. |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Ogers wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn der Oger Amok läuft, wird der Schaden aller verbündeten Einheiten um 10 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn der Oger das Schlachtfeld betritt, erhöht er das Angriffstempo aller verbündeten Burg-Einheiten um 10 %. Seine eigene ABW wird um 10 % erhöht. |

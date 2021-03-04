@@ -2,7 +2,7 @@
 title: "Exklusiv - Teufelssense"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Teufelssense. Teufelssense. Era of Chaos Exklusiv Teufelssense. Teufel Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Devil Teufelssense.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Nach seinem ersten Tod wird der Teufel nach 6 Sek. an seinem Spawnpunkt wiederbelebt. Der wiedergeborene Teufel erhöht die nächsten 20 Sek. Kritischer Schaden, Angriffstempo und Schadensreduzierung für alle verbündeten Einheiten; für Inferno-Einheiten wird der Effekt verdoppelt. Der wiedergeborene Teufel wirkt <Rache> auf das Ziel. <Rache> Verursacht Schaden in Höhe von 200 % des ANG und fügt dem Ziel „Auszehrung“ zu. Die Fähigkeit kann einmal alle 45 Sek. ausgelöst werden. „Auszehrung“ hält 5 Sek. lang und kann nicht gebannt werden. Reduziert die Schadensreduzierung und ABW der „ausgezehrten“ Einheit um 20 %. |
+  |  Erwachen  | ? | Nach seinem ersten Tod wird der Teufel nach 6 Sek. an seinem Spawnpunkt wiederbelebt. Der wiedergeborene Teufel erhöht die nächsten 20 Sek. Kritischer Schaden, Angriffstempo und Schadensreduzierung für alle verbündeten Einheiten; für Inferno-Einheiten wird der Effekt verdoppelt. Der wiedergeborene Teufel wirkt <Rache> auf das Ziel. <Rache> Verursacht Schaden in Höhe von 200 % des ANG und fügt dem Ziel „Auszehrung“ zu. Die Fähigkeit kann einmal alle 45 Sek. ausgelöst werden. „Auszehrung“ hält 5 Sek. lang und kann nicht gebannt werden. Reduziert die Schadensreduzierung und ABW der „ausgezehrten“ Einheit um 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Der Teufel wirkt alle 9 Sek. ein <Inferno-Zeichen> auf eine zufällige gegnerische Einheit. Jeder Stapel des Zeichens reduziert die Schadensreduzierung des Ziels um 7 %, bis 3 Stapel. Wenn das Zeichen 3 Stapel hat, wird es vom Ziel entfernt und verursacht 300 % Schaden. Das Zeichen bleibt die gesamte Schlacht über aktiv und kann nicht gebannt werden. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den Schaden des Dämonen um 10 % und seine Schadensreduzierung um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Die Standardangriffe des Dämonen verursachen zusätzlich 30 % ANG als Schaden, und ihre Durchdringung ist erhöht um 300. |

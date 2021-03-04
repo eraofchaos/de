@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Gog"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Arkangesang](/Exclusive/Gog Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

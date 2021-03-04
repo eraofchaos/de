@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Dämon Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Demon Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Zu Beginn der Schlacht wird Ausweichen des Dämons 30 Sek. lang um 1.000 erhöht. Für jedes erfolgreiche Ausweichen erhöht sich die Schadensreduzierung dauerhaft um 1 %, bis max. 30 %. |
+  |  Erwachen  | ? | Zu Beginn der Schlacht wird Ausweichen des Dämons 30 Sek. lang um 1.000 erhöht. Für jedes erfolgreiche Ausweichen erhöht sich die Schadensreduzierung dauerhaft um 1 %, bis max. 30 %. |
   | **1x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht steigt die Zähigkeit des Dämons 30 Sek. lang um 500. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die LP des Dämonen um 20 % und seine Schadensreduzierung um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Dämonen um 10 %. Wenn seine LP das erste Mal unter 50 % fallen, wird seine ABW 10 Sek. lang um 100 % erhöht. |

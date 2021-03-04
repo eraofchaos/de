@@ -2,7 +2,7 @@
 title: "Exklusiv - "
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Nachtmahr Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Nightmare .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Spurlos> Jedes Mal, wenn ein Nachtmahr angegriffen wird, besteht eine Chance von 25 %, für die Dauer eines Angriffs das eigene Angriffstempo um 500 % und den Lebensentzug um 50 % zu erhöhen. |
+  |  Erwachen  | ? | <Spurlos> Jedes Mal, wenn ein Nachtmahr angegriffen wird, besteht eine Chance von 25 %, für die Dauer eines Angriffs das eigene Angriffstempo um 500 % und den Lebensentzug um 50 % zu erhöhen. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Nachtmahrs um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht für jede eingesetzte Inferno-Einheit die LP des Nachtmahrs um 8 % und seine ABW um 5 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Traumkur> Wenn <Spurlos> aktiviert ist, heilt der Nachtmahr die Einheit mit den niedrigsten LP für 200 % LP. |

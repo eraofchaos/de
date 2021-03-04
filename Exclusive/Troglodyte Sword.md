@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Troglodyt Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Troglodyte Schwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Speerstoß> Der Troglodyt fügt der Zieleinheit Schaden in Höhe von 200 % ihres eigenen ANG zu und wirkt 8 Sek. lang „Gift“ bei ihr. Falls die Zieleinheit bereits mit „Gift“ belegt ist, wird sie 1 Sek. lang mit „Betäubung“ belegt. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Speerstoß> Der Troglodyt fügt der Zieleinheit Schaden in Höhe von 200 % ihres eigenen ANG zu und wirkt 8 Sek. lang „Gift“ bei ihr. Falls die Zieleinheit bereits mit „Gift“ belegt ist, wird sie 1 Sek. lang mit „Betäubung“ belegt. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Troglodyten um 20 % und Ausweichen um 200. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Troglodyten um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Witterung des Zauberbrechers> Erhöht 6 Sek. lang die ABW des Troglodyten um 5 % und die Zähigkeit um 40. Bis zu 5 Mal stapelbar. |

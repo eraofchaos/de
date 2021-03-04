@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Geist Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Wight Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Verfluchter Nebel> Der Geist entfesselt einen verfluchten Nebel, der die SCHD-Reduzierung (Einheit) gegnerischer Einheiten in einem großen Radius um die Zieleinheit um 15 % verringert und für 6 Sek. jede Sekunde Schaden in Höhe von 50 % des eigenen ANG verursacht. Die AKZ beträgt 18 Sek. |
+  |  Erwachen  | ? | <Verfluchter Nebel> Der Geist entfesselt einen verfluchten Nebel, der die SCHD-Reduzierung (Einheit) gegnerischer Einheiten in einem großen Radius um die Zieleinheit um 15 % verringert und für 6 Sek. jede Sekunde Schaden in Höhe von 50 % des eigenen ANG verursacht. Die AKZ beträgt 18 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Geistes um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht das Angriffstempo des Geistes um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn Geist-Einheiten sterben, werden 3 Einheiten 5 Sek. lang mit „Furcht“ belegt und ein Stapel Furchtzeichen wird ihnen hinzugefügt. (Furcht: Kann nicht angreifen, sich nicht bewegen und keine Fähigkeiten wirken. Verringert die Magieresistenz um 30 %). |

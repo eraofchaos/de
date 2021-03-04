@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Harpyie Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Harpy Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Kunstflug> Die Harpyie führt einen kraftvollen Angriff auf eine Zieleinheit aus, wobei sie Schaden in Höhe von 300 % des eigenen ANG verursacht. Danach fliegt sie in die Luft, um mit gefiederten Pfeilen zu schießen, die feindlichen Einheiten in großer Reichweite Schaden in Höhe von 10 % der max. LP zufügen und sie 5 Sek. lang mit Falkengift vergiften. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Kunstflug> Die Harpyie führt einen kraftvollen Angriff auf eine Zieleinheit aus, wobei sie Schaden in Höhe von 300 % des eigenen ANG verursacht. Danach fliegt sie in die Luft, um mit gefiederten Pfeilen zu schießen, die feindlichen Einheiten in großer Reichweite Schaden in Höhe von 10 % der max. LP zufügen und sie 5 Sek. lang mit Falkengift vergiften. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) der Harpyie um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG der Harpyie um 40 %, wenn sie gegen fliegende Einheiten kämpft. |
   | **3x** <i class="fas fa-star"/> | ? | <Giftfresser> Wenn sie gegen vergiftete Ziele kämpft, beginnt die Harpyie eine Verfolgung und verursacht Schaden in Höhe von 300 % des eigenen ANG. Die AKZ beträgt 10 Sek. Wenn das Ziel von <Giftexplosion> angegriffen wurde, wird es zudem 5 Sek. lang betäubt. |

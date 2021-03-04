@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Einhorn Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Unicorn Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Schildreflexion> Wenn das Einhorn seinen Schild verliert, fügt es Gegnern in einem kleinen Radius Schaden in Höhe von 150 % des eigenen ANG zu. Wenn die Zieleinheit blutet, wird auch ihre ABW um 20 % verringert. Hält 5 Sek. an. |
+  |  Erwachen  | ? | <Schildreflexion> Wenn das Einhorn seinen Schild verliert, fügt es Gegnern in einem kleinen Radius Schaden in Höhe von 150 % des eigenen ANG zu. Wenn die Zieleinheit blutet, wird auch ihre ABW um 20 % verringert. Hält 5 Sek. an. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Einhorns um 20 % und Ausweichen um 200. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Einhorns um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Blaue Strähne> Wenn das Einhorn während eines einzigen Angriffs mehr als 15 % der eigenen max. LP Schaden erleidet, strahlt sein Horn in einem hellen Licht, das die Zieleinheit erblinden lässt. Wenn die Zieleinheit bereits geblendet ist, wird ihr SCHD (Einheit) um 20 % reduziert. Hält 8 Sek. an. |

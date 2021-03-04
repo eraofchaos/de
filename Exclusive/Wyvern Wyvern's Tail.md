@@ -2,7 +2,7 @@
 title: "Exklusiv - Wyvernschwanz"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Wyvernschwanz. Wyvernschwanz. Era of Chaos Exklusiv Wyvernschwanz. Wyvern Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Wyvern Wyvernschwanz.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Verseuchte Seele> Jedes Mal, wenn ein Wyvern stirbt, erhöht sich der SCHD (Einheit) und die SCHD-Reduzierung (Einheit) der eigenen Festungseinheiten jeweils um 1 %. Bis zu 15 Mal stapelbar. Hält den gesamten Kampf über an. |
+  |  Erwachen  | ? | <Verseuchte Seele> Jedes Mal, wenn ein Wyvern stirbt, erhöht sich der SCHD (Einheit) und die SCHD-Reduzierung (Einheit) der eigenen Festungseinheiten jeweils um 1 %. Bis zu 15 Mal stapelbar. Hält den gesamten Kampf über an. |
   | **1x** <i class="fas fa-star"/> | ? | Das Angriffstempo des Wyvern wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Wyvern um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Verseuchtes Herz> Jedes Mal, wenn ein Wyvern in den Kampf zieht, erhöht er die Durchdringung aller verbündeten Festungseinheiten um 20 und den Krit. SCHD um 2 %. Bis zu 15 Mal stapelbar. Hält den gesamten Kampf über an. Wyvern-Einheiten beschwören alle 15 Sek. 1 Wyvern. Beschworene Wyvern besitzen die Fähigkeiten <Verseuchte Seele> und <Verseuchtes Herz>. |

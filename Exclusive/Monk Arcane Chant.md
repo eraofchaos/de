@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Mönch Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Monk Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Predigt> wird alle 9 Sek. ausgelöst und stellt bei der verbündeten Einheit mit den prozentual niedrigsten LP 125 % des ANG als LP wieder her. |
+  |  Erwachen  | ? | <Predigt> wird alle 9 Sek. ausgelöst und stellt bei der verbündeten Einheit mit den prozentual niedrigsten LP 125 % des ANG als LP wieder her. |
   | **1x** <i class="fas fa-star"/> | ? | Der Angriff des Mönches wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn <Predigt> gewirkt wird, erhält eine zufällige verbündete Einheit 10 Sek. lang „Hohe Moral“. |
   | **3x** <i class="fas fa-star"/> | ? | <Hingabe>: Der Mönch bannt alle 10 Sek. einen Debuff einer zufälligen verbündeten Einheit. |

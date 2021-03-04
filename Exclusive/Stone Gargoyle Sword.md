@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Stein-Wasserspeier Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Stone Gargoyle Schwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Klauenreißen> Fügt einer Zieleinheit Schaden in Höhe von 250 % des eigenen ANG zu und verursacht 6 Sek. lang „Blutung“, während das eigene Angriffstempo 6 Sek. lang um 20 % erhöht wird. Die AKZ beträgt 26 Sek. |
+  |  Erwachen  | ? | <Klauenreißen> Fügt einer Zieleinheit Schaden in Höhe von 250 % des eigenen ANG zu und verursacht 6 Sek. lang „Blutung“, während das eigene Angriffstempo 6 Sek. lang um 20 % erhöht wird. Die AKZ beträgt 26 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Stein-Wasserspeiers um 15 % und seine ABW um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Stein-Wasserspeier um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Magisches Erwachen> Wenn ein Stein-Wasserspeier durch den Zauber eines verbündeten Helden verstärkt wird, erhöht er seine eigene Magieresistenz um 15 % und erhält 8 Sek. lang einen Schild in Höhe von 10 % seiner max. LP. Bis zu 2 Mal stapelbar. |

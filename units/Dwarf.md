@@ -3,7 +3,7 @@ title: "Zwerg"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Zwerg"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Irisschild](/Exclusive/Dwarf Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

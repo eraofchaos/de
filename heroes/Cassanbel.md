@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch."
 heroID: 61701
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Cassanbel"
 toc: true

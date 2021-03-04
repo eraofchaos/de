@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Schwertkämpfer Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Swordsman Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Schildschmettern> Der Schwertkämpfer verlangsamt eine gegnerische Einheit ein Mal alle 18 Sek. und verringert ihre SCHD-Reduzierung (Einheit) für 7 Sek. um 15 %. |
+  |  Erwachen  | ? | <Schildschmettern> Der Schwertkämpfer verlangsamt eine gegnerische Einheit ein Mal alle 18 Sek. und verringert ihre SCHD-Reduzierung (Einheit) für 7 Sek. um 15 %. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP um 20 % und Ausweichen um 200. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht bei Hoher Moral ABW für 5 Sek. um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Schadenserholung> Wenn eine Schwertkämpfer-Einheit in einem einzigen Angriff Schaden von mehr als 8 % ihrer max. LP erleidet, stellt sie LP in Höhe von 150 % des eigenen ANG wieder her. Die AKZ beträgt 10 Sek. |

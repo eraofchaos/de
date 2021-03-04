@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Skelett Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Skeleton Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Verfaulter Leichnam> Das Skelett verwandelt sich in einen verfaulten Leichnam, der alle Einheiten in einem großen Radius alle 20 Sek. für 10 Sek. mit „Niedriger Moral“ belegt und der Zieleinheit Schaden in Höhe von 250 % ihres ANG zufügt. |
+  |  Erwachen  | ? | <Verfaulter Leichnam> Das Skelett verwandelt sich in einen verfaulten Leichnam, der alle Einheiten in einem großen Radius alle 20 Sek. für 10 Sek. mit „Niedriger Moral“ belegt und der Zieleinheit Schaden in Höhe von 250 % ihres ANG zufügt. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Skeletts um 200. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die Basis-LP des Skeletts um 20.000. |
   | **3x** <i class="fas fa-star"/> | ? | <Verkalkung> Das Skelett stellt 10 % seiner max. LP wieder her, wenn es unter Niedriger Moral leidet. Die AKZ beträgt 10 Sek. |

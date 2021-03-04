@@ -2,7 +2,7 @@
 title: "Exklusiv - Lyra"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyra. Lyra. Era of Chaos Exklusiv Lyra. Dschinn Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Genie Lyra.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lampenwächter> Der Dschinn erhält alle 5 Sek. einen Stapel Lampenwächter. Jeder Stapel erhöht die SCHD-Reduzierung (Einheit) um 2 % und hält für den gesamten Kampf an. Bis zu 20 Mal stapelbar. Wenn der Dschinn Schaden nimmt, erhält er einen weiteren Stapel Lampenwächter. |
+  |  Erwachen  | ? | <Lampenwächter> Der Dschinn erhält alle 5 Sek. einen Stapel Lampenwächter. Jeder Stapel erhöht die SCHD-Reduzierung (Einheit) um 2 % und hält für den gesamten Kampf an. Bis zu 20 Mal stapelbar. Wenn der Dschinn Schaden nimmt, erhält er einen weiteren Stapel Lampenwächter. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Dschinns um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die Heilung des Dschinns um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Der Dschinn setzt einen Nebel frei, der 10 Sek. lang den SCHD (Einheit) von 2 zufälligen gegnerischen Fernkampf-/Zauberer-Einheiten um 20 % und Krit. Treffer um 400 verringert. Die AKZ beträgt 15 Sek. |

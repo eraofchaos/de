@@ -2,7 +2,7 @@
 title: "Exklusiv - Geistkern"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Geistkern. Geistkern. Era of Chaos Exklusiv Geistkern. Psy-Elementar Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Psychic Elemental Geistkern.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Demoralisieren> Der Psy-Elementar bombardiert die Psyche des Gegners, wobei er der Zieleinheit Schaden in Höhe von 20 % der max. LP zufügt, und stellt LP in Höhe von 50 % des eigenen ANG wieder her. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Demoralisieren> Der Psy-Elementar bombardiert die Psyche des Gegners, wobei er der Zieleinheit Schaden in Höhe von 20 % der max. LP zufügt, und stellt LP in Höhe von 50 % des eigenen ANG wieder her. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Psy-Elementars um 30 %. |
   | **2x** <i class="fas fa-star"/> | ? | Der Psy-Elementar ist immun gegen jeglichen Zauberschaden. Wenn der Psy-Elementar 4 Arten von <Elementar-Resonanz>-Effekten erhält, werden alle verbündeten Konflux-Einheiten immun gegen jeglichen Zauberschaden. |
   | **3x** <i class="fas fa-star"/> | ? | <Beherrschung> Der Psy-Elementar stiehlt 20 % der ABW einer zufälligen Einheit und gewährt sich selbst einen prozentbezogenen Bonus für 10 Sek. Die AKZ beträgt 10 Sek. |

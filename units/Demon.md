@@ -3,7 +3,7 @@ title: "Dämon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
 unitID: 504
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Dämon"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Irisschild](/Exclusive/Demon Iris Shield/) 
+
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** -
 

@@ -3,7 +3,7 @@ title: "Pixie"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Pixie"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Ritterpike](/Exclusive/Sprite Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

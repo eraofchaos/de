@@ -2,7 +2,7 @@
 title: "Exklusiv - "
 permalink: /Exclusive/Paladin /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Paladin Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Paladin .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ausdauernde Wache> Der Paladin beschützt sich selbst und eine zufällige Nahkampfeinheit, die keine Inferno-Einheit ist. Er erhöht die ABW und die SCHD-Reduzierung (Einheit) beider Einheiten jeweils um 20 % für 10 Sek. und gewährt zudem den Wächterstatus. Dies erhöht die ABW und die SCHD-Reduzierung (Einheit) jeweils zusätzlich um 20 %. Der Wächterstatus wird entfernt, sobald die Einheit 10 Mal Schaden erlitten hat. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Ausdauernde Wache> Der Paladin beschützt sich selbst und eine zufällige Nahkampfeinheit, die keine Inferno-Einheit ist. Er erhöht die ABW und die SCHD-Reduzierung (Einheit) beider Einheiten jeweils um 20 % für 10 Sek. und gewährt zudem den Wächterstatus. Dies erhöht die ABW und die SCHD-Reduzierung (Einheit) jeweils zusätzlich um 20 %. Der Wächterstatus wird entfernt, sobald die Einheit 10 Mal Schaden erlitten hat. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) der verbündeten Einheiten in der Nähe Einheiten in einem kleinen Radius um 20 % und hebt die Begrenzungen für Schloss-Einheiten auf. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den Basis-ABW-Wert des Paladins um 300 und die erhaltene Heilung um 30 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Gläubiges Gebet> Weckt für kurze Zeit die furchtlose Macht des Paladins, verringert die Präzision der gegnerischen Einheiten in einem großen Bereich um 300 und erhöht die Zähigkeit der verbündeten Einheiten um 300. Reinigt alle 4 Sek. verbündete Einheiten in Reichweite und entfernt 1 Debuff-Stapel. Hält 12 Sek. an. Die AKZ beträgt 20 Sek. |

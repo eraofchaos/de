@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Eiselementar"
 toc: true
@@ -74,6 +74,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Arkangesang](/Exclusive/Ice Elemental Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Gremlin Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Gremlin Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Magische Bombe> Wirft eine magische Eisenkugel auf die Zieleinheit, welche Schaden in Höhe von 200 % des eigenen ANG an gegnerischen Einheiten in der Nähe verursacht, sobald die Eisenkugel explodiert. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Magische Bombe> Wirft eine magische Eisenkugel auf die Zieleinheit, welche Schaden in Höhe von 200 % des eigenen ANG an gegnerischen Einheiten in der Nähe verursacht, sobald die Eisenkugel explodiert. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Gremlins um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | <Magisches Erwachen> Erhöht für 5 Sek. die Magieresistenz des Gremlins um 6 % und die SCHD-Reduzierung (Einheit) um 3 %. Bis zu 10 Mal stapelbar. |
   | **3x** <i class="fas fa-star"/> | ? | <Magische Bombe> fügt zusätzlichen Schaden in Höhe von 100 % des eigenen ANG zu und betäubt gegnerische Einheiten für 2 Sek. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Höllenhund Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Hell Hound Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Der Höllenhund greift mit allen 3 Köpfen an und erhöht das Angriffstempo um 300 %, verringert aber den SCHD (Einheit) um 20 %. |
+  |  Erwachen  | ? | Der Höllenhund greift mit allen 3 Köpfen an und erhöht das Angriffstempo um 300 %, verringert aber den SCHD (Einheit) um 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Höllenhundes um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht jedes Mal, wenn der Höllenhund angreift, 3 Sek. lang den Krit. Gesamt-SCHD um 5 %. Bis zu 10 Mal stapelbar. |
   | **3x** <i class="fas fa-star"/> | ? | <Lebendig tot> Wenn die LP des Höllenhundes zum ersten Mal unter 66 % und 33 % fallen, wird ein Kopf geopfert und entfernt. Er wird immun gegen alle abnormalen Status, wodurch für 5 Sek. Ausweichen um 2.000 und Zähigkeit um 1.000 erhöht werden. |

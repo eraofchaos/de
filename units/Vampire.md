@@ -3,7 +3,7 @@ title: "Vampir"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Vampir"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Ritterpike](/Exclusive/Vampire Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Gnoll Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Gnoll Schwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Offene Wunden> Der Gnoll fügt einer Zieleinheit Schaden in Höhe von 275 % des eigenen ANG zu und wirkt 8 Sek. lang „Blutung“. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Offene Wunden> Der Gnoll fügt einer Zieleinheit Schaden in Höhe von 275 % des eigenen ANG zu und wirkt 8 Sek. lang „Blutung“. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die Durchdringung des Gnolls um 100. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht Gnolls SCHD (Einheit) um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Erhöht das Ausweichen des Gnolls um 300. Wenn er einen Krit. Treffer erleidet, stellt er 5 % der max. LP wieder her und hat eine Chance von 50 %, die SCHD-Reduzierung (Einheit) für 1 Sek. um 50 % zu erhöhen. Die AKZ beträgt 3 Sek. |

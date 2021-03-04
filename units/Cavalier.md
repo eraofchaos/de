@@ -3,7 +3,7 @@ title: "Kavallerist"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Kavallerist"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Ritterpike](/Exclusive/Cavalier Knight Pike/) 
+
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** -
 

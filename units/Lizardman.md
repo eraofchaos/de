@@ -3,7 +3,7 @@ title: "Echsenmensch"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Echsenmensch"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Langbogen](/Exclusive/Lizardman Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

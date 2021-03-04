@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Schlangenfliege Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Serpent Fly Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Wenn das Ziel stirbt, verfällt die Schlangenfliege in Raserei, und ihr Angriffstempo wird 20 Sek. lang um 100 % erhöht. |
+  |  Erwachen  | ? | Wenn das Ziel stirbt, verfällt die Schlangenfliege in Raserei, und ihr Angriffstempo wird 20 Sek. lang um 100 % erhöht. |
   | **1x** <i class="fas fa-star"/> | ? | Wenn die Schlangenfliege angreift, besteht eine Wahrscheinlichkeit von 30 %, dass das Ziel „Blutung“ erleidet. |
   | **2x** <i class="fas fa-star"/> | ? | Der Lebensentzug der Schlangenfliege wird um 15 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn das Ziel getötet wird, erhält die Einheit ein [Seuchen-Miasma], das 20 Sek. lang Schaden in Höhe von 30 % ihrer LP absorbiert. Dieser Effekt ist nicht stapelbar. Wenn die LP der Einheit zum ersten Mal unter 30 % sinken, wird ebenfalls ein [Seuchen-Miasma] gewirkt. |

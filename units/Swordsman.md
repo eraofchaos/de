@@ -3,7 +3,7 @@ title: "Schwertkämpfer"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Schwertkämpfer"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Irisschild](/Exclusive/Swordsman Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

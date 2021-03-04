@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Eisengolem Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Iron Golem Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Aufwertungsmodul> Der Eisengolem aktiviert das in ihm versteckte Aufwertungsmodul und erhöht für 10 Sek. seine eigene ABW um 10 %, die SCHD-Reduzierung (Einheit) um 10 % und das Angriffstempo um 30 %. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Aufwertungsmodul> Der Eisengolem aktiviert das in ihm versteckte Aufwertungsmodul und erhöht für 10 Sek. seine eigene ABW um 10 %, die SCHD-Reduzierung (Einheit) um 10 % und das Angriffstempo um 30 %. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Eisengolems um 20 % und seine ABW um 15 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Eisengolems um 300. Wenn <Aufwertungsmodul> gewirkt wurde, wird der Zähigkeitsbonus verdoppelt. |
   | **3x** <i class="fas fa-star"/> | ? | <Elektromagnetische Faust> Wenn der Eisengolem angreift, besteht eine Chance von 10 %, 1 Mal <Elektromagnetische Faust> zu wirken. Diese fügt der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG zu und verringert deren SCHD (Einheit) und deren SCHD-Reduzierung (Einheit) 5 Sek. lang jeweils um 10 %. Bis zu 4 Mal stapelbar. |

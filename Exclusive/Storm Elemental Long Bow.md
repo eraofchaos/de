@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Sturmelementar Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Storm Elemental Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Naturgewalt> Der Sturmelementar ruft das Urteil des Himmels herbei, fügt der Zieleinheit Schaden in Höhe von 300 % des eigenen ANG zu und lähmt sie 5 Sek. lang. Die AKZ beträgt 20 Sek. Die Start-AKZ beträgt 12 Sek. |
+  |  Erwachen  | ? | <Naturgewalt> Der Sturmelementar ruft das Urteil des Himmels herbei, fügt der Zieleinheit Schaden in Höhe von 300 % des eigenen ANG zu und lähmt sie 5 Sek. lang. Die AKZ beträgt 20 Sek. Die Start-AKZ beträgt 12 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Sturmelementars um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den Krit. Treffer des Sturmelementars um 200 und den Krit. Gesamt-SCHD um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Erhöht die Durchdringung des Sturmelementars um 200. Wenn der Zieleinheit „Lähmung“ zugefügt wird, verdoppelt sich dieser Effekt. Wenn beim Wirken von <Naturgewalt> die Zieleinheit von dem exklusiven 3-Sterne-Magieresistenz-Debuff des Eiselementars betroffen ist, wird <Elementarwut> ausgelöst. Die <Elementarwut> fügt gegnerischen Einheiten in einem großen Bereich alle 0,2 Sek. Schaden in Höhe von 100 % des eigenen ANG plus 2 % der max. LP des Ziels zu und verringert zudem SCHD-Reduzierung (Einheit) und ABW der Einheit 3 Sek. lang jeweils um 20 %. |

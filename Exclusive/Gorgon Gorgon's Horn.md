@@ -2,7 +2,7 @@
 title: "Exklusiv - Gorgonenhorn"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Gorgonenhorn. Gorgonenhorn. Era of Chaos Exklusiv Gorgonenhorn. Gorgone Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Gorgon Gorgonenhorn.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Steinrüstung> Der Gorgone bedeckt seinen gesamten Körper mit einer versteinerten Rüstung und erhöht dadurch 6 Sek. lang seine ABW um 24 % und die SCHD-Reduzierung (Einheit) um 20 %. Wenn alle Boni abgebaut sind, fügt der Gorgone gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 150 % des eigenen ANG zu und hat eine Chance von 30 %, 3 Sek. lang „Versteinerung“ zu verursachen. Die AKZ beträgt 18 Sek. |
+  |  Erwachen  | ? | <Steinrüstung> Der Gorgone bedeckt seinen gesamten Körper mit einer versteinerten Rüstung und erhöht dadurch 6 Sek. lang seine ABW um 24 % und die SCHD-Reduzierung (Einheit) um 20 %. Wenn alle Boni abgebaut sind, fügt der Gorgone gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 150 % des eigenen ANG zu und hat eine Chance von 30 %, 3 Sek. lang „Versteinerung“ zu verursachen. Die AKZ beträgt 18 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) und die LP des Gorgonen jeweils um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Beim Wirken von <Steinrüstung> stellt der Gorgone für 5 Sek. LP in Höhe von 10 % der eigenen max. LP wieder her. |
   | **3x** <i class="fas fa-star"/> | ? | <Tektonische Spaltung> Wenn der Gorgone seinen <Steinrüstung>-Bonus verliert, fügt er gegnerischen Einheiten in einem großen Radius jede Sekunde „Verlangsamung“ oder „Verbrennung“ zu und verursacht außerdem 6 Sek. lang Schaden in Höhe von 3 % der max. LP. |

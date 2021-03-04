@@ -3,7 +3,7 @@ title: "Regnanschlange"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Regnanschlange"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Tagesgezeiten](/Exclusive/Regnan Serpent Day Tides/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Druidin"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Stab des Nachwachsens](/Exclusive/Druid Staff of Regrowth/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

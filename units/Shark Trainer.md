@@ -3,7 +3,7 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Wellen brechen](/Exclusive/Shark Trainer Break Waves/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

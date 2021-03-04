@@ -2,7 +2,7 @@
 title: "Exklusiv - Unheilssäbel"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Unheilssäbel. Unheilssäbel. Era of Chaos Exklusiv Unheilssäbel. Schwarzer Ritter Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Black Knight Unheilssäbel.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Der Schwarze Ritter reduziert die ABW gegnerischer Einheiten in hohem Radius um 30 %. Gegen Einheiten mit „Niedrige Moral“ ist sein Durchschlag um 500 erhöht. |
+  |  Erwachen  | ? | Der Schwarze Ritter reduziert die ABW gegnerischer Einheiten in hohem Radius um 30 %. Gegen Einheiten mit „Niedrige Moral“ ist sein Durchschlag um 500 erhöht. |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Schwarzen Ritters wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Der Schaden des Schwarzen Ritters wird um 25 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht bereitet der Schwarze Ritter seinen Sturmangriff vor. Während dieser Zeit ist er immun gegen Schaden. Nach 6 Sek. erscheint er vor der gegnerischen Einheit am Ende der Reihe; sollte kein passendes Ziel vorhanden sein, greift er eine zufällige Einheit der hinteren Reihe mit einem kritischen Treffer an. (Kein Erwachen-Effekt. Nur einmal pro Schlacht.) |

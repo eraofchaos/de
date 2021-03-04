@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Ork Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Orc Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Wirbelnde Kriegsaxt> Der Ork wirft eine riesige Kriegsaxt auf die Zieleinheit, wobei er Schaden in Höhe von 300 % seines eigenen ANG verursacht und 1.000 ABW der Zieleinheit ignoriert. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Wirbelnde Kriegsaxt> Der Ork wirft eine riesige Kriegsaxt auf die Zieleinheit, wobei er Schaden in Höhe von 300 % seines eigenen ANG verursacht und 1.000 ABW der Zieleinheit ignoriert. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Orks um 20 % und den Krit. Treffer um 100. |
   | **2x** <i class="fas fa-star"/> | ? | Jedes Mal, wenn die LP des Orks um 10 % sinken, erhöht sich die SCHD-Reduzierung (Einheit) und die Magieresistenz jeweils um 4 %. Der Effekt bleibt auch nach Wiederherstellung der LP erhalten. |
   | **3x** <i class="fas fa-star"/> | ? | Der Ork konzentriert sich auf seinen aktuellen Kampf. Jeder Angriff erhöht das Angriffstempo der Einheiten um 5 % und den Krit. Treffer um 15. Bis zu 10 Mal stapelbar. Sobald der Ork das Ziel wechselt, werden die Stapel auf 0 zurückgesetzt. |

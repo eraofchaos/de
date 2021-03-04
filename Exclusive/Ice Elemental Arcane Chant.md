@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Eiselementar Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Ice Elemental Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Gefrorener Bruch> Streckt den Gegner mit extremer Kälte nieder, fügt der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG zu und belegt sie für 5 Sek. mit „Erstarren“. Die AKZ beträgt 20 Sek. Die Start-AKZ beträgt 11 Sek. |
+  |  Erwachen  | ? | <Gefrorener Bruch> Streckt den Gegner mit extremer Kälte nieder, fügt der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG zu und belegt sie für 5 Sek. mit „Erstarren“. Die AKZ beträgt 20 Sek. Die Start-AKZ beträgt 11 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Eiselementars um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | <Eisschild> Erzeugt einen Eisschild für eine zufällige verbündete Einheit in der ersten Reihe. Wenn diese Einheit angegriffen wird, wirkt sie 3 Sek. lang „Verlangsamung“. Der Eisschild hält für 10 Sek. Die AKZ beträgt 15 Sek. Diese Fähigkeit wird zu Beginn des Kampfes gewirkt. |
   | **3x** <i class="fas fa-star"/> | ? | Erhöht den Krit. Treffer des Eiselementars um 200. Wenn die Zieleinheit mit „Erstarren“ belegt wird, verdoppelt sich dieser Effekt. Wenn beim Wirken von <Gefrorener Bruch> die Zieleinheit von dem exklusiven 3-Sterne-SCHD-Reduzierung-(Einheit)-Debuff des Steinelementars betroffen ist, wird die Magieresistenz der Zieleinheit zusätzlich um 50 % gesenkt. Dieser Effekt dauert 8 Sek. an. |

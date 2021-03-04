@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Roc"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Arkangesang](/Exclusive/Roc Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

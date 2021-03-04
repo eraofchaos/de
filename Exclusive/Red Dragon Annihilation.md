@@ -2,7 +2,7 @@
 title: "Exklusiv - Auslöschung"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Auslöschung. Auslöschung. Era of Chaos Exklusiv Auslöschung. Roter Drache Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Red Dragon Auslöschung.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Drachenseele> Der Rote Drache verdichtet alle 15 Sek. 1 Drachenseele in seinem Körper – insgesamt bis zu 4 Drachenseelen. Jede Drachenseele erhöht SCHD (Einheit) und SCHD-Reduzierung (Einheit) des Roten Drachen jeweils um 10 %. Wenn der Rote Drache eine Drachenseele ha t, wirkt er <Infernoflamme>, wodurch er der Zieleinheit Schaden in Höhe von 150 % des eigenen ANG zufügt und Einheiten, die von „Verbrennung“ betroffen sind, zusätzlichen Schaden in Höhe von 20 % der max. LP zufügt. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Drachenseele> Der Rote Drache verdichtet alle 15 Sek. 1 Drachenseele in seinem Körper – insgesamt bis zu 4 Drachenseelen. Jede Drachenseele erhöht SCHD (Einheit) und SCHD-Reduzierung (Einheit) des Roten Drachen jeweils um 10 %. Wenn der Rote Drache eine Drachenseele ha t, wirkt er <Infernoflamme>, wodurch er der Zieleinheit Schaden in Höhe von 150 % des eigenen ANG zufügt und Einheiten, die von „Verbrennung“ betroffen sind, zusätzlichen Schaden in Höhe von 20 % der max. LP zufügt. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht für jede eingesetzte Untergrund-Einheit die ABW des Roten Drachen um 50 und die Durchdringung um 50. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht beim Kampf gegen Einheiten mit „Verbrennung“ den SCHD (Einheit) um 20 % und Krit. Treffer um 200. |
   | **3x** <i class="fas fa-star"/> | ? | <Drachenflamme> Der Rote Drache fügt gegnerischen Einheiten in einem großen Radius 130 % des eigenen ANG als Schaden zu. Zusätzlich fügt es ihnen „Verbrennung“ zu, wodurch die SCHD-Reduzierung (Einheit) um 20 % verringert wird und 8 Sek. lang 2 % der max. LP pro Sek. verursacht werden. Die AKZ beträgt 18 Sek. |

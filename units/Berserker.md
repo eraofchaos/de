@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Berserker"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Berserkeraxt](/Exclusive/Berserker Berserker's Axe/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

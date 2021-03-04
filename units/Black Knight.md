@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Schwarzer Ritter"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Unheilssäbel](/Exclusive/Black Knight Nether Sabre/) 
+
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** -
 

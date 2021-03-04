@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Engel"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Durendal](/Exclusive/Angel Durandel/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Scharfschütze Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Marksman Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Panzerbrechender Pfeil> Fügt dem aktuellen Ziel Schaden in Höhe von 300 % des eigenen ANG zu und ignoriert 1.000 der ABW der Zieleinheit. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Panzerbrechender Pfeil> Fügt dem aktuellen Ziel Schaden in Höhe von 300 % des eigenen ANG zu und ignoriert 1.000 der ABW der Zieleinheit. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Scharfschütze um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Scharfschützen um 20 %, wenn der Scharfschütze eine „Hohe Moral“ hat. |
   | **3x** <i class="fas fa-star"/> | ? | Die Angriffe des Scharfschützen belegen gegnerische Einheiten mit „Vergeltung“. Durch insgesamt 18 Angriffe auf dieselbe Zieleinheit wird zusätzlicher Schaden in Höhe von 200 % des ANG des Scharfschützen zugefügt. |

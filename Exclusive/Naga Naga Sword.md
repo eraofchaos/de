@@ -2,7 +2,7 @@
 title: "Exklusiv - Nagaschwert"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Nagaschwert. Nagaschwert. Era of Chaos Exklusiv Nagaschwert. Naga Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Naga Nagaschwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Erwachen  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
   | **1x** <i class="fas fa-star"/> | ? | Die Dauer von Betäubung, Versteinerung, Verlangsamung, Erstarren, Niedrige Moral und Stille werden um 50 % reduziert. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht ANG und Schaden der Naga um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |

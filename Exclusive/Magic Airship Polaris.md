@@ -2,7 +2,7 @@
 title: "Exklusiv - Polaris"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Polaris. Polaris. Era of Chaos Exklusiv Polaris. Magisches Luftschiff Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Magic Airship Polaris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Das Magische Luftschiff fügt 3 zufälligen gegnerischen Einheiten Schaden in Höhe von 150 % des eigenen ANG zu und verringert deren SCHD (Einheit) 7 Sek. lang um 20 %. Die AKZ beträgt 21 Sek. |
+  |  Erwachen  | ? | Das Magische Luftschiff fügt 3 zufälligen gegnerischen Einheiten Schaden in Höhe von 150 % des eigenen ANG zu und verringert deren SCHD (Einheit) 7 Sek. lang um 20 %. Die AKZ beträgt 21 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Das Angriffstempo des Magischen Luftschiffs wird um 10 % erhöht, der ANG um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Magischen Luftschiffs um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | Das Magische Luftschiff erhöht alle 20 Sek. für 8 Sek. den SCHD (Einheit) um 20 %, die Krit. Treffer um 200 und den Krit. Gesamt-SCHD um 20 %. Außerdem gewährt es einer zufälligen verbündeten Zauberer-Einheit einen Buff der Hälfte seiner Attribute. |

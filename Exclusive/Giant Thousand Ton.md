@@ -2,7 +2,7 @@
 title: "Exklusiv - Tausend Tonnen"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Tausend Tonnen. Tausend Tonnen. Era of Chaos Exklusiv Tausend Tonnen. Gigant Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Giant Tausend Tonnen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Der Gigant beschwört 10 Sek. lang eine Gewitterwolke über einer zufälligen Einheit. Die Gewitterwolke trifft alle 0,5 Sek. eine zufällige Einheit in Reichweite, wobei jeder Treffer Schaden in Höhe von 40 % des eigenen ANG verursacht. Wenn dieselbe Einheit innerhalb von 4 Sek. zwei Mal hintereinander getroffen wird, wird die Einheit für 5 Sek. gelähmt. Wenn dieselbe Einheit vier Mal hintereinander getroffen wird, wird die Einheit für 2 Sek. mit „Auszehrung“ belegt. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | Der Gigant beschwört 10 Sek. lang eine Gewitterwolke über einer zufälligen Einheit. Die Gewitterwolke trifft alle 0,5 Sek. eine zufällige Einheit in Reichweite, wobei jeder Treffer Schaden in Höhe von 40 % des eigenen ANG verursacht. Wenn dieselbe Einheit innerhalb von 4 Sek. zwei Mal hintereinander getroffen wird, wird die Einheit für 5 Sek. gelähmt. Wenn dieselbe Einheit vier Mal hintereinander getroffen wird, wird die Einheit für 2 Sek. mit „Auszehrung“ belegt. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Der Gigant erhöht er den SCHD (Einheit) um 10 %. Wenn er auf dem Schlachtfeld ist, erhöht er auch den von verbündeten Zauberer-Einheiten verursachten SCHD (Einheit) um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Der Gigant erweckt kurzzeitig ein Blitzelementar in seiner Rüstung, das innerhalb von 8 Sek. die eigenen Krit. Treffer um 200 und das Angriffstempo um 20 % erhöht. Die AKZ beträgt 14 Sek. |
   | **3x** <i class="fas fa-star"/> | ? | Der Gigant lädt seine eigene Rüstung ein Mal alle 10 Sek. auf, sodass er 3 Mal Schaden blocken kann, während er einen Puls auslöst, der für 6 Sek. die Zähigkeit von verbündeten Turm-Einheiten um 200 und das Ausweichen um 200 erhöht. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Wolfsreiter Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Wolf Rider Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Wolfsschlag> Der Wolfsreiter fügt der Zieleinheit Schaden in Höhe von 250 % des eigenen ANG und 5 % der max. LP des Ziels zu. Die AKZ beträgt 12 Sek. |
+  |  Erwachen  | ? | <Wolfsschlag> Der Wolfsreiter fügt der Zieleinheit Schaden in Höhe von 250 % des eigenen ANG und 5 % der max. LP des Ziels zu. Die AKZ beträgt 12 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Der ANG des Wolfsreiters wird um 20 % erhöht, das Angriffstempo um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Wolfsreiters um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Wolfsbund> Der Wolfsreiter beschwört für 10 Sek. alle 3 Sek. 1 Wolf zur Hilfe im Kampf. Die normalen Angriffe des beschworenen Wolfs haben eine Chance von 5 %, das Ziel für 2 Sek. zu betäuben. |

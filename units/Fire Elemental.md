@@ -3,7 +3,7 @@ title: "Feuerelementar"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Feuerelementar"
 toc: true
@@ -74,6 +74,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Feuerenergie](/Exclusive/Fire Elemental Fire Energy/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

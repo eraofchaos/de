@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Kavallerist Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Cavalier Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Erwachen  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Kavalleristen wird um 25 % erhöht, wenn er Fernkampfschaden erleidet. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Kavalleristen um 20 % und seinen Schaden um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Die ABW des Kavalleristen wird um 10 % erhöht. Zu Beginn der Schlacht wird die Durchdringung aller verbündeten Schloss-Einheiten um 300 erhöht. Dieser Effekt kann nicht gebannt werden. |

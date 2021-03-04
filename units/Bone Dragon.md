@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Knochendrache"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Knochen des unsterblichen Drachen](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

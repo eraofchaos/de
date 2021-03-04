@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Minotaurus Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Minotaur Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Brutaler Ansturm> Der Minotaurus stürmt brutal auf das Ziel zu und verursacht Schaden in Höhe von 300 % des eigenen ANG, während er die SCHD-Reduzierung (Einheit) von gegnerischen Einheiten in einem großen Radius für 7 Sek. um 20 % und ihr Angriffstempo um 10 % senkt. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Brutaler Ansturm> Der Minotaurus stürmt brutal auf das Ziel zu und verursacht Schaden in Höhe von 300 % des eigenen ANG, während er die SCHD-Reduzierung (Einheit) von gegnerischen Einheiten in einem großen Radius für 7 Sek. um 20 % und ihr Angriffstempo um 10 % senkt. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Minotaurus um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht bei Hoher Moral die Zähigkeit für 5 Sek. um 400. |
   | **3x** <i class="fas fa-star"/> | ? | <Blutrausch> Der Minotaurus erlangt LP in Höhe von 10 % seiner eigenen max. LP zurück und verringert den SCHD (Einheit) der gegnerischen Einheiten in geringer Reichweite für 6 Sek. um 20 %. Die AKZ beträgt 15 Sek. |

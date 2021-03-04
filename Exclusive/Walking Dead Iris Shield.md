@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Wandelnde Tote Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Walking Dead Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Abschlachten> Der Wandelnde Tote schwingt ein Beil, das gegnerischen Einheiten in einem kleinen Bereich auf seinem Weg Schaden in Höhe von 100 % seines ANG zufügt. Getroffene Ziele bluten und erleiden 10 Sek. lang jede Sekunde Schaden in Höhe von 10 % seines ANG. AKZ 20 Sek. |
+  |  Erwachen  | ? | <Abschlachten> Der Wandelnde Tote schwingt ein Beil, das gegnerischen Einheiten in einem kleinen Bereich auf seinem Weg Schaden in Höhe von 100 % seines ANG zufügt. Getroffene Ziele bluten und erleiden 10 Sek. lang jede Sekunde Schaden in Höhe von 10 % seines ANG. AKZ 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Die ABW des Wandelnden Toten wird um 300 erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Die Zähigkeit des Wandelnden Toten wird um 500 erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn das Ziel „Niedrige Moral“ hat, werden Angriffstempo und Lebensentzug des Wandelnden Toten um 20 % erhöht. |

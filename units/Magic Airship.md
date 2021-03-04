@@ -3,7 +3,7 @@ title: "Magisches Luftschiff"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Magisches Luftschiff"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Polaris](/Exclusive/Magic Airship Polaris/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

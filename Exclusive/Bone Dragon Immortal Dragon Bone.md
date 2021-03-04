@@ -2,7 +2,7 @@
 title: "Exklusiv - Knochen des unsterblichen Drachen"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Knochen des unsterblichen Drachen. Knochen des unsterblichen Drachen. Era of Chaos Exklusiv Knochen des unsterblichen Drachen. Knochendrache Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Bone Dragon Knochen des unsterblichen Drachen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Drachenkraft> Kann einmal alle 12 Sek. gewirkt werden, um 15 Sek. lang die ABW aller gegnerischen Einheiten um 5 % und ihre Magieresistenz um 30 % zu reduzieren. Außerdem werden alle gegnerischen Einheiten 3 Sek. lang mit <Stille> belegt. Wird garantiert ausgelöst, wenn eine gegnerische Einheit stirbt. |
+  |  Erwachen  | ? | <Drachenkraft> Kann einmal alle 12 Sek. gewirkt werden, um 15 Sek. lang die ABW aller gegnerischen Einheiten um 5 % und ihre Magieresistenz um 30 % zu reduzieren. Außerdem werden alle gegnerischen Einheiten 3 Sek. lang mit <Stille> belegt. Wird garantiert ausgelöst, wenn eine gegnerische Einheit stirbt. |
   | **1x** <i class="fas fa-star"/> | ? | Solange der Knochendrache auf dem Schlachtfeld ist, wird die Zähigkeit aller verbündeter Nekropolis-Einheiten um 200 erhöht, und ihre ABW um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht ANG und Schaden des Knochendrachen um 30 %. |
   | **3x** <i class="fas fa-star"/> | ? | Der Knochendrache kann durch einzelne Angriffe nicht mehr als 40 % seiner max. LP verlieren. Wenn ein einzelner Angriff mehr als 28 % seiner max. LP verursacht, wird <Drachenkraft> ausgelöst. AKZ 10 Sek. Zu Beginn der Schlacht wirkt der Knochendrache einen Dornenkranz auf alle verbündeten Einheiten, der die Schadensreflexion um 10 % erhöht. Dieser Effekt wirkt die gesamte Schlacht über. |

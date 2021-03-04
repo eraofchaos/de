@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Regnanpirat Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Regnan Pirates Schwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Wenn die Einheit angegriffen wird, führt sie einen mächtigen Gegenangriff durch, der Feinden 300 % Schaden zufügt. AKZ 8 Sek. |
+  |  Erwachen  | ? | Wenn die Einheit angegriffen wird, führt sie einen mächtigen Gegenangriff durch, der Feinden 300 % Schaden zufügt. AKZ 8 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Wenn diese Einheit angreift, fügt sie gegnerischen Einheiten mit 50 % Wahrscheinlichkeit <Skorbut> zu, wodurch sie 3 Sek. lang jede Sekunde 1 % LP verlieren und ihre Heilung um 35 % reduziert wird (nicht stapelbar). |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG der Regnanpiraten um 20 % und ihren Schaden um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn die LP der Regnanpiraten das erste Mal unter 30 % fallen, essen sie Orangen gegen den Skorbut und regenerieren 30 % ihrer LP. Sofern ein Heiliges Emblem ausgerüstet ist, ist die Einheit 5 % lang immun gegen Betäubung, Versteinerung und Stille. |

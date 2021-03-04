@@ -2,7 +2,7 @@
 title: "Exklusiv - Berserkeraxt"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Berserkeraxt. Berserkeraxt. Era of Chaos Exklusiv Berserkeraxt. Berserker Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Berserker Berserkeraxt.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Wirbelaxt> Der Berserker wirft eine wirbelnde Axt, die gegnerischen Einheiten in einem großen Bereich vor ihm Schaden in Höhe von 150 % des eigenen ANG zufügt und 8 Sek. lang „Blutung“ wirkt. Die AKZ beträgt 18 Sek. |
+  |  Erwachen  | ? | <Wirbelaxt> Der Berserker wirft eine wirbelnde Axt, die gegnerischen Einheiten in einem großen Bereich vor ihm Schaden in Höhe von 150 % des eigenen ANG zufügt und 8 Sek. lang „Blutung“ wirkt. Die AKZ beträgt 18 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD des Berserkers (Einheit) um 15 %. Erhöht den SCHD (Einheit) um weitere 15 %, wenn sie gegen betäubte Einheiten kämpft. |
   | **2x** <i class="fas fa-star"/> | ? | Es besteht eine Chance von 5 %, dass die Angriffe des Berserkers eine Zieleinheit 1,5 Sek. lang betäuben. Wird nur ein Mal alle 5 Sek. ausgelöst. |
   | **3x** <i class="fas fa-star"/> | ? | <Tödlicher Hieb> Der Berserker fügt der Zieleinheit Schaden in Höhe von 225 % des eigenen ANG zu, während die SCHD-Reduzierung (Einheit) des Ziels um 20 % und die ABW um 10 % verringert wird. Blutet die Zieleinheit, verringert sich die SCHD-Reduzierung (Einheit) um 20 % und das Angriffstempo des Ziels 10 Sek. lang um 10 %. Die AKZ beträgt 25 Sek. |

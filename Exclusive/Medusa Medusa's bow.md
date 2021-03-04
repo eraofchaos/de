@@ -2,7 +2,7 @@
 title: "Exklusiv - Medusas Bogen"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Medusas Bogen. Medusas Bogen. Era of Chaos Exklusiv Medusas Bogen. Medusa Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Medusa Medusas Bogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Bei jedem Angriff der Medusa wird mit einer Wahrscheinlichkeit von 50 % <Schlangengift> auf eine zufällige Einheit gewirkt. Der Effekt bleibt die gesamte Schlacht über aktiv, bis 10 Stapel. Wenn die Medusa eine Einheit mit 10 Stapeln <Schlangengift> angreift, wird ihr Schaden um 30 % erhöht. <Schlangengift>: Verursacht jede Sekunde Schaden in Höhe von 5 % des ANG der Medusa. |
+  |  Erwachen  | ? | Bei jedem Angriff der Medusa wird mit einer Wahrscheinlichkeit von 50 % <Schlangengift> auf eine zufällige Einheit gewirkt. Der Effekt bleibt die gesamte Schlacht über aktiv, bis 10 Stapel. Wenn die Medusa eine Einheit mit 10 Stapeln <Schlangengift> angreift, wird ihr Schaden um 30 % erhöht. <Schlangengift>: Verursacht jede Sekunde Schaden in Höhe von 5 % des ANG der Medusa. |
   | **1x** <i class="fas fa-star"/> | ? | Kritischer Treffer der Medusa wird um 300 erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | ANG und Angriffstempo der Medusa werden um 20 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | <Loch> Medusa wirkt einmal alle 10 Sek. eine Fähigkeit, die all ihre Debuffs entfernt. |

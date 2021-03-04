@@ -2,7 +2,7 @@
 title: "Exklusiv - Blutrünstiger Geist"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Blutrünstiger Geist. Blutrünstiger Geist. Era of Chaos Exklusiv Blutrünstiger Geist. Behemoth Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Behemoth Blutrünstiger Geist.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Burg-Geist> Der Behemoth schützt andere Burg-Einheiten vor Schaden. Er nimmt 25 % des Gesamtschadens, den Burg-Einheiten auf dem Schlachtfeld erleiden, und erhöht die SCHD-Reduzierung (Einheit) für 5 Sek. um 40 %. Die AKZ beträgt 25 Sek. |
+  |  Erwachen  | ? | <Burg-Geist> Der Behemoth schützt andere Burg-Einheiten vor Schaden. Er nimmt 25 % des Gesamtschadens, den Burg-Einheiten auf dem Schlachtfeld erleiden, und erhöht die SCHD-Reduzierung (Einheit) für 5 Sek. um 40 %. Die AKZ beträgt 25 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Wenn der Behemoth auf dem Schlachtfeld ist, erhöht er den SCHD (Einheit) von verbündeten Fernkampf-/Zauberer-Einheiten der Burg um 20 % und die SCHD-Reduzierung (Einheit) von verbündeten Nahkampfeinheiten um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die Basis-LP des Behemoths um 50.000 Punkte. Der durch Angriffe von Fernkampf-/Zauberer-Einheiten erlittene Schaden wird um 40 % reduziert. |
   | **3x** <i class="fas fa-star"/> | ? | <Mächtiger Behemoth> Wenn der Behemoth einen Krit. Treffer einsteckt, entfacht er seinen Zorn, betäubt Feinde in großer Reichweite um ihn herum für 3 Sek. und verringert den SCHD (Einheit) und das Angriffstempo von Gegnern in einem sehr großen Radius für 5 Sek. um 20 %. Die AKZ beträgt 6 Sek. |

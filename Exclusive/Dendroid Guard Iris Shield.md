@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Dendroidenwache Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Dendroid Guard Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Baumrüstung> Gewährt der Dendroidenwache und 1 zufälligen Schutzwall-Einheit eine Erhöhung der SCHD-Reduzierung (Einheit) um 10 % und einen Schild in Höhe von 10 % der max. LP. Hält 8 Sek. an. Die AKZ beträgt 18 Sek. |
+  |  Erwachen  | ? | <Baumrüstung> Gewährt der Dendroidenwache und 1 zufälligen Schutzwall-Einheit eine Erhöhung der SCHD-Reduzierung (Einheit) um 10 % und einen Schild in Höhe von 10 % der max. LP. Hält 8 Sek. an. Die AKZ beträgt 18 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP der Dendroidenwache um 20 % und ihre SCHD-Reduzierung (Einheit) um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht für jede eingesetzte Schutzwall-Einheit die Basis-ABW der Dendroidenwache um 50 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Tiefe Wurzeln> Die Dendroidenwache gräbt ihre Wurzeln tief in den Untergrund ein und erhöht die eigene SCHD-Reduzierung (Einheit) um 15 %. Dabei fügt sie gegnerischen Einheiten in einem großen Radius jede Sekunde Schaden in Höhe von 2 % der max. LP zu und stellt 10 Sek. lang pro Sek. 1 % der eigenen max. LP wieder her, während sich die Dendroidenwache nicht bewegen kann. Die AKZ beträgt 25 Sek. |

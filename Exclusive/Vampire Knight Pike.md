@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Vampir Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Vampire Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Scharlachroter Schlag> Der Vampir verwandelt sich in eine Fledermaus und fliegt in die gegnerische Formation. Während dieser Zeit wird das Bewegungstempo des Vampirs um 30 erhöht und er wird immun gegen „Betäubung“, „Erstarren“ und „Verlangsamung“. Der Vampir verwandelt sich in seine menschliche Form zurück, nachdem er eine gegnerische Einheit angegriffen hat, und sein erster Angriff verursacht Schaden in Höhe von 500 % des eigenen ANG. |
+  |  Erwachen  | ? | <Scharlachroter Schlag> Der Vampir verwandelt sich in eine Fledermaus und fliegt in die gegnerische Formation. Während dieser Zeit wird das Bewegungstempo des Vampirs um 30 erhöht und er wird immun gegen „Betäubung“, „Erstarren“ und „Verlangsamung“. Der Vampir verwandelt sich in seine menschliche Form zurück, nachdem er eine gegnerische Einheit angegriffen hat, und sein erster Angriff verursacht Schaden in Höhe von 500 % des eigenen ANG. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Vampirs um 20 % und die ABW um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Vampirs um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Blutzahn-Gesang> Der Vampir fügt der Zieleinheit Schaden in Höhe von 300 % des eigenen ANG zu und verringert ihre SCHD-Reduzierung (Einheit) um 20 %. Wenn die Zieleinheit Niedrige Moral hat, wird die ABW für 5 Sek. um 10 % reduziert. Die AKZ beträgt 25 Sek. |

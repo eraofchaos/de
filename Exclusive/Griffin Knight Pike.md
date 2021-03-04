@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Greif Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Griffin Ritterpike.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Schnabelhieb> Der Greif beißt die Zieleinheit und verursacht dabei bei der Zieleinheit Schaden in Höhe von 150 % des eigenen ANG. Wirkt für 8 Sek. „Blutung“ und verringert die Präzision um 300 und das Angriffstempo um 20 %. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Schnabelhieb> Der Greif beißt die Zieleinheit und verursacht dabei bei der Zieleinheit Schaden in Höhe von 150 % des eigenen ANG. Wirkt für 8 Sek. „Blutung“ und verringert die Präzision um 300 und das Angriffstempo um 20 %. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Greifen um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht Ausweichen des Greifen um 500. |
   | **3x** <i class="fas fa-star"/> | ? | <Luftrolle> Die Zähigkeit des Greifen erhöht sich jedes Mal um 50, wenn er erfolgreich ausweicht und er fügt der Zieleinheit Schaden in Höhe von 75 % seines ANG zu. Die Zähigkeit ist bis zu 500 Mal stapelbar. |

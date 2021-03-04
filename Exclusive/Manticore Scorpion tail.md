@@ -2,7 +2,7 @@
 title: "Exklusiv - Skorpionschwanz"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Skorpionschwanz. Skorpionschwanz. Era of Chaos Exklusiv Skorpionschwanz. Mantikor Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Manticore Skorpionschwanz.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Skorpionüberfall> Der Mantikor startet alle 20 Sek. einen dreistufigen Angriff auf das Ziel, der 100 %, 125 % bzw. 150 % Schaden zufügt und „Skorpionsgift“ verursacht. Außerdem werden Zähigkeit und Ausweichen der Einheit 5 Sek. lang um 200 reduziert. |
+  |  Erwachen  | ? | <Skorpionüberfall> Der Mantikor startet alle 20 Sek. einen dreistufigen Angriff auf das Ziel, der 100 %, 125 % bzw. 150 % Schaden zufügt und „Skorpionsgift“ verursacht. Außerdem werden Zähigkeit und Ausweichen der Einheit 5 Sek. lang um 200 reduziert. |
   | **1x** <i class="fas fa-star"/> | ? | Der Schaden des Mantikors wird um 25 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Mantikors wird um 20 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Krit. Treffer des Mantikors wird um 300 erhöht. Jeder Standardangriff gegen Ziele mit „Blutung“ verursacht zusätzlichen Schaden in Höhe von 50 % des ANG. |

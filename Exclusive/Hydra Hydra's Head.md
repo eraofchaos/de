@@ -2,7 +2,7 @@
 title: "Exklusiv - Hydrakopf"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Hydrakopf. Hydrakopf. Era of Chaos Exklusiv Hydrakopf. Hydra Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Hydra Hydrakopf.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Essrausch> Beißt den Gegner 1 Mal pro Sekunde, greift insgesamt 5 Mal an und verursacht jedes Mal Schaden in Höhe von 50 % des eigenen ANG. Verringert die Zähigkeit des Gegners um 50 und erhöht den eigenen Krit. Gesamt-SCHD um 4 %. Bis zu 5 Mal stapelbar. Der Effekt hält 3 Sek. lang an. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Essrausch> Beißt den Gegner 1 Mal pro Sekunde, greift insgesamt 5 Mal an und verursacht jedes Mal Schaden in Höhe von 50 % des eigenen ANG. Verringert die Zähigkeit des Gegners um 50 und erhöht den eigenen Krit. Gesamt-SCHD um 4 %. Bis zu 5 Mal stapelbar. Der Effekt hält 3 Sek. lang an. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) und den ANG der Hydra jeweils um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht ABW und SCHD-Reduzierung (Einheit) der Hydra jeweils um 10 %. Wenn die Hydra auf dem Schlachtfeld ist, erhöht sie die ABW aller verbündeten Festungseinheiten um 10 % und die SCHD-Reduzierung (Einheit) um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Wiedergeburt> Wenn ein einzelner Angriff Schaden verursacht, der 10 % der eigenen max. LP übersteigt, aber weniger als 20 % der max. LP beträgt, werden nach 3 Sek. 500.000 LP wiederhergestellt. Wenn der Schaden in einem einzelnen Angriff 20 % der eigenen max. LP übersteigt, wird Immunität gegen Schaden, der diese 20 % übersteigt, gewährt. |

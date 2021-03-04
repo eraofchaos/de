@@ -2,7 +2,7 @@
 title: "Exklusiv - Wespenwurzblatt"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Wespenwurzblatt. Wespenwurzblatt. Era of Chaos Exklusiv Wespenwurzblatt. Wespenwurz Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Waspwort Wespenwurzblatt.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tödliches Gift> Alle 4 Sek. beschwört Wespenwurz die Wespenwurzblätter bei 1 zufälligen gegnerischen Einheit. (Bei zufälliger Beschwörung derselben gegnerischen Einheit wird der Effekt gestapelt.) Die Wespen, die auf den Wespenwurzblättern sitzen, fügen gegnerischen Einheiten jede Sekunde Schaden in Höhe von 10 % ihres ANG zu und haben eine Chance von 10 %, 3 Sek. lang „Stille“ zu wirken. Die AKZ beträgt 9 Sek. |
+  |  Erwachen  | ? | <Tödliches Gift> Alle 4 Sek. beschwört Wespenwurz die Wespenwurzblätter bei 1 zufälligen gegnerischen Einheit. (Bei zufälliger Beschwörung derselben gegnerischen Einheit wird der Effekt gestapelt.) Die Wespen, die auf den Wespenwurzblättern sitzen, fügen gegnerischen Einheiten jede Sekunde Schaden in Höhe von 10 % ihres ANG zu und haben eine Chance von 10 %, 3 Sek. lang „Stille“ zu wirken. Die AKZ beträgt 9 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Wespenwurzes um 15 % und ABW-Durchdringung um 150. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) von Wespenwurz um 15 %. Dieser Effekt verdoppelt sich bei Angriffen auf Nahkampfeinheiten. |
   | **3x** <i class="fas fa-star"/> | ? | <Giftiges Blatt> Wenn verbündete beschworene Kreaturen sterben, benutzt Wespenwurz Wespenwurzblätter, um feindlichen Einheiten Gift zu injizieren und sie 5 Sek. lang zu lähmen. Gleichzeitig reinigt es auch, um 1 Stapel Buffs zu entfernen. |

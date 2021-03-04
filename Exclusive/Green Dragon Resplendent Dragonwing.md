@@ -2,7 +2,7 @@
 title: "Exklusiv - Prächtiger Drachenflügel"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Prächtiger Drachenflügel. Prächtiger Drachenflügel. Era of Chaos Exklusiv Prächtiger Drachenflügel. Grüner Drache Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Green Dragon Prächtiger Drachenflügel.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Die Angriffe des Grünen Drachen wirken „Blutung“, wodurch die Ziele alle 2 Sek. für 3 Sek. Schaden in Höhe von 2 % ihrer max. LP erleiden. |
+  |  Erwachen  | ? | Die Angriffe des Grünen Drachen wirken „Blutung“, wodurch die Ziele alle 2 Sek. für 3 Sek. Schaden in Höhe von 2 % ihrer max. LP erleiden. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Grünen Drachen um 20 % und Krit. Treffer um 200. |
   | **2x** <i class="fas fa-star"/> | ? | Das Angriffstempo des Grünen Drachen wird bei Erhalt eines Schildes um 30 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | <Kristallwache> Der Grüne Drache wird durch seine kristalline Haut geschützt und blockt 5 Mal Schaden. Nachdem er zum 5. Mal Schaden geblockt hat, verschwindet <Kristallwache> und gegnerische Einheiten in der Nähe erleiden Schaden in Höhe von 100 % des ANG des Grünen Drachen und werden 3 Sek. lang kristallisiert. Du erhältst <Kristallwache> ein Mal alle 20 Sek. |

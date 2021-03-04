@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Hydra"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Hydrakopf](/Exclusive/Hydra Hydra's Head/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

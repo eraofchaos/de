@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Echsenmensch Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Lizardman Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Wilder Jäger> Kann einmal alle 20 Sek. gewirkt werden und fügt allen gegnerischen Einheiten in einem kleinen Bereich Schaden in Höhe von 300 % des ANG zu. Außerdem werden die nächsten 5 Sek. Schaden in Höhe von 2 % der max. LP verursacht. |
+  |  Erwachen  | ? | <Wilder Jäger> Kann einmal alle 20 Sek. gewirkt werden und fügt allen gegnerischen Einheiten in einem kleinen Bereich Schaden in Höhe von 300 % des ANG zu. Außerdem werden die nächsten 5 Sek. Schaden in Höhe von 2 % der max. LP verursacht. |
   | **1x** <i class="fas fa-star"/> | ? | Die Magieresistenz des Echsenmenschen wird erhöht um 50 %. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn der Echsenmensch einen kritischen Treffer landet, wird Kritischer Treffer 3 Sek. lang um 10 erhöht, bis 50 Stapel. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn das Ziel getötet wird, erhält die Einheit ein [Seuchen-Miasma], das 20 Sek. lang Schaden in Höhe von 30 % ihrer LP absorbiert. Dieser Effekt ist nicht stapelbar. Wenn die LP der Einheit zum ersten Mal unter 30 % sinken, wird ebenfalls ein [Seuchen-Miasma] gewirkt. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Tagesgezeiten"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Tagesgezeiten. Tagesgezeiten. Era of Chaos Exklusiv Tagesgezeiten. Regnanschlange Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Regnan Serpent Tagesgezeiten.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Endlose Strömung> Die Regnanschlange schwingt ihren Dreizack und beschwört die Kraft der Gezeiten, um durch den Feind zu marschieren. Sie fügt gegnerischen Einheiten in einem großen Bereich vor ihr Schaden in Höhe von 100 % des eigenen ANG zu und verringert ihr Angriffstempo um 20 % und ihr Krit. Gesamt-SCHD um 40 %. Verringert die Zähigkeit und das Ausweichen von gegnerischen Einheiten, denen „Verlangsamung“ zugefügt wurde, für 6 Sek. jeweils um 200. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Endlose Strömung> Die Regnanschlange schwingt ihren Dreizack und beschwört die Kraft der Gezeiten, um durch den Feind zu marschieren. Sie fügt gegnerischen Einheiten in einem großen Bereich vor ihr Schaden in Höhe von 100 % des eigenen ANG zu und verringert ihr Angriffstempo um 20 % und ihr Krit. Gesamt-SCHD um 40 %. Verringert die Zähigkeit und das Ausweichen von gegnerischen Einheiten, denen „Verlangsamung“ zugefügt wurde, für 6 Sek. jeweils um 200. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) der Regnanschlange um 20 % und erhöht die SCHD-Reduzierung (Einheit) um weitere 20 %, wenn sie Fernkampfangriffe erleiden. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht beim Wirken von <Endlose Strömung> die ABW der Regnanschlange um 10 %. Hält den gesamten Kampf über an. Bis zu 3 Mal stapelbar. |
   | **3x** <i class="fas fa-star"/> | ? | Die Regnanschlange wird von der Kraft der Gezeiten beeinflusst und tritt 5 Sek. nach Kampfbeginn in den Zustand „Hohe Gezeiten“ ein, der die SCHD-Reduzierung (Einheit) 6 Sek. lang um 20 % erhöht und LP in Höhe von 5 % der max. LP wiederherstellt. Danach tritt sie in den Zustand „Nachtgezeiten ein“, der ihr Angriffstempo 6 Sek. lang um 20 % und ihre Krit. Treffer um 200 erhöht. Danach löst die Regnanschlange abwechselnd die Zustände „Hohe Gezeiten“ und „Nachtgezeiten“ aus. Hält den gesamten Kampf über an. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Wunder"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Era of Chaos Wunder. Wunder. Era of Chaos Exklusiv Wunder. Regnanbogensch. Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Regnan Archer Wunder.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Herz des Ozeans> Wenn Regnanbogenschützinnen-Einheiten sterben, haben sie eine Chance von 50 %, wiederaufzuerstehen und 20 % LP wiederzuerlangen. Jede Einheit kann diesen Effekt bis zu 3 Mal auslösen. |
+  |  Erwachen  | ? | <Herz des Ozeans> Wenn Regnanbogenschützinnen-Einheiten sterben, haben sie eine Chance von 50 %, wiederaufzuerstehen und 20 % LP wiederzuerlangen. Jede Einheit kann diesen Effekt bis zu 3 Mal auslösen. |
   | **1x** <i class="fas fa-star"/> | ? | Jedes Mal, wenn die Regnanbogenschützin <Herz des Ozeans> auslöst, erhöhen sich für 3 Sek. die SCHD-Reduzierung (Einheit) um 50 % und die Zähigkeit um 500. Kann nicht gestapelt werden. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) der Regnanbogenschützin um 20 % und ihre SCHD-Reduzierung (Einheit) um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Mythischer Pfeil> Die Regnanbogenschützin schießt alle 10 Sek. 1 Pfeil ab, der mit mythischer Kraft durchtränkt ist. Dieser fügt der Zieleinheit Schaden in Höhe von 100 % des ANG zu und löst zufällig 1 der folgenden Effekte aus:                  [<Meeresströmung> Erhöht das Angriffstempo für 5 Sek. um 300 %.] [<Meeresstrudel> Beschwört zu Füßen der nächstgelegenen gegnerischen Einheit einen Strudel herauf, der gegnerische Einheiten in einem kleinen Radius 3 Sek. lang daran hindert, anzugreifen oder Fähigkeiten einzusetzen.]                                 [<Sturm> Greift zufällig 4 gegnerische Einheiten auf dem Schlachtfeld an und fügt ihnen dabei Schaden in Höhe von 10 % der max. LP zu.]            [<Wirbelsturm> Beschwört am Standort der Zieleinheit einen Wirbelsturm herauf, der gegnerische Einheiten in einem kleinen Radius pro Sekunde ein Mal 3 Sek. lang reinigt.] |

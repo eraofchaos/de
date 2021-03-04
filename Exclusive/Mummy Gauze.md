@@ -2,7 +2,7 @@
 title: "Exklusiv - Gaze"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Gaze. Gaze. Era of Chaos Exklusiv Gaze. Mumie Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Mummy Gaze.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Die Mumie fügt allen Einheiten in einem großen Radius alle 8 Sek. Niedrige Moral zu und verringert den SCHD (Einheit) gegnerischer Einheiten im Radius um 15 %, während sie sie gleichzeitig 3 Sek. lang mit Seuche belegt. |
+  |  Erwachen  | ? | Die Mumie fügt allen Einheiten in einem großen Radius alle 8 Sek. Niedrige Moral zu und verringert den SCHD (Einheit) gegnerischer Einheiten im Radius um 15 %, während sie sie gleichzeitig 3 Sek. lang mit Seuche belegt. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) der Mumie um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Die Mumie erhöht die eigene ABW für 5 Sek. um 15 %, wenn sie Niedrige Moral hat, und erhält 8 % ihrer max. LP zurück. Die AKZ beträgt 15 Sek. |
   | **3x** <i class="fas fa-star"/> | ? | <Mumifizierung> Die Mumie wickelt Nahkampfeinheiten in der Nähe mit Bandagen ein, sodass sie sich nicht mehr bewegen, angreifen oder Fähigkeiten wirken können. Gleichzeitig wird die SCHD-Reduzierung (Einheit) für 3 Sek. um 15 % verringert. Die AKZ beträgt 25 Sek. |

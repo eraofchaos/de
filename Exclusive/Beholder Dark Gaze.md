@@ -2,7 +2,7 @@
 title: "Exklusiv - Dunkler Blick"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Dunkler Blick. Dunkler Blick. Era of Chaos Exklusiv Dunkler Blick. Betrachter Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Beholder Dunkler Blick.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Dunkelsicht> Fügt gegnerischen Einheiten in einem großen Bereich davor Schaden in Höhe von 200 % des eigenen ANG zu und verringert zugleich deren SCHD-Reduzierung (Einheit) um 15 %. Der Effekt verdoppelt sich bei betäubten Zielen. Dauert 7 Sek. lang an. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | ? | <Dunkelsicht> Fügt gegnerischen Einheiten in einem großen Bereich davor Schaden in Höhe von 200 % des eigenen ANG zu und verringert zugleich deren SCHD-Reduzierung (Einheit) um 15 %. Der Effekt verdoppelt sich bei betäubten Zielen. Dauert 7 Sek. lang an. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Wenn gegnerische Helden einen Zauber wirken, erhält der Betrachter für 7 Sek. einen Schild in Höhe von 10 % der max. LP. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht für jede eingesetzte Dungeon-Einheit den Krit. Treffer des Betrachters um 50. |
   | **3x** <i class="fas fa-star"/> | ? | Der Betrachter wirkt alle 20 Sek. <Umbra-Bindung> auf eine zufällige gegnerische Einheit. Die gebundene Einheit kann nicht angreifen und ihre ABW wird um 20 % verringert. Wenn die Zieleinheit bereits von <Gedankenkontrolle> betroffen ist, wird ihre Zähigkeit für 5 Sek. um 200 gesenkt. |

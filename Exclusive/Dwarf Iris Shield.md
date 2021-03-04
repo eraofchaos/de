@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Zwerg Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Dwarf Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Der Zwerg hämmert auf den Amboss, nachdem er angegriffen wurde. Dadurch erhöht sich seine ABW für 5 Sek. um 50 %, aber er wird auch bewegungs- und angriffsunfähig. Endet dieser Effekt, erhalten verbündete Einheiten in der ersten Reihe einen Schild in Höhe von 10 % der max. LP, der 5 Sek. anhält. Die AKZ beträgt 25 Sek. |
+  |  Erwachen  | ? | Der Zwerg hämmert auf den Amboss, nachdem er angegriffen wurde. Dadurch erhöht sich seine ABW für 5 Sek. um 50 %, aber er wird auch bewegungs- und angriffsunfähig. Endet dieser Effekt, erhalten verbündete Einheiten in der ersten Reihe einen Schild in Höhe von 10 % der max. LP, der 5 Sek. anhält. Die AKZ beträgt 25 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Zwergs um 20 % und seine ABW um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Zwergs um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Hammerschlag> Der Zwerg haut mit seinem Hammer zu, wobei er gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 150 % des eigenen ANG zufügt und sie 5 Sek. lang verlangsamt. Die AKZ beträgt 20 Sek. |

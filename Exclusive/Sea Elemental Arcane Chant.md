@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Meerelementar Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Sea Elemental Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Flutwellen> Kann einmal alle 20 Sek. ausgelöst werden. Beschwört Wellen unter einer zufälligen gegnerischen Einheit, die gegnerischen Einheiten in einem kleinen Radius Schaden in Höhe von 200 % des ANG zufügen. |
+  |  Erwachen  | ? | <Flutwellen> Kann einmal alle 20 Sek. ausgelöst werden. Beschwört Wellen unter einer zufälligen gegnerischen Einheit, die gegnerischen Einheiten in einem kleinen Radius Schaden in Höhe von 200 % des ANG zufügen. |
   | **1x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht erhalten deine Einheiten eine [Blase], die Schaden in Höhe von 10 % ihrer max. LP absorbiert. |
   | **2x** <i class="fas fa-star"/> | ? | Der Angriff des Meerelementars reduziert den Schaden des Ziels um 10 % und die Magieresistenz um 50 %. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn der Meerelementar eine 1- oder 4-Mann-Einheit angreift, verursacht der Standardangriff 30 % Flächenschaden; gegen eine 9-Mann-Einheit fügt der Standardangriff 5 Einheiten um das Ziel herum 50 % Schaden zu. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Feuerenergie"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Feuerenergie. Feuerenergie. Era of Chaos Exklusiv Feuerenergie. Feuerelementar Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Fire Elemental Feuerenergie.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Flammentrio> Der Feuerelementar erschafft Feuerbälle, die alle 20 Sek. Zieleinheiten in 3 Phasen Flächenschaden zufügen. Der Wirkungsbereich ist erst klein, dann kleiner und dann groß, und der Schaden beträgt 90 %, 120 % bzw. 150 % des ANG. Der Verbrennung-Effekt auf dem Ziel hält 5 Sek. lang. |
+  |  Erwachen  | ? | <Flammentrio> Der Feuerelementar erschafft Feuerbälle, die alle 20 Sek. Zieleinheiten in 3 Phasen Flächenschaden zufügen. Der Wirkungsbereich ist erst klein, dann kleiner und dann groß, und der Schaden beträgt 90 %, 120 % bzw. 150 % des ANG. Der Verbrennung-Effekt auf dem Ziel hält 5 Sek. lang. |
   | **1x** <i class="fas fa-star"/> | ? | Die Durchdringung des Feuerelementars wird um 150 erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Feuerelementars um 20 % und seinen Schaden um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht erhält das Feuerelementar einen Schild in Höhe von 100 % seiner max. LP, dessen Feuer gegnerischen Einheiten in einem kleinen Radius jede Sekunde Schaden in Höhe von 10 % des ANG zufügt. Dieser Effekt kann nicht gebannt werden. |

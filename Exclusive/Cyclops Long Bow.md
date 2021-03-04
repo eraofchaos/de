@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Zyklop Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Cyclops Langbogen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Felswurf> schleudert Felsen, die allen Gegnern im Zielbereich Schaden in Höhe von 200 % der max. LP zufügen. Kann einmal alle 15 Sek. ausgelöst werden. |
+  |  Erwachen  | ? | <Felswurf> schleudert Felsen, die allen Gegnern im Zielbereich Schaden in Höhe von 200 % der max. LP zufügen. Kann einmal alle 15 Sek. ausgelöst werden. |
   | **1x** <i class="fas fa-star"/> | ? | Beim ersten Angriff des Zyklopen wird <Felswurf> ausgelöst. |
   | **2x** <i class="fas fa-star"/> | ? | ANG und Angriffstempo des Zyklopen werden um 20 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Wenn seine LP das erste Mal unter 30 % fallen, entfesselt der Zyklop einmal Erderschütterer, was sein Angriffstempo dauerhaft um 25 % erhöht. |

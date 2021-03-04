@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Imp Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Imp Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Flammenzunge> Der Imp fügt einer Zieleinheit Schaden in Höhe von 300 % des eigenen ANG zu und verursacht 6 Sek. lang „Verbrennung“. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | ? | <Flammenzunge> Der Imp fügt einer Zieleinheit Schaden in Höhe von 300 % des eigenen ANG zu und verursacht 6 Sek. lang „Verbrennung“. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die Magieresistenz des Imp um 25 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Imps um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Stalwart-Rüstung> Wenn die LP des Imps zum ersten Mal auf 60 % und 30 % fallen, erhält er einen Schild in Höhe von 20 % seiner max. LP und erhöht die Zähigkeit für 20 Sek. um 150. |

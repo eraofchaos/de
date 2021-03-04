@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Efreet Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Efreeti Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Flammen des Vergessens> Brennt das angegriffene Ziel, wird ein extrem konzentrierter Feuerball geworfen, der an gegnerischen Einheiten in großer Reichweite Schaden in Höhe von 30 % der max. LP verursacht. Die AKZ beträgt 30 Sek. |
+  |  Erwachen  | ? | <Flammen des Vergessens> Brennt das angegriffene Ziel, wird ein extrem konzentrierter Feuerball geworfen, der an gegnerischen Einheiten in großer Reichweite Schaden in Höhe von 30 % der max. LP verursacht. Die AKZ beträgt 30 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Efreet um 20 %. |
   | **2x** <i class="fas fa-star"/> | ? | Der ANG des Efreet wird um 20 % erhöht, das Angriffstempo um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | <Gefolgschaft > Wenn irgendeine gegnerische Einheit auf dem Schlachtfeld ein Inferno-Zeichen besitzt, greift der Efreet sofort mit Höllenfeuer eine der markierten Einheiten an, verursacht Schaden in Höhe von 100 % des eigenen ANG und fügt ein weiteres Inferno-Zeichen hinzu. Die AKZ beträgt 15 Sek. |

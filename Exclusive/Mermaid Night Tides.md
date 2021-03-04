@@ -2,7 +2,7 @@
 title: "Exklusiv - Nachtgezeiten"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Nachtgezeiten. Nachtgezeiten. Era of Chaos Exklusiv Nachtgezeiten. Meerjungfrau Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Mermaid Nachtgezeiten.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ode des Wächters> Wenn die Meerjungfrau in einem einzigen Angriff mehr als 30 % der eigenen max. LP Schaden erleidet, erhält sie eine Blase in Höhe von 25 % der eigenen max. LP und erhöht die ABW 15 Sek. lang um 400. Die AKZ beträgt 10 Sek. |
+  |  Erwachen  | ? | <Ode des Wächters> Wenn die Meerjungfrau in einem einzigen Angriff mehr als 30 % der eigenen max. LP Schaden erleidet, erhält sie eine Blase in Höhe von 25 % der eigenen max. LP und erhöht die ABW 15 Sek. lang um 400. Die AKZ beträgt 10 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Angriffstempo und ANG der Meerjungfrau werden jeweils um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | <Lied des Beistands> Die Meerjungfrau erhöht den SCHD (Einheit) einer zufälligen verbündeten Fernkampf-/Zauberer-Einheit um 25 % und gewährt sich selbst 10 Sek. lang eine Blase in Höhe von 20 % der eigenen max. LP. Die AKZ beträgt 20 Sek. |
   | **3x** <i class="fas fa-star"/> | ? | <Sirenenlied> Die Meerjungfrau singt das Lied der Sirene und wirkt bei 2 zufälligen gegnerischen Einheiten 5 Sek. lang „Schlaf“. Stellt zudem bei verbündeten Einheiten in der hinteren Reihe 10 Sek. lang pro Sek. LP in Höhe von 60 % des ANG der Meerjungfrau wieder her. Die AKZ beträgt 24 Sek. |

@@ -2,7 +2,7 @@
 title: "Exklusiv - Ewige Flamme"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Ewige Flamme. Ewige Flamme. Era of Chaos Exklusiv Ewige Flamme. Feuervogel Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Firebird Ewige Flamme.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Brennendes Land> Der Feuervogel fügt allen gegnerischen Einheiten, die in derselben Reihe wie das Ziel stehen, 3 Mal alle 10 Sek. Schaden und zu sowie 8 Sek. lang „Verbrennung“. |
+  |  Erwachen  | ? | <Brennendes Land> Der Feuervogel fügt allen gegnerischen Einheiten, die in derselben Reihe wie das Ziel stehen, 3 Mal alle 10 Sek. Schaden und zu sowie 8 Sek. lang „Verbrennung“. |
   | **1x** <i class="fas fa-star"/> | ? | Der Feuervogel ist immun gegen Schaden durch Feuerzauber. |
   | **2x** <i class="fas fa-star"/> | ? | Der ANG des Feuervogels wird um 10 % erhöht, das Angriffstempo um 20 %. |
   | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |

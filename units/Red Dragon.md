@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Roter Drache"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Auslöschung](/Exclusive/Red Dragon Annihilation/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

@@ -3,7 +3,7 @@ title: "Grottenteufel"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
 unitID: 505
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Grottenteufel"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Schwert](/Exclusive/Pit Fiend Sword/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

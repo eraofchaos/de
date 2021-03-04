@@ -3,7 +3,7 @@ title: "Minotaurus"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Minotaurus"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Irisschild](/Exclusive/Minotaur Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

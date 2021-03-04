@@ -2,7 +2,7 @@
 title: "Exklusiv - Düstere Gezeiten"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Düstere Gezeiten. Düstere Gezeiten. Era of Chaos Exklusiv Düstere Gezeiten. Revyaratan Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Revyaratan Düstere Gezeiten.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Blutschnüffler> Revyaratan fügt der Zieleinheit alle 7 Sek. Schaden in Höhe von 120 % des eigenen ANG zu. Außerdem wirkt er „Blutung“ und verringert 4 Sek. lang die SCHD-Reduzierung (Einheit) um 20 % und die Zähigkeit um 200. Die Zieleinheit verliert jede Sekunde 1 % der max. LP. |
+  |  Erwachen  | ? | <Blutschnüffler> Revyaratan fügt der Zieleinheit alle 7 Sek. Schaden in Höhe von 120 % des eigenen ANG zu. Außerdem wirkt er „Blutung“ und verringert 4 Sek. lang die SCHD-Reduzierung (Einheit) um 20 % und die Zähigkeit um 200. Die Zieleinheit verliert jede Sekunde 1 % der max. LP. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) von Revyaratan um 20 %. Verursacht zusätzliche 20 % Krit. Gesamt-SCHD bei gegnerischen Einheiten, die von „Verlangsamung“ betroffen sind. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn verbündete Helden Wasserzauber wirken, erhöht sich der Krit. Gesamt-SCHD von Revyaratan und allen verbündeten Einheiten in seinem Weg 7 Sek. lang um 10 % und Krit. Treffer um 100. Dieser Effekt wird gegen Bucht-Einheiten verdoppelt. |
   | **3x** <i class="fas fa-star"/> | ? | <Rasendes Zerreißen> Alle 20 Sek. wechselt Revyaratan in den Zustand <Rasendes Zerreißen>. Für die nächsten 9 Sek. erhöht sich sein Krit. Gesamt-SCHD um 40 %, sein Angriffstempo um 40 % und sein Krit. Treffer um 400. Zugleich verringert sich die SCHD-Reduzierung (Einheit) der Zieleinheit um 20 %, die erhaltene Heilung um 20 % und die Zähigkeit um 200. Dieser Effekt verdoppelt sich gegen feindliche Einheiten, die mit „Verlangsamung“ belegt sind. Der Effekt kann nicht entfernt werden. |

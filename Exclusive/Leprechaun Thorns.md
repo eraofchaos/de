@@ -2,7 +2,7 @@
 title: "Exklusiv - Dornen"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Dornen. Dornen. Era of Chaos Exklusiv Dornen. Leprechaun Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Leprechaun Dornen.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Glücksgöttin> Alle 20 Sek. erhält der Leprechaun zufällig 1 – 4 vierblättrige Kleeblätter. Der Leprechaun erhält je nach Anzahl der vierblättrigen Kleeblätter zufällige Effekte der folgenden Buffs: „Erhöht Schildwert um 200“, „Erhöht ABW um 400“, „Jede Sekunde wird 1 % der max. LP wiederhergestellt“ und „Erhöht Ausweichen um 400“. Die Buffs halten für 12 Sek. an. |
+  |  Erwachen  | ? | <Glücksgöttin> Alle 20 Sek. erhält der Leprechaun zufällig 1 – 4 vierblättrige Kleeblätter. Der Leprechaun erhält je nach Anzahl der vierblättrigen Kleeblätter zufällige Effekte der folgenden Buffs: „Erhöht Schildwert um 200“, „Erhöht ABW um 400“, „Jede Sekunde wird 1 % der max. LP wiederhergestellt“ und „Erhöht Ausweichen um 400“. Die Buffs halten für 12 Sek. an. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die eigenen LP um 20 % und die ABW um 15 %. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn sich der Leprechaun auf dem Schlachtfeld befindet, erhöht er den SCHD (Einheit) von Konflux-Einheiten um 10 % und Krit. Treffer um 100. |
   | **3x** <i class="fas fa-star"/> | ? | <Schnellkombo> Alle 26 Sek. hat der Leprechaun eine Chance von 60 %/30 %/10 %, das Angriffstempo 9 Sek. lang um 50 %/100 %/200 % zu erhöhen. Während dieses Zeitraums verringern normale Angriffe die SCHD-Reduzierung (Einheit) des Ziels um 2 %. Bis zu 20 Mal stapelbar. Hält 5 Sek. lang an. |

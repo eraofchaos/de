@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Goblin Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Goblin Schwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Steinzertrümmern> Der Goblin fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 300 % des eigenen ANG zu und belegt sie 7 Sek. lang mit „Blutung“. Wenn die Zieleinheit überanstrengt ist, wird die ABW für 5 Sek. um 15 % reduziert. |
+  |  Erwachen  | ? | <Steinzertrümmern> Der Goblin fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 300 % des eigenen ANG zu und belegt sie 7 Sek. lang mit „Blutung“. Wenn die Zieleinheit überanstrengt ist, wird die ABW für 5 Sek. um 15 % reduziert. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Goblins um 20 % und Ausweichen um 100. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den Krit. Treffer des Goblins um 150, wenn er gegen Einheiten kämpft, deren LP weniger als 70 % betragen. |
   | **3x** <i class="fas fa-star"/> | ? | <Schnellangriff> Wenn dem Angriff des Goblins ausgewichen wird, fügt der Kobold der Zieleinheit Schaden in Höhe von 100 % des eigenen ANG zu und verringert die ABW des Ziels 8 Sek. lang um 4 %. Die AKZ beträgt ist 2 Sek. Bis zu 4 Mal stapelbar. |

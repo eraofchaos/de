@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Gog Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Gog Arkangesang.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Versengender Funke> Gog fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu und lässt sie 7 Sek. lang bluten. Wenn die Zieleinheit schon blutet, wird die ABW 7 Sek. lang um 15 % reduziert. |
+  |  Erwachen  | ? | <Versengender Funke> Gog fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu und lässt sie 7 Sek. lang bluten. Wenn die Zieleinheit schon blutet, wird die ABW 7 Sek. lang um 15 % reduziert. |
   | **1x** <i class="fas fa-star"/> | ? | Gogs Angriffstempo wird um 15 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Gogs Lebensentzug wird um 10 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | <Hitzewelle> Wenn ein verbündeter Held Feuerzauber wirkt, fügt Gog jede Sekunde an Einheiten in einem großen Bereich vor ihm Schaden in Höhe von 50 % des eigenen ANG zu und verursacht 5 Sek. lang „Verbrennung“. |

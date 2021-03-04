@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Zentaur Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Centaur Irisschild.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Massiver Schock> Eine massive Schockwelle wird erzeugt, wenn der Zentaur den Zauber <Kampfstampfer> gewirkt hat. Dadurch werden Feinde in Reichweite der Schockwelle verlangsamt und ihr SCHD (Einheit) wird für 10 Sek. um 20 % verringert. |
+  |  Erwachen  | ? | <Massiver Schock> Eine massive Schockwelle wird erzeugt, wenn der Zentaur den Zauber <Kampfstampfer> gewirkt hat. Dadurch werden Feinde in Reichweite der Schockwelle verlangsamt und ihr SCHD (Einheit) wird für 10 Sek. um 20 % verringert. |
   | **1x** <i class="fas fa-star"/> | ? | Zu Beginn des Kampfes gewährt der Zentaur allen verbündeten Einheiten in der ersten Reihe für 20 Sek. einen Schild in Höhe von 20 % der max. LP. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn der Zentaur einen Schild erhält, erhöht er seine ABW für 10 Sek. um 20 %. Dieser Effekt ist nicht stapelbar. |
   | **3x** <i class="fas fa-star"/> | ? | <Massiver Schock> Verlängert die Dauer um 10 Sek. und fügt den gegnerischen Einheiten ein Mal alle 0,5 Sek. Schaden in Höhe von 10 % des eigenen Angriffs zu. |

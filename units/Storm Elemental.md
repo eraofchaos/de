@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Sturmelementar"
 toc: true
@@ -74,6 +74,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Langbogen](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rangaufstieg:** -
 

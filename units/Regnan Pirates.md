@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Regnanpirat"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Exklusiv
 
  **Name:** [Schwert](/Exclusive/Regnan Pirates Sword/) 
+
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** -
 

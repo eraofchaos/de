@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Grottenteufel Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Pit Fiend Schwert.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Auspeitschen> Der Grottenteufel schwingt seine Peitsche und fügt gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 300 % des eigenen ANG zu und wirkt „Blutung“. Es besteht eine Chance von 50 %, den SCHD (Einheit) für 6 Sek. um 20 % zu verringern. Die AKZ beträgt 16 Sek. |
+  |  Erwachen  | ? | <Auspeitschen> Der Grottenteufel schwingt seine Peitsche und fügt gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 300 % des eigenen ANG zu und wirkt „Blutung“. Es besteht eine Chance von 50 %, den SCHD (Einheit) für 6 Sek. um 20 % zu verringern. Die AKZ beträgt 16 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Der ANG des Grottenteufels wird um 20 % erhöht, die Heilung um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) von verbündeten Inferno-Einheiten um 10 %, wenn der Grottenteufel auf dem Schlachtfeld ist. |
   | **3x** <i class="fas fa-star"/> | ? | <Höllische Bindung> Der Grottenteufel wickelt seine Peitsche um die Zieleinheit, wodurch deren Schwäche aufgedeckt und sie bewegungs- und angriffsunfähig gemacht wird. Dadurch sinkt ihre SCHD-Reduzierung (Einheit) für 4 Sek. um 15 %. Die AKZ beträgt 20 Sek. |

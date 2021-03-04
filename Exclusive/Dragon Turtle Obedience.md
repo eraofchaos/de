@@ -2,7 +2,7 @@
 title: "Exklusiv - Gehorsamkeit"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Era of Chaos Gehorsamkeit. Gehorsamkeit. Era of Chaos Exklusiv Gehorsamkeit. Drachenschildkröte Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Dragon Turtle Gehorsamkeit.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Schildpanzer> Die Drachenschildkröte wirkt alle 20 Sek. <Schildpanzer>. Erhöht für die nächsten 6 Sek. die SCHD-Reflexion der Drachenschildkröte und die SCHD-Reduzierung (Einheit) um jeweils 20 %. Wenn sie von gegnerischen Nahkampfeinheiten angegriffen wird, verringert sich deren Angriffstempo und SCHD (Einheit) jeweils um 20 %. Wirkt zudem „Abschreckung“. Wenn das Ziel blutet, verringert sich außerdem die ABW um 20 %. |
+  |  Erwachen  | ? | <Schildpanzer> Die Drachenschildkröte wirkt alle 20 Sek. <Schildpanzer>. Erhöht für die nächsten 6 Sek. die SCHD-Reflexion der Drachenschildkröte und die SCHD-Reduzierung (Einheit) um jeweils 20 %. Wenn sie von gegnerischen Nahkampfeinheiten angegriffen wird, verringert sich deren Angriffstempo und SCHD (Einheit) jeweils um 20 %. Wirkt zudem „Abschreckung“. Wenn das Ziel blutet, verringert sich außerdem die ABW um 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) der Drachenschildkröte um 20 %. Wenn verbündete Helden Wasserzauber wirken, erhält die Drachenschildkröte 10 Sek. lang eine Blase in Höhe von 20 % der eigenen max. LP. Die AKZ beträgt 7 Sek. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die empfangene Heilung der Drachenschildkröte um 20 %. Gewährt Immunität gegen „Stille“. |
   | **3x** <i class="fas fa-star"/> | ? | <Abgrund-Ritual> Wenn die LP der Drachenschildkröte zum ersten Mal auf 75 %/50 %/25 % fallen, entfernt sie ihre eigenen Debuffs und erhöht Zähigkeit und Ausweichen jeweils um 200. Hält den gesamten Kampf über an. Bis zu 3 Mal stapelbar. |

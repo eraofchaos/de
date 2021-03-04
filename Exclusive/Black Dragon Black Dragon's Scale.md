@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwarze Drachenschuppe"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Schwarze Drachenschuppe. Schwarze Drachenschuppe. Era of Chaos Exklusiv Schwarze Drachenschuppe. Schwarzer Drache Exklusiv."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: de
 ref: "Black Dragon Schwarze Drachenschuppe.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exklusiver Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Schutz der Drachen> Wenn seine LP unter 75 %, 50 % bzw. 25 % fallen, wirkt der Schwarze Drache einen Schild in Höhe von 15 % seiner max. LP auf alle verbündeten Abwehr-Dracheneinheiten (Drachenschildkröte, Schwarzer Drache/Schwarzer Drachenkönig). Alle anderen verbündeten Dracheneinheiten (Grüner Drache/Goldener Drache, Knochendrache/Geisterdrache, Roter Drache, Hydra und Wyvern) erhalten einen Schild in Höhe von 30 % seiner max. LP. Der Schild bleibt die gesamte Schlacht über aktiv und kann gestapelt werden. Der Schild kann nicht gebannt werden. Ein aktiver Schild bietet 3 Sek. lang Immunität gegen Zauber. |
+  |  Erwachen  | ? | <Schutz der Drachen> Wenn seine LP unter 75 %, 50 % bzw. 25 % fallen, wirkt der Schwarze Drache einen Schild in Höhe von 15 % seiner max. LP auf alle verbündeten Abwehr-Dracheneinheiten (Drachenschildkröte, Schwarzer Drache/Schwarzer Drachenkönig). Alle anderen verbündeten Dracheneinheiten (Grüner Drache/Goldener Drache, Knochendrache/Geisterdrache, Roter Drache, Hydra und Wyvern) erhalten einen Schild in Höhe von 30 % seiner max. LP. Der Schild bleibt die gesamte Schlacht über aktiv und kann gestapelt werden. Der Schild kann nicht gebannt werden. Ein aktiver Schild bietet 3 Sek. lang Immunität gegen Zauber. |
   | **1x** <i class="fas fa-star"/> | ? | Solange sich der Schwarze Drache auf dem Schlachtfeld befindet, erhöht er Schaden und Schadensreduzierung verbündeter Dungeon-Einheiten um 10 %. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Schwarzen Drachen um 200 und die Grundwert LP um 50.000. |
   | **3x** <i class="fas fa-star"/> | ? | <Magischer Drachenodem> Der schwarze Drache fügt alle 15 Sek. allen gegnerischen Einheiten in kurzer Entfernung vor sich Schaden in Höhe von 150 % seines ANG zu. Außerdem fügt er der Zieleinheit Schaden in Höhe von 10 % seiner max. LP zu. |
