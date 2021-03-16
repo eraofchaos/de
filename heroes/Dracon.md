@@ -3,12 +3,12 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon wird von vielen seiner Ältesten als magisches Wunderkind betrachtet. Sein Lebensziel ist es, der mächtigste Drachentöter der Welt zu werden."
 heroID: 61202
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: de
 ref: "Dracon"
 toc: true
 ---
- **Beschreibung:** Dracon wird von vielen seiner Ältesten als magisches Wunderkind betrachtet. Sein Lebensziel ist es, der mächtigste Drachentöter der Welt zu werden.
+ **Description:** Dracon wird von vielen seiner Ältesten als magisches Wunderkind betrachtet. Sein Lebensziel ist es, der mächtigste Drachentöter der Welt zu werden.
 ## Details
  **Profession:** Zauberer
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frostpfeil
- **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
+ **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
 ### 2 Spell: Windwand
- **Beschreibung:** Beschwört eine Wand aus Wind, die den Ausweichwert von verbündeten Einheiten, die sie durchqueren, {$olast11/1000} Sek. lang um {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20} %</span><span style="color: black"> und ihr Bewegungstempo um {$buffaddattr22+$buffaddattr23*($sklevel-1)} erhöht.
+ **Description:** Beschwört eine Wand aus Wind, die den Ausweichwert von verbündeten Einheiten, die sie durchqueren, {$olast11/1000} Sek. lang um {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20} %</span><span style="color: black"> und ihr Bewegungstempo um {$buffaddattr22+$buffaddattr23*($sklevel-1)} erhöht.
 
 ### 3 Spell: Blitzstrahl
- **Beschreibung:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
+ **Description:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
 
 ### 4 Spell: Klonen
- **Beschreibung:** Kopiert 1 eigene Einheit. Sie verfügt über <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))} %</span><span style="color: black"> des ANG der Originaleinheit und erleidet {($duplidmg11+$duplidmg12*($sklevel-1))} % mehr Schaden. Dauer: 30 Sek.
+ **Description:** Kopiert 1 eigene Einheit. Sie verfügt über <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))} %</span><span style="color: black"> des ANG der Originaleinheit und erleidet {($duplidmg11+$duplidmg12*($sklevel-1))} % mehr Schaden. Dauer: 30 Sek.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Beschreibung:** <span style="color: #ffffff;font-size:20px">Wissen ist Magie, aber auch Macht!</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Wissen ist Magie, aber auch Macht!</span>
 
 
 

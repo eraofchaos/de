@@ -3,12 +3,12 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem ist die größte aller Hexen Enroths. In beiden Kriegen kämpfte sie für Roland Eisenfaust. Sobald Roland zum König gekrönt wurde, zog Gem nach Erathia und baute sich dort ein neues Zuhause auf."
 heroID: 60304
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: de
 ref: "Gem"
 toc: true
 ---
- **Beschreibung:** Gem ist die größte aller Hexen Enroths. In beiden Kriegen kämpfte sie für Roland Eisenfaust. Sobald Roland zum König gekrönt wurde, zog Gem nach Erathia und baute sich dort ein neues Zuhause auf.
+ **Description:** Gem ist die größte aller Hexen Enroths. In beiden Kriegen kämpfte sie für Roland Eisenfaust. Sobald Roland zum König gekrönt wurde, zog Gem nach Erathia und baute sich dort ein neues Zuhause auf.
 ## Details
  **Profession:** Druidin
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Frostpfeil
- **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
+ **Description:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
 ### 2 Spell: Steinhaut
- **Beschreibung:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span><span style="color: black">, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Description:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span><span style="color: black">, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 3 Spell: Heilung
- **Beschreibung:** Stellt bei verbündeten Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> LP wieder her.
+ **Description:** Stellt bei verbündeten Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> LP wieder her.
 
 ### 4 Spell: Ruhiger Regen
- **Beschreibung:** Stellt 6 Sek. lang die LP verbündeter Einheiten entsprechend <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> und 1 % ihrer max. LP wieder her.
+ **Description:** Stellt 6 Sek. lang die LP verbündeter Einheiten entsprechend <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> und 1 % ihrer max. LP wieder her.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Beschreibung:** <span style="color: #ffffff;font-size:20px">Ich kann körperliche Schmerzen heilen, aber ich kann keine zerbrochenen Seelen wieder richten.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Ich kann körperliche Schmerzen heilen, aber ich kann keine zerbrochenen Seelen wieder richten.</span>
 
 
 ### Skin 2: **Fußball-Mädchen**
 
- **Beschreibung:** <span style="color: #ffffff;font-size:20px">Wir sind die Besten! Die Welt gehört den Siegern, nicht den Verlierern!</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Wir sind die Besten! Die Welt gehört den Siegern, nicht den Verlierern!</span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Mondlicht-Einladung**
 
- **Beschreibung:** <span style="color: #ffffff;font-size:20px">Das kleine Gebäude kann einen König angemessen beschützen. Die zahlreichen Lichter und der strahlende Mond erhellen die Rückkehr der Schwalbe. Jemand lehnt sich gegen den Zaun und genießt die Brise. Wem gelten diese leuchtenden Augen und dieses Lächeln?</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Das kleine Gebäude kann einen König angemessen beschützen. Die zahlreichen Lichter und der strahlende Mond erhellen die Rückkehr der Schwalbe. Jemand lehnt sich gegen den Zaun und genießt die Brise. Wem gelten diese leuchtenden Augen und dieses Lächeln?</span>
 
  **Skin features:** 
 
