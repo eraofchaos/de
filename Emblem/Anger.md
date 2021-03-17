@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Zorn"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Zorn. Zorn. Era of Chaos Heiliges Emblem Zorn. Era of Chaos Chaos Zorn"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: de
 ref: "Anger.md"
 toc: false
@@ -11,14 +11,14 @@ classes: wide
 
  **Name:** Zorn
 
- **Type:** [Chaos](/Emblem/Type Chaos/)
+ **Type:** [Chaos](/de/Emblem/Type Chaos/)
 
-  [Rechtschaffen](/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Zorn](/Emblem/Anger/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +5 %, „Heiliges Emblem“-ABW +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Die ultimativen Fähigkeiten eingesetzter Einheiten werden um 2 Stufen erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +15 %, „Heiliges Emblem“-ABW +30</span> | 
-  | [Zorn](/Emblem/Anger/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +10 %, „Heiliges Emblem“-ABW +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Die ultimativen Fähigkeiten eingesetzter Einheiten werden um 4 Stufen erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +20 %, „Heiliges Emblem“-ABW +55</span> | 
+  | [Zorn](/de/Emblem/Anger/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +5 %, „Heiliges Emblem“-ABW +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Die ultimativen Fähigkeiten eingesetzter Einheiten werden um 2 Stufen erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +15 %, „Heiliges Emblem“-ABW +30</span> | 
+  | [Zorn](/de/Emblem/Anger/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +10 %, „Heiliges Emblem“-ABW +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Die ultimativen Fähigkeiten eingesetzter Einheiten werden um 4 Stufen erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +20 %, „Heiliges Emblem“-ABW +55</span> | 
 
   |         Beschreibung            | 
   |:-------------------------------|

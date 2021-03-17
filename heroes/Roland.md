@@ -3,12 +3,12 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn."
 heroID: 60103
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: de
 ref: "Roland"
 toc: true
 ---
- **Description:** König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn.
+ **Beschreibung:** König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn.
 ## Details
  **Profession:** Ritter
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Feuerpfeil
- **Description:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44;font-size:20px">verbrennt</span><span style="color: black"> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zu und <span style="color: #e07c44;font-size:20px">verbrennt</span><span style="color: black"> sie. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 ### 2 Spell: Freude
- **Description:** Verleiht allen verbündeten Einheiten in Reichweite, außer Nekropolis-Einheiten, <span style="color: #e07c44;font-size:20px">Hohe Moral</span><span style="color: black">, was deren Angriffstempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> % erhöht. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
+ **Beschreibung:** Verleiht allen verbündeten Einheiten in Reichweite, außer Nekropolis-Einheiten, <span style="color: #e07c44;font-size:20px">Hohe Moral</span><span style="color: black">, was deren Angriffstempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> % erhöht. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
 
 ### 3 Spell: Feuerwand
- **Description:** Beschwört eine Feuerwand, die gegnerischen Einheiten im Umkreis {($olast11+$olast12)/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> kontinuierlichen Feuerzauberschaden zufügt.
+ **Beschreibung:** Beschwört eine Feuerwand, die gegnerischen Einheiten im Umkreis {($olast11+$olast12)/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> kontinuierlichen Feuerzauberschaden zufügt.
 
 ### 4 Spell: Königswind
- **Description:** Verleiht allen verbündeten Einheiten <span style="color: #e07c44;font-size:20px">Hohe Moral</span><span style="color: black">, was ihren ANG um 50<50*($a122+$a126+$a132+$a136)> % erhöht. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
+ **Beschreibung:** Verleiht allen verbündeten Einheiten <span style="color: #e07c44;font-size:20px">Hohe Moral</span><span style="color: black">, was ihren ANG um 50<50*($a122+$a126+$a132+$a136)> % erhöht. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Zum Ruhme von Enroth, stellt Euch dem Zorn der rechtschaffenen Eisenfaust!</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Zum Ruhme von Enroth, stellt Euch dem Zorn der rechtschaffenen Eisenfaust!</span>
 
 
 ### Skin 2: **Heruntergekommener Prinz**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Nachdem er von seinem Bruder verraten und eingekerkert worden war, kam Prinz Roland auf der Suche nach Hilfe allein nach Erathia.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Nachdem er von seinem Bruder verraten und eingekerkert worden war, kam Prinz Roland auf der Suche nach Hilfe allein nach Erathia.</span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Königliche Hochzeit**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Ich hoffe, unser Bund wird Enroth Frieden und unserem Volk Zufriedenheit bringen.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Ich hoffe, unser Bund wird Enroth Frieden und unserem Volk Zufriedenheit bringen.</span>
 
  **Skin features:** 
 
@@ -74,7 +74,7 @@ toc: true
 
 ### Skin 4: **Nacht der Ernte**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Wenn das Fest beginnt, sollten wir bei unserer Familie bleiben und uns an den Speisen und der Gesellschaft erfreuen.</span>
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Wenn das Fest beginnt, sollten wir bei unserer Familie bleiben und uns an den Speisen und der Gesellschaft erfreuen.</span>
 
  **Skin features:** 
 
