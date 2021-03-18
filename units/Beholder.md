@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Betrachter"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/de/units/Faction Dungeon/)
 
  **Race:** Böser Geist
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Gedankenkontrolle: Macht Gegner bewegungsunfähig und fügt ihnen Schaden über Zeit zu.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Auge der Blasphemie](/equipment/Auge der Blasphemie/) | **ANG** | **ABW** | 
-  | [Pupille des Todes](/equipment/Pupille des Todes/) | **LP** | **ABW** | 
-  | [Böser Stoßzahn](/equipment/Böser Stoßzahn/) | **ANG** | **ABW** | 
-  | [Abgrundtentakel](/equipment/Abgrundtentakel/) | **LP** | **ABW** | 
+  | [Auge der Blasphemie](/de/equipment/Auge der Blasphemie/) | **ANG** | **ABW** | 
+  | [Pupille des Todes](/de/equipment/Pupille des Todes/) | **LP** | **ABW** | 
+  | [Böser Stoßzahn](/de/equipment/Böser Stoßzahn/) | **ANG** | **ABW** | 
+  | [Abgrundtentakel](/de/equipment/Abgrundtentakel/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Dunkler Blick](/Exclusive/Beholder Dark Gaze/) 
+ **Name:** [Dunkler Blick](/de/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -149,11 +149,12 @@ toc: true
 
 * **Dungeon**  (Dungeon-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/de/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

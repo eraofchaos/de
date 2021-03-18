@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Druidin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/de/units/Faction Rampart/)
 
  **Race:** Wald
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Wald-Chronosphäre: Einheiten im magischen Kreis sind immun gegen Magieschaden.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Krone der Gelassenheit](/equipment/Krone der Gelassenheit/) | **ANG** | **ABW** | 
-  | [Ältestenstab](/equipment/Ältestenstab/) | **LP** | **ABW** | 
-  | [Robe des tosenden Sturms](/equipment/Robe des tosenden Sturms/) | **ANG** | **ABW** | 
-  | [Hohe Stiefel des Waldes](/equipment/Hohe Stiefel des Waldes/) | **LP** | **ABW** | 
+  | [Krone der Gelassenheit](/de/equipment/Krone der Gelassenheit/) | **ANG** | **ABW** | 
+  | [Ältestenstab](/de/equipment/Ältestenstab/) | **LP** | **ABW** | 
+  | [Robe des tosenden Sturms](/de/equipment/Robe des tosenden Sturms/) | **ANG** | **ABW** | 
+  | [Hohe Stiefel des Waldes](/de/equipment/Hohe Stiefel des Waldes/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Stab des Nachwachsens](/Exclusive/Druid Staff of Regrowth/) 
+ **Name:** [Stab des Nachwachsens](/de/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
-* [Habgier](/Emblem/Greed/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Schutzwall**  (Schutzwall-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

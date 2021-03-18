@@ -2,18 +2,18 @@
 title: "Exklusiv - Tagesgezeiten"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Tagesgezeiten. Tagesgezeiten. Era of Chaos Exklusiv Tagesgezeiten. Regnanschlange Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Regnan Serpent Tagesgezeiten.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Tagesgezeiten** 
 
- **Exklusiv for Unit:** [Regnanschlange](/units/Regnan Serpent/) 
+ **Exklusiv for Unit:** [Regnanschlange](/de/units/Regnan Serpent/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | <Endlose Strömung> Die Regnanschlange schwingt ihren Dreizack und beschwört die Kraft der Gezeiten, um durch den Feind zu marschieren. Sie fügt gegnerischen Einheiten in einem großen Bereich vor ihr Schaden in Höhe von 100 % des eigenen ANG zu und verringert ihr Angriffstempo um 20 % und ihr Krit. Gesamt-SCHD um 40 %. Verringert die Zähigkeit und das Ausweichen von gegnerischen Einheiten, denen „Verlangsamung“ zugefügt wurde, für 6 Sek. jeweils um 200. Die AKZ beträgt 20 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) der Regnanschlange um 20 % und erhöht die SCHD-Reduzierung (Einheit) um weitere 20 %, wenn sie Fernkampfangriffe erleiden. |

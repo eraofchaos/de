@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Sturmelementar"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Short description:** Markiert Einzelziele für hohen Schaden.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Flackernder Kugelblitz](/equipment/Flackernder Kugelblitz/) | **ANG** | **ABW** | 
-  | [Donnerkern](/equipment/Donnerkern/) | **LP** | **ABW** | 
-  | [Magische Klaue](/equipment/Magische Klaue/) | **ANG** | **ABW** | 
-  | [Blitzbetrachter](/equipment/Blitzbetrachter/) | **LP** | **ABW** | 
+  | [Flackernder Kugelblitz](/de/equipment/Flackernder Kugelblitz/) | **ANG** | **ABW** | 
+  | [Donnerkern](/de/equipment/Donnerkern/) | **LP** | **ABW** | 
+  | [Magische Klaue](/de/equipment/Magische Klaue/) | **ANG** | **ABW** | 
+  | [Blitzbetrachter](/de/equipment/Blitzbetrachter/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Langbogen](/Exclusive/Storm Elemental Long Bow/) 
+ **Name:** [Langbogen](/de/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Konflux**  (Konflux-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

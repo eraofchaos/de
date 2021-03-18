@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Pegasus"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/de/units/Faction Rampart/)
 
  **Race:** Wald
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Lebensschutz: Verleiht den nächsten verbündeten Einheiten einen Lebensschild.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dornenchakram](/equipment/Dornenchakram/) | **ANG** | **ABW** | 
-  | [Immergrün-Reif](/equipment/Immergrün-Reif/) | **LP** | **ABW** | 
-  | [Panzerhandschuhe der Rosen](/equipment/Panzerhandschuhe der Rosen/) | **ANG** | **ABW** | 
-  | [Wunderrüstung](/equipment/Wunderrüstung/) | **LP** | **ABW** | 
+  | [Dornenchakram](/de/equipment/Dornenchakram/) | **ANG** | **ABW** | 
+  | [Immergrün-Reif](/de/equipment/Immergrün-Reif/) | **LP** | **ABW** | 
+  | [Panzerhandschuhe der Rosen](/de/equipment/Panzerhandschuhe der Rosen/) | **ANG** | **ABW** | 
+  | [Wunderrüstung](/de/equipment/Wunderrüstung/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Langbogen](/Exclusive/Pegasus Long Bow/) 
+ **Name:** [Langbogen](/de/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Schutzwall**  (Schutzwall-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

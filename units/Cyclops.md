@@ -3,7 +3,7 @@ title: "Zyklop"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Zyklop"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/de/units/Faction Stronghold/)
 
  **Race:** Barbar
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Flammenstein: Fügt allen gegnerischen Einheiten vor sich katastrophalen Schaden zu.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fels](/equipment/Fels/) | **ANG** | **ABW** | 
-  | [Fesseln des Krieges](/equipment/Fesseln des Krieges/) | **LP** | **ABW** | 
-  | [Stachliger Armschutz](/equipment/Stachliger Armschutz/) | **ANG** | **ABW** | 
-  | [Lederhose](/equipment/Lederhose/) | **LP** | **ABW** | 
+  | [Fels](/de/equipment/Fels/) | **ANG** | **ABW** | 
+  | [Fesseln des Krieges](/de/equipment/Fesseln des Krieges/) | **LP** | **ABW** | 
+  | [Stachliger Armschutz](/de/equipment/Stachliger Armschutz/) | **ANG** | **ABW** | 
+  | [Lederhose](/de/equipment/Lederhose/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Langbogen](/Exclusive/Cyclops Long Bow/) 
+ **Name:** [Langbogen](/de/Exclusive/Cyclops Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Das Urteil der Väter](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
-* [Misere des Königs](/Emblem/King's Calamity/) (Böse)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Kombinationsinfo
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Burg**  (Burg-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Yog](/heroes/Yog/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/de/heroes/Yog/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

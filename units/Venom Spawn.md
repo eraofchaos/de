@@ -3,7 +3,7 @@ title: "Giftbrut"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen."
 unitID: 509
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Giftbrut"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Beschreibung:** Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/de/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/units/Unit Rank Commander/)
+ **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Seelen-Diebstahl für eine Wende im Match. Zum Sterben geboren.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **LP** | **ABW** | 
-  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **LP** | **ABW** | 
+  | [UnknownEquipment_5091](/de/equipment/UnknownEquipment_5091/) | **ANG** | **ABW** | 
+  | [UnknownEquipment_5092](/de/equipment/UnknownEquipment_5092/) | **LP** | **ABW** | 
+  | [UnknownEquipment_5093](/de/equipment/UnknownEquipment_5093/) | **ANG** | **ABW** | 
+  | [UnknownEquipment_5094](/de/equipment/UnknownEquipment_5094/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
-* [Habgier](/Emblem/Greed/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -218,10 +218,11 @@ toc: true
 
 * **Inferno**  (Inferno-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **Kommandant**  (Kommandant)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

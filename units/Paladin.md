@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
 unitID: 108
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Paladin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Mensch
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Verstärkung der Tapferen: Beschwört ein Heiligtumgefolge, das im Kampf hilft.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Richterschwert](/equipment/Richterschwert/) | **ANG** | **ABW** | 
-  | [Schwurhelm](/equipment/Schwurhelm/) | **LP** | **ABW** | 
-  | [Eiserner Schulterschutz](/equipment/Eiserner Schulterschutz/) | **ANG** | **ABW** | 
-  | [Geschmiedeter Armschutz](/equipment/Geschmiedeter Armschutz/) | **LP** | **ABW** | 
+  | [Richterschwert](/de/equipment/Richterschwert/) | **ANG** | **ABW** | 
+  | [Schwurhelm](/de/equipment/Schwurhelm/) | **LP** | **ABW** | 
+  | [Eiserner Schulterschutz](/de/equipment/Eiserner Schulterschutz/) | **ANG** | **ABW** | 
+  | [Geschmiedeter Armschutz](/de/equipment/Geschmiedeter Armschutz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [](/Exclusive/Paladin /) 
+ **Name:** [](/de/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/Emblem/Queen's Blessing/) (Rechtschaffen)
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -153,10 +153,11 @@ toc: true
 
 * **Schloss**  (Schloss-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -168,7 +169,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Oberster Paladin
 

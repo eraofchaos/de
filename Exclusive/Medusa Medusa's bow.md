@@ -2,18 +2,18 @@
 title: "Exklusiv - Medusas Bogen"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Medusas Bogen. Medusas Bogen. Era of Chaos Exklusiv Medusas Bogen. Medusa Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Medusa Medusas Bogen.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Medusas Bogen** 
 
- **Exklusiv for Unit:** [Medusa](/units/Medusa/) 
+ **Exklusiv for Unit:** [Medusa](/de/units/Medusa/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | Bei jedem Angriff der Medusa wird mit einer Wahrscheinlichkeit von 50 % <Schlangengift> auf eine zufällige Einheit gewirkt. Der Effekt bleibt die gesamte Schlacht über aktiv, bis 10 Stapel. Wenn die Medusa eine Einheit mit 10 Stapeln <Schlangengift> angreift, wird ihr Schaden um 30 % erhöht. <Schlangengift>: Verursacht jede Sekunde Schaden in Höhe von 5 % des ANG der Medusa. |
   | **1x** <i class="fas fa-star"/> | ? | Kritischer Treffer der Medusa wird um 300 erhöht. |

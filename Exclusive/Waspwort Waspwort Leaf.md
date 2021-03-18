@@ -2,18 +2,18 @@
 title: "Exklusiv - Wespenwurzblatt"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Wespenwurzblatt. Wespenwurzblatt. Era of Chaos Exklusiv Wespenwurzblatt. Wespenwurz Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Waspwort Wespenwurzblatt.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Wespenwurzblatt** 
 
- **Exklusiv for Unit:** [Wespenwurz](/units/Waspwort/) 
+ **Exklusiv for Unit:** [Wespenwurz](/de/units/Waspwort/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | <Tödliches Gift> Alle 4 Sek. beschwört Wespenwurz die Wespenwurzblätter bei 1 zufälligen gegnerischen Einheit. (Bei zufälliger Beschwörung derselben gegnerischen Einheit wird der Effekt gestapelt.) Die Wespen, die auf den Wespenwurzblättern sitzen, fügen gegnerischen Einheiten jede Sekunde Schaden in Höhe von 10 % ihres ANG zu und haben eine Chance von 10 %, 3 Sek. lang „Stille“ zu wirken. Die AKZ beträgt 9 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Wespenwurzes um 15 % und ABW-Durchdringung um 150. |

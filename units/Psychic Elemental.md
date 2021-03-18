@@ -3,7 +3,7 @@ title: "Psy-Elementar"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Psy-Elementar"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Hohe Energieschadensspitze, verbrennt.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Kern des Polarsterns](/equipment/Kern des Polarsterns/) | **ANG** | **ABW** | 
-  | [Himmlischer Stern](/equipment/Himmlischer Stern/) | **LP** | **ABW** | 
-  | [Sternengeist-Krone](/equipment/Sternengeist-Krone/) | **ANG** | **ABW** | 
-  | [Mächtige Armschiene](/equipment/Mächtige Armschiene/) | **LP** | **ABW** | 
+  | [Kern des Polarsterns](/de/equipment/Kern des Polarsterns/) | **ANG** | **ABW** | 
+  | [Himmlischer Stern](/de/equipment/Himmlischer Stern/) | **LP** | **ABW** | 
+  | [Sternengeist-Krone](/de/equipment/Sternengeist-Krone/) | **ANG** | **ABW** | 
+  | [Mächtige Armschiene](/de/equipment/Mächtige Armschiene/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Geistkern](/Exclusive/Psychic Elemental Spirit Core/) 
+ **Name:** [Geistkern](/de/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Grüner Prophet](/Emblem/Green Prophet/) (Gut)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Grüner Prophet](/de/Emblem/Green Prophet/) (Gut)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -153,11 +153,12 @@ toc: true
 
 * **Konflux**  (Konflux-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Monere](/heroes/Monere/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Monere](/de/heroes/Monere/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

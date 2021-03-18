@@ -3,7 +3,7 @@ title: "Nachtmahr"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Nachtmahr"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/de/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Unterstützung. Frühe Schadensspitzen.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Albtraum-Pupille](/equipment/Albtraum-Pupille/) | **ANG** | **ABW** | 
-  | [Abgrundfeuer](/equipment/Abgrundfeuer/) | **LP** | **ABW** | 
-  | [Asche-Hufeisen](/equipment/Asche-Hufeisen/) | **ANG** | **ABW** | 
-  | [Flammende Pferdemähne](/equipment/Flammende Pferdemähne/) | **LP** | **ABW** | 
+  | [Albtraum-Pupille](/de/equipment/Albtraum-Pupille/) | **ANG** | **ABW** | 
+  | [Abgrundfeuer](/de/equipment/Abgrundfeuer/) | **LP** | **ABW** | 
+  | [Asche-Hufeisen](/de/equipment/Asche-Hufeisen/) | **ANG** | **ABW** | 
+  | [Flammende Pferdemähne](/de/equipment/Flammende Pferdemähne/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [](/Exclusive/Nightmare /) 
+ **Name:** [](/de/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Eisenfausts Vermächtnis](/Emblem/Ironfist's Legacy/) (Rechtschaffen)
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Inferno**  (Inferno-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -167,40 +168,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Nachtmahr-König
 
  **Awaking Beschreibung:** Aus dem Reich der Träume kommend und die Lava auf dem Weg in die Welt der Lebenden überquerend, ist sein Körper von einer schrecklichen Aura umgeben. Die Flammen, die er ausatmet, verbrennen alles zu Asche, und geschmolzenes, heißes Magma fließt durch seine Venen. Wenn er angreift, sind selbst die tapfersten aller Krieger durch ihre Angst geschwächt und haben Mühe, ihre Schwerter zu heben und gegen ihn zu kämpfen.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Setze einen Nachtmahr und mindestens </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Inferno-Einheiten ein, um 1.000 Zwerge in einem Kampf in der Zwergenschatzkammer zu töten. (Durchmärsche zählen nicht für die Mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Monster im Gildenabenteuer.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Nachtmahr König-Seelen im Untergrund: Stufen 17-2 und 17-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Setze den Nachtmahr ein und gewinne </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Arenakämpfe.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Beschreibung:** 
+### 1st Skill (or 2nd): Albtraum-Tuch
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unendlicher Albtraum&gt;</span><span style="color: #645252;font-size:18px"> Wird ein Mal alle 15 Sek. ausgelöst. Wirkt in einer bestimmten Reichweite der gegnerischen Einheit mit den niedrigsten LP einen Fluch. Der Fluch verursacht 3 Sek. lang „Schlaf“ gegen betroffene Gegner (sie können sich nicht bewegen oder angreifen), verringert ihre SCHD-Reduzierung (Einheit) um 30 % und verursacht 5 Sek. lang „Verbrennung“ (Verbrennungseffekt kann nicht aufgehoben werden).</span>
 
-### 2nd Skill (or 1st): 
- **Beschreibung:** 
+### 2nd Skill (or 1st): Tiefer Albtraum
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unendlicher Albtraum&gt;</span><span style="color: #645252;font-size:18px"> Wird ein Mal alle 15 Sek. ausgelöst. Die Fähigkeit wirkt einen Fluch, der gegnerische Einheiten 5 Sek. lang mit „Schlaf“ belegt (sie können sich nicht bewegen oder angreifen), ihre ABW um 15 % verringert und 5 Sek. lang „Verbrennung“ verursacht (Verbrennungseffekt kann nicht aufgehoben werden).</span>
 
-### 3rd Skill (or 4th): 
- **Beschreibung:** 
+### 3rd Skill (or 4th): Traumfresser
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Traumfänger&gt;</span><span style="color: #645252;font-size:18px"> Jeder Angriff erhöht die SCHD-Reduzierung (Einheit) von verbündeten Inferno-Einheiten zusätzlich um 1 %. Bis zu 10 Mal stapelbar. Hält 10 Sek. an. Kann nicht entfernt werden. Jeder Krit. Treffer durch den Nachtmahr erhöht das eigene Angriffstempo und das Angriffstempo von Inferno-Einheiten um 1 %. Bis zu 20 Mal stapelbar. Hält 10 Sek. an. Kann nicht entfernt werden.</span>
 
-### 4th Skill (or 3rd): 
- **Beschreibung:** 
+### 4th Skill (or 3rd): Hervorgerufener Traum
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Traumfänger&gt;</span><span style="color: #645252;font-size:18px"> Jeder Angriff verringert die SCHD-Reduzierung (Einheit) von Gegnern zusätzlich um 2 %. Bis zu 20 Mal stapelbar. Hält 10 Sek. an. Kann nicht entfernt werden. Jeder Krit. Treffer durch den Nachtmahr erhöht das eigene Angriffstempo und das Angriffstempo von Inferno-Einheiten um 1 %. Bis zu 20 Mal stapelbar. Hält 10 Sek. an. Kann nicht entfernt werden.</span>
 
-### 5th Skill (or 6th): 
- **Beschreibung:** 
+### 5th Skill (or 6th): Herold
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Omen&gt;</span><span style="color: #645252;font-size:18px"> Für jede eingesetzte Inferno-Einheit steigt die eigene ABW um 10 %. Immer wenn eine Einheit in der Schlacht stirbt, besteht eine Chance von 50 %, dass die AKZ der ultimativen Fähigkeiten von verbündeten Helden um 2 Sek. verringert wird.</span>
 
-### 6th Skill (or 5th): 
- **Beschreibung:** 
+### 6th Skill (or 5th): Schlechtes Omen
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Omen&gt;</span><span style="color: #645252;font-size:18px"> Für jede eingesetzte Inferno-Einheit steigt die eigene ABW um 10 %. Immer wenn eine Einheit in der Schlacht stirbt, stellt die verbündete Einheit mit den niedrigsten LP 20 % der eigenen max. LP wieder her.</span>
 
 ## Technical info
  **runart:** 1

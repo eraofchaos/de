@@ -3,7 +3,7 @@ title: "Mantikor"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr."
 unitID: 706
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Mantikor"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr.
 
- **Klasse:** [Ansturm](/units/Unit Class Charging/)
+ **Klasse:** [Ansturm](/de/units/Unit Class Charging/)
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/de/units/Faction Dungeon/)
 
  **Race:** Dungeon-Truppen
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Starker DPS, hält lange durch.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Abgrundklaue](/equipment/Abgrundklaue/) | **ANG** | **ABW** | 
-  | [Tödlicher Giftzahn](/equipment/Tödlicher Giftzahn/) | **LP** | **ABW** | 
-  | [Giftschwanz](/equipment/Giftschwanz/) | **ANG** | **ABW** | 
-  | [Mantikorflügel](/equipment/Mantikorflügel/) | **LP** | **ABW** | 
+  | [Abgrundklaue](/de/equipment/Abgrundklaue/) | **ANG** | **ABW** | 
+  | [Tödlicher Giftzahn](/de/equipment/Tödlicher Giftzahn/) | **LP** | **ABW** | 
+  | [Giftschwanz](/de/equipment/Giftschwanz/) | **ANG** | **ABW** | 
+  | [Mantikorflügel](/de/equipment/Mantikorflügel/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Skorpionschwanz](/Exclusive/Manticore Scorpion Tail/) 
+ **Name:** [Skorpionschwanz](/de/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -148,11 +148,12 @@ toc: true
 
 * **Dungeon**  (Dungeon-Kader)
 * **Ansturm**  (Ansturm-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/de/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

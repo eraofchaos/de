@@ -2,18 +2,18 @@
 title: "Exklusiv - Todestribut"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Todestribut. Todestribut. Era of Chaos Exklusiv Todestribut. Lich Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Lich Todestribut.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Todestribut** 
 
- **Exklusiv for Unit:** [Lich](/units/Lich/) 
+ **Exklusiv for Unit:** [Lich](/de/units/Lich/) 
 
  **Item to Rangaufstieg:** -
 
@@ -21,13 +21,13 @@ classes: wide
 
  **Type:** Fernkampf
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | <Opferung der Drachenseele> Wenn die Schlacht 5 Sek. bzw. 45 Sek. lang läuft, wird jeweils 20 Sek. lang ein Knochendrache beschworen. ANG und LP des Knochendrachen werden von der Einheitsstufe bestimmt. Der Knochendrache kann <Angst> und <Durchdringung> einsetzen. Solange er auf dem Schlachtfeld ist, steigen Schaden und Schadensreduzierung aller verbündeten Nekropolis-Einheiten um 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Lich wird um 20 % erhöht. |

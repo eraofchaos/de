@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
 unitID: 804
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Basilisk"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
  **Race:** Tier
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Kontrolliert Tanks, versteinert.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Kragen des Basilisken](/equipment/Kragen des Basilisken/) | **ANG** | **ABW** | 
-  | [Gehärtete Schuppe](/equipment/Gehärtete Schuppe/) | **LP** | **ABW** | 
-  | [Giftkralle](/equipment/Giftkralle/) | **ANG** | **ABW** | 
-  | [Versteinernder Zahn](/equipment/Versteinernder Zahn/) | **LP** | **ABW** | 
+  | [Kragen des Basilisken](/de/equipment/Kragen des Basilisken/) | **ANG** | **ABW** | 
+  | [Gehärtete Schuppe](/de/equipment/Gehärtete Schuppe/) | **LP** | **ABW** | 
+  | [Giftkralle](/de/equipment/Giftkralle/) | **ANG** | **ABW** | 
+  | [Versteinernder Zahn](/de/equipment/Versteinernder Zahn/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Basiliskenschwanz](/Exclusive/Basilisk Basilisk's Tail/) 
+ **Name:** [Basiliskenschwanz](/de/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/Emblem/Queen's Blessing/) (Rechtschaffen)
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Festung**  (Festung-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

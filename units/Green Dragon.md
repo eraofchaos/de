@@ -3,7 +3,7 @@ title: "Grüner Drache"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Grüner Drache"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/de/units/Faction Rampart/)
 
  **Race:** Drache
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Verstärkung aus der Luft: Fügt 3 gegnerischen Truppen in der hinteren Reihe gewaltigen Schaden zu.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Gifthorn](/equipment/Gifthorn/) | **ANG** | **ABW** | 
-  | [Drachenschuppen-Rüstung](/equipment/Drachenschuppen-Rüstung/) | **LP** | **ABW** | 
-  | [Klauen des Verfalls](/equipment/Klauen des Verfalls/) | **ANG** | **ABW** | 
-  | [Giftiges Drachenblut](/equipment/Giftiges Drachenblut/) | **LP** | **ABW** | 
+  | [Gifthorn](/de/equipment/Gifthorn/) | **ANG** | **ABW** | 
+  | [Drachenschuppen-Rüstung](/de/equipment/Drachenschuppen-Rüstung/) | **LP** | **ABW** | 
+  | [Klauen des Verfalls](/de/equipment/Klauen des Verfalls/) | **ANG** | **ABW** | 
+  | [Giftiges Drachenblut](/de/equipment/Giftiges Drachenblut/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Prächtiger Drachenflügel](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Name:** [Prächtiger Drachenflügel](/de/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Schutzwall**  (Schutzwall-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

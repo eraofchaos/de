@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Imp"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/de/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Impuls: Mit einer gewissen Wahrscheinlichkeit wird die Einheit nach dem Tod mit voller Gesundheit wiederbelebt.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Düstere Klauen](/equipment/Düstere Klauen/) | **ANG** | **ABW** | 
-  | [Düsteres Katar](/equipment/Düsteres Katar/) | **LP** | **ABW** | 
-  | [Düstere Schwingen](/equipment/Düstere Schwingen/) | **ANG** | **ABW** | 
-  | [Düstere leichte Rüstung](/equipment/Düstere leichte Rüstung/) | **LP** | **ABW** | 
+  | [Düstere Klauen](/de/equipment/Düstere Klauen/) | **ANG** | **ABW** | 
+  | [Düsteres Katar](/de/equipment/Düsteres Katar/) | **LP** | **ABW** | 
+  | [Düstere Schwingen](/de/equipment/Düstere Schwingen/) | **ANG** | **ABW** | 
+  | [Düstere leichte Rüstung](/de/equipment/Düstere leichte Rüstung/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Irisschild](/Exclusive/Imp Iris Shield/) 
+ **Name:** [Irisschild](/de/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/Emblem/Guardian Angel/) (Gut)
-* [Zorn](/Emblem/Anger/) (Chaos)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Inferno**  (Inferno-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -2,18 +2,18 @@
 title: "Exklusiv - Düstere Gezeiten"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Düstere Gezeiten. Düstere Gezeiten. Era of Chaos Exklusiv Düstere Gezeiten. Revyaratan Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Revyaratan Düstere Gezeiten.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Düstere Gezeiten** 
 
- **Exklusiv for Unit:** [Revyaratan](/units/Revyaratan/) 
+ **Exklusiv for Unit:** [Revyaratan](/de/units/Revyaratan/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | <Blutschnüffler> Revyaratan fügt der Zieleinheit alle 7 Sek. Schaden in Höhe von 120 % des eigenen ANG zu. Außerdem wirkt er „Blutung“ und verringert 4 Sek. lang die SCHD-Reduzierung (Einheit) um 20 % und die Zähigkeit um 200. Die Zieleinheit verliert jede Sekunde 1 % der max. LP. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) von Revyaratan um 20 %. Verursacht zusätzliche 20 % Krit. Gesamt-SCHD bei gegnerischen Einheiten, die von „Verlangsamung“ betroffen sind. |

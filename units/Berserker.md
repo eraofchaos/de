@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Berserker"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/de/units/Faction Stronghold/)
 
  **Race:** Ork
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Kriegssturm: Fügt 3 gegnerischen Einheiten in der Nähe Schaden zu.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Obsidian-Kriegsaxt](/equipment/Obsidian-Kriegsaxt/) | **ANG** | **ABW** | 
-  | [Knochenkette](/equipment/Knochenkette/) | **LP** | **ABW** | 
-  | [Tierknochenhelm](/equipment/Tierknochenhelm/) | **ANG** | **ABW** | 
-  | [Lederband](/equipment/Lederband/) | **LP** | **ABW** | 
+  | [Obsidian-Kriegsaxt](/de/equipment/Obsidian-Kriegsaxt/) | **ANG** | **ABW** | 
+  | [Knochenkette](/de/equipment/Knochenkette/) | **LP** | **ABW** | 
+  | [Tierknochenhelm](/de/equipment/Tierknochenhelm/) | **ANG** | **ABW** | 
+  | [Lederband](/de/equipment/Lederband/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Berserkeraxt](/Exclusive/Berserker Berserker's Axe/) 
+ **Name:** [Berserkeraxt](/de/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Neid](/Emblem/Jealousy/) (Chaos)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Kombinationsinfo
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Burg**  (Burg-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/de/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

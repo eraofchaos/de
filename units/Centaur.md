@@ -3,7 +3,7 @@ title: "Zentaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Zentaur"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/de/units/Faction Rampart/)
 
  **Race:** Wald
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Kampfstampfer: Fügt den nächsten Einheiten Schaden zu und verlangsamt sie.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Kriegsaxt der Wildnis](/equipment/Kriegsaxt der Wildnis/) | **ANG** | **ABW** | 
-  | [Helm der Wildnis](/equipment/Helm der Wildnis/) | **LP** | **ABW** | 
-  | [Panzerhandschuhe der Wildnis](/equipment/Panzerhandschuhe der Wildnis/) | **ANG** | **ABW** | 
-  | [Schulterschutz der Wildnis](/equipment/Schulterschutz der Wildnis/) | **LP** | **ABW** | 
+  | [Kriegsaxt der Wildnis](/de/equipment/Kriegsaxt der Wildnis/) | **ANG** | **ABW** | 
+  | [Helm der Wildnis](/de/equipment/Helm der Wildnis/) | **LP** | **ABW** | 
+  | [Panzerhandschuhe der Wildnis](/de/equipment/Panzerhandschuhe der Wildnis/) | **ANG** | **ABW** | 
+  | [Schulterschutz der Wildnis](/de/equipment/Schulterschutz der Wildnis/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Irisschild](/Exclusive/Centaur Iris Shield/) 
+ **Name:** [Irisschild](/de/Exclusive/Centaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Aksoe-Token](/Emblem/Aksoe Token/) (Neutral)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
 
 ## Kombinationsinfo
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Schutzwall**  (Schutzwall-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

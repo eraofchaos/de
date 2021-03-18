@@ -3,7 +3,7 @@ title: "Echsenmensch"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Echsenmensch"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
  **Race:** Bestienmeister
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Short description:** Starker DPS.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Stachelbewehrter Kragen](/equipment/Stachelbewehrter Kragen/) | **ANG** | **ABW** | 
-  | [Armschutz des Kriegers](/equipment/Armschutz des Kriegers/) | **LP** | **ABW** | 
-  | [Schulterblatt des Kriegers](/equipment/Schulterblatt des Kriegers/) | **ANG** | **ABW** | 
-  | [Jagdbogen](/equipment/Jagdbogen/) | **LP** | **ABW** | 
+  | [Stachelbewehrter Kragen](/de/equipment/Stachelbewehrter Kragen/) | **ANG** | **ABW** | 
+  | [Armschutz des Kriegers](/de/equipment/Armschutz des Kriegers/) | **LP** | **ABW** | 
+  | [Schulterblatt des Kriegers](/de/equipment/Schulterblatt des Kriegers/) | **ANG** | **ABW** | 
+  | [Jagdbogen](/de/equipment/Jagdbogen/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Langbogen](/Exclusive/Lizardman Long Bow/) 
+ **Name:** [Langbogen](/de/Exclusive/Lizardman Long Bow/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Festung**  (Festung-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Wystan](/heroes/Wystan/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Wystan](/de/heroes/Wystan/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

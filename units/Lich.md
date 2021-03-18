@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Lich"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/de/units/Faction Necropolis/)
 
  **Race:** Untot
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Opfer: Beschwört eine Skeletthorde.
 
@@ -69,16 +69,16 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Unheilsstab](/equipment/Unheilsstab/) | **ANG** | **ABW** | 
-  | [Aaskrone](/equipment/Aaskrone/) | **LP** | **ABW** | 
-  | [Seelengürtel](/equipment/Seelengürtel/) | **ANG** | **ABW** | 
-  | [Leichte Rüstung der Unterwelt](/equipment/Leichte Rüstung der Unterwelt/) | **LP** | **ABW** | 
+  | [Unheilsstab](/de/equipment/Unheilsstab/) | **ANG** | **ABW** | 
+  | [Aaskrone](/de/equipment/Aaskrone/) | **LP** | **ABW** | 
+  | [Seelengürtel](/de/equipment/Seelengürtel/) | **ANG** | **ABW** | 
+  | [Leichte Rüstung der Unterwelt](/de/equipment/Leichte Rüstung der Unterwelt/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Todestribut](/Exclusive/Lich Death Tribute/) 
+ **Name:** [Todestribut](/de/Exclusive/Lich Death Tribute/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** -
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Vergessenes Autonym](/Emblem/Forgotten Autonym/) (Böse)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) (Böse)
 
 ## Kombinationsinfo
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Nekropolis**  (Nekropolis-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Vidomina](/heroes/Vidomina/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mensch Sandro](/heroes/Human Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/de/heroes/Vidomina/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/de/heroes/Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mensch Sandro](/de/heroes/Human Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

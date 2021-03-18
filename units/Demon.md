@@ -3,7 +3,7 @@ title: "Dämon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
 unitID: 504
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Dämon"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/de/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Versengender Schlag: Fügt gegnerischen Truppen kolossalen Schaden zu.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Horn des Brandes](/equipment/Horn des Brandes/) | **ANG** | **ABW** | 
-  | [Stahlcollier](/equipment/Stahlcollier/) | **LP** | **ABW** | 
-  | [Versengende Klauen](/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
-  | [Stachliger Armschutz](/equipment/Stachliger Armschutz/) | **LP** | **ABW** | 
+  | [Horn des Brandes](/de/equipment/Horn des Brandes/) | **ANG** | **ABW** | 
+  | [Stahlcollier](/de/equipment/Stahlcollier/) | **LP** | **ABW** | 
+  | [Versengende Klauen](/de/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
+  | [Stachliger Armschutz](/de/equipment/Stachliger Armschutz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Irisschild](/Exclusive/Demon Iris Shield/) 
+ **Name:** [Irisschild](/de/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Habgier](/Emblem/Greed/) (Chaos)
-* [Wollust](/Emblem/Lust/) (Chaos)
-* [Ominöses Zeichen](/Emblem/Ominous Sign/) (Böse)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
+* [Ominöses Zeichen](/de/Emblem/Ominous Sign/) (Böse)
 
 ## Kombinationsinfo
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Inferno**  (Inferno-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -172,40 +173,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Infernowache
 
- **Awaking Beschreibung:** null
+ **Awaking Beschreibung:** Suchte man die neutralste Person auf dieser Welt, würde die Wahl zweifellos auf die Infernowache mit den blutigen Händen und dem stählernen Gesichtsausdruck fallen. Ob Dämon oder Geist, Weiser oder Dieb, wer von der Infernowache auserkoren und zum Zerberustor geschickt wird, muss sich ihrem Urteil beugen und in die Flammen hinabsteigen.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Setze einen Dämon und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Inferno-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Mal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> Ausrüstungsteile im Gildenabenteuer.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Infernowache-Seelen im Untergrund: Stufen 15-2 and 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Setze einen Dämon ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Versengender Aufprall
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Versengender Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert Krit. Treffer von gegnerischen Einheiten in Reichweite des Ziels zusätzlich um 200. Falls das Ziel von „Stille“ betroffen ist, wird sein Angriffstempo ebenfalls um 15 % verringert. Hält 7 Sek. an.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+### 2nd Skill (or 1st): Versengender Hieb
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Versengender Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert Krit. Treffer von gegnerischen Einheiten in Reichweite des Ziels zusätzlich um 200. Falls das Ziel von „Verbrennung“ betroffen ist, wird sein Angriffstempo ebenfalls um 15 % verringert. Hält 7 Sek. an.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+### 3rd Skill (or 4th): Lodern
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wärme&gt;</span><span style="color: #645252;font-size:18px"> Stellt bei Infernowache-Einheiten zusätzlich LP in Höhe von 50 % ihres eigenen ANG wieder her.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Magma
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wärme&gt;</span><span style="color: #645252;font-size:18px"> Erhöht Erholungseffekte um 50 %.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Dämonischer Scherge
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inferno-Scherge&gt;</span><span style="color: #645252;font-size:18px"> Die Zähigkeit des Dämons wird bei jedem Ausweichen um 80 erhöht. Bis zu 5 Mal stapelbar. Hält den gesamten Kampf über an.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Gehörnter Scherge
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Inferno-Scherge&gt;</span><span style="color: #645252;font-size:18px"> Die Zähigkeit des Dämons wird um 300 erhöht.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Regnanbogensch."
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Pirat
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Kritische Treffer, Durchdringung.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arbaleste des Meeres](/equipment/Arbaleste des Meeres/) | **ANG** | **ABW** | 
-  | [Kappe des Ansehens](/equipment/Kappe des Ansehens/) | **LP** | **ABW** | 
-  | [Stahlpfeil](/equipment/Stahlpfeil/) | **ANG** | **ABW** | 
-  | [Jägerkleidung](/equipment/Jägerkleidung/) | **LP** | **ABW** | 
+  | [Arbaleste des Meeres](/de/equipment/Arbaleste des Meeres/) | **ANG** | **ABW** | 
+  | [Kappe des Ansehens](/de/equipment/Kappe des Ansehens/) | **LP** | **ABW** | 
+  | [Stahlpfeil](/de/equipment/Stahlpfeil/) | **ANG** | **ABW** | 
+  | [Jägerkleidung](/de/equipment/Jägerkleidung/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Wunder](/Exclusive/Regnan Archer Miracle/) 
+ **Name:** [Wunder](/de/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Peter Lee](/heroes/Peter Lee/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/de/heroes/Peter Lee/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

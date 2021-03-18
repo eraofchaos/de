@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Wyvern"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
  **Race:** Tier
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Mächtiger Nahkämpfer, giftig.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Drachenklauen](/equipment/Drachenklauen/) | **ANG** | **ABW** | 
-  | [Seuchenzahn](/equipment/Seuchenzahn/) | **LP** | **ABW** | 
-  | [Imp-Rückenstacheln](/equipment/Imp-Rückenstacheln/) | **ANG** | **ABW** | 
-  | [Drachenschwingen](/equipment/Drachenschwingen/) | **LP** | **ABW** | 
+  | [Drachenklauen](/de/equipment/Drachenklauen/) | **ANG** | **ABW** | 
+  | [Seuchenzahn](/de/equipment/Seuchenzahn/) | **LP** | **ABW** | 
+  | [Imp-Rückenstacheln](/de/equipment/Imp-Rückenstacheln/) | **ANG** | **ABW** | 
+  | [Drachenschwingen](/de/equipment/Drachenschwingen/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Wyvernschwanz](/Exclusive/Wyvern Wyvern's Tail/) 
+ **Name:** [Wyvernschwanz](/de/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Festung**  (Festung-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

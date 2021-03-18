@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Behemoths gehören zu den wenigen urtümlichen Kreaturen, die noch aus der Zeit vor den Drachen stammen. Ihre gewaltigen Leiber sind immun gegen die Angriffe ihrer Feinde."
 unitID: 407
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Behemoth"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Behemoths gehören zu den wenigen urtümlichen Kreaturen, die noch aus der Zeit vor den Drachen stammen. Ihre gewaltigen Leiber sind immun gegen die Angriffe ihrer Feinde.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/de/units/Faction Stronghold/)
 
  **Race:** Einhorn
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Wildes Brüllen: Reduziert den gegnerischen Angriff enorm und verursacht Betäubung.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Wilde Krallen](/equipment/Wilde Krallen/) | **ANG** | **ABW** | 
-  | [Eisenhaut](/equipment/Eisenhaut/) | **LP** | **ABW** | 
-  | [Wilde Reißzähne](/equipment/Wilde Reißzähne/) | **ANG** | **ABW** | 
-  | [Dichter Fellbewuchs](/equipment/Dichter Fellbewuchs/) | **LP** | **ABW** | 
+  | [Wilde Krallen](/de/equipment/Wilde Krallen/) | **ANG** | **ABW** | 
+  | [Eisenhaut](/de/equipment/Eisenhaut/) | **LP** | **ABW** | 
+  | [Wilde Reißzähne](/de/equipment/Wilde Reißzähne/) | **ANG** | **ABW** | 
+  | [Dichter Fellbewuchs](/de/equipment/Dichter Fellbewuchs/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Blutrünstiger Geist](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Name:** [Blutrünstiger Geist](/de/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/Emblem/Queen's Blessing/) (Rechtschaffen)
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Burg**  (Burg-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/de/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

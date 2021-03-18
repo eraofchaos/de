@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Roc"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/de/units/Faction Stronghold/)
 
  **Race:** Einhorn
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Donner: Fügt allen gegnerischen Einheiten vor sich katastrophalen Schaden zu.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Donnerschnabel](/equipment/Donnerschnabel/) | **ANG** | **ABW** | 
-  | [Gewitterflügel](/equipment/Gewitterflügel/) | **LP** | **ABW** | 
-  | [Blitzkrallen](/equipment/Blitzkrallen/) | **ANG** | **ABW** | 
-  | [Blitzrüstung](/equipment/Blitzrüstung/) | **LP** | **ABW** | 
+  | [Donnerschnabel](/de/equipment/Donnerschnabel/) | **ANG** | **ABW** | 
+  | [Gewitterflügel](/de/equipment/Gewitterflügel/) | **LP** | **ABW** | 
+  | [Blitzkrallen](/de/equipment/Blitzkrallen/) | **ANG** | **ABW** | 
+  | [Blitzrüstung](/de/equipment/Blitzrüstung/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Arkangesang](/Exclusive/Roc Arcane Chant/) 
+ **Name:** [Arkangesang](/de/Exclusive/Roc Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Neid](/Emblem/Jealousy/) (Chaos)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Burg**  (Burg-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Shiva](/heroes/Shiva/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Shiva](/de/heroes/Shiva/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/de/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

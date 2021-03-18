@@ -3,7 +3,7 @@ title: "Minotaurus"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Minotaurus"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/de/units/Faction Dungeon/)
 
  **Race:** Dungeon-Truppen
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Wirbelwind: Verursacht Flächenschaden und reduziert das Angriffstempo.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Gorgonen-Kriegsaxt](/equipment/Gorgonen-Kriegsaxt/) | **ANG** | **ABW** | 
-  | [Gorgonen-Schulterpanzer](/equipment/Gorgonen-Schulterpanzer/) | **LP** | **ABW** | 
-  | [Gorgonenbänder](/equipment/Gorgonenbänder/) | **ANG** | **ABW** | 
-  | [Gorgonengürtel](/equipment/Gorgonengürtel/) | **LP** | **ABW** | 
+  | [Gorgonen-Kriegsaxt](/de/equipment/Gorgonen-Kriegsaxt/) | **ANG** | **ABW** | 
+  | [Gorgonen-Schulterpanzer](/de/equipment/Gorgonen-Schulterpanzer/) | **LP** | **ABW** | 
+  | [Gorgonenbänder](/de/equipment/Gorgonenbänder/) | **ANG** | **ABW** | 
+  | [Gorgonengürtel](/de/equipment/Gorgonengürtel/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Irisschild](/Exclusive/Minotaur Iris Shield/) 
+ **Name:** [Irisschild](/de/Exclusive/Minotaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/Emblem/Queen's Blessing/) (Rechtschaffen)
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Dungeon**  (Dungeon-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/de/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

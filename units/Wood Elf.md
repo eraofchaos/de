@@ -3,7 +3,7 @@ title: "Waldelfe"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
 unitID: 203
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Waldelfe"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Schutzwall](/units/Faction Rampart/)
+ **Fraktion:** [Schutzwall](/de/units/Faction Rampart/)
 
  **Race:** Wald
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Pfeilhagel: Erhöht das Angriffstempo kurze Zeit um 500 %.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sylvanischer Langbogen](/equipment/Sylvanischer Langbogen/) | **ANG** | **ABW** | 
-  | [Reif der grünen Blätter](/equipment/Reif der grünen Blätter/) | **LP** | **ABW** | 
-  | [Pfeile der Jade](/equipment/Pfeile der Jade/) | **ANG** | **ABW** | 
-  | [Kurzrobe der grünen Blätter](/equipment/Kurzrobe der grünen Blätter/) | **LP** | **ABW** | 
+  | [Sylvanischer Langbogen](/de/equipment/Sylvanischer Langbogen/) | **ANG** | **ABW** | 
+  | [Reif der grünen Blätter](/de/equipment/Reif der grünen Blätter/) | **LP** | **ABW** | 
+  | [Pfeile der Jade](/de/equipment/Pfeile der Jade/) | **ANG** | **ABW** | 
+  | [Kurzrobe der grünen Blätter](/de/equipment/Kurzrobe der grünen Blätter/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Langbogen](/Exclusive/Wood Elf Long Bow/) 
+ **Name:** [Langbogen](/de/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Aksoe-Token](/Emblem/Aksoe Token/) (Neutral)
-* [Neid](/Emblem/Jealousy/) (Chaos)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Kombinationsinfo
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Schutzwall**  (Schutzwall-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/de/heroes/Gem/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Eiselementar"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Short description:** Eisaura, Eismauer.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Tiefeneis-Kristall](/equipment/Tiefeneis-Kristall/) | **ANG** | **ABW** | 
-  | [Kopfschmuck der Gezeiten](/equipment/Kopfschmuck der Gezeiten/) | **LP** | **ABW** | 
-  | [Zeichen des Ozeans](/equipment/Zeichen des Ozeans/) | **ANG** | **ABW** | 
-  | [Gewand der Meerjungfrau](/equipment/Gewand der Meerjungfrau/) | **LP** | **ABW** | 
+  | [Tiefeneis-Kristall](/de/equipment/Tiefeneis-Kristall/) | **ANG** | **ABW** | 
+  | [Kopfschmuck der Gezeiten](/de/equipment/Kopfschmuck der Gezeiten/) | **LP** | **ABW** | 
+  | [Zeichen des Ozeans](/de/equipment/Zeichen des Ozeans/) | **ANG** | **ABW** | 
+  | [Gewand der Meerjungfrau](/de/equipment/Gewand der Meerjungfrau/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Arkangesang](/Exclusive/Ice Elemental Arcane Chant/) 
+ **Name:** [Arkangesang](/de/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Eisenfausts Vermächtnis](/Emblem/Ironfist's Legacy/) (Rechtschaffen)
-* [Aksoe-Token](/Emblem/Aksoe Token/) (Neutral)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Konflux**  (Konflux-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

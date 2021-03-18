@@ -3,7 +3,7 @@ title: "Richterin"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Richterin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Mensch
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/units/Unit Rank Commander/)
+ **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Aura-Unterstützung, höhere Reichweite.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Stab der Theokratie](/equipment/Stab der Theokratie/) | **ANG** | **ABW** | 
-  | [Himmlische Segenshaube](/equipment/Himmlische Segenshaube/) | **LP** | **ABW** | 
-  | [Leichter Umhang](/equipment/Leichter Umhang/) | **ANG** | **ABW** | 
-  | [Göttliche Armschiene](/equipment/Göttliche Armschiene/) | **LP** | **ABW** | 
+  | [Stab der Theokratie](/de/equipment/Stab der Theokratie/) | **ANG** | **ABW** | 
+  | [Himmlische Segenshaube](/de/equipment/Himmlische Segenshaube/) | **LP** | **ABW** | 
+  | [Leichter Umhang](/de/equipment/Leichter Umhang/) | **ANG** | **ABW** | 
+  | [Göttliche Armschiene](/de/equipment/Göttliche Armschiene/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [](/Exclusive/Judicator /) 
+ **Name:** [](/de/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Schloss**  (Schloss-Kader)
 * **Magie**  (Zauberer-Kader)
+* **Kommandant**  (Kommandant)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Beschreibung:** Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht.
 
- **Klasse:** [Ansturm](/units/Unit Class Charging/)
+ **Klasse:** [Ansturm](/de/units/Unit Class Charging/)
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Pirat
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Beschwört Haie zum Zerreißen und Zerfleischen.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Stahlsäbel](/equipment/Stahlsäbel/) | **ANG** | **ABW** | 
-  | [Schutzriemen](/equipment/Schutzriemen/) | **LP** | **ABW** | 
-  | [Schutzhandschuhe](/equipment/Schutzhandschuhe/) | **ANG** | **ABW** | 
-  | [Haizügel](/equipment/Haizügel/) | **LP** | **ABW** | 
+  | [Stahlsäbel](/de/equipment/Stahlsäbel/) | **ANG** | **ABW** | 
+  | [Schutzriemen](/de/equipment/Schutzriemen/) | **LP** | **ABW** | 
+  | [Schutzhandschuhe](/de/equipment/Schutzhandschuhe/) | **ANG** | **ABW** | 
+  | [Haizügel](/de/equipment/Haizügel/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Wellen brechen](/Exclusive/Shark Trainer Break Waves/) 
+ **Name:** [Wellen brechen](/de/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Neid](/Emblem/Jealousy/) (Chaos)
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
 
 ## Kombinationsinfo
 
@@ -197,10 +197,11 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Ansturm**  (Ansturm-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

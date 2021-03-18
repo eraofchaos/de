@@ -3,7 +3,7 @@ title: "Harpyie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Harpyie"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt.
 
- **Klasse:** [Ansturm](/units/Unit Class Charging/)
+ **Klasse:** [Ansturm](/de/units/Unit Class Charging/)
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/de/units/Faction Dungeon/)
 
  **Race:** Dungeon-Truppen
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Scharfe Kralle der Verzauberin: Fügt mit gewisser Wahrscheinlichkeit mehreren Gegnern Schaden zu.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Herzstoßdolch](/equipment/Herzstoßdolch/) | **ANG** | **ABW** | 
-  | [Mystische Rüstung](/equipment/Mystische Rüstung/) | **LP** | **ABW** | 
-  | [Klauenmörder](/equipment/Klauenmörder/) | **ANG** | **ABW** | 
-  | [Schulterpanzer der Zauberin](/equipment/Schulterpanzer der Zauberin/) | **LP** | **ABW** | 
+  | [Herzstoßdolch](/de/equipment/Herzstoßdolch/) | **ANG** | **ABW** | 
+  | [Mystische Rüstung](/de/equipment/Mystische Rüstung/) | **LP** | **ABW** | 
+  | [Klauenmörder](/de/equipment/Klauenmörder/) | **ANG** | **ABW** | 
+  | [Schulterpanzer der Zauberin](/de/equipment/Schulterpanzer der Zauberin/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Ritterpike](/Exclusive/Harpy Knight Pike/) 
+ **Name:** [Ritterpike](/de/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/Emblem/Guardian Angel/) (Gut)
-* [Neid](/Emblem/Jealousy/) (Chaos)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Kombinationsinfo
 
@@ -151,11 +151,12 @@ toc: true
 
 * **Dungeon**  (Dungeon-Kader)
 * **Ansturm**  (Ansturm-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/de/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Weißer Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden."
 unitID: 809
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Weißer Tiger"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Beschreibung:** Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden.
 
- **Klasse:** [Ansturm](/units/Unit Class Charging/)
+ **Klasse:** [Ansturm](/de/units/Unit Class Charging/)
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
  **Race:** Einhorn
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/units/Unit Rank Commander/)
+ **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Position :** Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden.
 
@@ -66,19 +66,19 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **LP** | **ABW** | 
-  | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **LP** | **ABW** | 
+  | [UnknownEquipment_8091](/de/equipment/UnknownEquipment_8091/) | **ANG** | **ABW** | 
+  | [UnknownEquipment_8092](/de/equipment/UnknownEquipment_8092/) | **LP** | **ABW** | 
+  | [UnknownEquipment_8093](/de/equipment/UnknownEquipment_8093/) | **ANG** | **ABW** | 
+  | [UnknownEquipment_8094](/de/equipment/UnknownEquipment_8094/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
 
 ## Empfohlene Heilige Embleme
 
-* [Rechtsprinzip der Erben](/Emblem/Successors' Legal Principles/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -168,10 +168,11 @@ toc: true
 
 * **Festung**  (Festung-Kader)
 * **Ansturm**  (Ansturm-Kader)
+* **Kommandant**  (Kommandant)
 
 ### Heldenbonus
-* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

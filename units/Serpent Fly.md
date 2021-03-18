@@ -3,7 +3,7 @@ title: "Schlangenfliege"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
 unitID: 803
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Schlangenfliege"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
  **Race:** Tier
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Short description:** Schwächt und kontrolliert die hintere Reihe.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Kragen des Unholds](/equipment/Kragen des Unholds/) | **ANG** | **ABW** | 
-  | [Tödliche Kieferwaffe](/equipment/Tödliche Kieferwaffe/) | **LP** | **ABW** | 
-  | [Übler Zacken](/equipment/Übler Zacken/) | **ANG** | **ABW** | 
-  | [Giftzahn](/equipment/Giftzahn/) | **LP** | **ABW** | 
+  | [Kragen des Unholds](/de/equipment/Kragen des Unholds/) | **ANG** | **ABW** | 
+  | [Tödliche Kieferwaffe](/de/equipment/Tödliche Kieferwaffe/) | **LP** | **ABW** | 
+  | [Übler Zacken](/de/equipment/Übler Zacken/) | **ANG** | **ABW** | 
+  | [Giftzahn](/de/equipment/Giftzahn/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Arkangesang](/Exclusive/Serpent Fly Arcane Chant/) 
+ **Name:** [Arkangesang](/de/Exclusive/Serpent Fly Arcane Chant/) 
 
  **Is Open:** + 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Neid](/Emblem/Jealousy/) (Chaos)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
 
 ## Kombinationsinfo
 
@@ -172,11 +172,12 @@ toc: true
 
 * **Festung**  (Festung-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Korbac](/heroes/Korbac/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/de/heroes/Korbac/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

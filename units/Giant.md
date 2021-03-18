@@ -3,7 +3,7 @@ title: "Gigant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Gigant"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/de/units/Faction Tower/)
 
  **Race:** Mensch
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Kriegsgott: Ignoriert Reichweite, verursacht Schaden als Prozentwert der LP.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Blitzschlag](/equipment/Blitzschlag/) | **ANG** | **ABW** | 
-  | [Schulterschutz aus purem Gold](/equipment/Schulterschutz aus purem Gold/) | **LP** | **ABW** | 
-  | [Donnerhelm](/equipment/Donnerhelm/) | **ANG** | **ABW** | 
-  | [Blitzharnisch](/equipment/Blitzharnisch/) | **LP** | **ABW** | 
+  | [Blitzschlag](/de/equipment/Blitzschlag/) | **ANG** | **ABW** | 
+  | [Schulterschutz aus purem Gold](/de/equipment/Schulterschutz aus purem Gold/) | **LP** | **ABW** | 
+  | [Donnerhelm](/de/equipment/Donnerhelm/) | **ANG** | **ABW** | 
+  | [Blitzharnisch](/de/equipment/Blitzharnisch/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Tausend Tonnen](/Exclusive/Giant Thousand Ton/) 
+ **Name:** [Tausend Tonnen](/de/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Turm**  (Turm-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/de/heroes/Astral/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

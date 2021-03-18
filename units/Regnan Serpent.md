@@ -3,7 +3,7 @@ title: "Regnanschlange"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Regnanschlange"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Tiefseestampfer: Flächenkontrolle, schreckt Feinde ab und reduziert Kritischer Treffer.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dreizack](/equipment/Dreizack/) | **ANG** | **ABW** | 
-  | [Muschelhorn](/equipment/Muschelhorn/) | **LP** | **ABW** | 
-  | [Krallen der Meerjungfrau](/equipment/Krallen der Meerjungfrau/) | **ANG** | **ABW** | 
-  | [Mazarinflosse](/equipment/Mazarinflosse/) | **LP** | **ABW** | 
+  | [Dreizack](/de/equipment/Dreizack/) | **ANG** | **ABW** | 
+  | [Muschelhorn](/de/equipment/Muschelhorn/) | **LP** | **ABW** | 
+  | [Krallen der Meerjungfrau](/de/equipment/Krallen der Meerjungfrau/) | **ANG** | **ABW** | 
+  | [Mazarinflosse](/de/equipment/Mazarinflosse/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Tagesgezeiten](/Exclusive/Regnan Serpent Day Tides/) 
+ **Name:** [Tagesgezeiten](/de/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Steinschlüssel zu den Toren](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Aksoe-Token](/Emblem/Aksoe Token/) (Neutral)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) (Neutral)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
 
 ## Kombinationsinfo
 
@@ -170,10 +170,11 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

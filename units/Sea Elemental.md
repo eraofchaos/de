@@ -3,7 +3,7 @@ title: "Meerelementar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
 unitID: 9903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Meerelementar"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Short description:** Verlangsamungs-Kontrolle.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ewige Träne](/equipment/Ewige Träne/) | **ANG** | **ABW** | 
-  | [Kern des Wasserelementars](/equipment/Kern des Wasserelementars/) | **LP** | **ABW** | 
-  | [Wellenstrom](/equipment/Wellenstrom/) | **ANG** | **ABW** | 
-  | [Wirbelnarbe](/equipment/Wirbelnarbe/) | **LP** | **ABW** | 
+  | [Ewige Träne](/de/equipment/Ewige Träne/) | **ANG** | **ABW** | 
+  | [Kern des Wasserelementars](/de/equipment/Kern des Wasserelementars/) | **LP** | **ABW** | 
+  | [Wellenstrom](/de/equipment/Wellenstrom/) | **ANG** | **ABW** | 
+  | [Wirbelnarbe](/de/equipment/Wirbelnarbe/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Arkangesang](/Exclusive/Sea Elemental Arcane Chant/) 
+ **Name:** [Arkangesang](/de/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Aksoe-Token](/Emblem/Aksoe Token/) (Neutral)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
-* [Neid](/Emblem/Jealousy/) (Chaos)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Magie**  (Zauberer-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

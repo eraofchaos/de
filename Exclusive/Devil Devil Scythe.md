@@ -2,18 +2,18 @@
 title: "Exklusiv - Teufelssense"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Teufelssense. Teufelssense. Era of Chaos Exklusiv Teufelssense. Teufel Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Devil Teufelssense.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Teufelssense** 
 
- **Exklusiv for Unit:** [Teufel](/units/Devil/) 
+ **Exklusiv for Unit:** [Teufel](/de/units/Devil/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | Nach seinem ersten Tod wird der Teufel nach 6 Sek. an seinem Spawnpunkt wiederbelebt. Der wiedergeborene Teufel erhöht die nächsten 20 Sek. Kritischer Schaden, Angriffstempo und Schadensreduzierung für alle verbündeten Einheiten; für Inferno-Einheiten wird der Effekt verdoppelt. Der wiedergeborene Teufel wirkt <Rache> auf das Ziel. <Rache> Verursacht Schaden in Höhe von 200 % des ANG und fügt dem Ziel „Auszehrung“ zu. Die Fähigkeit kann einmal alle 45 Sek. ausgelöst werden. „Auszehrung“ hält 5 Sek. lang und kann nicht gebannt werden. Reduziert die Schadensreduzierung und ABW der „ausgezehrten“ Einheit um 20 %. |
   | **1x** <i class="fas fa-star"/> | ? | Der Teufel wirkt alle 9 Sek. ein <Inferno-Zeichen> auf eine zufällige gegnerische Einheit. Jeder Stapel des Zeichens reduziert die Schadensreduzierung des Ziels um 7 %, bis 3 Stapel. Wenn das Zeichen 3 Stapel hat, wird es vom Ziel entfernt und verursacht 300 % Schaden. Das Zeichen bleibt die gesamte Schlacht über aktiv und kann nicht gebannt werden. |

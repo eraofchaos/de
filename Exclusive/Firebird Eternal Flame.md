@@ -2,18 +2,18 @@
 title: "Exklusiv - Ewige Flamme"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Ewige Flamme. Ewige Flamme. Era of Chaos Exklusiv Ewige Flamme. Feuervogel Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Firebird Ewige Flamme.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Ewige Flamme** 
 
- **Exklusiv for Unit:** [Feuervogel](/units/Firebird/) 
+ **Exklusiv for Unit:** [Feuervogel](/de/units/Firebird/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,12 +27,12 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Brennendes Land> Der Feuervogel fügt allen gegnerischen Einheiten, die in derselben Reihe wie das Ziel stehen, 3 Mal alle 10 Sek. Schaden und zu sowie 8 Sek. lang „Verbrennung“. |
+  |  Erwachen  | ? | <Brennendes Land> Der Feuervogel fügt allen gegnerischen Einheiten, die in derselben horizontalen Reihe wie das Ziel stehen, 3 Mal alle 10 Sek. Schaden zu sowie 8 Sek. lang „Verbrennung“. |
   | **1x** <i class="fas fa-star"/> | ? | Der Feuervogel ist immun gegen Schaden durch Feuerzauber. |
   | **2x** <i class="fas fa-star"/> | ? | Der ANG des Feuervogels wird um 10 % erhöht, das Angriffstempo um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |
+  | **3x** <i class="fas fa-star"/> | ? | Wenn der Feuervogel eine 1- oder 4-Mann-Einheit angreift, fügt sein Angriff gegnerischen Einheiten in einem gewissen Radius um das Ziel Schaden in Höhe von 20 % des eigenen ANG sowie „Verbrennung“ zu. |
   | **4x** <i class="fas fa-star"/> | ? | Gegen Einheiten mit „Verbrennung“ wird Durchdringung des Feuervogels um 400 erhöht. |
   | **5x** <i class="fas fa-star"/> | ? | Wenn ein verbündeter Held einen Feuerzauber wirkt, stellt die Einheit 10 % ihrer LP wieder her. Der Effekt kann einmal alle 5 Sek. ausgelöst werden. |
   | **6x** <i class="fas fa-star"/> | ? | Der Schaden des Feuervogels wird um 20 % erhöht. Wenn ein gegnerischer Held einen Feuerzauber wirkt, werden Schaden und Schadensreduzierung des Feuervogels 5 Sek. lang um 20 % erhöht. |

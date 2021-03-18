@@ -3,7 +3,7 @@ title: "Eisengolem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Eisengolem"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Turm](/units/Faction Tower/)
+ **Fraktion:** [Turm](/de/units/Faction Tower/)
 
  **Race:** Mensch
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Metallresonanz: Aktiviert einen Schutzschild, der verbündete Einheiten beschützt.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Eiserne Panzerhandschuhe](/equipment/Eiserne Panzerhandschuhe/) | **ANG** | **ABW** | 
-  | [Stachelbewehrter Schulterschutz](/equipment/Stachelbewehrter Schulterschutz/) | **LP** | **ABW** | 
-  | [Arkanes Herz](/equipment/Arkanes Herz/) | **ANG** | **ABW** | 
-  | [Brustpanzer aus gehärtetem Eisen](/equipment/Brustpanzer aus gehärtetem Eisen/) | **LP** | **ABW** | 
+  | [Eiserne Panzerhandschuhe](/de/equipment/Eiserne Panzerhandschuhe/) | **ANG** | **ABW** | 
+  | [Stachelbewehrter Schulterschutz](/de/equipment/Stachelbewehrter Schulterschutz/) | **LP** | **ABW** | 
+  | [Arkanes Herz](/de/equipment/Arkanes Herz/) | **ANG** | **ABW** | 
+  | [Brustpanzer aus gehärtetem Eisen](/de/equipment/Brustpanzer aus gehärtetem Eisen/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Irisschild](/Exclusive/Iron Golem Iris Shield/) 
+ **Name:** [Irisschild](/de/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/Emblem/Queen's Blessing/) (Rechtschaffen)
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Turm**  (Turm-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/de/heroes/Astral/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

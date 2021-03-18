@@ -3,30 +3,27 @@ title: "Eisdämon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Eisdämon ist selbst auf der Konflux-Ebene eine seltsame Existenz. Er ist wie ein Stück Eis, das niemals schmilzt. Er blendet deine Augen und raubt dir den Atem. Er ist wie die Leichen, die in Gletschergräbern ruhen."
 unitID: 908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Eisdämon"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Beschreibung:** Der Eisdämon ist selbst auf der Konflux-Ebene eine seltsame Existenz. Er ist wie ein Stück Eis, das niemals schmilzt. Er blendet deine Augen und raubt dir den Atem. Er ist wie die Leichen, die in Gletschergräbern ruhen.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
  **Race:** Bestienmeister
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/units/Unit Rank Commander/)
+ **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Kontrollbogenschütze. Verbündeten-Buffs.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Uraltes Eis](/equipment/Uraltes Eis/) | **ANG** | **ABW** | 
-  | [Frostberührung](/equipment/Frostberührung/) | **LP** | **ABW** | 
-  | [Eiskalter Helm](/equipment/Eiskalter Helm/) | **ANG** | **ABW** | 
-  | [Thron aus Eis](/equipment/Thron aus Eis/) | **LP** | **ABW** | 
+  | [Uraltes Eis](/de/equipment/Uraltes Eis/) | **ANG** | **ABW** | 
+  | [Frostberührung](/de/equipment/Frostberührung/) | **LP** | **ABW** | 
+  | [Eiskalter Helm](/de/equipment/Eiskalter Helm/) | **ANG** | **ABW** | 
+  | [Thron aus Eis](/de/equipment/Thron aus Eis/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -176,10 +173,11 @@ toc: true
 
 * **Konflux**  (Konflux-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **Kommandant**  (Kommandant)
 
 ### Heldenbonus
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

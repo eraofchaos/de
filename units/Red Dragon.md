@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Roter Drache"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Dungeon](/units/Faction Dungeon/)
+ **Fraktion:** [Dungeon](/de/units/Faction Dungeon/)
 
  **Race:** Drache
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Drachen-Overlord mit starkem Brüllen.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Horn des roten Feuers](/equipment/Horn des roten Feuers/) | **ANG** | **ABW** | 
-  | [Uralte Schwingen](/equipment/Uralte Schwingen/) | **LP** | **ABW** | 
-  | [Versengende Klauen](/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
-  | [Brutaler Drachenschwanz](/equipment/Brutaler Drachenschwanz/) | **LP** | **ABW** | 
+  | [Horn des roten Feuers](/de/equipment/Horn des roten Feuers/) | **ANG** | **ABW** | 
+  | [Uralte Schwingen](/de/equipment/Uralte Schwingen/) | **LP** | **ABW** | 
+  | [Versengende Klauen](/de/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
+  | [Brutaler Drachenschwanz](/de/equipment/Brutaler Drachenschwanz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Auslöschung](/Exclusive/Red Dragon Annihilation/) 
+ **Name:** [Auslöschung](/de/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Das Urteil der Väter](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Misere des Königs](/Emblem/King's Calamity/) (Böse)
-* [Neid](/Emblem/Jealousy/) (Chaos)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Dungeon**  (Dungeon-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Drache Mutare](/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/de/heroes/Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Drache Mutare](/de/heroes/Dragon Mutare/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
 unitID: 801
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Gnoll"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
  **Race:** Bestienmeister
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Short description:** Nahkampf-DPS. Betäubt.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Werwolfmachete](/equipment/Werwolfmachete/) | **ANG** | **ABW** | 
-  | [Werwolf-Turmschild](/equipment/Werwolf-Turmschild/) | **LP** | **ABW** | 
-  | [Werwolfkette](/equipment/Werwolfkette/) | **ANG** | **ABW** | 
-  | [Werwolf-Panzerhandschuhe](/equipment/Werwolf-Panzerhandschuhe/) | **LP** | **ABW** | 
+  | [Werwolfmachete](/de/equipment/Werwolfmachete/) | **ANG** | **ABW** | 
+  | [Werwolf-Turmschild](/de/equipment/Werwolf-Turmschild/) | **LP** | **ABW** | 
+  | [Werwolfkette](/de/equipment/Werwolfkette/) | **ANG** | **ABW** | 
+  | [Werwolf-Panzerhandschuhe](/de/equipment/Werwolf-Panzerhandschuhe/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Schwert](/Exclusive/Gnoll Sword/) 
+ **Name:** [Schwert](/de/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Das Urteil der Väter](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Festung**  (Festung-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -194,7 +195,7 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kettenschlag&gt;</span><span style="color: #645252;font-size:18px"> Fügt der Zieleinheit zusätzlichen Schaden in Höhe von 400 % des eigenen ANG zu.</span>
 
 ### 2nd Skill (or 1st): Kettenpeinigen
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kettenschlag&gt;</span><span style="color: #645252;font-size:18px"> Verlängert die Wirkungsdauer des Betäubungseffekts der Fähigkeit um 5 Sek.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kettenschlag&gt;</span><span style="color: #645252;font-size:18px"> Verlängert die Wirkungsdauer des Betäubungseffekts der Fähigkeit auf 5 Sek.</span>
 
 ### 3rd Skill (or 4th): Ruf der Wildnis
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Primitive Wildnis&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die Durchdringung um 100. Dieser Effekt wird gegen mit Betäubung belegte Gegner verdoppelt.</span>

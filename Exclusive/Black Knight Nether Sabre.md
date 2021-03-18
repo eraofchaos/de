@@ -2,18 +2,18 @@
 title: "Exklusiv - Unheilssäbel"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Unheilssäbel. Unheilssäbel. Era of Chaos Exklusiv Unheilssäbel. Schwarzer Ritter Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Black Knight Unheilssäbel.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Unheilssäbel** 
 
- **Exklusiv for Unit:** [Schwarzer Ritter](/units/Black Knight/) 
+ **Exklusiv for Unit:** [Schwarzer Ritter](/de/units/Black Knight/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,14 +27,14 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | Der Schwarze Ritter reduziert die ABW gegnerischer Einheiten in hohem Radius um 30 %. Gegen Einheiten mit „Niedrige Moral“ ist sein Durchschlag um 500 erhöht. |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Schwarzen Ritters wird um 20 % erhöht. |
   | **2x** <i class="fas fa-star"/> | ? | Der Schaden des Schwarzen Ritters wird um 25 % erhöht. |
   | **3x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht bereitet der Schwarze Ritter seinen Sturmangriff vor. Während dieser Zeit ist er immun gegen Schaden. Nach 6 Sek. erscheint er vor der gegnerischen Einheit am Ende der Reihe; sollte kein passendes Ziel vorhanden sein, greift er eine zufällige Einheit der hinteren Reihe mit einem kritischen Treffer an. (Kein Erwachen-Effekt. Nur einmal pro Schlacht.) |
-  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
-  | **5x** <i class="fas fa-star"/> | ? | Der Lebensentzug des Schwarzen Ritters wird um 20 % erhöht und nach jedem erzielten kritischen Treffer zusätzlich 5 Sek. lang um 20 %. |
+  | **4x** <i class="fas fa-star"/> | ? | Wenn der Schwarze Ritter einen Krit. Treffer erzielt, erhält er 50 Krit. Treffer und 20 % Magieresistenz. Hält 5 Sek. an und ist bis zu 10 Mal stapelbar. |
+  | **5x** <i class="fas fa-star"/> | ? | Der Lebensentzug des Schwarzen Ritters wird um 20 % und nach einem erzielten Krit. Treffer um zusätzliche 20 % erhöht. Hält 5 Sek. an. |
   | **6x** <i class="fas fa-star"/> | ? | <Auferstehung des Königs> Beschwört alle 20 Sek. 1 Schwarzen Ritter; wenn das Ziel getötet wird, wird mit einer bestimmten Wahrscheinlichkeit 1 Schwarzer Ritter beschworen. Wenn ein Schwarzer Ritter erscheint, steigt Kritischer Treffer um 100 und Durchdringung um 50. |
 
 

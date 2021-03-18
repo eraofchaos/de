@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Gog"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Inferno](/units/Faction Inferno/)
+ **Fraktion:** [Inferno](/de/units/Faction Inferno/)
 
  **Race:** Dämoniker
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Feuerwand: Fügt gegnerischen Einheiten vor sich Schaden zu.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Versengende Kugel](/equipment/Versengende Kugel/) | **ANG** | **ABW** | 
-  | [Feuriges Horn](/equipment/Feuriges Horn/) | **LP** | **ABW** | 
-  | [Flammenschweif](/equipment/Flammenschweif/) | **ANG** | **ABW** | 
-  | [Versengender Armschutz](/equipment/Versengender Armschutz/) | **LP** | **ABW** | 
+  | [Versengende Kugel](/de/equipment/Versengende Kugel/) | **ANG** | **ABW** | 
+  | [Feuriges Horn](/de/equipment/Feuriges Horn/) | **LP** | **ABW** | 
+  | [Flammenschweif](/de/equipment/Flammenschweif/) | **ANG** | **ABW** | 
+  | [Versengender Armschutz](/de/equipment/Versengender Armschutz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Arkangesang](/Exclusive/Gog Arcane Chant/) 
+ **Name:** [Arkangesang](/de/Exclusive/Gog Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
-* [Misere des Königs](/Emblem/King's Calamity/) (Böse)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Kombinationsinfo
 
@@ -159,9 +159,10 @@ toc: true
 
 * **Inferno**  (Inferno-Kader)
 * **Magie**  (Zauberer-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Xeron](/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/de/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

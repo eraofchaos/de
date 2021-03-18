@@ -3,7 +3,7 @@ title: "Skelett"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde."
 unitID: 301
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Skelett"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/de/units/Faction Necropolis/)
 
  **Race:** Untot
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Knochenschild: Erhöht die Schadensreduzierung der Einheit, wenn ihre Gesundheit unter 50 % sinkt.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Unheiliger Säbel](/equipment/Unheiliger Säbel/) | **ANG** | **ABW** | 
-  | [Rostiger Helm](/equipment/Rostiger Helm/) | **LP** | **ABW** | 
-  | [Unheiliger Schild](/equipment/Unheiliger Schild/) | **ANG** | **ABW** | 
-  | [Rostiger Schulterschutz](/equipment/Rostiger Schulterschutz/) | **LP** | **ABW** | 
+  | [Unheiliger Säbel](/de/equipment/Unheiliger Säbel/) | **ANG** | **ABW** | 
+  | [Rostiger Helm](/de/equipment/Rostiger Helm/) | **LP** | **ABW** | 
+  | [Unheiliger Schild](/de/equipment/Unheiliger Schild/) | **ANG** | **ABW** | 
+  | [Rostiger Schulterschutz](/de/equipment/Rostiger Schulterschutz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Irisschild](/Exclusive/Skeleton Iris Shield/) 
+ **Name:** [Irisschild](/de/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/Emblem/Queen's Blessing/) (Rechtschaffen)
-* [Habgier](/Emblem/Greed/) (Chaos)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Nekropolis**  (Nekropolis-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Vidomina](/heroes/Vidomina/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mensch Sandro](/heroes/Human Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/de/heroes/Vidomina/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/de/heroes/Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mensch Sandro](/de/heroes/Human Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

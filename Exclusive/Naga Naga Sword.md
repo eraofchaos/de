@@ -2,18 +2,18 @@
 title: "Exklusiv - Nagaschwert"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Nagaschwert. Nagaschwert. Era of Chaos Exklusiv Nagaschwert. Naga Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Naga Nagaschwert.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Nagaschwert** 
 
- **Exklusiv for Unit:** [Naga](/units/Naga/) 
+ **Exklusiv for Unit:** [Naga](/de/units/Naga/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,15 +27,15 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Erwachen  | ? | <Unbeugsamer Wille> Wenn die Naga von „Betäuben“, „Versteinerung“ oder „Stille“ betroffen ist, wird sie immun gegen die meisten Kontrolleffekte und Debuffs (wie Erstarren, Stille, Verlangsamung, Versteinerung, Betäubung, Niedrige Moral, Abschreckung und den Effekt von <Zeitstopp>) und ihre SCHD-Reduzierung (Einheit) wird um 20 % erhöht. Hält 5 Sek. an. Die AKZ beträgt 15 Sek. Ist aktiv, wenn ein Heiliges Emblem ausgerüstet wurde. |
   | **1x** <i class="fas fa-star"/> | ? | Die Dauer von Betäubung, Versteinerung, Verlangsamung, Erstarren, Niedrige Moral und Stille werden um 50 % reduziert. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht ANG und Schaden der Naga um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |
+  | **3x** <i class="fas fa-star"/> | ? | <Naga-Schwertformation> Wenn ihre LP zum ersten Mal unter 25 % sinken, beschwört die Naga ihre Naga-Schwertformation, die bei verbündeten Einheiten in einem großen Bereich die Durchdringung um 20 und den Lebensentzug-Effekt um 2 % pro Sekunde erhöht, bis 10 Stapel. Der Effekt bleibt auch nach dem Tod der Naga bestehen. |
   | **4x** <i class="fas fa-star"/> | ? | Erhöht Lebensentzug und Schadensreduzierung der Naga um 20 %. |
   | **5x** <i class="fas fa-star"/> | ? | Die Naga ist immun gegen Betäubung. |
-  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Causes damage equal to 200% of its ATK to all hostile units standing in the same row as the target every 20s, while decreasing the enemies' DEF and unit's damage reduction by 30%, and increasing 1000 Crit Hit and 20% Life drain for herself over the next 5 seconds |
+  | **6x** <i class="fas fa-star"/> | ? | <Strahl des Nagaschwerts> Fügt allen gegnerischen Einheiten in derselben Reihe wie das Ziel alle 15 Sek. Schaden in Höhe von 200 % des ANG zu; außerdem werden die ABW und Schadensreduzierung der Ziele 5 Sek. lang um 30 % reduziert, während der kritische Treffer der Naga um 1.000 und der Lebensentzug um 20 % erhöht wird. |
 
 
 ## Stufenaufst.

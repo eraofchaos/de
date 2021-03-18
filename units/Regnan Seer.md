@@ -3,7 +3,7 @@ title: "Regnanseherin"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen."
 unitID: 9907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Regnanseherin"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Beschreibung:** Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/units/Unit Rank Commander/)
+ **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Buchtanführer, mächtige Kontrolle.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Göttliches Recht der Meeresseele](/equipment/Göttliches Recht der Meeresseele/) | **ANG** | **ABW** | 
-  | [Halskette von Poseidons Seele](/equipment/Halskette von Poseidons Seele/) | **LP** | **ABW** | 
-  | [Strahlendes Stirnband](/equipment/Strahlendes Stirnband/) | **ANG** | **ABW** | 
-  | [Edler Armreif](/equipment/Edler Armreif/) | **LP** | **ABW** | 
+  | [Göttliches Recht der Meeresseele](/de/equipment/Göttliches Recht der Meeresseele/) | **ANG** | **ABW** | 
+  | [Halskette von Poseidons Seele](/de/equipment/Halskette von Poseidons Seele/) | **LP** | **ABW** | 
+  | [Strahlendes Stirnband](/de/equipment/Strahlendes Stirnband/) | **ANG** | **ABW** | 
+  | [Edler Armreif](/de/equipment/Edler Armreif/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [](/Exclusive/Regnan Seer /) 
+ **Name:** [](/de/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Aksoe-Token](/Emblem/Aksoe Token/) (Neutral)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
-* [Neid](/Emblem/Jealousy/) (Chaos)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -163,10 +163,11 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Magie**  (Zauberer-Kader)
+* **Kommandant**  (Kommandant)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

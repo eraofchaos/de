@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Knochendrache"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Nekropolis](/units/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/de/units/Faction Necropolis/)
 
  **Race:** Drache
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Angst: Reduziert die gegnerische Abwehr enorm und verursacht Niedrige Moral.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Knochenstachel](/equipment/Knochenstachel/) | **ANG** | **ABW** | 
-  | [Drakonischer Schädel](/equipment/Drakonischer Schädel/) | **LP** | **ABW** | 
-  | [Durchbohrende Krallen](/equipment/Durchbohrende Krallen/) | **ANG** | **ABW** | 
-  | [Seelenedelstein](/equipment/Seelenedelstein/) | **LP** | **ABW** | 
+  | [Knochenstachel](/de/equipment/Knochenstachel/) | **ANG** | **ABW** | 
+  | [Drakonischer Schädel](/de/equipment/Drakonischer Schädel/) | **LP** | **ABW** | 
+  | [Durchbohrende Krallen](/de/equipment/Durchbohrende Krallen/) | **ANG** | **ABW** | 
+  | [Seelenedelstein](/de/equipment/Seelenedelstein/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Knochen des unsterblichen Drachen](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Name:** [Knochen des unsterblichen Drachen](/de/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Eisenfausts Vermächtnis](/Emblem/Ironfist's Legacy/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Nekropolis**  (Nekropolis-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Vidomina](/heroes/Vidomina/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mensch Sandro](/heroes/Human Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/de/heroes/Vidomina/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/de/heroes/Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mensch Sandro](/de/heroes/Human Sandro/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

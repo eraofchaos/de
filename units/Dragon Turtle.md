@@ -3,7 +3,7 @@ title: "Drachenschildkröte"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Drachenschildkröte"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee.
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Tank, regeneriert LP.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Scharfe Zähne der Drachenschildkröte](/equipment/Scharfe Zähne der Drachenschildkröte/) | **ANG** | **ABW** | 
-  | [Stachliger Schildkrötenpanzer](/equipment/Stachliger Schildkrötenpanzer/) | **LP** | **ABW** | 
-  | [Scharfe Kralle der Drachenschildkröte](/equipment/Scharfe Kralle der Drachenschildkröte/) | **ANG** | **ABW** | 
-  | [Schwanz der Drachenschildkröte](/equipment/Schwanz der Drachenschildkröte/) | **LP** | **ABW** | 
+  | [Scharfe Zähne der Drachenschildkröte](/de/equipment/Scharfe Zähne der Drachenschildkröte/) | **ANG** | **ABW** | 
+  | [Stachliger Schildkrötenpanzer](/de/equipment/Stachliger Schildkrötenpanzer/) | **LP** | **ABW** | 
+  | [Scharfe Kralle der Drachenschildkröte](/de/equipment/Scharfe Kralle der Drachenschildkröte/) | **ANG** | **ABW** | 
+  | [Schwanz der Drachenschildkröte](/de/equipment/Schwanz der Drachenschildkröte/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Gehorsamkeit](/Exclusive/Dragon Turtle Obedience/) 
+ **Name:** [Gehorsamkeit](/de/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Habgier](/Emblem/Greed/) (Chaos)
-* [Kern des weltweiten Netzwerks](/Emblem/Core of the Global Network/) (Neutral)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Habgier](/de/Emblem/Greed/) (Chaos)
+* [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) (Neutral)
 
 ## Kombinationsinfo
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

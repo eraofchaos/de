@@ -2,18 +2,18 @@
 title: "Exklusiv - Knochen des unsterblichen Drachen"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Knochen des unsterblichen Drachen. Knochen des unsterblichen Drachen. Era of Chaos Exklusiv Knochen des unsterblichen Drachen. Knochendrache Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Bone Dragon Knochen des unsterblichen Drachen.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Knochen des unsterblichen Drachen** 
 
- **Exklusiv for Unit:** [Knochendrache](/units/Bone Dragon/) 
+ **Exklusiv for Unit:** [Knochendrache](/de/units/Bone Dragon/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | <Drachenkraft> Kann einmal alle 12 Sek. gewirkt werden, um 15 Sek. lang die ABW aller gegnerischen Einheiten um 5 % und ihre Magieresistenz um 30 % zu reduzieren. Außerdem werden alle gegnerischen Einheiten 3 Sek. lang mit <Stille> belegt. Wird garantiert ausgelöst, wenn eine gegnerische Einheit stirbt. |
   | **1x** <i class="fas fa-star"/> | ? | Solange der Knochendrache auf dem Schlachtfeld ist, wird die Zähigkeit aller verbündeter Nekropolis-Einheiten um 200 erhöht, und ihre ABW um 10 %. |

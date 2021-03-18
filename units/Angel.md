@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Engel"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Engel
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Unit description:** Verurteilung: Fügt 3 Einheiten brutalen Schaden zu und betäubt sie.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Klinge des Imperiums](/equipment/Klinge des Imperiums/) | **ANG** | **ABW** | 
-  | [Leichte Kampfrüstung](/equipment/Leichte Kampfrüstung/) | **LP** | **ABW** | 
-  | [Leichte Panzerhandschuhe](/equipment/Leichte Panzerhandschuhe/) | **ANG** | **ABW** | 
-  | [Schulterschutz der Leichtigkeit](/equipment/Schulterschutz der Leichtigkeit/) | **LP** | **ABW** | 
+  | [Klinge des Imperiums](/de/equipment/Klinge des Imperiums/) | **ANG** | **ABW** | 
+  | [Leichte Kampfrüstung](/de/equipment/Leichte Kampfrüstung/) | **LP** | **ABW** | 
+  | [Leichte Panzerhandschuhe](/de/equipment/Leichte Panzerhandschuhe/) | **ANG** | **ABW** | 
+  | [Schulterschutz der Leichtigkeit](/de/equipment/Schulterschutz der Leichtigkeit/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Durendal](/Exclusive/Angel Durandel/) 
+ **Name:** [Durendal](/de/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
@@ -89,8 +89,8 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Grüner Prophet](/Emblem/Green Prophet/) (Gut)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Grüner Prophet](/de/Emblem/Green Prophet/) (Gut)
 
 ## Kombinationsinfo
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Schloss**  (Schloss-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

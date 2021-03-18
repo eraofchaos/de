@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Hydra"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Festung](/units/Faction Fortress/)
+ **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
  **Race:** Einhorn
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Hoher Angriff. Hält lange durch. Mächtige Kontrolle.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Seuchen-Drachenschwanz](/equipment/Seuchen-Drachenschwanz/) | **ANG** | **ABW** | 
-  | [Ohrringe des Herrschers](/equipment/Ohrringe des Herrschers/) | **LP** | **ABW** | 
-  | [Seuchen-Drachenklaue](/equipment/Seuchen-Drachenklaue/) | **ANG** | **ABW** | 
-  | [Scharfe Rückenstacheln](/equipment/Scharfe Rückenstacheln/) | **LP** | **ABW** | 
+  | [Seuchen-Drachenschwanz](/de/equipment/Seuchen-Drachenschwanz/) | **ANG** | **ABW** | 
+  | [Ohrringe des Herrschers](/de/equipment/Ohrringe des Herrschers/) | **LP** | **ABW** | 
+  | [Seuchen-Drachenklaue](/de/equipment/Seuchen-Drachenklaue/) | **ANG** | **ABW** | 
+  | [Scharfe Rückenstacheln](/de/equipment/Scharfe Rückenstacheln/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Hydrakopf](/Exclusive/Hydra Hydra's Head/) 
+ **Name:** [Hydrakopf](/de/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Eisenfausts Vermächtnis](/Emblem/Ironfist's Legacy/) (Rechtschaffen)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) (Rechtschaffen)
 
 ## Kombinationsinfo
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Festung**  (Festung-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/de/heroes/Tazar/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -3,7 +3,7 @@ title: "Scharfschütze"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Scharfschütze"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Mensch
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Sprengpfeil: Fügt gegnerischen Einheiten erheblichen Schaden zu.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Leichte Armbrust](/equipment/Leichte Armbrust/) | **ANG** | **ABW** | 
-  | [Stahlkappe](/equipment/Stahlkappe/) | **LP** | **ABW** | 
-  | [Durchschussbolzen](/equipment/Durchschussbolzen/) | **ANG** | **ABW** | 
-  | [Lederpanzerhandschuhe](/equipment/Lederpanzerhandschuhe/) | **LP** | **ABW** | 
+  | [Leichte Armbrust](/de/equipment/Leichte Armbrust/) | **ANG** | **ABW** | 
+  | [Stahlkappe](/de/equipment/Stahlkappe/) | **LP** | **ABW** | 
+  | [Durchschussbolzen](/de/equipment/Durchschussbolzen/) | **ANG** | **ABW** | 
+  | [Lederpanzerhandschuhe](/de/equipment/Lederpanzerhandschuhe/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Langbogen](/Exclusive/Marksman Long Bow/) 
+ **Name:** [Langbogen](/de/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Greifenflügel](/Emblem/Griffin Wings/) (Rechtschaffen)
-* [Zeuge](/Emblem/Witness/) (Gut)
-* [Aksoe-Token](/Emblem/Aksoe Token/) (Neutral)
+* [Greifenflügel](/de/Emblem/Griffin Wings/) (Rechtschaffen)
+* [Zeuge](/de/Emblem/Witness/) (Gut)
+* [Aksoe-Token](/de/Emblem/Aksoe Token/) (Neutral)
 
 ## Kombinationsinfo
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Schloss**  (Schloss-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

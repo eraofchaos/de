@@ -3,30 +3,27 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Trolle haben eine hohe Intelligenz und benutzen schwere Felsbrocken als Waffen. Sie stehen oft in der vordersten Kampflinie, um den Gegner mit heftigen und schweren Schlägen anzugreifen."
 unitID: 409
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Troll"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Beschreibung:** Trolle haben eine hohe Intelligenz und benutzen schwere Felsbrocken als Waffen. Sie stehen oft in der vordersten Kampflinie, um den Gegner mit heftigen und schweren Schlägen anzugreifen.
 
- **Klasse:** [Fernkampf](/units/Unit Class Ranged/)
+ **Klasse:** [Fernkampf](/de/units/Unit Class Ranged/)
 
  **Klasse Beschreibung:** Je weiter eine Fernkampf-Einheit von ihrem Ziel entfernt steht, desto tödlicher ist ihr Angriff.
 
- **Fraktion:** [Burg](/units/Faction Stronghold/)
+ **Fraktion:** [Burg](/de/units/Faction Stronghold/)
 
  **Race:** Bestienmeister
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/units/Unit Rank Commander/)
+ **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Einzelzielattacke. Schadensspitzen.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Kettenfels](/equipment/Kettenfels/) | **ANG** | **ABW** | 
-  | [Macht der Lords](/equipment/Macht der Lords/) | **LP** | **ABW** | 
-  | [Durchbruchsrüstung](/equipment/Durchbruchsrüstung/) | **ANG** | **ABW** | 
-  | [Garnisonsstiefel](/equipment/Garnisonsstiefel/) | **LP** | **ABW** | 
+  | [Kettenfels](/de/equipment/Kettenfels/) | **ANG** | **ABW** | 
+  | [Macht der Lords](/de/equipment/Macht der Lords/) | **LP** | **ABW** | 
+  | [Durchbruchsrüstung](/de/equipment/Durchbruchsrüstung/) | **ANG** | **ABW** | 
+  | [Garnisonsstiefel](/de/equipment/Garnisonsstiefel/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
 
 ## Empfohlene Heilige Embleme
 
-* [Das Urteil der Väter](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
-* [Misere des Königs](/Emblem/King's Calamity/) (Böse)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
+* [Misere des Königs](/de/Emblem/King's Calamity/) (Böse)
 
 ## Kombinationsinfo
 
@@ -176,11 +173,12 @@ toc: true
 
 * **Burg**  (Burg-Kader)
 * **Bogenschütze**  (Fernkampf-Kader)
+* **Kommandant**  (Kommandant)
 
 ### Heldenbonus
-* [Kilgor](/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/de/heroes/Kilgor/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/de/heroes/Gelu/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/de/heroes/Crag Hack/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

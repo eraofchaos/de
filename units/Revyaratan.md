@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Revyaratan"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Pirat
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Tiefseekraken. Kann nicht wiederbelebt werden.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Scharfe Fänge](/equipment/Scharfe Fänge/) | **ANG** | **ABW** | 
-  | [Eiskalte Flosse](/equipment/Eiskalte Flosse/) | **LP** | **ABW** | 
-  | [Schwanz des Seemonsters](/equipment/Schwanz des Seemonsters/) | **ANG** | **ABW** | 
-  | [Tentakel der Versuchung](/equipment/Tentakel der Versuchung/) | **LP** | **ABW** | 
+  | [Scharfe Fänge](/de/equipment/Scharfe Fänge/) | **ANG** | **ABW** | 
+  | [Eiskalte Flosse](/de/equipment/Eiskalte Flosse/) | **LP** | **ABW** | 
+  | [Schwanz des Seemonsters](/de/equipment/Schwanz des Seemonsters/) | **ANG** | **ABW** | 
+  | [Tentakel der Versuchung](/de/equipment/Tentakel der Versuchung/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Düstere Gezeiten](/Exclusive/Revyaratan Gloom Tides/) 
+ **Name:** [Düstere Gezeiten](/de/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Odem des Drachenkönigs](/Emblem/Dragon King's Breath/) (Böse)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
-* [Neid](/Emblem/Jealousy/) (Chaos)
+* [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) (Böse)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -165,10 +165,11 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

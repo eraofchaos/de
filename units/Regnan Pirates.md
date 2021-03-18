@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Regnanpirat"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Pirat
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Short description:** Massiver Schaden steigernde Moral.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Robuste Machete](/equipment/Robuste Machete/) | **ANG** | **ABW** | 
-  | [Seemannshemd](/equipment/Seemannshemd/) | **LP** | **ABW** | 
-  | [Rechtschaffenes Stirnband](/equipment/Rechtschaffenes Stirnband/) | **ANG** | **ABW** | 
-  | [Seemannshose](/equipment/Seemannshose/) | **LP** | **ABW** | 
+  | [Robuste Machete](/de/equipment/Robuste Machete/) | **ANG** | **ABW** | 
+  | [Seemannshemd](/de/equipment/Seemannshemd/) | **LP** | **ABW** | 
+  | [Rechtschaffenes Stirnband](/de/equipment/Rechtschaffenes Stirnband/) | **ANG** | **ABW** | 
+  | [Seemannshose](/de/equipment/Seemannshose/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Schwert](/Exclusive/Regnan Pirates Sword/) 
+ **Name:** [Schwert](/de/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Odem des Drachenkönigs](/Emblem/Dragon King's Breath/) (Böse)
-* [Gebrochene Prophez.](/Emblem/Broken Prophecy/) (Böse)
-* [Neid](/Emblem/Jealousy/) (Chaos)
+* [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) (Böse)
+* [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) (Böse)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Peter Lee](/heroes/Peter Lee/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/de/heroes/Peter Lee/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

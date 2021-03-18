@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Greif"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug.
 
- **Klasse:** [Ansturm](/units/Unit Class Charging/)
+ **Klasse:** [Ansturm](/de/units/Unit Class Charging/)
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Tier
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
  **Unit description:** Sturzflug: Fügt beim Angriff 3 gegnerischen Einheiten Schaden zu.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sägekrallen](/equipment/Sägekrallen/) | **ANG** | **ABW** | 
-  | [Kopfschutz der Schnelligkeit](/equipment/Kopfschutz der Schnelligkeit/) | **LP** | **ABW** | 
-  | [Erzgreifenfeder](/equipment/Erzgreifenfeder/) | **ANG** | **ABW** | 
-  | [Wappen des Imperiums](/equipment/Wappen des Imperiums/) | **LP** | **ABW** | 
+  | [Sägekrallen](/de/equipment/Sägekrallen/) | **ANG** | **ABW** | 
+  | [Kopfschutz der Schnelligkeit](/de/equipment/Kopfschutz der Schnelligkeit/) | **LP** | **ABW** | 
+  | [Erzgreifenfeder](/de/equipment/Erzgreifenfeder/) | **ANG** | **ABW** | 
+  | [Wappen des Imperiums](/de/equipment/Wappen des Imperiums/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Ritterpike](/Exclusive/Griffin Knight Pike/) 
+ **Name:** [Ritterpike](/de/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Uraltes Feuer](/Emblem/Ancient Fire/) (Rechtschaffen)
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zeuge](/Emblem/Witness/) (Gut)
+* [Uraltes Feuer](/de/Emblem/Ancient Fire/) (Rechtschaffen)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zeuge](/de/Emblem/Witness/) (Gut)
 
 ## Kombinationsinfo
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Schloss**  (Schloss-Kader)
 * **Ansturm**  (Ansturm-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -175,40 +176,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Heiliger Greif
 
- **Awaking Beschreibung:** null
+ **Awaking Beschreibung:** Einst züchtete die Edric-Familie Greife, jetzt dienen sie Erathia als Wächter. Tag und Nacht kreisen sie über dem Schloss. Jeder törichte Eindringling, der sich dem Schloss nähert, wird von ihren scharfen Klauen in Stücke gerissen.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Setze einen Greif und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Schloss-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia einmal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Ressourcen während eines Gildenabenteuers.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> „Heiliger Greif“-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Setze einen Greif und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Schloss-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Turbulenter Flug
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sturzangriff-Konter&gt;</span><span style="color: #645252;font-size:18px"> Reduziert das Angriffstempo der Zieleinheit 5 Sek. lang um 40 %.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+### 2nd Skill (or 1st): Fliegender Hinterhalt
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sturzangriff-Konter&gt;</span><span style="color: #645252;font-size:18px"> Erhöht das eigene Angriffstempo 5 Sek. lang um 40 %.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+### 3rd Skill (or 4th): Heiliger Lord
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Befehlsturm&gt;</span><span style="color: #645252;font-size:18px"> Der Greif entfesselt die Macht der Adler. Zu Beginn des Kampfes wird der SCHD (Einheit) von verbündeten fliegenden Einheiten 20 Sek. lang um 40 % erhöht.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Heiliger Wächter
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Befehlsturm&gt;</span><span style="color: #645252;font-size:18px"> Der Greif entfesselt die Macht der Löwen. Zu Beginn des Kampfes wird die SCHD-Reduzierung (Einheit) von verbündeten Nahkampf-Einheiten 20 Sek. lang um 40 % erhöht.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Unterstützung aus der Luft
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erzengel&gt;</span><span style="color: #645252;font-size:18px"> Für jede auf dem Schlachtfeld eingesetzte, verbündete, fliegende Einheit wird die ABW des Greifen um 5 % erhöht.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Wucht des Erderschütterers
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erzengel&gt;</span><span style="color: #645252;font-size:18px"> Gegen Bodeneinheiten wird der SCHD (Einheit) des Greifen um 50 % erhöht.
 
 ## Technical info
  **runart:** 1

@@ -2,18 +2,18 @@
 title: "Exklusiv - Durendal"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durendal. Durendal. Era of Chaos Exklusiv Durendal. Engel Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Angel Durendal.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Durendal** 
 
- **Exklusiv for Unit:** [Engel](/units/Angel/) 
+ **Exklusiv for Unit:** [Engel](/de/units/Angel/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | <Vergeltung> Fügt der Zieleinheit und 1 zufälligen Einheit in der ersten Reihe Schaden in Höhe von 100 % des eigenen ANG zu und belegt beide 10 Sek. lang mit „Vergeltung“. Die AKZ beträgt 17 Sek. Wenn sich die Zieleinheit im Zustand „Vergeltung“ befindet, fügt sie Schaden in Höhe von 150 % des eigenen ANG zu und verringert ihre ABW 5 Sek. lang um 20 %, während sie gleichzeitig die „Vergeltung“ beim Ziel entfernt. Die Wirkung verdoppelt sich, wenn sie auf Inferno-Einheiten angewendet wird. Die AKZ beträgt 10 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Nahe verbündete Einheiten innerhalb einer begrenzten Reichweite erhalten den Segen des Engels, der ihren SCHD (Einheit) um 20 % erhöht und die Reichweitenbegrenzungen für Schloss-Einheiten aufhebt. |

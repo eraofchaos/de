@@ -2,13 +2,13 @@
 title: "Era of Chaos - Exklusiv Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Era of Chaos Exklusiv Fortress. Exklusiv Fortress. List of Exklusiv Fortress in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Exclusive Fortress"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 **Warning** You can get more information about Unit's Exclusive by clicking on Exclusive link. 
 {: .notice--danger}
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Gnoll](/units/Gnoll/) | [Schwert](/Exclusive/Gnoll Sword/) | - | Aufladung | - | - |
-  | 2  | [Echsenmensch](/units/Lizardman/) | [Langbogen](/Exclusive/Lizardman Long Bow/) | - | Aufladung | - | - |
-  | 3  | [Schlangenfliege](/units/Serpent Fly/) | [Arkangesang](/Exclusive/Serpent Fly Arcane Chant/) | + | Aufladung | - | - |
-  | 4  | [Basilisk](/units/Basilisk/) | [Basiliskenschwanz](/Exclusive/Basilisk Basilisk's Tail/) | - | Fernkampf | - | - |
-  | 5  | [Gorgone](/units/Gorgon/) | [Gorgonenhorn](/Exclusive/Gorgon Gorgon's Horn/) | - | Unterstützung | - | - |
-  | 6  | [Wyvern](/units/Wyvern/) | [Wyvernschwanz](/Exclusive/Wyvern Wyvern's Tail/) | - | Fernkampf | - | - |
-  | 7  | [Hydra](/units/Hydra/) | [Hydrakopf](/Exclusive/Hydra Hydra's Head/) | - | Unterstützung | - | - |
-  | 8  | [Wespenwurz](/units/Waspwort/) | [Wespenwurzblatt](/Exclusive/Waspwort Waspwort Leaf/) | - | Fernkampf | - | - |
-  | 9  | [Weißer Tiger](/units/White Tiger/) | - | - | - | none | none |
+  | 1  | [Gnoll](/de/units/Gnoll/) | [Schwert](/de/Exclusive/Gnoll Sword/) | - | Aufladung | - | - |
+  | 2  | [Echsenmensch](/de/units/Lizardman/) | [Langbogen](/de/Exclusive/Lizardman Long Bow/) | - | Aufladung | - | - |
+  | 3  | [Schlangenfliege](/de/units/Serpent Fly/) | [Arkangesang](/de/Exclusive/Serpent Fly Arcane Chant/) | + | Aufladung | - | - |
+  | 4  | [Basilisk](/de/units/Basilisk/) | [Basiliskenschwanz](/de/Exclusive/Basilisk Basilisk's Tail/) | - | Fernkampf | - | - |
+  | 5  | [Gorgone](/de/units/Gorgon/) | [Gorgonenhorn](/de/Exclusive/Gorgon Gorgon's Horn/) | - | Unterstützung | - | - |
+  | 6  | [Wyvern](/de/units/Wyvern/) | [Wyvernschwanz](/de/Exclusive/Wyvern Wyvern's Tail/) | - | Fernkampf | - | - |
+  | 7  | [Hydra](/de/units/Hydra/) | [Hydrakopf](/de/Exclusive/Hydra Hydra's Head/) | - | Unterstützung | - | - |
+  | 8  | [Wespenwurz](/de/units/Waspwort/) | [Wespenwurzblatt](/de/Exclusive/Waspwort Waspwort Leaf/) | - | Fernkampf | - | - |
+  | 9  | [Weißer Tiger](/de/units/White Tiger/) | - | - | - | none | none |

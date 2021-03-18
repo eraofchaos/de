@@ -2,18 +2,18 @@
 title: "Exklusiv - Tausend Tonnen"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Tausend Tonnen. Tausend Tonnen. Era of Chaos Exklusiv Tausend Tonnen. Gigant Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Giant Tausend Tonnen.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Tausend Tonnen** 
 
- **Exklusiv for Unit:** [Gigant](/units/Giant/) 
+ **Exklusiv for Unit:** [Gigant](/de/units/Giant/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | Der Gigant beschwört 10 Sek. lang eine Gewitterwolke über einer zufälligen Einheit. Die Gewitterwolke trifft alle 0,5 Sek. eine zufällige Einheit in Reichweite, wobei jeder Treffer Schaden in Höhe von 40 % des eigenen ANG verursacht. Wenn dieselbe Einheit innerhalb von 4 Sek. zwei Mal hintereinander getroffen wird, wird die Einheit für 5 Sek. gelähmt. Wenn dieselbe Einheit vier Mal hintereinander getroffen wird, wird die Einheit für 2 Sek. mit „Auszehrung“ belegt. Die AKZ beträgt 15 Sek. |
   | **1x** <i class="fas fa-star"/> | ? | Der Gigant erhöht er den SCHD (Einheit) um 10 %. Wenn er auf dem Schlachtfeld ist, erhöht er auch den von verbündeten Zauberer-Einheiten verursachten SCHD (Einheit) um 10 %. |

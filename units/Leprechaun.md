@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mithilfe von Zaubersprüchen, die einen geheimnisvollen Schild erschaffen, benutzen Leprechauns, die der Beschwörung folgen, den Monolithen des Weltenbaums, um auf das grausame und mörderische Schlachtfeld zu reisen, wo sie zum stärksten Schild der Natur werden!"
 unitID: 909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Leprechaun"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Mithilfe von Zaubersprüchen, die einen geheimnisvollen Schild erschaffen, benutzen Leprechauns, die der Beschwörung folgen, den Monolithen des Weltenbaums, um auf das grausame und mörderische Schlachtfeld zu reisen, wo sie zum stärksten Schild der Natur werden!
 
- **Klasse:** [Abwehr](/units/Unit Class Defense/)
+ **Klasse:** [Abwehr](/de/units/Unit Class Defense/)
 
  **Klasse Beschreibung:** Abwehr-Einheiten können Angriffen länger widerstehen und verfügen über Schadensreduzierung.
 
- **Fraktion:** [Konflux](/units/Faction Conflux/)
+ **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
  **Race:** Einhorn
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Ausweichen und Blocken. Konterangriff-Buffs.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Luckyblessings](/equipment/Luckyblessings/) | **ANG** | **ABW** | 
-  | [QuellederMacht](/equipment/QuellederMacht/) | **LP** | **ABW** | 
-  | [Lifeguard](/equipment/Lifeguard/) | **ANG** | **ABW** | 
-  | [DieLeichtigkeitdesWindes](/equipment/DieLeichtigkeitdesWindes/) | **LP** | **ABW** | 
+  | [Glückliche Segen](/de/equipment/Glückliche Segen/) | **ANG** | **ABW** | 
+  | [Quelle der Kraft](/de/equipment/Quelle der Kraft/) | **LP** | **ABW** | 
+  | [Lebenswächter](/de/equipment/Lebenswächter/) | **ANG** | **ABW** | 
+  | [Die Leichtigkeit des Windes](/de/equipment/Die Leichtigkeit des Windes/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Dornen](/Exclusive/Leprechaun Thorns/) 
+ **Name:** [Dornen](/de/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Segen der Königin](/Emblem/Queen's Blessing/) (Rechtschaffen)
-* [Zahnrad der Zeit](/Emblem/Gear of Time/) (Gut)
-* [Wollust](/Emblem/Lust/) (Chaos)
+* [Segen der Königin](/de/Emblem/Queen's Blessing/) (Rechtschaffen)
+* [Zahnrad der Zeit](/de/Emblem/Gear of Time/) (Gut)
+* [Wollust](/de/Emblem/Lust/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -174,10 +174,11 @@ toc: true
 
 * **Konflux**  (Konflux-Kader)
 * **Abwehr**  (Abwehr-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Mephala](/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/de/heroes/Ciele/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -196,21 +197,21 @@ toc: true
  **Awaking Beschreibung:** Legenden erzählen von einem riesigen Weltenbaum in der Konflux-Ebene. Er ist uralt und geheimnisvoll, weshalb Abenteurer ihn sowohl begehren als auch fürchten. Das liegt an der Gruppe grausamer Wächter, die in der Nähe stationiert sind – jede Kreatur, die es wagt, sich dem Weltenbaum zu nähern, wird eliminiert. Unzählige tapfere, junge Abenteurer sind aus Bewunderung dort hingegangen, doch sie sind niemals zurückgekehrt.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Setze einen Leprechaun und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Konflux-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Mal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Monster im Gildenabenteuer.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Meister-Leprechaun-Heldenseelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Setze einen Leprechaun ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Schwerer Schlag
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit um 3 %. Falls das Ziel den Status „Verbrennung“ hat, wird seine ABW ebenfalls um 2 % verringert. Jeder Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) des Ziels um 3 %. Falls das Ziel von „Verbrennung“ betroffen ist, wird seine ABW ebenfalls um 2 % verringert. Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
 
 ### 2nd Skill (or 1st): Direkter Hieb
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) der Zieleinheit um 3 %. Falls das Ziel den Status „Einfrieren“ hat, wird seine ABW ebenfalls um 2 % verringert. Jeder Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Direkter Schlag&gt;</span><span style="color: #645252;font-size:18px"> Verringert die SCHD-Reduzierung (Einheit) des Ziels um 3 %. Falls das Ziel von „Erstarren“ betroffen ist, wird seine ABW ebenfalls um 2 % verringert. Debuff dauert 7 Sek. lang an und ist bis zu 8 Mal stapelbar.</span>
 
 ### 3rd Skill (or 4th): Glückszahl
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> Das Stapeln für die eigenen Fähigkeitseffekte des Leprechauns wird um 5 – 12 Stapel erhöht.</span>

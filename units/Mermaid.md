@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Meerjungfrau"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Bucht](/units/Faction Cove/)
+ **Fraktion:** [Bucht](/de/units/Faction Cove/)
 
  **Race:** Die Tiefsee
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Gruppenheilung, starke Buffs.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Meeresorgan](/equipment/Meeresorgan/) | **ANG** | **ABW** | 
-  | [Meermensch-Ohrringe](/equipment/Meermensch-Ohrringe/) | **LP** | **ABW** | 
-  | [Flexibler Fischschwanz](/equipment/Flexibler Fischschwanz/) | **ANG** | **ABW** | 
-  | [Schutz des Meeres](/equipment/Schutz des Meeres/) | **LP** | **ABW** | 
+  | [Meeresorgan](/de/equipment/Meeresorgan/) | **ANG** | **ABW** | 
+  | [Meermensch-Ohrringe](/de/equipment/Meermensch-Ohrringe/) | **LP** | **ABW** | 
+  | [Flexibler Fischschwanz](/de/equipment/Flexibler Fischschwanz/) | **ANG** | **ABW** | 
+  | [Schutz des Meeres](/de/equipment/Schutz des Meeres/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Nachtgezeiten](/Exclusive/Mermaid Night Tides/) 
+ **Name:** [Nachtgezeiten](/de/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Tarnums Schuld](/Emblem/Tarnum's Culpability/) (Neutral)
-* [Rechtsprinzip der Erben](/Emblem/Successors' Legal Principles/) (Neutral)
+* [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/) (Neutral)
+* [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/) (Neutral)
 
 ## Kombinationsinfo
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Bucht**  (Bucht-Kader)
 * **Magie**  (Zauberer-Kader)
+* **SR**  (SR)
 
 ### Heldenbonus
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/de/heroes/Cassanbel/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

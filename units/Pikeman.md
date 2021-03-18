@@ -3,7 +3,7 @@ title: "Pikenier"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie."
 unitID: 101
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Pikenier"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie.
 
- **Klasse:** [Offensiv](/units/Unit Class Offense/)
+ **Klasse:** [Offensiv](/de/units/Unit Class Offense/)
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Mensch
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/de/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Speerformation: Fügt gegnerischen Einheiten Schaden zu, betäubt sie.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Azurlanze](/equipment/Azurlanze/) | **ANG** | **ABW** | 
-  | [Plattenhelm](/equipment/Plattenhelm/) | **LP** | **ABW** | 
-  | [Schild der Wache](/equipment/Schild der Wache/) | **ANG** | **ABW** | 
-  | [Plattenschulterpanzer](/equipment/Plattenschulterpanzer/) | **LP** | **ABW** | 
+  | [Azurlanze](/de/equipment/Azurlanze/) | **ANG** | **ABW** | 
+  | [Plattenhelm](/de/equipment/Plattenhelm/) | **LP** | **ABW** | 
+  | [Schild der Wache](/de/equipment/Schild der Wache/) | **ANG** | **ABW** | 
+  | [Plattenschulterpanzer](/de/equipment/Plattenschulterpanzer/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Schwert](/Exclusive/Pikeman Sword/) 
+ **Name:** [Schwert](/de/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/Emblem/Guardian Angel/) (Gut)
-* [Das Urteil der Väter](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Neid](/Emblem/Jealousy/) (Chaos)
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Schloss**  (Schloss-Kader)
 * **Offensiv**  (Offensiv-Kader)
+* **R**  (R)
 
 ### Heldenbonus
-* [Kendal](/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/de/heroes/Kendal/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

@@ -2,18 +2,18 @@
 title: "Exklusiv - Dornen"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Dornen. Dornen. Era of Chaos Exklusiv Dornen. Leprechaun Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Leprechaun Dornen.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Dornen** 
 
- **Exklusiv for Unit:** [Leprechaun](/units/Leprechaun/) 
+ **Exklusiv for Unit:** [Leprechaun](/de/units/Leprechaun/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
   |  Erwachen  | ? | <Glücksgöttin> Alle 20 Sek. erhält der Leprechaun zufällig 1 – 4 vierblättrige Kleeblätter. Der Leprechaun erhält je nach Anzahl der vierblättrigen Kleeblätter zufällige Effekte der folgenden Buffs: „Erhöht Schildwert um 200“, „Erhöht ABW um 400“, „Jede Sekunde wird 1 % der max. LP wiederhergestellt“ und „Erhöht Ausweichen um 400“. Die Buffs halten für 12 Sek. an. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die eigenen LP um 20 % und die ABW um 15 %. |

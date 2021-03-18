@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Assassine"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt.
 
- **Klasse:** [Ansturm](/units/Unit Class Charging/)
+ **Klasse:** [Ansturm](/de/units/Unit Class Charging/)
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Neutrale Armee](/units/Faction Neutral Army/)
+ **Fraktion:** [Neutrale Armee](/de/units/Faction Neutral Army/)
 
  **Race:** Assassinengilde
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/de/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
  **Short description:** Attentat-Schaden. Schwächt Heilung.
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Assassinenkapuze](/equipment/Assassinenkapuze/) | **ANG** | **ABW** | 
-  | [Versteckte Klinge](/equipment/Versteckte Klinge/) | **LP** | **ABW** | 
-  | [Assassinengürtel](/equipment/Assassinengürtel/) | **ANG** | **ABW** | 
-  | [Lederstiefel](/equipment/Lederstiefel/) | **LP** | **ABW** | 
+  | [Assassinenkapuze](/de/equipment/Assassinenkapuze/) | **ANG** | **ABW** | 
+  | [Versteckte Klinge](/de/equipment/Versteckte Klinge/) | **LP** | **ABW** | 
+  | [Assassinengürtel](/de/equipment/Assassinengürtel/) | **ANG** | **ABW** | 
+  | [Lederstiefel](/de/equipment/Lederstiefel/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/Emblem/Guardian Angel/) (Gut)
-* [Das Urteil der Väter](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Neid](/Emblem/Jealousy/) (Chaos)
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Neid](/de/Emblem/Jealousy/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -150,10 +150,11 @@ toc: true
 
 * **Neutrale Einheit**  (Neutraler Kader)
 * **Ansturm**  (Ansturm-Kader)
+* **SSR**  (SSR)
 
 ### Heldenbonus
-* [Ezio](/heroes/Ezio/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ezio](/de/heroes/Ezio/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
