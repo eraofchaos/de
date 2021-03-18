@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Gnoll](/de/units/Gnoll/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Offene Wunden> Der Gnoll fügt einer Zieleinheit Schaden in Höhe von 275 % des eigenen ANG zu und wirkt 8 Sek. lang „Blutung“. Die AKZ beträgt 15 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die Durchdringung des Gnolls um 100. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht Gnolls SCHD (Einheit) um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Erhöht das Ausweichen des Gnolls um 300. Wenn er einen Krit. Treffer erleidet, stellt er 5 % der max. LP wieder her und hat eine Chance von 50 %, die SCHD-Reduzierung (Einheit) für 1 Sek. um 50 % zu erhöhen. Die AKZ beträgt 3 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Gnolls um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Gnoll erhöht zudem seinen ANG um 20 % und den Lebensentzug um 15 %, wenn er gegen blutende Einheiten kämpft. |
-  | **6x** <i class="fas fa-star"/> | ? | Wenn <Offene Wunden> gewirkt wird, fügt dies der Zieleinheit zusätzliche 2,5 % der max. LP pro Sek. zu und verringert den SCHD der Zieleinheit für 5 Sek. um 30 % und ABW um 10 %. |
+  |  Erwachen  | **100x** [Schwert-Token](/de/Items/con_912/) | <Offene Wunden> Der Gnoll fügt einer Zieleinheit Schaden in Höhe von 275 % des eigenen ANG zu und wirkt 8 Sek. lang „Blutung“. Die AKZ beträgt 15 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/de/Items/con_912/) | Erhöht die Durchdringung des Gnolls um 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/de/Items/con_912/) | Erhöht Gnolls SCHD (Einheit) um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/de/Items/con_912/) | Erhöht das Ausweichen des Gnolls um 300. Wenn er einen Krit. Treffer erleidet, stellt er 5 % der max. LP wieder her und hat eine Chance von 50 %, die SCHD-Reduzierung (Einheit) für 1 Sek. um 50 % zu erhöhen. Die AKZ beträgt 3 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/de/Items/con_912/) | Erhöht die SCHD-Reduzierung (Einheit) des Gnolls um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/de/Items/con_912/) | Der Gnoll erhöht zudem seinen ANG um 20 % und den Lebensentzug um 15 %, wenn er gegen blutende Einheiten kämpft. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/de/Items/con_912/) | Wenn <Offene Wunden> gewirkt wird, fügt dies der Zieleinheit zusätzliche 2,5 % der max. LP pro Sek. zu und verringert den SCHD der Zieleinheit für 5 Sek. um 30 % und ABW um 10 %. |
 
 
 ## Stufenaufst.

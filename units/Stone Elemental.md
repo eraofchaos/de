@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Steinelementar](/de/Items/unt_266/)
+
  **Short description:** Tödliche Spucke, betäubt.
 
  **Position :** Betäubt alle Feinde in Reichweite, tödliche Spucke, sehr robust.
@@ -76,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Energiekern-Token](/de/Items/con_999/)
 
- **Skin:** -
+ **Skin:** [„Energiekern“-Spezialskin](/de/Items/con_667/)
 
 
 ## Empfohlene Heilige Embleme
@@ -171,6 +173,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

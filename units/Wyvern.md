@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Wyvern](/de/Items/unt_258/)
+
  **Short description:** Mächtiger Nahkämpfer, giftig.
 
  **Position :** DPS-Einheit. Kann auf verschiedene Weise Seuche verbreiten.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Wyvernschwanz-Token](/de/Items/con_996/)
 
- **Skin:** -
+ **Skin:** [Wyvernschwanz-Spezialskin](/de/Items/con_664/)
 
 
 ## Empfohlene Heilige Embleme
@@ -167,6 +169,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

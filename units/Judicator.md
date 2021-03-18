@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Richterin](/de/Items/unt_198/)
+
  **Short description:** Aura-Unterstützung, höhere Reichweite.
 
  **Position :** Gruppenaura, die LP wiederherstellt und gegen Schaden schützt. Heiliger Boden verstärkt deine Verbündeten.
@@ -76,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/)
 
- **Skin:** -
+ **Skin:** [Tool_210909](/de/Items/con_643/)
 
 
 ## Empfohlene Heilige Embleme
@@ -170,6 +172,8 @@ toc: true
 * LP
 * Heilung
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

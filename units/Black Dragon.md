@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Schwarzer Drache](/de/Items/unt_250/)
+
  **Unit description:** Drachenodem: Greift Feinde mit hoher Reichweite an und fügt ihnen „Verbrennung“ zu.
 
  **Short description:** Allrounder, Magieangriff und -abwehr.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Schwarze Drachenschuppe“-Token](/de/Items/con_993/)
 
- **Skin:** -
+ **Skin:** [„Schwarze Drachenschuppe“-Spezialskin](/de/Items/con_661/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,6 +171,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

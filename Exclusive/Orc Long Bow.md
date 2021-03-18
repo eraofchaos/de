@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Ork](/de/units/Orc/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Wirbelnde Kriegsaxt> Der Ork wirft eine riesige Kriegsaxt auf die Zieleinheit, wobei er Schaden in Höhe von 300 % seines eigenen ANG verursacht und 1.000 ABW der Zieleinheit ignoriert. Die AKZ beträgt 15 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Orks um 20 % und den Krit. Treffer um 100. |
-  | **2x** <i class="fas fa-star"/> | ? | Jedes Mal, wenn die LP des Orks um 10 % sinken, erhöht sich die SCHD-Reduzierung (Einheit) und die Magieresistenz jeweils um 4 %. Der Effekt bleibt auch nach Wiederherstellung der LP erhalten. |
-  | **3x** <i class="fas fa-star"/> | ? | Der Ork konzentriert sich auf seinen aktuellen Kampf. Jeder Angriff erhöht das Angriffstempo der Einheiten um 5 % und den Krit. Treffer um 15. Bis zu 10 Mal stapelbar. Sobald der Ork das Ziel wechselt, werden die Stapel auf 0 zurückgesetzt. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Orks um 400. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Orks für jede eingesetzte Burg-Einheit Mal um 4 %. |
-  | **6x** <i class="fas fa-star"/> | ? | Es gibt eine Chance von 5 %, mit jedem normalen Angriff <Wirbelnde Kriegsaxt> auszulösen. Die interne AKZ beträgt 3 Sek. |
+  |  Erwachen  | **100x** [Langbogen-Token](/de/Items/con_914/) | <Wirbelnde Kriegsaxt> Der Ork wirft eine riesige Kriegsaxt auf die Zieleinheit, wobei er Schaden in Höhe von 300 % seines eigenen ANG verursacht und 1.000 ABW der Zieleinheit ignoriert. Die AKZ beträgt 15 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/de/Items/con_914/) | Erhöht den ANG des Orks um 20 % und den Krit. Treffer um 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/de/Items/con_914/) | Jedes Mal, wenn die LP des Orks um 10 % sinken, erhöht sich die SCHD-Reduzierung (Einheit) und die Magieresistenz jeweils um 4 %. Der Effekt bleibt auch nach Wiederherstellung der LP erhalten. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/de/Items/con_914/) | Der Ork konzentriert sich auf seinen aktuellen Kampf. Jeder Angriff erhöht das Angriffstempo der Einheiten um 5 % und den Krit. Treffer um 15. Bis zu 10 Mal stapelbar. Sobald der Ork das Ziel wechselt, werden die Stapel auf 0 zurückgesetzt. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/de/Items/con_914/) | Erhöht die Zähigkeit des Orks um 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/de/Items/con_914/) | Erhöht den SCHD (Einheit) des Orks für jede eingesetzte Burg-Einheit Mal um 4 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/de/Items/con_914/) | Es gibt eine Chance von 5 %, mit jedem normalen Angriff <Wirbelnde Kriegsaxt> auszulösen. Die interne AKZ beträgt 3 Sek. |
 
 
 ## Stufenaufst.

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Zentaur](/de/Items/unt_199/)
+
  **Unit description:** Kampfstampfer: Fügt den nächsten Einheiten Schaden zu und verlangsamt sie.
 
  **Short description:** Verlangsamt und verursacht Blutung. Starker Schild.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

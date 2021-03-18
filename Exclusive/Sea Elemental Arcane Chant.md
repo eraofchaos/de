@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Meerelementar](/de/units/Sea Elemental/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Flutwellen> Kann einmal alle 20 Sek. ausgelöst werden. Beschwört Wellen unter einer zufälligen gegnerischen Einheit, die gegnerischen Einheiten in einem kleinen Radius Schaden in Höhe von 200 % des ANG zufügen. |
-  | **1x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht erhalten deine Einheiten eine [Blase], die Schaden in Höhe von 10 % ihrer max. LP absorbiert. |
-  | **2x** <i class="fas fa-star"/> | ? | Der Angriff des Meerelementars reduziert den Schaden des Ziels um 10 % und die Magieresistenz um 50 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Wenn der Meerelementar eine 1- oder 4-Mann-Einheit angreift, verursacht der Standardangriff 30 % Flächenschaden; gegen eine 9-Mann-Einheit fügt der Standardangriff 5 Einheiten um das Ziel herum 50 % Schaden zu. |
-  | **4x** <i class="fas fa-star"/> | ? | Wenn der Meerelementar  durch einen einzelnen Angriff mehr als 30 % seiner LP verliert, erzeugt es eine [Blase], die 10 Sek. lang Schaden in Höhe von 30 % seiner LP absorbiert. Kann einmal alle 15 Sek. ausgelöst werden. |
-  | **5x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung und der Schaden des Meerelementars werden um 20 % erhöht. |
-  | **6x** <i class="fas fa-star"/> | ? | Wenn der Meerelementar einen Abgrundkäfig wirkt, wird der ANG aller verbündeten Einheiten 5 Sek. lang um 10 % erhöht und Kritischer Treffer um 100. Für Bucht-Einheiten wird der Effekt verdoppelt. |
+  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | <Flutwellen> Kann einmal alle 20 Sek. ausgelöst werden. Beschwört Wellen unter einer zufälligen gegnerischen Einheit, die gegnerischen Einheiten in einem kleinen Radius Schaden in Höhe von 200 % des ANG zufügen. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Zu Beginn der Schlacht erhalten deine Einheiten eine [Blase], die Schaden in Höhe von 10 % ihrer max. LP absorbiert. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | Der Angriff des Meerelementars reduziert den Schaden des Ziels um 10 % und die Magieresistenz um 50 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | Wenn der Meerelementar eine 1- oder 4-Mann-Einheit angreift, verursacht der Standardangriff 30 % Flächenschaden; gegen eine 9-Mann-Einheit fügt der Standardangriff 5 Einheiten um das Ziel herum 50 % Schaden zu. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | Wenn der Meerelementar  durch einen einzelnen Angriff mehr als 30 % seiner LP verliert, erzeugt es eine [Blase], die 10 Sek. lang Schaden in Höhe von 30 % seiner LP absorbiert. Kann einmal alle 15 Sek. ausgelöst werden. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Die Schadensreduzierung und der Schaden des Meerelementars werden um 20 % erhöht. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | Wenn der Meerelementar einen Abgrundkäfig wirkt, wird der ANG aller verbündeten Einheiten 5 Sek. lang um 10 % erhöht und Kritischer Treffer um 100. Für Bucht-Einheiten wird der Effekt verdoppelt. |
 
 
 ## Stufenaufst.

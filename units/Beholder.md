@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Betrachter](/de/Items/unt_246/)
+
  **Unit description:** Gedankenkontrolle: Macht Gegner bewegungsunfähig und fügt ihnen Schaden über Zeit zu.
 
  **Short description:** Starke Schadensspitze zur Eröffnung. Gedankenkontrolle.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Dunkler-Blick-Token](/de/Items/con_990/)
 
- **Skin:** -
+ **Skin:** [Dunkler-Blick-Spezialskin](/de/Items/con_658/)
 
 
 ## Empfohlene Heilige Embleme
@@ -162,6 +164,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

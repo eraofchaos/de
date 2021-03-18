@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Höllenhund](/de/Items/unt_228/)
+
  **Unit description:** Amoklauf: Für kurze Zeit ist jeder Treffer ein kritischer Treffer.
 
  **Short description:** Mächtige krit. Treffer. Verursacht Blutung.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
 
  **Skin:** -
 
@@ -170,6 +172,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

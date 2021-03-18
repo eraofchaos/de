@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Dämon](/de/Items/unt_229/)
+
  **Unit description:** Versengender Schlag: Fügt gegnerischen Truppen kolossalen Schaden zu.
 
  **Short description:** Ausweichschild. Regeneriert Gesundheit.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -169,6 +171,8 @@ toc: true
 * LP
 * Abwehr
 * Ausweichen (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

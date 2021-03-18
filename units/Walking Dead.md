@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Wandelnde Tote](/de/Items/unt_209/)
+
  **Unit description:** Explosiv: Fügt gegnerischen Einheiten in der Nähe Schaden zu, wenn die Einheit stirbt.
 
  **Short description:** Giftaura. Explodiert beim Tod.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

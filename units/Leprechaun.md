@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Leprechaun](/de/Items/unt_270/)
+
  **Short description:** Ausweichen und Blocken. Konterangriff-Buffs.
 
  **Position :** Ein Blockade-Experte mit kollektiver Verteidigung und Elementarschilden.
@@ -186,6 +188,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

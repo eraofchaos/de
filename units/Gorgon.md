@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Gorgone](/de/Items/unt_257/)
+
  **Short description:** Hoher Angriff. Hält lange durch. Mächtige Kontrolle.
 
  **Position :** Starker Tank. Kann mit gewisser Wahrscheinlichkeit Feinde auf einen Streich töten.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Gorgonenhorn-Token](/de/Items/con_995/)
 
- **Skin:** -
+ **Skin:** [Gorgonenhorn-Spezialskin](/de/Items/con_663/)
 
 
 ## Empfohlene Heilige Embleme
@@ -181,6 +183,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Regnanseherin](/de/units/Regnan Seer/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/)
 
- **Skin:** -
+ **Skin:** [Tool_2990709](/de/Items/con_674/)
 
  **Type:** Hauptstadt
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? |  |
-  | **1x** <i class="fas fa-star"/> | ? |  |
-  | **2x** <i class="fas fa-star"/> | ? |  |
-  | **3x** <i class="fas fa-star"/> | ? |  |
-  | **4x** <i class="fas fa-star"/> | ? |  |
-  | **5x** <i class="fas fa-star"/> | ? |  |
-  | **6x** <i class="fas fa-star"/> | ? |  |
+  |  Erwachen  | **100x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
 
 
 ## Stufenaufst.

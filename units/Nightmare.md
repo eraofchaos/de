@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Nachtmahr](/de/Items/unt_233/)
+
  **Short description:** Unterstützung. Frühe Schadensspitzen.
 
  **Position :** Abwehrunterstützung. Erhöht die allgemeine Stärke von Inferno-Einheiten.
@@ -76,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Nachtmahrauge-Token](/de/Items/con_985/)
 
- **Skin:** -
+ **Skin:** [Tool_250809](/de/Items/con_653/)
 
 
 ## Empfohlene Heilige Embleme
@@ -164,6 +166,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Schwertkämpfer](/de/Items/unt_193/)
+
  **Unit description:** Göttlicher Schutz: Reduziert erlittenen Schaden.
 
  **Short description:** Schild absorbiert Schaden. Heilt sich selbst.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -170,6 +172,8 @@ toc: true
 * LP
 * Abwehr
 * Magieresistenz
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Teufel](/de/units/Devil/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Teufelssense-Token](/de/Items/con_984/)
 
- **Skin:** -
+ **Skin:** [Teufelssense-Spezialskin](/de/Items/con_652/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Nach seinem ersten Tod wird der Teufel nach 6 Sek. an seinem Spawnpunkt wiederbelebt. Der wiedergeborene Teufel erhöht die nächsten 20 Sek. Kritischer Schaden, Angriffstempo und Schadensreduzierung für alle verbündeten Einheiten; für Inferno-Einheiten wird der Effekt verdoppelt. Der wiedergeborene Teufel wirkt <Rache> auf das Ziel. <Rache> Verursacht Schaden in Höhe von 200 % des ANG und fügt dem Ziel „Auszehrung“ zu. Die Fähigkeit kann einmal alle 45 Sek. ausgelöst werden. „Auszehrung“ hält 5 Sek. lang und kann nicht gebannt werden. Reduziert die Schadensreduzierung und ABW der „ausgezehrten“ Einheit um 20 %. |
-  | **1x** <i class="fas fa-star"/> | ? | Der Teufel wirkt alle 9 Sek. ein <Inferno-Zeichen> auf eine zufällige gegnerische Einheit. Jeder Stapel des Zeichens reduziert die Schadensreduzierung des Ziels um 7 %, bis 3 Stapel. Wenn das Zeichen 3 Stapel hat, wird es vom Ziel entfernt und verursacht 300 % Schaden. Das Zeichen bleibt die gesamte Schlacht über aktiv und kann nicht gebannt werden. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht den Schaden des Dämonen um 10 % und seine Schadensreduzierung um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Die Standardangriffe des Dämonen verursachen zusätzlich 30 % ANG als Schaden, und ihre Durchdringung ist erhöht um 300. |
-  | **4x** <i class="fas fa-star"/> | ? | Der ANG des Teufels wird um 20 % erhöht, die ABW um 10 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Teufel fügt alle 30 Sek. allen gegnerischen Einheiten 10 Sek. lang „Verbrennung“ zu. Start-AKZ 5 Sek. |
-  | **6x** <i class="fas fa-star"/> | ? | Der Teufel wirkt alle 10 Sek. <Inferno-Folter> auf das Ziel. Wenn <Inferno-Folter> gewirkt wird, steigen Kritischer Schaden und Angriffstempo aller Inferno-Einheiten 5 Sek. lang um 10 %. <Inferno-Folter> verursacht an gegnerischen Einheiten im Wirkungsbereich Schaden in Höhe von 100 % des ANG +5 % der max. LP des Ziels. Bei Einheiten mit „Verbrennung“ wird der Effekt verdoppelt. |
+  |  Erwachen  | **100x** [Teufelssense-Token](/de/Items/con_984/) | Nach seinem ersten Tod wird der Teufel nach 6 Sek. an seinem Spawnpunkt wiederbelebt. Der wiedergeborene Teufel erhöht die nächsten 20 Sek. Kritischer Schaden, Angriffstempo und Schadensreduzierung für alle verbündeten Einheiten; für Inferno-Einheiten wird der Effekt verdoppelt. Der wiedergeborene Teufel wirkt <Rache> auf das Ziel. <Rache> Verursacht Schaden in Höhe von 200 % des ANG und fügt dem Ziel „Auszehrung“ zu. Die Fähigkeit kann einmal alle 45 Sek. ausgelöst werden. „Auszehrung“ hält 5 Sek. lang und kann nicht gebannt werden. Reduziert die Schadensreduzierung und ABW der „ausgezehrten“ Einheit um 20 %. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Teufelssense-Token](/de/Items/con_984/) | Der Teufel wirkt alle 9 Sek. ein <Inferno-Zeichen> auf eine zufällige gegnerische Einheit. Jeder Stapel des Zeichens reduziert die Schadensreduzierung des Ziels um 7 %, bis 3 Stapel. Wenn das Zeichen 3 Stapel hat, wird es vom Ziel entfernt und verursacht 300 % Schaden. Das Zeichen bleibt die gesamte Schlacht über aktiv und kann nicht gebannt werden. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Teufelssense-Token](/de/Items/con_984/) | Erhöht den Schaden des Dämonen um 10 % und seine Schadensreduzierung um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Teufelssense-Token](/de/Items/con_984/) | Die Standardangriffe des Dämonen verursachen zusätzlich 30 % ANG als Schaden, und ihre Durchdringung ist erhöht um 300. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Teufelssense-Token](/de/Items/con_984/) | Der ANG des Teufels wird um 20 % erhöht, die ABW um 10 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Teufelssense-Token](/de/Items/con_984/) | Der Teufel fügt alle 30 Sek. allen gegnerischen Einheiten 10 Sek. lang „Verbrennung“ zu. Start-AKZ 5 Sek. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Teufelssense-Token](/de/Items/con_984/) | Der Teufel wirkt alle 10 Sek. <Inferno-Folter> auf das Ziel. Wenn <Inferno-Folter> gewirkt wird, steigen Kritischer Schaden und Angriffstempo aller Inferno-Einheiten 5 Sek. lang um 10 %. <Inferno-Folter> verursacht an gegnerischen Einheiten im Wirkungsbereich Schaden in Höhe von 100 % des ANG +5 % der max. LP des Ziels. Bei Einheiten mit „Verbrennung“ wird der Effekt verdoppelt. |
 
 
 ## Stufenaufst.

@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Wandelnde Tote](/de/units/Walking Dead/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Abschlachten> Der Wandelnde Tote schwingt ein Beil, das gegnerischen Einheiten in einem kleinen Bereich auf seinem Weg Schaden in Höhe von 100 % seines ANG zufügt. Getroffene Ziele bluten und erleiden 10 Sek. lang jede Sekunde Schaden in Höhe von 10 % seines ANG. AKZ 20 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Die ABW des Wandelnden Toten wird um 300 erhöht. |
-  | **2x** <i class="fas fa-star"/> | ? | Die Zähigkeit des Wandelnden Toten wird um 500 erhöht. |
-  | **3x** <i class="fas fa-star"/> | ? | Wenn das Ziel „Niedrige Moral“ hat, werden Angriffstempo und Lebensentzug des Wandelnden Toten um 20 % erhöht. |
-  | **4x** <i class="fas fa-star"/> | ? | Der Wandelnde Tote stellt jede Sekunde 1 % seiner max. LP wieder her. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Wandelnde Tote reduziert die ABW benachbarter gegnerischer Einheiten die nächsten 5 Sek. lang alle 4 Sek. um 25. Dieser Effekt ist stapelbar. |
-  | **6x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht wird das Bewegungstempo aller gegnerischen Einheiten 4 Sek. lang um 30 reduziert. Anschließend wird der Schaden aller verbündeten Nekropolis-Einheiten 20 Sek. lang um 20 % erhöht. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | <Abschlachten> Der Wandelnde Tote schwingt ein Beil, das gegnerischen Einheiten in einem kleinen Bereich auf seinem Weg Schaden in Höhe von 100 % seines ANG zufügt. Getroffene Ziele bluten und erleiden 10 Sek. lang jede Sekunde Schaden in Höhe von 10 % seines ANG. AKZ 20 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Die ABW des Wandelnden Toten wird um 300 erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Die Zähigkeit des Wandelnden Toten wird um 500 erhöht. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | Wenn das Ziel „Niedrige Moral“ hat, werden Angriffstempo und Lebensentzug des Wandelnden Toten um 20 % erhöht. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Der Wandelnde Tote stellt jede Sekunde 1 % seiner max. LP wieder her. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Der Wandelnde Tote reduziert die ABW benachbarter gegnerischer Einheiten die nächsten 5 Sek. lang alle 4 Sek. um 25. Dieser Effekt ist stapelbar. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | Zu Beginn der Schlacht wird das Bewegungstempo aller gegnerischen Einheiten 4 Sek. lang um 30 reduziert. Anschließend wird der Schaden aller verbündeten Nekropolis-Einheiten 20 Sek. lang um 20 % erhöht. |
 
 
 ## Stufenaufst.

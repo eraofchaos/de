@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Magisches Luftschiff](/de/Items/unt_242/)
+
  **Short description:** Bufft den DPS der hinteren Reihe.
 
  **Position :** Magierunterstützung. Erhöht Angriffstempo von Zauberer-Einheiten und lässt gegnerische Angreifer erstarren.
@@ -76,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Polaris-Token](/de/Items/con_989/)
 
- **Skin:** -
+ **Skin:** [Polaris-Spezialskin](/de/Items/con_657/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,6 +171,8 @@ toc: true
 * LP
 * Angriffstempo
 * Magieresistenz
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

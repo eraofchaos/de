@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Hai-Ausbilder](/de/Items/unt_281/)
+
  **Short description:** Beschwört Haie zum Zerreißen und Zerfleischen.
 
  **Position :** Beschwöre mächtige Haie, die stärker werden, je länger sie in der Schlacht sind, sodass sie ihre Gegner zerreißen können.
@@ -209,6 +211,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Druidin](/de/Items/unt_206/)
+
  **Unit description:** Wald-Chronosphäre: Einheiten im magischen Kreis sind immun gegen Magieschaden.
 
  **Short description:** Negiert Schild, erhöht Krit. Treffer.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Stab des Nachwachsens“-Token](/de/Items/con_977/)
 
- **Skin:** -
+ **Skin:** [„Stab des Nachwachsens“-Spezialskin](/de/Items/con_645/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,6 +171,8 @@ toc: true
 * LP
 * Angriffstempo
 * Magieresistenz
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

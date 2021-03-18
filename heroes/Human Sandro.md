@@ -3,7 +3,7 @@ title: "Mensch Sandro"
 permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Mensch Sandro. Mensch Sandro. Mensch Sandro, der Lehrling des Magiers Eric in Bracada, ist ein junger Magier, der von Enroth aus das Meer überquerte. Er verbirgt seine Ambitionen und Absichten vor seinem Lehrer und anderen, die ihn kennen."
 heroID: 60503
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: de
 ref: "Human Sandro"
 toc: true

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Hydra](/de/Items/unt_259/)
+
  **Short description:** Hoher Angriff. Hält lange durch. Mächtige Kontrolle.
 
  **Position :** Erstklassige DPS-Einheit. Zerstört Feinde mit ununterbrochenen Angriffen.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Hydrakopf-Token](/de/Items/con_997/)
 
- **Skin:** -
+ **Skin:** [„Energiekern“-Spezialskin](/de/Items/con_665/)
 
 
 ## Empfohlene Heilige Embleme
@@ -166,6 +168,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

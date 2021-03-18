@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Regnanseherin](/de/Items/unt_279/)
+
  **Short description:** Buchtanführer, mächtige Kontrolle.
 
  **Position :** Die Seele der Bucht-Fraktion. Gute Flächenangriffe.
@@ -79,9 +81,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/)
 
- **Skin:** -
+ **Skin:** [Tool_2990709](/de/Items/con_674/)
 
 
 ## Empfohlene Heilige Embleme
@@ -175,6 +177,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

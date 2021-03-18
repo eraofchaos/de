@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Pikenier](/de/units/Pikeman/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Heiliger-Speer-Schlag> Der Pikenier fügt der Zieleinheit einmal alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu. Dabei verringert er die ABW des Ziels 7 Sek. lang um 4 %, was bis zu 4 Mal stapelbar ist. Wenn die Zieleinheit betäubt ist, wird auch die Zähigkeit 6 Sek. lang um 150 verringert. |
-  | **1x** <i class="fas fa-star"/> | ? | Das Angriffstempo des Pikeniers wird um 20 % erhöht. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Pikeniers um 150. |
-  | **3x** <i class="fas fa-star"/> | ? | <Eifriger Ansturm> Löst einen zusätzlichen <Heiliger-Speer-Schlag> aus, wenn der Pikenier „Hohe Moral“ hat. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht den Krit. Gesamt-SCHD des Pikeniers um 15 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht für jede Schloss-Einheit auf dem Schlachtfeld ABW um 3 % und Ausweichen um 30. |
-  | **6x** <i class="fas fa-star"/> | ? | <Kühnheit> Wird den Angriffen des Pikeniers ausgewichen, erhalten alle verbündeten Einheiten in seinem Weg für 12 Sek. jeweils 20 % mehr Krit. Gesamt-SCHD und Angriffstempo. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | **100x** [Schwert-Token](/de/Items/con_912/) | <Heiliger-Speer-Schlag> Der Pikenier fügt der Zieleinheit einmal alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu. Dabei verringert er die ABW des Ziels 7 Sek. lang um 4 %, was bis zu 4 Mal stapelbar ist. Wenn die Zieleinheit betäubt ist, wird auch die Zähigkeit 6 Sek. lang um 150 verringert. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/de/Items/con_912/) | Das Angriffstempo des Pikeniers wird um 20 % erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/de/Items/con_912/) | Erhöht die Zähigkeit des Pikeniers um 150. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/de/Items/con_912/) | <Eifriger Ansturm> Löst einen zusätzlichen <Heiliger-Speer-Schlag> aus, wenn der Pikenier „Hohe Moral“ hat. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/de/Items/con_912/) | Erhöht den Krit. Gesamt-SCHD des Pikeniers um 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/de/Items/con_912/) | Erhöht für jede Schloss-Einheit auf dem Schlachtfeld ABW um 3 % und Ausweichen um 30. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/de/Items/con_912/) | <Kühnheit> Wird den Angriffen des Pikeniers ausgewichen, erhalten alle verbündeten Einheiten in seinem Weg für 12 Sek. jeweils 20 % mehr Krit. Gesamt-SCHD und Angriffstempo. Die AKZ beträgt 20 Sek. |
 
 
 ## Stufenaufst.

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Schwarzer Ritter](/de/Items/unt_213/)
+
  **Unit description:** Kritischer Angriff: Verursacht gewaltigen Schaden sowie Niedrige Moral.
 
  **Short description:** Hoher Schaden. Verbesserte Enthauptung.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Unheilssäbel-Token](/de/Items/con_979/)
 
- **Skin:** -
+ **Skin:** [Unheilssäbel-Spezialskin](/de/Items/con_647/)
 
 
 ## Empfohlene Heilige Embleme
@@ -175,6 +177,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Efreet](/de/Items/unt_231/)
+
  **Unit description:** Feuerball: Fügt Feinden kolossalen Schaden zu und verursacht Verbrennung.
 
  **Short description:** Schild reflektiert Schaden. Verursacht Verbrennung.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -174,6 +176,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

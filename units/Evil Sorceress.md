@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Tool_3709](/de/Items/unt_252/)
+
  **Short description:** Reflektiert Zaubersprüche. Domäne-Buffs.
 
  **Position :** Reflektiert Zaubersprüche. Domäne-Buffs.
@@ -175,6 +177,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

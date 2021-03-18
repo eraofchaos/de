@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Basilisk](/de/units/Basilisk/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Basiliskenschwanz-Token](/de/Items/con_994/)
 
- **Skin:** -
+ **Skin:** [„Feuerenergie“-Spezialskin](/de/Items/con_662/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Wenn ein Angriff eine Zieleinheit trifft, besteht eine Chance von 8 %, ihr zusätzlich Schaden in Höhe von 100 % des eigenen ANG zuzufügen und sie 3 Sek. lang zu versteinern. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) und die LP des Basilisken jeweils um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Sobald Basilisk-Angriffe den Erwachen-Effekt auslösen, erhöht sich die ABW für 3 Sek. um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Wenn das Ziel getötet wird, erhält die Einheit ein [Seuchen-Miasma], das 20 Sek. lang Schaden in Höhe von 30 % ihrer LP absorbiert. Dieser Effekt ist nicht stapelbar. Wenn die LP der Einheit zum ersten Mal unter 30 % sinken, wird ebenfalls ein [Seuchen-Miasma] gewirkt. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Basilisken um 500. Wenn verbündete Helden Erdzauber wirken, erhält der Basilisk 20 Sek. lang ein <Seuchenmiasma> in Höhe von 10 % der eigenen max. LP. Die AKZ beträgt 10 Sek. Wenn <Seuchenmiasma> aktiv ist, erhöht es die SCHD-Reduzierung (Einheit) des Basilisken für 20 Sek. um 10 %. Bis zu 3 Mal stapelbar. |
-  | **5x** <i class="fas fa-star"/> | ? | <Schwanzabtrennung> Wenn die LP der Einheit auf 50 % fallen, verliert der Basilisk seinen Schwanz, um zu entkommen, und ist für 5 Sek. immun gegen jeden Schaden. Dies kann nur einmal pro Kampf ausgelöst werden. |
-  | **6x** <i class="fas fa-star"/> | ? | <Belagern> Fügt der Zieleinheit Schaden in Höhe von 15 % der max. LP zu und betäubt sie für 3 Sek. Die AKZ beträgt 13 Sek. Für die 5 Sek. Wirksamkeit von <Schwanzabtrennung> wird der SCHD (Einheit) um 100 % erhöht, die Durchdringung um 500 und das Angriffstempo um 200 %. Nach <Schwanzabtrennung> wird die SCHD-Reduzierung (Einheit) um 15 % erhöht und sie kann <Belagern> nicht verwenden. |
+  |  Erwachen  | **100x** [Basiliskenschwanz-Token](/de/Items/con_994/) | Wenn ein Angriff eine Zieleinheit trifft, besteht eine Chance von 8 %, ihr zusätzlich Schaden in Höhe von 100 % des eigenen ANG zuzufügen und sie 3 Sek. lang zu versteinern. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Basiliskenschwanz-Token](/de/Items/con_994/) | Erhöht die SCHD-Reduzierung (Einheit) und die LP des Basilisken jeweils um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Basiliskenschwanz-Token](/de/Items/con_994/) | Sobald Basilisk-Angriffe den Erwachen-Effekt auslösen, erhöht sich die ABW für 3 Sek. um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Basiliskenschwanz-Token](/de/Items/con_994/) | Wenn das Ziel getötet wird, erhält die Einheit ein [Seuchen-Miasma], das 20 Sek. lang Schaden in Höhe von 30 % ihrer LP absorbiert. Dieser Effekt ist nicht stapelbar. Wenn die LP der Einheit zum ersten Mal unter 30 % sinken, wird ebenfalls ein [Seuchen-Miasma] gewirkt. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Basiliskenschwanz-Token](/de/Items/con_994/) | Erhöht die Zähigkeit des Basilisken um 500. Wenn verbündete Helden Erdzauber wirken, erhält der Basilisk 20 Sek. lang ein <Seuchenmiasma> in Höhe von 10 % der eigenen max. LP. Die AKZ beträgt 10 Sek. Wenn <Seuchenmiasma> aktiv ist, erhöht es die SCHD-Reduzierung (Einheit) des Basilisken für 20 Sek. um 10 %. Bis zu 3 Mal stapelbar. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Basiliskenschwanz-Token](/de/Items/con_994/) | <Schwanzabtrennung> Wenn die LP der Einheit auf 50 % fallen, verliert der Basilisk seinen Schwanz, um zu entkommen, und ist für 5 Sek. immun gegen jeden Schaden. Dies kann nur einmal pro Kampf ausgelöst werden. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Basiliskenschwanz-Token](/de/Items/con_994/) | <Belagern> Fügt der Zieleinheit Schaden in Höhe von 15 % der max. LP zu und betäubt sie für 3 Sek. Die AKZ beträgt 13 Sek. Für die 5 Sek. Wirksamkeit von <Schwanzabtrennung> wird der SCHD (Einheit) um 100 % erhöht, die Durchdringung um 500 und das Angriffstempo um 200 %. Nach <Schwanzabtrennung> wird die SCHD-Reduzierung (Einheit) um 15 % erhöht und sie kann <Belagern> nicht verwenden. |
 
 
 ## Stufenaufst.

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Echsenmensch](/de/Items/unt_254/)
+
  **Short description:** Starker DPS.
 
  **Position :** Mächtiger DPS. Verursacht mehr Schaden gegen große Einheiten.
@@ -79,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -170,6 +172,8 @@ toc: true
 * LP
 * Angriffstempo
 * Magieresistenz
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

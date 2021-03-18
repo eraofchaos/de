@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Gog](/de/units/Gog/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Versengender Funke> Gog fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu und lässt sie 7 Sek. lang bluten. Wenn die Zieleinheit schon blutet, wird die ABW 7 Sek. lang um 15 % reduziert. |
-  | **1x** <i class="fas fa-star"/> | ? | Gogs Angriffstempo wird um 15 % erhöht. |
-  | **2x** <i class="fas fa-star"/> | ? | Gogs Lebensentzug wird um 10 % erhöht. |
-  | **3x** <i class="fas fa-star"/> | ? | <Hitzewelle> Wenn ein verbündeter Held Feuerzauber wirkt, fügt Gog jede Sekunde an Einheiten in einem großen Bereich vor ihm Schaden in Höhe von 50 % des eigenen ANG zu und verursacht 5 Sek. lang „Verbrennung“. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht für jede Inferno-Einheit auf dem Schlachtfeld die eigene ABW um 4 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht Gogs SCHD (Einheit) um 15 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Höllische Symphonie> Zu Beginn des Kampfes erhöht Gog den Krit. Gesamt-SCHD und den ANG aller verbündeten Zauberer-Einheiten jeweils um 20 %, während er den Krit. Gesamt-SCHD und den ANG aller gegnerischen Zauberer-Einheiten für 60 Sek. jeweils um 20 % senkt. |
+  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | <Versengender Funke> Gog fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 400 % des eigenen ANG zu und lässt sie 7 Sek. lang bluten. Wenn die Zieleinheit schon blutet, wird die ABW 7 Sek. lang um 15 % reduziert. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Gogs Angriffstempo wird um 15 % erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | Gogs Lebensentzug wird um 10 % erhöht. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | <Hitzewelle> Wenn ein verbündeter Held Feuerzauber wirkt, fügt Gog jede Sekunde an Einheiten in einem großen Bereich vor ihm Schaden in Höhe von 50 % des eigenen ANG zu und verursacht 5 Sek. lang „Verbrennung“. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht für jede Inferno-Einheit auf dem Schlachtfeld die eigene ABW um 4 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht Gogs SCHD (Einheit) um 15 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | <Höllische Symphonie> Zu Beginn des Kampfes erhöht Gog den Krit. Gesamt-SCHD und den ANG aller verbündeten Zauberer-Einheiten jeweils um 20 %, während er den Krit. Gesamt-SCHD und den ANG aller gegnerischen Zauberer-Einheiten für 60 Sek. jeweils um 20 % senkt. |
 
 
 ## Stufenaufst.

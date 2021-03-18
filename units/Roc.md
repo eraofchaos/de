@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Roc](/de/Items/unt_221/)
+
  **Unit description:** Donner: Fügt allen gegnerischen Einheiten vor sich katastrophalen Schaden zu.
 
  **Short description:** Luft-Flächenschaden. Verursacht immer krit. Treffer.
@@ -83,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

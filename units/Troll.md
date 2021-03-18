@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Troll](/de/Items/unt_225/)
+
  **Short description:** Einzelzielattacke. Schadensspitzen.
 
  **Position :** Einzelzielattacke. Schadensspitzen.
@@ -186,6 +188,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

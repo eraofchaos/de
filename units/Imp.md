@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Imp](/de/Items/unt_226/)
+
  **Unit description:** Impuls: Mit einer gewissen Wahrscheinlichkeit wird die Einheit nach dem Tod mit voller Gesundheit wiederbelebt.
 
  **Short description:** Schild. Kann wiederbeleben, Massenkontrolle.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -171,6 +173,8 @@ toc: true
 * LP
 * Ausweichen (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

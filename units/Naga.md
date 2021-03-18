@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Naga](/de/Items/unt_240/)
+
  **Unit description:** Klingentanz: Flächenschaden, Flächenreduzierung der Abwehr.
 
  **Short description:** Versetzt in Panik. Gewaltiger Schaden.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Nagaschwert-Token](/de/Items/con_987/)
 
- **Skin:** -
+ **Skin:** [Nagaschwert-Spezialskin](/de/Items/con_655/)
 
 
 ## Empfohlene Heilige Embleme
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

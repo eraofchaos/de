@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Behemoth](/de/Items/unt_223/)
+
  **Unit description:** Wildes Brüllen: Reduziert den gegnerischen Angriff enorm und verursacht Betäubung.
 
  **Short description:** Gewinnt Leben, wenn Gegner sterben.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Blutrünstiger-Geist-Token](/de/Items/con_982/)
 
- **Skin:** -
+ **Skin:** [Blutrünstiger-Geist-Spezialskin](/de/Items/con_650/)
 
 
 ## Empfohlene Heilige Embleme
@@ -175,6 +177,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

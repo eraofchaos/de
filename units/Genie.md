@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Dschinn](/de/Items/unt_239/)
+
  **Unit description:** Geschenk der Energie: Wandelt ANG in Heilung um.
 
  **Short description:** Mächtige Buffs und Heilung.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Lyra-Token](/de/Items/con_986/)
 
- **Skin:** -
+ **Skin:** [Lyra-Spezialskin](/de/Items/con_654/)
 
 
 ## Empfohlene Heilige Embleme
@@ -173,6 +175,8 @@ toc: true
 * LP
 * Heilung
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

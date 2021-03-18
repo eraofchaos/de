@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Ork](/de/Items/unt_219/)
+
  **Unit description:** Hinrichtung: Fügt Feinden mit weniger als 30 % Gesundheit zusätzlichen Schaden zu.
 
  **Short description:** Verursacht Blutung. Effektiv gegen niedrige Gesundheit.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -175,6 +177,8 @@ toc: true
 * LP
 * Angriffstempo
 * Magieresistenz
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

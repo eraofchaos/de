@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Skelett](/de/units/Skeleton/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Verfaulter Leichnam> Das Skelett verwandelt sich in einen verfaulten Leichnam, der alle Einheiten in einem großen Radius alle 20 Sek. für 10 Sek. mit „Niedriger Moral“ belegt und der Zieleinheit Schaden in Höhe von 250 % ihres ANG zufügt. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Skeletts um 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die Basis-LP des Skeletts um 20.000. |
-  | **3x** <i class="fas fa-star"/> | ? | <Verkalkung> Das Skelett stellt 10 % seiner max. LP wieder her, wenn es unter Niedriger Moral leidet. Die AKZ beträgt 10 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Skeletts um 15 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn das Skelett einen Gegner mit Niedriger Moral angreift, besteht eine Chance von 8 %, die SCHD-Reduzierung (Einheit) des Gegners um 1 % zu verringern. Bis zu 30 Mal stapelbar. Hält den gesamten Kampf über an. |
-  | **6x** <i class="fas fa-star"/> | ? | <Untotes Wesen> Das Skelett erhöht die SCHD-Reduzierung (Einheit) und die SCHD-Reflexion naher verbündeter Einheiten in einem großen Radius jeweils um 15 % und verringert den SCHD (Einheit) gegnerischer Einheiten im Radius um 15 %. Hält 15 Sek. an. Die AKZ beträgt 25 Sek. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | <Verfaulter Leichnam> Das Skelett verwandelt sich in einen verfaulten Leichnam, der alle Einheiten in einem großen Radius alle 20 Sek. für 10 Sek. mit „Niedriger Moral“ belegt und der Zieleinheit Schaden in Höhe von 250 % ihres ANG zufügt. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die ABW des Skeletts um 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die Basis-LP des Skeletts um 20.000. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | <Verkalkung> Das Skelett stellt 10 % seiner max. LP wieder her, wenn es unter Niedriger Moral leidet. Die AKZ beträgt 10 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die ABW des Skeletts um 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Wenn das Skelett einen Gegner mit Niedriger Moral angreift, besteht eine Chance von 8 %, die SCHD-Reduzierung (Einheit) des Gegners um 1 % zu verringern. Bis zu 30 Mal stapelbar. Hält den gesamten Kampf über an. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | <Untotes Wesen> Das Skelett erhöht die SCHD-Reduzierung (Einheit) und die SCHD-Reflexion naher verbündeter Einheiten in einem großen Radius jeweils um 15 % und verringert den SCHD (Einheit) gegnerischer Einheiten im Radius um 15 %. Hält 15 Sek. an. Die AKZ beträgt 25 Sek. |
 
 
 ## Stufenaufst.

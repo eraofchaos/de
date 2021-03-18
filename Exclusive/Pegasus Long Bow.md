@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Pegasus](/de/units/Pegasus/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Jeder Standardangriff fügt dem Ziel zusätzlichen Schaden in Höhe von 30 % des ANG zu. |
-  | **1x** <i class="fas fa-star"/> | ? | Der Schaden des Pegasus wird um 20 % erhöht. |
-  | **2x** <i class="fas fa-star"/> | ? | Der ANG des Pegasus wird um 20 % erhöht, das Angriffstempo um 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Klingensturm> Der Pegasus wirft alle 25 Sek. einen Rosendorn, der allen gegnerischen Einheiten Schaden in Höhe von 5 % der max. LP + 20 % ANG zufügt. Die Feinde bluten 10 Sek. lang. |
-  | **4x** <i class="fas fa-star"/> | ? | Der Standardangriff des Pegasus reduziert die Schadensreduzierung des Ziels um 2 %. Wirkungsdauer 3 Sek., bis 7 Stapel. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn er ein Ziel mit „Schild“ angreift, wird das Angriffstempo des Pegasus 3 Sek. lang um 10 % erhöht. Wenn er ein Ziel mit „Blutung“ angreift, steigt der Schaden des Pegasus 3 Sek. lang um 20 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Herzstoß> Der Pegasus fügt einem Mitglied der Zieleinheit 250 % Schaden zu und reduziert die ABW der Einheit alle 15 Sek. für 3 Sek. um 20 %. |
+  |  Erwachen  | **100x** [Langbogen-Token](/de/Items/con_914/) | Jeder Standardangriff fügt dem Ziel zusätzlichen Schaden in Höhe von 30 % des ANG zu. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/de/Items/con_914/) | Der Schaden des Pegasus wird um 20 % erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/de/Items/con_914/) | Der ANG des Pegasus wird um 20 % erhöht, das Angriffstempo um 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/de/Items/con_914/) | <Klingensturm> Der Pegasus wirft alle 25 Sek. einen Rosendorn, der allen gegnerischen Einheiten Schaden in Höhe von 5 % der max. LP + 20 % ANG zufügt. Die Feinde bluten 10 Sek. lang. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/de/Items/con_914/) | Der Standardangriff des Pegasus reduziert die Schadensreduzierung des Ziels um 2 %. Wirkungsdauer 3 Sek., bis 7 Stapel. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/de/Items/con_914/) | Wenn er ein Ziel mit „Schild“ angreift, wird das Angriffstempo des Pegasus 3 Sek. lang um 10 % erhöht. Wenn er ein Ziel mit „Blutung“ angreift, steigt der Schaden des Pegasus 3 Sek. lang um 20 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/de/Items/con_914/) | <Herzstoß> Der Pegasus fügt einem Mitglied der Zieleinheit 250 % Schaden zu und reduziert die ABW der Einheit alle 15 Sek. für 3 Sek. um 20 %. |
 
 
 ## Stufenaufst.

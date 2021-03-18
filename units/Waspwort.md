@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Wespenwurz](/de/Items/unt_260/)
+
  **Short description:** DPS & Kontrolle.
 
  **Position :** DPS-Einheit, die Kontrolle bietet. Beschwört Einheiten und hetzt sie auf den Feind.
@@ -171,6 +173,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Meerelementar](/de/Items/unt_275/)
+
  **Short description:** Verlangsamungs-Kontrolle.
 
  **Position :** Starke Kontrolle in der Schlacht. Schwächt Gegner durchgehend.
@@ -80,7 +82,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -169,6 +171,8 @@ toc: true
 * LP
 * Angriffstempo
 * Magieresistenz
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

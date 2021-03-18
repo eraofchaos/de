@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Efreet](/de/units/Efreeti/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Flammen des Vergessens> Brennt das angegriffene Ziel, wird ein extrem konzentrierter Feuerball geworfen, der an gegnerischen Einheiten in großer Reichweite Schaden in Höhe von 30 % der max. LP verursacht. Die AKZ beträgt 30 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Efreet um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Der ANG des Efreet wird um 20 % erhöht, das Angriffstempo um 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Gefolgschaft > Wenn irgendeine gegnerische Einheit auf dem Schlachtfeld ein Inferno-Zeichen besitzt, greift der Efreet sofort mit Höllenfeuer eine der markierten Einheiten an, verursacht Schaden in Höhe von 100 % des eigenen ANG und fügt ein weiteres Inferno-Zeichen hinzu. Die AKZ beträgt 15 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht den SCHD des Efreet bei Krit. Treffern um 40 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Efreet ist immun gegen Schaden, der von Feuerzaubern verursacht wird. |
-  | **6x** <i class="fas fa-star"/> | ? | Das Wirken von <Flammen des Vergessens> verursacht für 5 Sek. „Betäubung“ und verringert für 10 Sek. den SCHD (Einheit) um 40 %. |
+  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | <Flammen des Vergessens> Brennt das angegriffene Ziel, wird ein extrem konzentrierter Feuerball geworfen, der an gegnerischen Einheiten in großer Reichweite Schaden in Höhe von 30 % der max. LP verursacht. Die AKZ beträgt 30 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht den SCHD (Einheit) des Efreet um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | Der ANG des Efreet wird um 20 % erhöht, das Angriffstempo um 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | <Gefolgschaft > Wenn irgendeine gegnerische Einheit auf dem Schlachtfeld ein Inferno-Zeichen besitzt, greift der Efreet sofort mit Höllenfeuer eine der markierten Einheiten an, verursacht Schaden in Höhe von 100 % des eigenen ANG und fügt ein weiteres Inferno-Zeichen hinzu. Die AKZ beträgt 15 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht den SCHD des Efreet bei Krit. Treffern um 40 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Der Efreet ist immun gegen Schaden, der von Feuerzaubern verursacht wird. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | Das Wirken von <Flammen des Vergessens> verursacht für 5 Sek. „Betäubung“ und verringert für 10 Sek. den SCHD (Einheit) um 40 %. |
 
 
 ## Stufenaufst.

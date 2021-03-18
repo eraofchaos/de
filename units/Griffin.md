@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Greif](/de/Items/unt_192/)
+
  **Unit description:** Sturzflug: Fügt beim Angriff 3 gegnerischen Einheiten Schaden zu.
 
  **Short description:** Lufteinheit. Unbegrenzte Gegenangriffe.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
 
  **Skin:** -
 
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

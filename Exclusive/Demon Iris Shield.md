@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Dämon](/de/units/Demon/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Zu Beginn der Schlacht wird Ausweichen des Dämons 30 Sek. lang um 1.000 erhöht. Für jedes erfolgreiche Ausweichen erhöht sich die Schadensreduzierung dauerhaft um 1 %, bis max. 30 %. |
-  | **1x** <i class="fas fa-star"/> | ? | Zu Beginn der Schlacht steigt die Zähigkeit des Dämons 30 Sek. lang um 500. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die LP des Dämonen um 20 % und seine Schadensreduzierung um 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Dämonen um 10 %. Wenn seine LP das erste Mal unter 50 % fallen, wird seine ABW 10 Sek. lang um 100 % erhöht. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Dämonen um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Angriff des Dämonen reduziert Ausweichen des Ziels 5 Sek. lang um 1.000. |
-  | **6x** <i class="fas fa-star"/> | ? | Solange ein Dämon sich auf dem Schlachtfeld befindet, wird Ausweichen aller gegnerischen Einheiten um 500 reduziert. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | Zu Beginn der Schlacht wird Ausweichen des Dämons 30 Sek. lang um 1.000 erhöht. Für jedes erfolgreiche Ausweichen erhöht sich die Schadensreduzierung dauerhaft um 1 %, bis max. 30 %. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Zu Beginn der Schlacht steigt die Zähigkeit des Dämons 30 Sek. lang um 500. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die LP des Dämonen um 20 % und seine Schadensreduzierung um 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die ABW des Dämonen um 10 %. Wenn seine LP das erste Mal unter 50 % fallen, wird seine ABW 10 Sek. lang um 100 % erhöht. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die ABW des Dämonen um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Der Angriff des Dämonen reduziert Ausweichen des Ziels 5 Sek. lang um 1.000. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | Solange ein Dämon sich auf dem Schlachtfeld befindet, wird Ausweichen aller gegnerischen Einheiten um 500 reduziert. |
 
 
 ## Stufenaufst.

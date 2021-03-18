@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Regnanbogenschützin](/de/Items/unt_274/)
+
  **Short description:** Kritische Treffer, Durchdringung.
 
  **Position :** Kritischer Treffer und Durchdringung. Tödlicher Kämpfer.
@@ -174,6 +176,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Oger](/de/units/Ogre/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Beschwört alle 30 Sek. einen Opferkreis, in dem gegnerische Einheiten 15 Sek. lang 1,5 % der max. LP als Schaden erleiden. Verbündete Einheiten im Kreis stellen während der Wirkungsdauer 5 % des ANG als LP wieder her. |
-  | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Ogers wird um 20 % erhöht. |
-  | **2x** <i class="fas fa-star"/> | ? | Wenn der Oger Amok läuft, wird der Schaden aller verbündeten Einheiten um 10 % erhöht. |
-  | **3x** <i class="fas fa-star"/> | ? | Wenn der Oger das Schlachtfeld betritt, erhöht er das Angriffstempo aller verbündeten Burg-Einheiten um 10 %. Seine eigene ABW wird um 10 % erhöht. |
-  | **4x** <i class="fas fa-star"/> | ? | Die Zähigkeit des Ogers wird um 500 erhöht. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn der Oger das Schlachtfeld betritt, senkt er die ABW aller gegnerischen Einheiten um 10 % auf Kosten von 100 % Magieresistenz. |
-  | **6x** <i class="fas fa-star"/> | ? | Für jede eingesetzte Abwehr-Einheit wird die ABW des Ogers um 5 % erhöht. Für jede eingesetzte Burg-Einheit werden die LP des Ogers um 1.000 erhöht. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | Beschwört alle 30 Sek. einen Opferkreis, in dem gegnerische Einheiten 15 Sek. lang 1,5 % der max. LP als Schaden erleiden. Verbündete Einheiten im Kreis stellen während der Wirkungsdauer 5 % des ANG als LP wieder her. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Die Schadensreduzierung des Ogers wird um 20 % erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Wenn der Oger Amok läuft, wird der Schaden aller verbündeten Einheiten um 10 % erhöht. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | Wenn der Oger das Schlachtfeld betritt, erhöht er das Angriffstempo aller verbündeten Burg-Einheiten um 10 %. Seine eigene ABW wird um 10 % erhöht. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Die Zähigkeit des Ogers wird um 500 erhöht. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Wenn der Oger das Schlachtfeld betritt, senkt er die ABW aller gegnerischen Einheiten um 10 % auf Kosten von 100 % Magieresistenz. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | Für jede eingesetzte Abwehr-Einheit wird die ABW des Ogers um 5 % erhöht. Für jede eingesetzte Burg-Einheit werden die LP des Ogers um 1.000 erhöht. |
 
 
 ## Stufenaufst.

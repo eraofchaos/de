@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Meerjungfrau](/de/Items/unt_277/)
+
  **Short description:** Gruppenheilung, starke Buffs.
 
  **Position :** Starker Heiler. Bietet zu Beginn der Schlacht mächtige Buffs.
@@ -76,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Nachtgezeiten-Token](/de/Items/con_1004/)
 
- **Skin:** -
+ **Skin:** [Nachtgezeiten-Spezialskin](/de/Items/con_672/)
 
 
 ## Empfohlene Heilige Embleme
@@ -167,6 +169,8 @@ toc: true
 * LP
 * Angriffstempo
 * Heilung
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

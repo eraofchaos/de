@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Troglodyt](/de/Items/unt_244/)
+
  **Unit description:** Speerformation: Flächenschaden, Betäubung.
 
  **Short description:** Allrounder. Verursacht Blutung.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -167,6 +169,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Feuerelementar](/de/Items/unt_265/)
+
  **Short description:** Verbrennungen, schlachtfeldweite Explosion.
 
  **Position :** Verursacht Verbrennung, lässt das gesamte Schlachtfeld explodieren, wird stärker, wenn Feinde fallen.
@@ -77,9 +79,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Feuerenergie-Token](/de/Items/con_998/)
 
- **Skin:** -
+ **Skin:** [„Feuerenergie“-Spezialskin](/de/Items/con_666/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,6 +171,8 @@ toc: true
 * LP
 * Angriffstempo
 * Ausweichen (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

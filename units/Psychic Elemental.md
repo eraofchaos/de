@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Psy-Elementar](/de/Items/unt_267/)
+
  **Short description:** Hohe Energieschadensspitze, verbrennt.
 
  **Position :** Fernkampfschaden, reduziert bei Tod das gegnerische Mana, Standardangreifer.
@@ -76,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Geistkern-Token](/de/Items/con_1000/)
 
- **Skin:** -
+ **Skin:** [Geistkern-Spezialskin](/de/Items/con_668/)
 
 
 ## Empfohlene Heilige Embleme
@@ -166,6 +168,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

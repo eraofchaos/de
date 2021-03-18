@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Waldelfe](/de/Items/unt_201/)
+
  **Unit description:** Pfeilhagel: Erhöht das Angriffstempo kurze Zeit um 500 %.
 
  **Short description:** Schnellfeuer, Doppelschlag.
@@ -83,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -171,6 +173,8 @@ toc: true
 * LP
 * Angriffstempo
 * Magieresistenz
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

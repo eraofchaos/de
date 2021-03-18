@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Engel](/de/units/Angel/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Durendal-Token](/de/Items/con_973/)
 
- **Skin:** -
+ **Skin:** [Durendal-Spezialskin](/de/Items/con_641/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Vergeltung> Fügt der Zieleinheit und 1 zufälligen Einheit in der ersten Reihe Schaden in Höhe von 100 % des eigenen ANG zu und belegt beide 10 Sek. lang mit „Vergeltung“. Die AKZ beträgt 17 Sek. Wenn sich die Zieleinheit im Zustand „Vergeltung“ befindet, fügt sie Schaden in Höhe von 150 % des eigenen ANG zu und verringert ihre ABW 5 Sek. lang um 20 %, während sie gleichzeitig die „Vergeltung“ beim Ziel entfernt. Die Wirkung verdoppelt sich, wenn sie auf Inferno-Einheiten angewendet wird. Die AKZ beträgt 10 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Nahe verbündete Einheiten innerhalb einer begrenzten Reichweite erhalten den Segen des Engels, der ihren SCHD (Einheit) um 20 % erhöht und die Reichweitenbegrenzungen für Schloss-Einheiten aufhebt. |
-  | **2x** <i class="fas fa-star"/> | ? | <Durendal> Verbündete Einheiten erhalten zu Beginn des Kampfes Durendals Stärke. Buff-Effekt: Erhöht die Zähigkeit von Abwehr-Einheiten um 100, erhöht die SCHD-Reduzierung (Einheit) der offensiven und Ansturm-Einheiten um 10 % und erhöht die ABW der Fernkampf- und Zauberer-Einheit um 8 %. Die Wirksamkeit des Buffs wird bei 1-Mann-Einheiten mit 1, bei 4-Mann-Einheiten mit 2,5 und bei 9- und 16-Mann-Einheiten mit 5 multipliziert. Der Buff ist unwirksam, wenn er bei Inferno-Einheiten verwendet wird. Hält 25 Sek. lang an. |
-  | **3x** <i class="fas fa-star"/> | ? | <Göttliches Wesen> Erhält 5 Sek. nach dem Betreten des Schlachtfeldes einen Schild in Höhe von 50 % der max. LP, erhöht die ABW um 100 % und gewährt Immunität gegen jeglichen magischen Schaden. Danach verringert sich die ABW um 5 % pro Sek. Dieser Effekt kann nicht entfernt werden. Der Schild hält 20 Sek. lang an, danach werden die Buffs für ABW und Magieimmunität entfernt. |
-  | **4x** <i class="fas fa-star"/> | ? | Der vom Engel beschworene Durendal verbleibt auf dem Schlachtfeld und reinigt alle 5 Sek. gegnerische Einheiten in einem großen Bereich. Dadurch verlieren gegnerische Einheiten 1 Stapel eines zufälligen Buffs. Durendal gewährt verbündeten Einheiten zudem einen ständigen Segen, solange es auf dem Schlachtfeld ist. |
-  | **5x** <i class="fas fa-star"/> | ? | <Sanktion> Greift alle gegnerischen Einheiten in der aktuellen Reihe an, verursacht Schaden in Höhe von 35 % des eigenen ANG und betäubt die Ziele 3 Sek. lang. Die AKZ beträgt 15 Sek. |
-  | **6x** <i class="fas fa-star"/> | ? | Wenn der Engel stirbt, zerbricht der Durendal und stärkt die verbündeten Helden, indem er die AKZ ihrer ultimativen Fähigkeit um 15 Sek. verringert und Buffs von gegnerischen Einheiten in großer Reichweite aufhebt. |
+  |  Erwachen  | **100x** [Durendal-Token](/de/Items/con_973/) | <Vergeltung> Fügt der Zieleinheit und 1 zufälligen Einheit in der ersten Reihe Schaden in Höhe von 100 % des eigenen ANG zu und belegt beide 10 Sek. lang mit „Vergeltung“. Die AKZ beträgt 17 Sek. Wenn sich die Zieleinheit im Zustand „Vergeltung“ befindet, fügt sie Schaden in Höhe von 150 % des eigenen ANG zu und verringert ihre ABW 5 Sek. lang um 20 %, während sie gleichzeitig die „Vergeltung“ beim Ziel entfernt. Die Wirkung verdoppelt sich, wenn sie auf Inferno-Einheiten angewendet wird. Die AKZ beträgt 10 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Durendal-Token](/de/Items/con_973/) | Nahe verbündete Einheiten innerhalb einer begrenzten Reichweite erhalten den Segen des Engels, der ihren SCHD (Einheit) um 20 % erhöht und die Reichweitenbegrenzungen für Schloss-Einheiten aufhebt. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Durendal-Token](/de/Items/con_973/) | <Durendal> Verbündete Einheiten erhalten zu Beginn des Kampfes Durendals Stärke. Buff-Effekt: Erhöht die Zähigkeit von Abwehr-Einheiten um 100, erhöht die SCHD-Reduzierung (Einheit) der offensiven und Ansturm-Einheiten um 10 % und erhöht die ABW der Fernkampf- und Zauberer-Einheit um 8 %. Die Wirksamkeit des Buffs wird bei 1-Mann-Einheiten mit 1, bei 4-Mann-Einheiten mit 2,5 und bei 9- und 16-Mann-Einheiten mit 5 multipliziert. Der Buff ist unwirksam, wenn er bei Inferno-Einheiten verwendet wird. Hält 25 Sek. lang an. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Durendal-Token](/de/Items/con_973/) | <Göttliches Wesen> Erhält 5 Sek. nach dem Betreten des Schlachtfeldes einen Schild in Höhe von 50 % der max. LP, erhöht die ABW um 100 % und gewährt Immunität gegen jeglichen magischen Schaden. Danach verringert sich die ABW um 5 % pro Sek. Dieser Effekt kann nicht entfernt werden. Der Schild hält 20 Sek. lang an, danach werden die Buffs für ABW und Magieimmunität entfernt. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Durendal-Token](/de/Items/con_973/) | Der vom Engel beschworene Durendal verbleibt auf dem Schlachtfeld und reinigt alle 5 Sek. gegnerische Einheiten in einem großen Bereich. Dadurch verlieren gegnerische Einheiten 1 Stapel eines zufälligen Buffs. Durendal gewährt verbündeten Einheiten zudem einen ständigen Segen, solange es auf dem Schlachtfeld ist. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Durendal-Token](/de/Items/con_973/) | <Sanktion> Greift alle gegnerischen Einheiten in der aktuellen Reihe an, verursacht Schaden in Höhe von 35 % des eigenen ANG und betäubt die Ziele 3 Sek. lang. Die AKZ beträgt 15 Sek. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Durendal-Token](/de/Items/con_973/) | Wenn der Engel stirbt, zerbricht der Durendal und stärkt die verbündeten Helden, indem er die AKZ ihrer ultimativen Fähigkeit um 15 Sek. verringert und Buffs von gegnerischen Einheiten in großer Reichweite aufhebt. |
 
 
 ## Stufenaufst.

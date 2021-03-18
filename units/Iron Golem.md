@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Eisengolem](/de/Items/unt_237/)
+
  **Unit description:** Metallresonanz: Aktiviert einen Schutzschild, der verbündete Einheiten beschützt.
 
  **Short description:** Hohe Magieresistenz.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -171,6 +173,8 @@ toc: true
 * LP
 * SCHD-Reduzierung (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

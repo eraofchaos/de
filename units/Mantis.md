@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Tool_3209](/de/Items/unt_207/)
+
  **Short description:** Höhere Reichweite bei „Schnelles Schneiden“.
 
  **Position :** Höhere Reichweite bei „Schnelles Schneiden“.
@@ -178,6 +180,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

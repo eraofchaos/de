@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Gigant](/de/Items/unt_241/)
+
  **Unit description:** Kriegsgott: Ignoriert Reichweite, verursacht Schaden als Prozentwert der LP.
 
  **Short description:** Kriegsgott. Tötet alles und jeden!
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Tausend-Tonnen-Token](/de/Items/con_988/)
 
- **Skin:** -
+ **Skin:** [Tausend-Tonnen-Spezialskin](/de/Items/con_656/)
 
 
 ## Empfohlene Heilige Embleme
@@ -166,6 +168,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

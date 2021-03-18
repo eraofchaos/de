@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Waldelfe](/de/units/Wood Elf/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Pfeilhagel> Die normalen Angriffe der Waldelfe haben eine Chance von 3 %, <Pfeilhagel> auszulösen. Dabei wird ein Sperrfeuer von Pfeilen auf das Zielgebiet entfesselt, welches dem Zielgebiet alle 0,5 Sek. 3 Sek. lang Schaden in Höhe von 20 % des ANG der Waldelfe zufügt. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) der Waldelfe um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Der ANG der Waldelfe wird um 20 % erhöht, das Angriffstempo um 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Die Auslöserate von <Pfeilhagel> erhöht sich auf 200 % der ursprünglichen Fähigkeit. Es besteht eine Chance von 50 %, Gegner zu verlangsamen, wodurch deren Angriffstempo um 10 % verringert wird. Hält 5 Sek. lang an. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) der Waldelfe für jede eingesetzte Schutzwall-Einheit um 4 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Der ANG der Waldelfe wird um 5 % erhöht, wenn sie eine Einheit mit „Blutung“ angreift. Dauert 5 Sek. an und kann bis zu 15 Mal gestapelt werden. Die AKZ beträgt 3 Sek. |
-  | **6x** <i class="fas fa-star"/> | ? | <Aura des Waldläufers> Erhöht den ANG aller verbündeten Fernkampf- und Zauberer-Einheiten um 15 %, Krit. Treffer um 200 und Krit. Gesamt-SCHD um 15 %. |
+  |  Erwachen  | **100x** [Langbogen-Token](/de/Items/con_914/) | <Pfeilhagel> Die normalen Angriffe der Waldelfe haben eine Chance von 3 %, <Pfeilhagel> auszulösen. Dabei wird ein Sperrfeuer von Pfeilen auf das Zielgebiet entfesselt, welches dem Zielgebiet alle 0,5 Sek. 3 Sek. lang Schaden in Höhe von 20 % des ANG der Waldelfe zufügt. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/de/Items/con_914/) | Erhöht den SCHD (Einheit) der Waldelfe um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/de/Items/con_914/) | Der ANG der Waldelfe wird um 20 % erhöht, das Angriffstempo um 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/de/Items/con_914/) | Die Auslöserate von <Pfeilhagel> erhöht sich auf 200 % der ursprünglichen Fähigkeit. Es besteht eine Chance von 50 %, Gegner zu verlangsamen, wodurch deren Angriffstempo um 10 % verringert wird. Hält 5 Sek. lang an. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/de/Items/con_914/) | Erhöht die SCHD-Reduzierung (Einheit) der Waldelfe für jede eingesetzte Schutzwall-Einheit um 4 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/de/Items/con_914/) | Der ANG der Waldelfe wird um 5 % erhöht, wenn sie eine Einheit mit „Blutung“ angreift. Dauert 5 Sek. an und kann bis zu 15 Mal gestapelt werden. Die AKZ beträgt 3 Sek. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/de/Items/con_914/) | <Aura des Waldläufers> Erhöht den ANG aller verbündeten Fernkampf- und Zauberer-Einheiten um 15 %, Krit. Treffer um 200 und Krit. Gesamt-SCHD um 15 %. |
 
 
 ## Stufenaufst.

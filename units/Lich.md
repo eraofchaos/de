@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Lich](/de/Items/unt_212/)
+
  **Unit description:** Opfer: Beschwört eine Skeletthorde.
 
  **Short description:** Beschwört Skelette. Verbesserte Knochenmagie.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Todestribut-Token](/de/Items/con_978/)
 
- **Skin:** -
+ **Skin:** [Todestribut-Spezialskin](/de/Items/con_646/)
 
 
 ## Empfohlene Heilige Embleme
@@ -170,6 +172,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

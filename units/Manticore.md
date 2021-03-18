@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Mantikor](/de/Items/unt_249/)
+
  **Short description:** Starker DPS, hält lange durch.
 
  **Position :** Angriffsunterstützung. Erhöht den Schaden verbündeter Einheiten und reduziert die gegnerische Abwehr.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Skorpionschwanz-Token](/de/Items/con_992/)
 
- **Skin:** -
+ **Skin:** [Skorpionschwanz-Spezialskin](/de/Items/con_660/)
 
 
 ## Empfohlene Heilige Embleme
@@ -161,6 +163,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

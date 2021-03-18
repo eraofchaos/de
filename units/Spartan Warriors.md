@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Spartaner](/de/Items/unt_272/)
+
  **Short description:** Schildbetäubung. Tod inspiriert.
 
  **Position :** Schildschlag betäubt Ziele. Tod einer Einheit inspiriert Verbündete.
@@ -160,6 +162,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Einhorn](/de/units/Unicorn/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Schildreflexion> Wenn das Einhorn seinen Schild verliert, fügt es Gegnern in einem kleinen Radius Schaden in Höhe von 150 % des eigenen ANG zu. Wenn die Zieleinheit blutet, wird auch ihre ABW um 20 % verringert. Hält 5 Sek. an. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Einhorns um 20 % und Ausweichen um 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Einhorns um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Blaue Strähne> Wenn das Einhorn während eines einzigen Angriffs mehr als 15 % der eigenen max. LP Schaden erleidet, strahlt sein Horn in einem hellen Licht, das die Zieleinheit erblinden lässt. Wenn die Zieleinheit bereits geblendet ist, wird ihr SCHD (Einheit) um 20 % reduziert. Hält 8 Sek. an. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Einhorns um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Angriffstempo und ANG werden jeweils um 20 % erhöht, wenn blutende Feinde angegriffen werden. |
-  | **6x** <i class="fas fa-star"/> | ? | <Wächter des Hellmondes> Beim Wirken von <Schildreflexion> wird der Schaden um 50 % erhöht. Die Zieleinheiten werden in die Luft geschleudert (gilt nur für 9- und 16-Mann-Einheiten) und SCHD (Einheit) und SCHD-Reduzierung (Einheit) der Ziele werden jeweils um 20 % verringert. Hält 5 Sek. an. |
+  |  Erwachen  | **100x** [Ritterpike-Token](/de/Items/con_916/) | <Schildreflexion> Wenn das Einhorn seinen Schild verliert, fügt es Gegnern in einem kleinen Radius Schaden in Höhe von 150 % des eigenen ANG zu. Wenn die Zieleinheit blutet, wird auch ihre ABW um 20 % verringert. Hält 5 Sek. an. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht die LP des Einhorns um 20 % und Ausweichen um 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht die SCHD-Reduzierung (Einheit) des Einhorns um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ritterpike-Token](/de/Items/con_916/) | <Blaue Strähne> Wenn das Einhorn während eines einzigen Angriffs mehr als 15 % der eigenen max. LP Schaden erleidet, strahlt sein Horn in einem hellen Licht, das die Zieleinheit erblinden lässt. Wenn die Zieleinheit bereits geblendet ist, wird ihr SCHD (Einheit) um 20 % reduziert. Hält 8 Sek. an. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht den SCHD (Einheit) des Einhorns um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ritterpike-Token](/de/Items/con_916/) | Angriffstempo und ANG werden jeweils um 20 % erhöht, wenn blutende Feinde angegriffen werden. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ritterpike-Token](/de/Items/con_916/) | <Wächter des Hellmondes> Beim Wirken von <Schildreflexion> wird der Schaden um 50 % erhöht. Die Zieleinheiten werden in die Luft geschleudert (gilt nur für 9- und 16-Mann-Einheiten) und SCHD (Einheit) und SCHD-Reduzierung (Einheit) der Ziele werden jeweils um 20 % verringert. Hält 5 Sek. an. |
 
 
 ## Stufenaufst.

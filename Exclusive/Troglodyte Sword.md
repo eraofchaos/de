@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Troglodyt](/de/units/Troglodyte/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Speerstoß> Der Troglodyt fügt der Zieleinheit Schaden in Höhe von 200 % ihres eigenen ANG zu und wirkt 8 Sek. lang „Gift“ bei ihr. Falls die Zieleinheit bereits mit „Gift“ belegt ist, wird sie 1 Sek. lang mit „Betäubung“ belegt. Die AKZ beträgt 20 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Troglodyten um 20 % und Ausweichen um 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Troglodyten um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Witterung des Zauberbrechers> Erhöht 6 Sek. lang die ABW des Troglodyten um 5 % und die Zähigkeit um 40. Bis zu 5 Mal stapelbar. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Troglodyten um 15 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht den Lebensentzug um 10 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Witterung des Zauberbrechers> Wenn es 3 oder mehr Stapel von Effekten gibt, wird jedes Mal, wenn <Witterung des Zauberbrechers> ausgelöst wird, auch ein Mal <Speerstoß> gewirkt. |
+  |  Erwachen  | **100x** [Schwert-Token](/de/Items/con_912/) | <Speerstoß> Der Troglodyt fügt der Zieleinheit Schaden in Höhe von 200 % ihres eigenen ANG zu und wirkt 8 Sek. lang „Gift“ bei ihr. Falls die Zieleinheit bereits mit „Gift“ belegt ist, wird sie 1 Sek. lang mit „Betäubung“ belegt. Die AKZ beträgt 20 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/de/Items/con_912/) | Erhöht die LP des Troglodyten um 20 % und Ausweichen um 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/de/Items/con_912/) | Erhöht den ANG des Troglodyten um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/de/Items/con_912/) | <Witterung des Zauberbrechers> Erhöht 6 Sek. lang die ABW des Troglodyten um 5 % und die Zähigkeit um 40. Bis zu 5 Mal stapelbar. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/de/Items/con_912/) | Erhöht den SCHD (Einheit) des Troglodyten um 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/de/Items/con_912/) | Erhöht den Lebensentzug um 10 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/de/Items/con_912/) | <Witterung des Zauberbrechers> Wenn es 3 oder mehr Stapel von Effekten gibt, wird jedes Mal, wenn <Witterung des Zauberbrechers> ausgelöst wird, auch ein Mal <Speerstoß> gewirkt. |
 
 
 ## Stufenaufst.

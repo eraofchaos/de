@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Neutral"
 permalink: /Emblem/Type Neutral/
 excerpt: "Era of Chaos Heiliges Emblem. Heiliges Emblem. Era of Chaos Heiliges Emblem Neutral. Era of Chaos Neutral"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: de
 ref: "typeNeutral.md"
 toc: false

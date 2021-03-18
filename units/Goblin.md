@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Goblin](/de/Items/unt_217/)
+
  **Unit description:** Kriegssturm: Fügt 3 gegnerischen Einheiten in der Nähe Schaden zu.
 
  **Short description:** Gegenangriffe auf Distanz. Kritischer Treffer entzieht Leben.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -171,6 +173,8 @@ toc: true
 * LP
 * Angriffstempo
 * Magieresistenz
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

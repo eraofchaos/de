@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Mutare kam in Nighon erst vor kurzer Zeit an die Macht, kann aber schon seit ihrer Geburt Drachen befehligen. In Schlachten ist sie dadurch nahezu unverwundbar."
 heroID: 61301
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: de
 ref: "Mutare"
 toc: true

@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Feuervogel](/de/units/Firebird/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Ewige Flamme“-Token](/de/Items/con_1001/)
 
- **Skin:** -
+ **Skin:** [„Ewige Flamme“-Spezialskin](/de/Items/con_669/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Brennendes Land> Der Feuervogel fügt allen gegnerischen Einheiten, die in derselben horizontalen Reihe wie das Ziel stehen, 3 Mal alle 10 Sek. Schaden zu sowie 8 Sek. lang „Verbrennung“. |
-  | **1x** <i class="fas fa-star"/> | ? | Der Feuervogel ist immun gegen Schaden durch Feuerzauber. |
-  | **2x** <i class="fas fa-star"/> | ? | Der ANG des Feuervogels wird um 10 % erhöht, das Angriffstempo um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Wenn der Feuervogel eine 1- oder 4-Mann-Einheit angreift, fügt sein Angriff gegnerischen Einheiten in einem gewissen Radius um das Ziel Schaden in Höhe von 20 % des eigenen ANG sowie „Verbrennung“ zu. |
-  | **4x** <i class="fas fa-star"/> | ? | Gegen Einheiten mit „Verbrennung“ wird Durchdringung des Feuervogels um 400 erhöht. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn ein verbündeter Held einen Feuerzauber wirkt, stellt die Einheit 10 % ihrer LP wieder her. Der Effekt kann einmal alle 5 Sek. ausgelöst werden. |
-  | **6x** <i class="fas fa-star"/> | ? | Der Schaden des Feuervogels wird um 20 % erhöht. Wenn ein gegnerischer Held einen Feuerzauber wirkt, werden Schaden und Schadensreduzierung des Feuervogels 5 Sek. lang um 20 % erhöht. |
+  |  Erwachen  | **100x** [„Ewige Flamme“-Token](/de/Items/con_1001/) | <Brennendes Land> Der Feuervogel fügt allen gegnerischen Einheiten, die in derselben horizontalen Reihe wie das Ziel stehen, 3 Mal alle 10 Sek. Schaden zu sowie 8 Sek. lang „Verbrennung“. |
+  | **1x** <i class="fas fa-star"/> | **50x** [„Ewige Flamme“-Token](/de/Items/con_1001/) | Der Feuervogel ist immun gegen Schaden durch Feuerzauber. |
+  | **2x** <i class="fas fa-star"/> | **90x** [„Ewige Flamme“-Token](/de/Items/con_1001/) | Der ANG des Feuervogels wird um 10 % erhöht, das Angriffstempo um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [„Ewige Flamme“-Token](/de/Items/con_1001/) | Wenn der Feuervogel eine 1- oder 4-Mann-Einheit angreift, fügt sein Angriff gegnerischen Einheiten in einem gewissen Radius um das Ziel Schaden in Höhe von 20 % des eigenen ANG sowie „Verbrennung“ zu. |
+  | **4x** <i class="fas fa-star"/> | **170x** [„Ewige Flamme“-Token](/de/Items/con_1001/) | Gegen Einheiten mit „Verbrennung“ wird Durchdringung des Feuervogels um 400 erhöht. |
+  | **5x** <i class="fas fa-star"/> | **210x** [„Ewige Flamme“-Token](/de/Items/con_1001/) | Wenn ein verbündeter Held einen Feuerzauber wirkt, stellt die Einheit 10 % ihrer LP wieder her. Der Effekt kann einmal alle 5 Sek. ausgelöst werden. |
+  | **6x** <i class="fas fa-star"/> | **250x** [„Ewige Flamme“-Token](/de/Items/con_1001/) | Der Schaden des Feuervogels wird um 20 % erhöht. Wenn ein gegnerischer Held einen Feuerzauber wirkt, werden Schaden und Schadensreduzierung des Feuervogels 5 Sek. lang um 20 % erhöht. |
 
 
 ## Stufenaufst.

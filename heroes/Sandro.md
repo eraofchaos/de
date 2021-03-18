@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro ist ein Totenbeschwörer, der jede Ecke Enroths und Erathias kennt. Jetzt unterstützt er offensichtlich Finneas Vilmar, den Anführer der Totenbeschwörer von Deyja."
 heroID: 60501
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: de
 ref: "Sandro"
 toc: true

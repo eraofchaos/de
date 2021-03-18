@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Scharfschütze](/de/units/Marksman/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Panzerbrechender Pfeil> Fügt dem aktuellen Ziel Schaden in Höhe von 300 % des eigenen ANG zu und ignoriert 1.000 der ABW der Zieleinheit. Die AKZ beträgt 15 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Scharfschütze um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die ABW des Scharfschützen um 20 %, wenn der Scharfschütze eine „Hohe Moral“ hat. |
-  | **3x** <i class="fas fa-star"/> | ? | Die Angriffe des Scharfschützen belegen gegnerische Einheiten mit „Vergeltung“. Durch insgesamt 18 Angriffe auf dieselbe Zieleinheit wird zusätzlicher Schaden in Höhe von 200 % des ANG des Scharfschützen zugefügt. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Scharfschützen um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht die Magieresistenz des Scharfschützen um 40 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Todesschwur> Wenn eine Einheit tödlichen Schaden erleidet, stirbt die Einheit nicht und erlangt stattdessen Unbesiegbarkeit, wodurch der SCHD (Einheit) um 50 %, das Angriffstempo um 150 %, Krit. Treffer um 500 und Lebensentzug für 5 Sek. um 20 % erhöht wird. Dieser Effekt kann während der gesamten Schlacht einmal pro Einheit ausgelöst werden. <Panzerbrechender Pfeil> wird sofort beim ersten Mal ausgelöst, wenn eine Einheit <Todesschwur> auslöst. |
+  |  Erwachen  | **100x** [Langbogen-Token](/de/Items/con_914/) | <Panzerbrechender Pfeil> Fügt dem aktuellen Ziel Schaden in Höhe von 300 % des eigenen ANG zu und ignoriert 1.000 der ABW der Zieleinheit. Die AKZ beträgt 15 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/de/Items/con_914/) | Erhöht den ANG des Scharfschütze um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/de/Items/con_914/) | Erhöht die ABW des Scharfschützen um 20 %, wenn der Scharfschütze eine „Hohe Moral“ hat. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/de/Items/con_914/) | Die Angriffe des Scharfschützen belegen gegnerische Einheiten mit „Vergeltung“. Durch insgesamt 18 Angriffe auf dieselbe Zieleinheit wird zusätzlicher Schaden in Höhe von 200 % des ANG des Scharfschützen zugefügt. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/de/Items/con_914/) | Erhöht den SCHD (Einheit) des Scharfschützen um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/de/Items/con_914/) | Erhöht die Magieresistenz des Scharfschützen um 40 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/de/Items/con_914/) | <Todesschwur> Wenn eine Einheit tödlichen Schaden erleidet, stirbt die Einheit nicht und erlangt stattdessen Unbesiegbarkeit, wodurch der SCHD (Einheit) um 50 %, das Angriffstempo um 150 %, Krit. Treffer um 500 und Lebensentzug für 5 Sek. um 20 % erhöht wird. Dieser Effekt kann während der gesamten Schlacht einmal pro Einheit ausgelöst werden. <Panzerbrechender Pfeil> wird sofort beim ersten Mal ausgelöst, wenn eine Einheit <Todesschwur> auslöst. |
 
 
 ## Stufenaufst.

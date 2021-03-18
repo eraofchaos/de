@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Mumie](/de/Items/unt_215/)
+
  **Unit description:** Fluch der Verwesung: Reduziert die gegnerische Heilung enorm.
 
  **Short description:** Krankheit reduziert LP und Heilung.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Gaze-Token](/de/Items/con_981/)
 
- **Skin:** -
+ **Skin:** [Gaze-Spezialskin](/de/Items/con_649/)
 
 
 ## Empfohlene Heilige Embleme
@@ -170,6 +172,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

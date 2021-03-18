@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Zwerg](/de/Items/unt_200/)
+
  **Unit description:** Zwergengebrüll: Erhöht die max. Gesundheit deiner Einheiten zu Beginn der Schlacht.
 
  **Short description:** Erhöht Gesundheit enorm. Magischer Schild.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -176,6 +178,8 @@ toc: true
 * LP
 * Abwehr
 * Magieresistenz
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

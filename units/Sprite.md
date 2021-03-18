@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Pixie](/de/Items/unt_262/)
+
  **Short description:** Lässt verstummen, verbesserter Startzauber.
 
  **Position :** Explodiert beim Tod, lässt Ziel verstummen, erhöht Anfangsmana des Helden.
@@ -78,7 +80,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
 
  **Skin:** -
 
@@ -165,6 +167,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

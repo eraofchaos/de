@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Greif](/de/units/Griffin/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Schnabelhieb> Der Greif beißt die Zieleinheit und verursacht dabei bei der Zieleinheit Schaden in Höhe von 150 % des eigenen ANG. Wirkt für 8 Sek. „Blutung“ und verringert die Präzision um 300 und das Angriffstempo um 20 %. Die AKZ beträgt 20 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Greifen um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht Ausweichen des Greifen um 500. |
-  | **3x** <i class="fas fa-star"/> | ? | <Luftrolle> Die Zähigkeit des Greifen erhöht sich jedes Mal um 50, wenn er erfolgreich ausweicht und er fügt der Zieleinheit Schaden in Höhe von 75 % seines ANG zu. Die Zähigkeit ist bis zu 500 Mal stapelbar. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Greifen um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Greifen zu Beginn des Kampfes um 500. Die Zähigkeit wird alle 2 Sek. um 20 verringert, wobei ein Minimum von 100 Zähigkeit verbleibt. |
-  | **6x** <i class="fas fa-star"/> | ? | <Tierische Instinkte> Der Greif erhält 10 Sek. nach Kampfbeginn „Hohe Moral“. Wenn eine Zieleinheit getötet wird, erhält der Greif 10 Sek. lang „Hohe Moral“ und stellt 20 % der max. LP wieder her. |
+  |  Erwachen  | **100x** [Ritterpike-Token](/de/Items/con_916/) | <Schnabelhieb> Der Greif beißt die Zieleinheit und verursacht dabei bei der Zieleinheit Schaden in Höhe von 150 % des eigenen ANG. Wirkt für 8 Sek. „Blutung“ und verringert die Präzision um 300 und das Angriffstempo um 20 %. Die AKZ beträgt 20 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht den SCHD (Einheit) des Greifen um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht Ausweichen des Greifen um 500. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ritterpike-Token](/de/Items/con_916/) | <Luftrolle> Die Zähigkeit des Greifen erhöht sich jedes Mal um 50, wenn er erfolgreich ausweicht und er fügt der Zieleinheit Schaden in Höhe von 75 % seines ANG zu. Die Zähigkeit ist bis zu 500 Mal stapelbar. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht die SCHD-Reduzierung (Einheit) des Greifen um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht die Zähigkeit des Greifen zu Beginn des Kampfes um 500. Die Zähigkeit wird alle 2 Sek. um 20 verringert, wobei ein Minimum von 100 Zähigkeit verbleibt. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ritterpike-Token](/de/Items/con_916/) | <Tierische Instinkte> Der Greif erhält 10 Sek. nach Kampfbeginn „Hohe Moral“. Wenn eine Zieleinheit getötet wird, erhält der Greif 10 Sek. lang „Hohe Moral“ und stellt 20 % der max. LP wieder her. |
 
 
 ## Stufenaufst.

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Roter Drache](/de/Items/unt_251/)
+
  **Short description:** Drachen-Overlord mit starkem Brüllen.
 
  **Position :** Der Drache brüllt, was immun gegen Statuskontrolle macht. Das Blut des wahren Drachen wirkt auf seine Brüder.
@@ -175,6 +177,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

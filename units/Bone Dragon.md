@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Knochendrache](/de/Items/unt_214/)
+
  **Unit description:** Angst: Reduziert die gegnerische Abwehr enorm und verursacht Niedrige Moral.
 
  **Short description:** Führt Rückzugsgefechte, verursacht Bonusschaden.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/)
 
- **Skin:** -
+ **Skin:** [„Knochen des unsterblichen Drachen“-Spezialskin](/de/Items/con_648/)
 
 
 ## Empfohlene Heilige Embleme
@@ -171,6 +173,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Richterin](/de/units/Judicator/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/)
 
- **Skin:** -
+ **Skin:** [Tool_210909](/de/Items/con_643/)
 
  **Type:** Hauptstadt
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? |  |
-  | **1x** <i class="fas fa-star"/> | ? |  |
-  | **2x** <i class="fas fa-star"/> | ? |  |
-  | **3x** <i class="fas fa-star"/> | ? |  |
-  | **4x** <i class="fas fa-star"/> | ? |  |
-  | **5x** <i class="fas fa-star"/> | ? |  |
-  | **6x** <i class="fas fa-star"/> | ? |  |
+  |  Erwachen  | **100x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
 
 
 ## Stufenaufst.

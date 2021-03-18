@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Regnanpirat](/de/units/Regnan Pirates/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Wenn die Einheit angegriffen wird, führt sie einen mächtigen Gegenangriff durch, der Feinden 300 % Schaden zufügt. AKZ 8 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Wenn diese Einheit angreift, fügt sie gegnerischen Einheiten mit 50 % Wahrscheinlichkeit <Skorbut> zu, wodurch sie 3 Sek. lang jede Sekunde 1 % LP verlieren und ihre Heilung um 35 % reduziert wird (nicht stapelbar). |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG der Regnanpiraten um 20 % und ihren Schaden um 10 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Wenn die LP der Regnanpiraten das erste Mal unter 30 % fallen, essen sie Orangen gegen den Skorbut und regenerieren 30 % ihrer LP. Sofern ein Heiliges Emblem ausgerüstet ist, ist die Einheit 5 % lang immun gegen Betäubung, Versteinerung und Stille. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht Kritischer Treffer der Regnanpiraten um 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht Kritischer Schaden der Regnanpiraten um 25 %. |
-  | **6x** <i class="fas fa-star"/> | ? | Wenn die Einheit einen kritischen Treffer landet, stellt sie sofort 5 % LP wieder her, und Kritischer Schaden steigt 15 Sek. lang um 5 %, bis 10 Stapel. Der Effekt kann nur einmal alle 10 Sek. ausgelöst werden. |
+  |  Erwachen  | **100x** [Schwert-Token](/de/Items/con_912/) | Wenn die Einheit angegriffen wird, führt sie einen mächtigen Gegenangriff durch, der Feinden 300 % Schaden zufügt. AKZ 8 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/de/Items/con_912/) | Wenn diese Einheit angreift, fügt sie gegnerischen Einheiten mit 50 % Wahrscheinlichkeit <Skorbut> zu, wodurch sie 3 Sek. lang jede Sekunde 1 % LP verlieren und ihre Heilung um 35 % reduziert wird (nicht stapelbar). |
+  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/de/Items/con_912/) | Erhöht den ANG der Regnanpiraten um 20 % und ihren Schaden um 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/de/Items/con_912/) | Wenn die LP der Regnanpiraten das erste Mal unter 30 % fallen, essen sie Orangen gegen den Skorbut und regenerieren 30 % ihrer LP. Sofern ein Heiliges Emblem ausgerüstet ist, ist die Einheit 5 % lang immun gegen Betäubung, Versteinerung und Stille. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/de/Items/con_912/) | Erhöht Kritischer Treffer der Regnanpiraten um 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/de/Items/con_912/) | Erhöht Kritischer Schaden der Regnanpiraten um 25 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/de/Items/con_912/) | Wenn die Einheit einen kritischen Treffer landet, stellt sie sofort 5 % LP wieder her, und Kritischer Schaden steigt 15 Sek. lang um 5 %, bis 10 Stapel. Der Effekt kann nur einmal alle 10 Sek. ausgelöst werden. |
 
 
 ## Stufenaufst.

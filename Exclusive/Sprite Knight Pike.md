@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Pixie](/de/units/Sprite/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Erhöht zu Beginn des Kampfes für 30 Sek. den SCHD (Einheit) des Pixies um 20 % und das Angriffstempo um 20 %. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Pixies um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht den Krit. Treffer des Pixies um 200. |
-  | **3x** <i class="fas fa-star"/> | ? | Der Pixie fügt der Zieleinheit Schaden in Höhe von 450 % des eigenen ANG zu und verursacht 3 Sek. lang zufällig „Erstarren“, „Verbrennung“, „Versteinerung“ oder „Schock“. Die AKZ beträgt 18 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Pixies um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn die LP des Pixies zum ersten Mal auf 80 %/60 %/40 %/20 % fallen, werden 8 Mana für verbündete Helden wiederhergestellt. |
-  | **6x** <i class="fas fa-star"/> | ? | Nachdem der Pixie stirbt, werden der SCHD (Einheit) und das Angriffstempo aller verbündeten Konflux-Einheiten jeweils um 3 % erhöht. Dauert 60 Sek. lang an. Bis zu 9 Mal stapelbar. |
+  |  Erwachen  | **100x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht zu Beginn des Kampfes für 30 Sek. den SCHD (Einheit) des Pixies um 20 % und das Angriffstempo um 20 %. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht den ANG des Pixies um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht den Krit. Treffer des Pixies um 200. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ritterpike-Token](/de/Items/con_916/) | Der Pixie fügt der Zieleinheit Schaden in Höhe von 450 % des eigenen ANG zu und verursacht 3 Sek. lang zufällig „Erstarren“, „Verbrennung“, „Versteinerung“ oder „Schock“. Die AKZ beträgt 18 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht den SCHD (Einheit) des Pixies um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ritterpike-Token](/de/Items/con_916/) | Wenn die LP des Pixies zum ersten Mal auf 80 %/60 %/40 %/20 % fallen, werden 8 Mana für verbündete Helden wiederhergestellt. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ritterpike-Token](/de/Items/con_916/) | Nachdem der Pixie stirbt, werden der SCHD (Einheit) und das Angriffstempo aller verbündeten Konflux-Einheiten jeweils um 3 % erhöht. Dauert 60 Sek. lang an. Bis zu 9 Mal stapelbar. |
 
 
 ## Stufenaufst.

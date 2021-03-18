@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
+ **Unit Soul:** [Magierin](/de/Items/unt_238/)
+
  **Unit description:** Zauberdurchdringung: Der Schaden gegen Einzelziele steigt mit der Zeit.
 
  **Short description:** Magische Einheit mit Absorptionsschild.
@@ -81,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -168,6 +170,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

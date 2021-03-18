@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Pikenier](/de/Items/unt_190/)
+
  **Unit description:** Speerformation: Fügt gegnerischen Einheiten Schaden zu, betäubt sie.
 
  **Short description:** Sowohl Angriff als auch Abwehr, plus Massenkontrolle.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -171,6 +173,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

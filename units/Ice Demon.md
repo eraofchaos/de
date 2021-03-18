@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Eisdämon](/de/Items/unt_269/)
+
  **Short description:** Kontrollbogenschütze. Verbündeten-Buffs.
 
  **Position :** Kontrollbogenschütze. Verbündeten-Buffs.
@@ -185,6 +187,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

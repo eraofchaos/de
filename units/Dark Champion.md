@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Dunkler Kämpe](/de/Items/unt_216/)
+
  **Short description:** Richtet hin. Unbesiegbar in der eigenen Domäne.
 
  **Position :** Reduziert die gegnerische Moral. Verursacht hohen Schaden und kann Einheiten auf einen Streich töten. Macht Verbündete in der Domäne unbesiegbar.
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Angriffstempo
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

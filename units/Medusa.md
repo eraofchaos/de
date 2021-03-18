@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Medusa](/de/Items/unt_247/)
+
  **Unit description:** Steinblick: Versteinert Feinde und reduziert ihre Schadensreduzierung.
 
  **Short description:** Versteinert. Hoher Schaden.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Medusas Bogen“-Token](/de/Items/con_991/)
 
- **Skin:** -
+ **Skin:** [„Medusas Bogen“-Spezialskin](/de/Items/con_659/)
 
 
 ## Empfohlene Heilige Embleme
@@ -167,6 +169,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

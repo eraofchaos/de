@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Magisches Luftschiff](/de/units/Magic Airship/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Polaris-Token](/de/Items/con_989/)
 
- **Skin:** -
+ **Skin:** [Polaris-Spezialskin](/de/Items/con_657/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Das Magische Luftschiff fügt 3 zufälligen gegnerischen Einheiten Schaden in Höhe von 150 % des eigenen ANG zu und verringert deren SCHD (Einheit) 7 Sek. lang um 20 %. Die AKZ beträgt 21 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Das Angriffstempo des Magischen Luftschiffs wird um 10 % erhöht, der ANG um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Magischen Luftschiffs um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | Das Magische Luftschiff erhöht alle 20 Sek. für 8 Sek. den SCHD (Einheit) um 20 %, die Krit. Treffer um 200 und den Krit. Gesamt-SCHD um 20 %. Außerdem gewährt es einer zufälligen verbündeten Zauberer-Einheit einen Buff der Hälfte seiner Attribute. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Magischen Luftschiffs um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn die LP des Magischen Luftschiffs zum ersten Mal unter 40 % fallen, wird der Reservekern aktiviert, um LP in Höhe von 50 % seiner eigenen max. LP wiederherzustellen und gleichzeitig die SCHD-Reduzierung (Einheit) für 15 Sek. um 20 % zu erhöhen. Alle Einheiten des Magischen Luftschiffs auf dem Schlachtfeld können dies nur ein Mal während der gesamten Schlacht auslösen. |
-  | **6x** <i class="fas fa-star"/> | ? | Wenn ein verbündeter Held einen Zauber wirkt, erhöht das Magische Luftschiff die SCHD-Reduzierung (Einheit) von verbündeten Turm-Einheiten um 1 % und das Ausweichen um 10, während 1 Stapel des Debuffs entfernt wird. Die Buffs dieser Fähigkeit können nur bis zu 20 Mal gestapelt werden und halten den gesamten Kampf über an. |
+  |  Erwachen  | **100x** [Polaris-Token](/de/Items/con_989/) | Das Magische Luftschiff fügt 3 zufälligen gegnerischen Einheiten Schaden in Höhe von 150 % des eigenen ANG zu und verringert deren SCHD (Einheit) 7 Sek. lang um 20 %. Die AKZ beträgt 21 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Polaris-Token](/de/Items/con_989/) | Das Angriffstempo des Magischen Luftschiffs wird um 10 % erhöht, der ANG um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Polaris-Token](/de/Items/con_989/) | Erhöht den SCHD (Einheit) des Magischen Luftschiffs um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Polaris-Token](/de/Items/con_989/) | Das Magische Luftschiff erhöht alle 20 Sek. für 8 Sek. den SCHD (Einheit) um 20 %, die Krit. Treffer um 200 und den Krit. Gesamt-SCHD um 20 %. Außerdem gewährt es einer zufälligen verbündeten Zauberer-Einheit einen Buff der Hälfte seiner Attribute. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Polaris-Token](/de/Items/con_989/) | Erhöht die SCHD-Reduzierung (Einheit) des Magischen Luftschiffs um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Polaris-Token](/de/Items/con_989/) | Wenn die LP des Magischen Luftschiffs zum ersten Mal unter 40 % fallen, wird der Reservekern aktiviert, um LP in Höhe von 50 % seiner eigenen max. LP wiederherzustellen und gleichzeitig die SCHD-Reduzierung (Einheit) für 15 Sek. um 20 % zu erhöhen. Alle Einheiten des Magischen Luftschiffs auf dem Schlachtfeld können dies nur ein Mal während der gesamten Schlacht auslösen. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Polaris-Token](/de/Items/con_989/) | Wenn ein verbündeter Held einen Zauber wirkt, erhöht das Magische Luftschiff die SCHD-Reduzierung (Einheit) von verbündeten Turm-Einheiten um 1 % und das Ausweichen um 10, während 1 Stapel des Debuffs entfernt wird. Die Buffs dieser Fähigkeit können nur bis zu 20 Mal gestapelt werden und halten den gesamten Kampf über an. |
 
 
 ## Stufenaufst.

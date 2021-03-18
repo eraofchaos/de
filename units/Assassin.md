@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Assassine](/de/Items/unt_271/)
+
  **Short description:** Attentat-Schaden. Schwächt Heilung.
 
  **Position :** Attentat-Schaden, schwächt Heilung, wirft Messer, lässt Ziele verstummen.
@@ -162,6 +164,8 @@ toc: true
 * LP
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
 
 
 ## Awaking

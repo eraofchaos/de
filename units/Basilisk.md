@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Basilisk](/de/Items/unt_256/)
+
  **Short description:** Kontrolliert Tanks, versteinert.
 
  **Position :** Ein Tank mit guten Kontrollfähigkeiten. Versteinert beim Tod alle umstehenden Einheiten.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Basiliskenschwanz-Token](/de/Items/con_994/)
 
- **Skin:** -
+ **Skin:** [„Feuerenergie“-Spezialskin](/de/Items/con_662/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,6 +171,8 @@ toc: true
 * LP
 * SCHD-Reduzierung (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

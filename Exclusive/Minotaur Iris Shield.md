@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Minotaurus](/de/units/Minotaur/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Brutaler Ansturm> Der Minotaurus stürmt brutal auf das Ziel zu und verursacht Schaden in Höhe von 300 % des eigenen ANG, während er die SCHD-Reduzierung (Einheit) von gegnerischen Einheiten in einem großen Radius für 7 Sek. um 20 % und ihr Angriffstempo um 10 % senkt. Die AKZ beträgt 15 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Minotaurus um 20 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht bei Hoher Moral die Zähigkeit für 5 Sek. um 400. |
-  | **3x** <i class="fas fa-star"/> | ? | <Blutrausch> Der Minotaurus erlangt LP in Höhe von 10 % seiner eigenen max. LP zurück und verringert den SCHD (Einheit) der gegnerischen Einheiten in geringer Reichweite für 6 Sek. um 20 %. Die AKZ beträgt 15 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die LP des Minotaurus immer dann um 8 % und die ABW um 5 %, wenn eine Dungeon-Einheit eingesetzt wird. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn die LP des Minotaurus zum ersten Mal unter 30 % fallen, erhöht er seine eigene ABW um 50 %, während er gleichzeitig 15 Sek. lang sein eigenes Angriffstempo und das von verbündeten Einheiten in geringer Reichweite um 20 % erhöht. |
-  | **6x** <i class="fas fa-star"/> | ? | <Brüllen> Der Minotaurus brüllt und versetzt seine Feinde in Angst und Schrecken. Dadurch wird der von verbündeten Einheiten verursachte Schaden um 20 % erhöht, während gleichzeitig die SCHD-Reduzierung (Einheit) von vergifteten feindlichen Einheiten um 20 % verringert wird. Hält 7 Sek. an. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | <Brutaler Ansturm> Der Minotaurus stürmt brutal auf das Ziel zu und verursacht Schaden in Höhe von 300 % des eigenen ANG, während er die SCHD-Reduzierung (Einheit) von gegnerischen Einheiten in einem großen Radius für 7 Sek. um 20 % und ihr Angriffstempo um 10 % senkt. Die AKZ beträgt 15 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die SCHD-Reduzierung (Einheit) des Minotaurus um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Erhöht bei Hoher Moral die Zähigkeit für 5 Sek. um 400. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | <Blutrausch> Der Minotaurus erlangt LP in Höhe von 10 % seiner eigenen max. LP zurück und verringert den SCHD (Einheit) der gegnerischen Einheiten in geringer Reichweite für 6 Sek. um 20 %. Die AKZ beträgt 15 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die LP des Minotaurus immer dann um 8 % und die ABW um 5 %, wenn eine Dungeon-Einheit eingesetzt wird. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Wenn die LP des Minotaurus zum ersten Mal unter 30 % fallen, erhöht er seine eigene ABW um 50 %, während er gleichzeitig 15 Sek. lang sein eigenes Angriffstempo und das von verbündeten Einheiten in geringer Reichweite um 20 % erhöht. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | <Brüllen> Der Minotaurus brüllt und versetzt seine Feinde in Angst und Schrecken. Dadurch wird der von verbündeten Einheiten verursachte Schaden um 20 % erhöht, während gleichzeitig die SCHD-Reduzierung (Einheit) von vergifteten feindlichen Einheiten um 20 % verringert wird. Hält 7 Sek. an. Die AKZ beträgt 15 Sek. |
 
 
 ## Stufenaufst.

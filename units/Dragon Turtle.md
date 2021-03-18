@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Drachenschildkröte](/de/Items/unt_278/)
+
  **Short description:** Tank, regeneriert LP.
 
  **Position :** Mächtiger Verteidiger. Stellt nach dem Tod LP wieder her.
@@ -78,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Gehorsamkeit-Token](/de/Items/con_1005/)
 
- **Skin:** -
+ **Skin:** [Gehorsamkeit-Spezialskin](/de/Items/con_673/)
 
 
 ## Empfohlene Heilige Embleme
@@ -164,6 +166,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

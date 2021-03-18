@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Mönch](/de/Items/unt_194/)
+
  **Unit description:** Gebet: Heilt deine Einheit mit der niedrigsten Gesundheit.
 
  **Short description:** Mächtige Heilung, starke Buffs.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -162,6 +164,8 @@ toc: true
 ## Talent
 
 * ?!? 
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

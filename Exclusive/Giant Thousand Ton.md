@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Gigant](/de/units/Giant/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Tausend-Tonnen-Token](/de/Items/con_988/)
 
- **Skin:** -
+ **Skin:** [Tausend-Tonnen-Spezialskin](/de/Items/con_656/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Der Gigant beschwört 10 Sek. lang eine Gewitterwolke über einer zufälligen Einheit. Die Gewitterwolke trifft alle 0,5 Sek. eine zufällige Einheit in Reichweite, wobei jeder Treffer Schaden in Höhe von 40 % des eigenen ANG verursacht. Wenn dieselbe Einheit innerhalb von 4 Sek. zwei Mal hintereinander getroffen wird, wird die Einheit für 5 Sek. gelähmt. Wenn dieselbe Einheit vier Mal hintereinander getroffen wird, wird die Einheit für 2 Sek. mit „Auszehrung“ belegt. Die AKZ beträgt 15 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Der Gigant erhöht er den SCHD (Einheit) um 10 %. Wenn er auf dem Schlachtfeld ist, erhöht er auch den von verbündeten Zauberer-Einheiten verursachten SCHD (Einheit) um 10 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Der Gigant erweckt kurzzeitig ein Blitzelementar in seiner Rüstung, das innerhalb von 8 Sek. die eigenen Krit. Treffer um 200 und das Angriffstempo um 20 % erhöht. Die AKZ beträgt 14 Sek. |
-  | **3x** <i class="fas fa-star"/> | ? | Der Gigant lädt seine eigene Rüstung ein Mal alle 10 Sek. auf, sodass er 3 Mal Schaden blocken kann, während er einen Puls auslöst, der für 6 Sek. die Zähigkeit von verbündeten Turm-Einheiten um 200 und das Ausweichen um 200 erhöht. |
-  | **4x** <i class="fas fa-star"/> | ? | Der Gigant nutzt die Kraft des Blitzes, um seinen eigenen Basis-ANG um 5.000 zu erhöhen. Wenn er einen Gegner angreift, der von „Lähmung“ betroffen ist, erhöht er Krit. Treffer um 200. Wenn er einen Gegner angreift, der mit „Schock“ belegt wurde, erhöht er den Krit. Gesamt-SCHD um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Gigant reinigt sich alle 10 Sek. mit der Macht des Blitzes, entfernt einen Stapel Debuffs und erhöht seinen eigenen SCHD (Einheit) und seine SCHD-Reduzierung (Einheit) jeweils um 3 %, was für den gesamten Kampf anhält. Bis zu 10 Mal stapelbar. |
-  | **6x** <i class="fas fa-star"/> | ? | Am Anfang des Kampfes erhält der Gigant für 10 Sek. die Macht des Donnergottes. Er wirft alle 5 Sek. einen Donnerspeer, der der Zieleinheit Schaden in Höhe von 105 % des eigenen ANG zufügt. Jeder Wurf hat eine Chance von 20 %, den Donnerspeer in den Speer des Donnergottes zu verwandeln, was den verursachten Schaden um 50 % erhöht. Der Speer des Donnergottes markiert die Zieleinheit 5 Sek. lang entweder mit „Lähmung“ oder „Schock“. Wenn der Gigant die markierte Einheit angreift, erhöht sich die Durchdringung um 300. |
+  |  Erwachen  | **100x** [Tausend-Tonnen-Token](/de/Items/con_988/) | Der Gigant beschwört 10 Sek. lang eine Gewitterwolke über einer zufälligen Einheit. Die Gewitterwolke trifft alle 0,5 Sek. eine zufällige Einheit in Reichweite, wobei jeder Treffer Schaden in Höhe von 40 % des eigenen ANG verursacht. Wenn dieselbe Einheit innerhalb von 4 Sek. zwei Mal hintereinander getroffen wird, wird die Einheit für 5 Sek. gelähmt. Wenn dieselbe Einheit vier Mal hintereinander getroffen wird, wird die Einheit für 2 Sek. mit „Auszehrung“ belegt. Die AKZ beträgt 15 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Tausend-Tonnen-Token](/de/Items/con_988/) | Der Gigant erhöht er den SCHD (Einheit) um 10 %. Wenn er auf dem Schlachtfeld ist, erhöht er auch den von verbündeten Zauberer-Einheiten verursachten SCHD (Einheit) um 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Tausend-Tonnen-Token](/de/Items/con_988/) | Der Gigant erweckt kurzzeitig ein Blitzelementar in seiner Rüstung, das innerhalb von 8 Sek. die eigenen Krit. Treffer um 200 und das Angriffstempo um 20 % erhöht. Die AKZ beträgt 14 Sek. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Tausend-Tonnen-Token](/de/Items/con_988/) | Der Gigant lädt seine eigene Rüstung ein Mal alle 10 Sek. auf, sodass er 3 Mal Schaden blocken kann, während er einen Puls auslöst, der für 6 Sek. die Zähigkeit von verbündeten Turm-Einheiten um 200 und das Ausweichen um 200 erhöht. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Tausend-Tonnen-Token](/de/Items/con_988/) | Der Gigant nutzt die Kraft des Blitzes, um seinen eigenen Basis-ANG um 5.000 zu erhöhen. Wenn er einen Gegner angreift, der von „Lähmung“ betroffen ist, erhöht er Krit. Treffer um 200. Wenn er einen Gegner angreift, der mit „Schock“ belegt wurde, erhöht er den Krit. Gesamt-SCHD um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Tausend-Tonnen-Token](/de/Items/con_988/) | Der Gigant reinigt sich alle 10 Sek. mit der Macht des Blitzes, entfernt einen Stapel Debuffs und erhöht seinen eigenen SCHD (Einheit) und seine SCHD-Reduzierung (Einheit) jeweils um 3 %, was für den gesamten Kampf anhält. Bis zu 10 Mal stapelbar. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Tausend-Tonnen-Token](/de/Items/con_988/) | Am Anfang des Kampfes erhält der Gigant für 10 Sek. die Macht des Donnergottes. Er wirft alle 5 Sek. einen Donnerspeer, der der Zieleinheit Schaden in Höhe von 105 % des eigenen ANG zufügt. Jeder Wurf hat eine Chance von 20 %, den Donnerspeer in den Speer des Donnergottes zu verwandeln, was den verursachten Schaden um 50 % erhöht. Der Speer des Donnergottes markiert die Zieleinheit 5 Sek. lang entweder mit „Lähmung“ oder „Schock“. Wenn der Gigant die markierte Einheit angreift, erhöht sich die Durchdringung um 300. |
 
 
 ## Stufenaufst.

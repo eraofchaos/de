@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Engel](/de/Items/unt_196/)
+
  **Unit description:** Verurteilung: Fügt 3 Einheiten brutalen Schaden zu und betäubt sie.
 
  **Short description:** Heilaura heilt Verbündete.
@@ -82,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Durendal-Token](/de/Items/con_973/)
 
- **Skin:** -
+ **Skin:** [Durendal-Spezialskin](/de/Items/con_641/)
 
 
 ## Empfohlene Heilige Embleme
@@ -168,6 +170,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Revyaratan](/de/Items/unt_280/)
+
  **Short description:** Tiefseekraken. Kann nicht wiederbelebt werden.
 
  **Position :** Verursacht durchgehend brutalen Schaden, schreckt Feinde ab und verschlingt zufällig Leichen, um LP wiederherzustellen.
@@ -177,6 +179,8 @@ toc: true
 * LP
 * Angriffstempo
 * Kritischer Treffer (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

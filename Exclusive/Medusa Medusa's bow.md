@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Medusa](/de/units/Medusa/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Medusas Bogen“-Token](/de/Items/con_991/)
 
- **Skin:** -
+ **Skin:** [„Medusas Bogen“-Spezialskin](/de/Items/con_659/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Bei jedem Angriff der Medusa wird mit einer Wahrscheinlichkeit von 50 % <Schlangengift> auf eine zufällige Einheit gewirkt. Der Effekt bleibt die gesamte Schlacht über aktiv, bis 10 Stapel. Wenn die Medusa eine Einheit mit 10 Stapeln <Schlangengift> angreift, wird ihr Schaden um 30 % erhöht. <Schlangengift>: Verursacht jede Sekunde Schaden in Höhe von 5 % des ANG der Medusa. |
-  | **1x** <i class="fas fa-star"/> | ? | Kritischer Treffer der Medusa wird um 300 erhöht. |
-  | **2x** <i class="fas fa-star"/> | ? | ANG und Angriffstempo der Medusa werden um 20 % erhöht. |
-  | **3x** <i class="fas fa-star"/> | ? | <Loch> Medusa wirkt einmal alle 10 Sek. eine Fähigkeit, die all ihre Debuffs entfernt. |
-  | **4x** <i class="fas fa-star"/> | ? | Der Schaden der Medusa wird um 20 % erhöht. |
-  | **5x** <i class="fas fa-star"/> | ? | Die Medusa erhält 10 % Lebensentzug. |
-  | **6x** <i class="fas fa-star"/> | ? | <Siegel der Kehle> Wenn die Medusa angreift, fügt sie ihrem Ziel mit einer Wahrscheinlichkeit von 3 % Schaden in Höhe von 200 % ihres ANG zu und senkt ABW des Ziels um 20 %, Angriffstempo um 10 % und Ausweichen um 500. Wirkungsdauer 5 Sek. |
+  |  Erwachen  | **100x** [„Medusas Bogen“-Token](/de/Items/con_991/) | Bei jedem Angriff der Medusa wird mit einer Wahrscheinlichkeit von 50 % <Schlangengift> auf eine zufällige Einheit gewirkt. Der Effekt bleibt die gesamte Schlacht über aktiv, bis 10 Stapel. Wenn die Medusa eine Einheit mit 10 Stapeln <Schlangengift> angreift, wird ihr Schaden um 30 % erhöht. <Schlangengift>: Verursacht jede Sekunde Schaden in Höhe von 5 % des ANG der Medusa. |
+  | **1x** <i class="fas fa-star"/> | **50x** [„Medusas Bogen“-Token](/de/Items/con_991/) | Kritischer Treffer der Medusa wird um 300 erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [„Medusas Bogen“-Token](/de/Items/con_991/) | ANG und Angriffstempo der Medusa werden um 20 % erhöht. |
+  | **3x** <i class="fas fa-star"/> | **130x** [„Medusas Bogen“-Token](/de/Items/con_991/) | <Loch> Medusa wirkt einmal alle 10 Sek. eine Fähigkeit, die all ihre Debuffs entfernt. |
+  | **4x** <i class="fas fa-star"/> | **170x** [„Medusas Bogen“-Token](/de/Items/con_991/) | Der Schaden der Medusa wird um 20 % erhöht. |
+  | **5x** <i class="fas fa-star"/> | **210x** [„Medusas Bogen“-Token](/de/Items/con_991/) | Die Medusa erhält 10 % Lebensentzug. |
+  | **6x** <i class="fas fa-star"/> | **250x** [„Medusas Bogen“-Token](/de/Items/con_991/) | <Siegel der Kehle> Wenn die Medusa angreift, fügt sie ihrem Ziel mit einer Wahrscheinlichkeit von 3 % Schaden in Höhe von 200 % ihres ANG zu und senkt ABW des Ziels um 20 %, Angriffstempo um 10 % und Ausweichen um 500. Wirkungsdauer 5 Sek. |
 
 
 ## Stufenaufst.

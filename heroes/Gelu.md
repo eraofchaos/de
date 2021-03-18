@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert."
 heroID: 60301
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: de
 ref: "Gelu"
 toc: true

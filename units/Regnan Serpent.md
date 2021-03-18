@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Regnanschlange](/de/Items/unt_276/)
+
  **Unit description:** Tiefseestampfer: Flächenkontrolle, schreckt Feinde ab und reduziert Kritischer Treffer.
 
  **Short description:** Starker Tank, Wache der Tiefsee.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Tagesgezeiten-Token](/de/Items/con_1003/)
 
- **Skin:** -
+ **Skin:** [Tagesgezeiten-Spezialskin](/de/Items/con_671/)
 
 
 ## Empfohlene Heilige Embleme
@@ -182,6 +184,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

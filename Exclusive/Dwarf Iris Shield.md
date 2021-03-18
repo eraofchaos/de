@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Zwerg](/de/units/Dwarf/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | Der Zwerg hämmert auf den Amboss, nachdem er angegriffen wurde. Dadurch erhöht sich seine ABW für 5 Sek. um 50 %, aber er wird auch bewegungs- und angriffsunfähig. Endet dieser Effekt, erhalten verbündete Einheiten in der ersten Reihe einen Schild in Höhe von 10 % der max. LP, der 5 Sek. anhält. Die AKZ beträgt 25 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Zwergs um 20 % und seine ABW um 10 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) des Zwergs um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Hammerschlag> Der Zwerg haut mit seinem Hammer zu, wobei er gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 150 % des eigenen ANG zufügt und sie 5 Sek. lang verlangsamt. Die AKZ beträgt 20 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Steigert für jede eingesetzte Schutzwall-Einheit die LP des Zwerges um 8 % und die SCHD-Reduzierung (Einheit) um 4 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Nachdem <Hammerschlag> gewirkt wurde, verbleibt an der ursprünglichen Stelle des Einschlags ein Krater, der gegnerischen Einheiten im Krater alle 2 Sek. Schaden in Höhe von 5 % der max. LP des Zwerges zufügt. Hält 10 Sek. lang an. |
-  | **6x** <i class="fas fa-star"/> | ? | <Körperrüstung> Der Zwerg trägt eine Rüstung, wenn seine LP zum ersten Mal auf 66 % bzw. 33 % fallen. Dadurch erhält er für den Rest der Schlacht einen Schild in Höhe von 10 % seiner max. LP und eine Erhöhung der SCHD-Reduzierung (Einheit) um 10 %. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | Der Zwerg hämmert auf den Amboss, nachdem er angegriffen wurde. Dadurch erhöht sich seine ABW für 5 Sek. um 50 %, aber er wird auch bewegungs- und angriffsunfähig. Endet dieser Effekt, erhalten verbündete Einheiten in der ersten Reihe einen Schild in Höhe von 10 % der max. LP, der 5 Sek. anhält. Die AKZ beträgt 25 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die LP des Zwergs um 20 % und seine ABW um 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die SCHD-Reduzierung (Einheit) des Zwergs um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | <Hammerschlag> Der Zwerg haut mit seinem Hammer zu, wobei er gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 150 % des eigenen ANG zufügt und sie 5 Sek. lang verlangsamt. Die AKZ beträgt 20 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Steigert für jede eingesetzte Schutzwall-Einheit die LP des Zwerges um 8 % und die SCHD-Reduzierung (Einheit) um 4 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Nachdem <Hammerschlag> gewirkt wurde, verbleibt an der ursprünglichen Stelle des Einschlags ein Krater, der gegnerischen Einheiten im Krater alle 2 Sek. Schaden in Höhe von 5 % der max. LP des Zwerges zufügt. Hält 10 Sek. lang an. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | <Körperrüstung> Der Zwerg trägt eine Rüstung, wenn seine LP zum ersten Mal auf 66 % bzw. 33 % fallen. Dadurch erhält er für den Rest der Schlacht einen Schild in Höhe von 10 % seiner max. LP und eine Erhöhung der SCHD-Reduzierung (Einheit) um 10 %. |
 
 
 ## Stufenaufst.

@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Drachengolem](/de/Items/unt_243/)
+
  **Short description:** Ultimative Verteidigung.
 
  **Position :** Gruppenschutz bei Kampfbeginn verringert den erlittenen Schaden. Ultimative und unschlagbare Verteidigung für die hintere Reihe. Kontrolle über Entfernung, schüchtert alle Einheiten auf dem Schlachtfeld ein.
@@ -171,6 +173,8 @@ toc: true
 * LP
 * SCHD-Reduzierung (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Scharfschütze](/de/Items/unt_191/)
+
  **Unit description:** Sprengpfeil: Fügt gegnerischen Einheiten erheblichen Schaden zu.
 
  **Short description:** Schlägt zweimal zu. Effektiv gegen große Einheiten.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
 
  **Skin:** -
 
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
 
 
 ## Awaking

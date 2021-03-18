@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Schwertkämpfer](/de/units/Swordsman/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Schildschmettern> Der Schwertkämpfer verlangsamt eine gegnerische Einheit ein Mal alle 18 Sek. und verringert ihre SCHD-Reduzierung (Einheit) für 7 Sek. um 15 %. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP um 20 % und Ausweichen um 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht bei Hoher Moral ABW für 5 Sek. um 20 %. |
-  | **3x** <i class="fas fa-star"/> | ? | <Schadenserholung> Wenn eine Schwertkämpfer-Einheit in einem einzigen Angriff Schaden von mehr als 8 % ihrer max. LP erleidet, stellt sie LP in Höhe von 150 % des eigenen ANG wieder her. Die AKZ beträgt 10 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit um 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Erhöht für jede Schloss-Einheit auf dem Schlachtfeld die eigene SCHD-Reduzierung (Einheit) um 4 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Drachentöter> Die SCHD-Reduzierung (Einheit) des Schwertkämpfers wird beim Kampf gegen 1-Mann-Einheiten und 4-Mann-Einheiten um 20 % erhöht. In der Nähe befindliche Einheiten innerhalb einer kleinen Reichweite erhalten zudem eine Erhöhung des Angriffstempos um 20 %. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | <Schildschmettern> Der Schwertkämpfer verlangsamt eine gegnerische Einheit ein Mal alle 18 Sek. und verringert ihre SCHD-Reduzierung (Einheit) für 7 Sek. um 15 %. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die LP um 20 % und Ausweichen um 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Erhöht bei Hoher Moral ABW für 5 Sek. um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | <Schadenserholung> Wenn eine Schwertkämpfer-Einheit in einem einzigen Angriff Schaden von mehr als 8 % ihrer max. LP erleidet, stellt sie LP in Höhe von 150 % des eigenen ANG wieder her. Die AKZ beträgt 10 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die Zähigkeit um 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Erhöht für jede Schloss-Einheit auf dem Schlachtfeld die eigene SCHD-Reduzierung (Einheit) um 4 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | <Drachentöter> Die SCHD-Reduzierung (Einheit) des Schwertkämpfers wird beim Kampf gegen 1-Mann-Einheiten und 4-Mann-Einheiten um 20 % erhöht. In der Nähe befindliche Einheiten innerhalb einer kleinen Reichweite erhalten zudem eine Erhöhung des Angriffstempos um 20 %. |
 
 
 ## Stufenaufst.

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Berserker](/de/Items/unt_224/)
+
  **Unit description:** Kriegssturm: Fügt 3 gegnerischen Einheiten in der Nähe Schaden zu.
 
  **Short description:** Stark gegen einzelne Einheiten. Buff bei Tod.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Berserkeraxt-Token](/de/Items/con_983/)
 
- **Skin:** -
+ **Skin:** [Berserkeraxt-Spezialskin](/de/Items/con_651/)
 
 
 ## Empfohlene Heilige Embleme
@@ -178,6 +180,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
 
 
 ## Awaking

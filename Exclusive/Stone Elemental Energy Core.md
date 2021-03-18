@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Steinelementar](/de/units/Stone Elemental/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Energiekern-Token](/de/Items/con_999/)
 
- **Skin:** -
+ **Skin:** [„Energiekern“-Spezialskin](/de/Items/con_667/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Felsenschlag> Die Einheit schlägt auf den Boden ein, was gegnerischen Einheiten in einem großen Bereich Schaden in Höhe von 200 % des ANG zufügt und sie 3 Sek. lang „hochschlägt“ und „betäubt“. AKZ 20 Sek., Start-AKZ 10 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Steinelementars wird erhöht um 20 %. Der Effekt wird verdoppelt, wenn der Steinelementar von einer Zauberer-Einheit angegriffen wird. |
-  | **2x** <i class="fas fa-star"/> | ? | <Lehm> Wenn gegnerische oder verbündete Helden einen Erdzauber wirken, stellt der Steinelementar 2 % seiner max. LP wieder her. |
-  | **3x** <i class="fas fa-star"/> | ? | <Felsenschlag> Senkt das Angriffstempo gegnerischer Einheiten 8 Sek. lang um 20 %. Die Schadensreduzierung von Einheiten, die durch <Flammentrio> „Verbrennung“ erlitten haben, wird 8 Sek. lang um 15 % reduziert. |
-  | **4x** <i class="fas fa-star"/> | ? | Die ABW des Steinelementars wird um 20 % erhöht. <Lehm> stellt für alle Konflux-Einheiten in einem großen Radius 30.000 LP wieder her. |
-  | **5x** <i class="fas fa-star"/> | ? | Der Steinelementar ist immun gegen Schaden durch Erdzauber. |
-  | **6x** <i class="fas fa-star"/> | ? | <Elementar-Resonanz> Wenn ein Steinelementar sich auf dem Schlachtfeld befindet, erhöht er die ABW aller Konflux-Einheiten um 10 %. Wenn <Felsenschlag> gewirkt wird, steigt die ABW aller Konflux-Einheiten um 10 %. Der Effekt ist die gesamte Schlacht über aktiv und ist nicht stapelbar. |
+  |  Erwachen  | **100x** [Energiekern-Token](/de/Items/con_999/) | <Felsenschlag> Die Einheit schlägt auf den Boden ein, was gegnerischen Einheiten in einem großen Bereich Schaden in Höhe von 200 % des ANG zufügt und sie 3 Sek. lang „hochschlägt“ und „betäubt“. AKZ 20 Sek., Start-AKZ 10 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Energiekern-Token](/de/Items/con_999/) | Die Schadensreduzierung des Steinelementars wird erhöht um 20 %. Der Effekt wird verdoppelt, wenn der Steinelementar von einer Zauberer-Einheit angegriffen wird. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Energiekern-Token](/de/Items/con_999/) | <Lehm> Wenn gegnerische oder verbündete Helden einen Erdzauber wirken, stellt der Steinelementar 2 % seiner max. LP wieder her. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Energiekern-Token](/de/Items/con_999/) | <Felsenschlag> Senkt das Angriffstempo gegnerischer Einheiten 8 Sek. lang um 20 %. Die Schadensreduzierung von Einheiten, die durch <Flammentrio> „Verbrennung“ erlitten haben, wird 8 Sek. lang um 15 % reduziert. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Energiekern-Token](/de/Items/con_999/) | Die ABW des Steinelementars wird um 20 % erhöht. <Lehm> stellt für alle Konflux-Einheiten in einem großen Radius 30.000 LP wieder her. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Energiekern-Token](/de/Items/con_999/) | Der Steinelementar ist immun gegen Schaden durch Erdzauber. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Energiekern-Token](/de/Items/con_999/) | <Elementar-Resonanz> Wenn ein Steinelementar sich auf dem Schlachtfeld befindet, erhöht er die ABW aller Konflux-Einheiten um 10 %. Wenn <Felsenschlag> gewirkt wird, steigt die ABW aller Konflux-Einheiten um 10 %. Der Effekt ist die gesamte Schlacht über aktiv und ist nicht stapelbar. |
 
 
 ## Stufenaufst.

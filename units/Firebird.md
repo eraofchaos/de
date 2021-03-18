@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Feuervogel](/de/Items/unt_268/)
+
  **Unit description:** Flammenodem: Fügt gegnerischen Einheiten vor sich Schaden zu.
 
  **Short description:** Fernkampf-Feuerschaden. Wird nach Tod wiederbelebt.
@@ -82,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Ewige Flamme“-Token](/de/Items/con_1001/)
 
- **Skin:** -
+ **Skin:** [„Ewige Flamme“-Spezialskin](/de/Items/con_669/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,6 +171,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

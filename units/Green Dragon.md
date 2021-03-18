@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Grüner Drache](/de/Items/unt_205/)
+
  **Unit description:** Verstärkung aus der Luft: Fügt 3 gegnerischen Truppen in der hinteren Reihe gewaltigen Schaden zu.
 
  **Short description:** Wasserschaden, Wasserresistenz.
@@ -82,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/)
 
- **Skin:** -
+ **Skin:** [Prächtiger-Drachenflügel-Spezialskin](/de/Items/con_644/)
 
 
 ## Empfohlene Heilige Embleme
@@ -172,6 +174,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

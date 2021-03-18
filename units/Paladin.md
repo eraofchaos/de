@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
+ **Unit Soul:** [Paladin](/de/Items/unt_197/)
+
  **Unit description:** Verstärkung der Tapferen: Beschwört ein Heiligtumgefolge, das im Kampf hilft.
 
  **Short description:** Beschwört Einheiten, die Schutz bieten.
@@ -80,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Furchtlos-Token](/de/Items/con_974/)
 
- **Skin:** -
+ **Skin:** [Furchtlos-Spezialskin](/de/Items/con_642/)
 
 
 ## Empfohlene Heilige Embleme
@@ -165,6 +167,8 @@ toc: true
 * LP
 * Abwehr
 * SCHD-Reduzierung (Einheit)
+
+ **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
 
 
 ## Awaking

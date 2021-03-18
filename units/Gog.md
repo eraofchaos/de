@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
+ **Unit Soul:** [Gog](/de/Items/unt_227/)
+
  **Unit description:** Feuerwand: Fügt gegnerischen Einheiten vor sich Schaden zu.
 
  **Short description:** Fernkampf-Feuerschaden. Verbrennt.
@@ -82,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
 
  **Skin:** -
 
@@ -170,6 +172,8 @@ toc: true
 * LP
 * Kritischer Treffer (Einheit)
 * Magieresistenz
+
+ **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
 
 
 ## Awaking

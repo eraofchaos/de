@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Troglodyt](/de/units/Troglodyte/) | [Schwert](/de/Exclusive/Troglodyte Sword/) | - | Aufladung | - | - |
-  | 2  | [Harpyie](/de/units/Harpy/) | [Ritterpike](/de/Exclusive/Harpy Knight Pike/) | - | Aufladung | - | - |
-  | 3  | [Betrachter](/de/units/Beholder/) | [Dunkler Blick](/de/Exclusive/Beholder Dark Gaze/) | - | Fernkampf | - | - |
-  | 4  | [Medusa](/de/units/Medusa/) | [Medusas Bogen](/de/Exclusive/Medusa Medusa's Bow/) | - | Fernkampf | - | - |
-  | 5  | [Minotaurus](/de/units/Minotaur/) | [Irisschild](/de/Exclusive/Minotaur Iris Shield/) | - | Aufladung | - | - |
-  | 6  | [Mantikor](/de/units/Manticore/) | [Skorpionschwanz](/de/Exclusive/Manticore Scorpion Tail/) | + | Fernkampf | - | - |
-  | 7  | [Schwarzer Drache](/de/units/Black Dragon/) | [Schwarze Drachenschuppe](/de/Exclusive/Black Dragon Black Dragon's Scale/) | - | Unterstützung | - | - |
+  | 1  | [Troglodyt](/de/units/Troglodyte/) | [Schwert](/de/Exclusive/Troglodyte Sword/) | - | Aufladung | [Schwert-Token](/de/Items/con_912/) | - |
+  | 2  | [Harpyie](/de/units/Harpy/) | [Ritterpike](/de/Exclusive/Harpy Knight Pike/) | - | Aufladung | [Ritterpike-Token](/de/Items/con_916/) | - |
+  | 3  | [Betrachter](/de/units/Beholder/) | [Dunkler Blick](/de/Exclusive/Beholder Dark Gaze/) | - | Fernkampf | [Dunkler-Blick-Token](/de/Items/con_990/) | [Dunkler-Blick-Spezialskin](/de/Items/con_658/) |
+  | 4  | [Medusa](/de/units/Medusa/) | [Medusas Bogen](/de/Exclusive/Medusa Medusa's Bow/) | - | Fernkampf | [„Medusas Bogen“-Token](/de/Items/con_991/) | [„Medusas Bogen“-Spezialskin](/de/Items/con_659/) |
+  | 5  | [Minotaurus](/de/units/Minotaur/) | [Irisschild](/de/Exclusive/Minotaur Iris Shield/) | - | Aufladung | [Irisschild-Token](/de/Items/con_913/) | - |
+  | 6  | [Mantikor](/de/units/Manticore/) | [Skorpionschwanz](/de/Exclusive/Manticore Scorpion Tail/) | + | Fernkampf | [Skorpionschwanz-Token](/de/Items/con_992/) | [Skorpionschwanz-Spezialskin](/de/Items/con_660/) |
+  | 7  | [Schwarzer Drache](/de/units/Black Dragon/) | [Schwarze Drachenschuppe](/de/Exclusive/Black Dragon Black Dragon's Scale/) | - | Unterstützung | [„Schwarze Drachenschuppe“-Token](/de/Items/con_993/) | [„Schwarze Drachenschuppe“-Spezialskin](/de/Items/con_661/) |
   | 8  | [Roter Drache](/de/units/Red Dragon/) | [Auslöschung](/de/Exclusive/Red Dragon Annihilation/) | - | Unterstützung | - | - |
   | 9  | [Böse Zauberin](/de/units/Evil Sorceress/) | - | - | - | none | none |

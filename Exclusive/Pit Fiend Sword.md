@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Grottenteufel](/de/units/Pit Fiend/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Auspeitschen> Der Grottenteufel schwingt seine Peitsche und fügt gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 300 % des eigenen ANG zu und wirkt „Blutung“. Es besteht eine Chance von 50 %, den SCHD (Einheit) für 6 Sek. um 20 % zu verringern. Die AKZ beträgt 16 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Der ANG des Grottenteufels wird um 20 % erhöht, die Heilung um 10 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) von verbündeten Inferno-Einheiten um 10 %, wenn der Grottenteufel auf dem Schlachtfeld ist. |
-  | **3x** <i class="fas fa-star"/> | ? | <Höllische Bindung> Der Grottenteufel wickelt seine Peitsche um die Zieleinheit, wodurch deren Schwäche aufgedeckt und sie bewegungs- und angriffsunfähig gemacht wird. Dadurch sinkt ihre SCHD-Reduzierung (Einheit) für 4 Sek. um 15 %. Die AKZ beträgt 20 Sek. |
-  | **4x** <i class="fas fa-star"/> | ? | Erhöht den SCHD (Einheit) des Grottenteufels um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn der Grottenteufel eine blutende gegnerische Einheit angreift, besteht eine Chance von 30 %, dass er LP in Höhe von 50 % seines eigenen ANG für sich selbst und eine zufällige verbündete Inferno-Einheit wiederherstellt. |
-  | **6x** <i class="fas fa-star"/> | ? | <Ihre Majestät> Der Grottenteufel peitscht eine zufällige befreundete Inferno-Einheit an, um das Potenzial dieser Einheit anzustacheln, wodurch für 8 Sek. deren SCHD (Einheit) um 20 %, die SCHD-Reduzierung (Einheit) um 20 %, Krit. Treffer um 200 und Zähigkeit um 200 erhöht wird. Während diese Fähigkeit aktiv ist, wird die empfangene Heilung um 30 % reduziert. Die AKZ beträgt 27 Sek. |
+  |  Erwachen  | **100x** [Schwert-Token](/de/Items/con_912/) | <Auspeitschen> Der Grottenteufel schwingt seine Peitsche und fügt gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 300 % des eigenen ANG zu und wirkt „Blutung“. Es besteht eine Chance von 50 %, den SCHD (Einheit) für 6 Sek. um 20 % zu verringern. Die AKZ beträgt 16 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/de/Items/con_912/) | Der ANG des Grottenteufels wird um 20 % erhöht, die Heilung um 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/de/Items/con_912/) | Erhöht die SCHD-Reduzierung (Einheit) von verbündeten Inferno-Einheiten um 10 %, wenn der Grottenteufel auf dem Schlachtfeld ist. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/de/Items/con_912/) | <Höllische Bindung> Der Grottenteufel wickelt seine Peitsche um die Zieleinheit, wodurch deren Schwäche aufgedeckt und sie bewegungs- und angriffsunfähig gemacht wird. Dadurch sinkt ihre SCHD-Reduzierung (Einheit) für 4 Sek. um 15 %. Die AKZ beträgt 20 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/de/Items/con_912/) | Erhöht den SCHD (Einheit) des Grottenteufels um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/de/Items/con_912/) | Wenn der Grottenteufel eine blutende gegnerische Einheit angreift, besteht eine Chance von 30 %, dass er LP in Höhe von 50 % seines eigenen ANG für sich selbst und eine zufällige verbündete Inferno-Einheit wiederherstellt. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/de/Items/con_912/) | <Ihre Majestät> Der Grottenteufel peitscht eine zufällige befreundete Inferno-Einheit an, um das Potenzial dieser Einheit anzustacheln, wodurch für 8 Sek. deren SCHD (Einheit) um 20 %, die SCHD-Reduzierung (Einheit) um 20 %, Krit. Treffer um 200 und Zähigkeit um 200 erhöht wird. Während diese Fähigkeit aktiv ist, wird die empfangene Heilung um 30 % reduziert. Die AKZ beträgt 27 Sek. |
 
 
 ## Stufenaufst.

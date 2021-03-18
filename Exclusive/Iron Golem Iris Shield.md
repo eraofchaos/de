@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Eisengolem](/de/units/Iron Golem/) 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Aufwertungsmodul> Der Eisengolem aktiviert das in ihm versteckte Aufwertungsmodul und erhöht für 10 Sek. seine eigene ABW um 10 %, die SCHD-Reduzierung (Einheit) um 10 % und das Angriffstempo um 30 %. Die AKZ beträgt 20 Sek. |
-  | **1x** <i class="fas fa-star"/> | ? | Erhöht die LP des Eisengolems um 20 % und seine ABW um 15 %. |
-  | **2x** <i class="fas fa-star"/> | ? | Erhöht die Zähigkeit des Eisengolems um 300. Wenn <Aufwertungsmodul> gewirkt wurde, wird der Zähigkeitsbonus verdoppelt. |
-  | **3x** <i class="fas fa-star"/> | ? | <Elektromagnetische Faust> Wenn der Eisengolem angreift, besteht eine Chance von 10 %, 1 Mal <Elektromagnetische Faust> zu wirken. Diese fügt der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG zu und verringert deren SCHD (Einheit) und deren SCHD-Reduzierung (Einheit) 5 Sek. lang jeweils um 10 %. Bis zu 4 Mal stapelbar. |
-  | **4x** <i class="fas fa-star"/> | ? | Steigert für jede eingesetzte Turm-Einheit die LP des Eisengolems um 8 % und die ABW um 4 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn die <Elektromagnetische Faust> ausgelöst wird, verringert der Eisengolem das Angriffstempo gegnerischer Einheiten innerhalb einer kleinen Reichweite für 2 Sek. um 50 %. |
-  | **6x** <i class="fas fa-star"/> | ? | <Überladung> Beim Wirken von <Aufwertungsmodul> besteht eine Chance von 50 %, die doppelten Buffs zu erhalten und für 10 Sek. einen Schild in Höhe von 15 % der eigenen max. LP zu erhalten. |
+  |  Erwachen  | **100x** [Irisschild-Token](/de/Items/con_913/) | <Aufwertungsmodul> Der Eisengolem aktiviert das in ihm versteckte Aufwertungsmodul und erhöht für 10 Sek. seine eigene ABW um 10 %, die SCHD-Reduzierung (Einheit) um 10 % und das Angriffstempo um 30 %. Die AKZ beträgt 20 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die LP des Eisengolems um 20 % und seine ABW um 15 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Irisschild-Token](/de/Items/con_913/) | Erhöht die Zähigkeit des Eisengolems um 300. Wenn <Aufwertungsmodul> gewirkt wurde, wird der Zähigkeitsbonus verdoppelt. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/de/Items/con_913/) | <Elektromagnetische Faust> Wenn der Eisengolem angreift, besteht eine Chance von 10 %, 1 Mal <Elektromagnetische Faust> zu wirken. Diese fügt der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG zu und verringert deren SCHD (Einheit) und deren SCHD-Reduzierung (Einheit) 5 Sek. lang jeweils um 10 %. Bis zu 4 Mal stapelbar. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/de/Items/con_913/) | Steigert für jede eingesetzte Turm-Einheit die LP des Eisengolems um 8 % und die ABW um 4 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/de/Items/con_913/) | Wenn die <Elektromagnetische Faust> ausgelöst wird, verringert der Eisengolem das Angriffstempo gegnerischer Einheiten innerhalb einer kleinen Reichweite für 2 Sek. um 50 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/de/Items/con_913/) | <Überladung> Beim Wirken von <Aufwertungsmodul> besteht eine Chance von 50 %, die doppelten Buffs zu erhalten und für 10 Sek. einen Schild in Höhe von 15 % der eigenen max. LP zu erhalten. |
 
 
 ## Stufenaufst.
