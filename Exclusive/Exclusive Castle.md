@@ -21,6 +21,8 @@ classes: wide
   | 2  | [Scharfschütze](/de/units/Marksman/) | [Langbogen](/de/Exclusive/Marksman Long Bow/) | - | Aufladung | - | - |
   | 3  | [Greif](/de/units/Griffin/) | [Ritterpike](/de/Exclusive/Griffin Knight Pike/) | - | Aufladung | - | - |
   | 4  | [Schwertkämpfer](/de/units/Swordsman/) | [Irisschild](/de/Exclusive/Swordsman Iris Shield/) | - | Aufladung | - | - |
-  | 5  | [Engel](/de/units/Angel/) | [Durendal](/de/Exclusive/Angel Durandel/) | - | Unterstützung | - | - |
-  | 6  | [Paladin](/de/units/Paladin/) | [](/de/Exclusive/Paladin /) | - | Unterstützung | - | - |
-  | 7  | [Richterin](/de/units/Judicator/) | [](/de/Exclusive/Judicator /) | - | Hauptstadt | - | - |
+  | 5  | [Mönch](/de/units/Monk/) | [Arkangesang](/de/Exclusive/Monk Arcane Chant/) | - | Aufladung | - | - |
+  | 6  | [Kavallerist](/de/units/Cavalier/) | [Ritterpike](/de/Exclusive/Cavalier Knight Pike/) | + | Aufladung | - | - |
+  | 7  | [Engel](/de/units/Angel/) | [Durendal](/de/Exclusive/Angel Durandel/) | - | Unterstützung | - | - |
+  | 8  | [Paladin](/de/units/Paladin/) | [](/de/Exclusive/Paladin /) | - | Unterstützung | - | - |
+  | 9  | [Richterin](/de/units/Judicator/) | [](/de/Exclusive/Judicator /) | - | Hauptstadt | - | - |

@@ -18,6 +18,8 @@ classes: wide
   | 2 | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Meisterbogenschütze  |
   | 3 | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Heiliger Greif  |
   | 4 | [Schwertkämpfer](/de/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kreuzritter  |
-  | 5 | [Paladin](/de/units/Paladin/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Oberster Paladin  |
-  | 6 | [Engel](/de/units/Angel/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzengel  |
-  | 7 | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
+  | 5 | [Mönch](/de/units/Monk/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zelot  |
+  | 6 | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Heldenhafte Ritter  |
+  | 7 | [Paladin](/de/units/Paladin/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Oberster Paladin  |
+  | 8 | [Engel](/de/units/Angel/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzengel  |
+  | 9 | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |

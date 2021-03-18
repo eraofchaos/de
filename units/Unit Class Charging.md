@@ -17,11 +17,12 @@ classes: wide
   | 3 | [Hai-Ausbilder](/de/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Hai-Reiter  |
   | 4 | [Harpyie](/de/units/Harpy/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
   | 5 | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Heiliger Greif  |
-  | 6 | [Mantikor](/de/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Skorpikor  |
-  | 7 | [Pixie](/de/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 8 | [Einhorn](/de/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Kriegseinhorn  |
-  | 9 | [Böse Zauberin](/de/units/Evil Sorceress/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 633.6 | 5770 |   -   |
-  | 10 | [Assassine](/de/units/Assassin/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
-  | 11 | [Vampir](/de/units/Vampire/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Vampirlord  |
-  | 12 | [Schwarzer Ritter](/de/units/Black Knight/) | Ansturm | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Schattenritter  |
-  | 13 | [Wolfsreiter](/de/units/Wolf Rider/) | Ansturm | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Wolfskrieger  |
+  | 6 | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Heldenhafte Ritter  |
+  | 7 | [Mantikor](/de/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Skorpikor  |
+  | 8 | [Pixie](/de/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 9 | [Einhorn](/de/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Kriegseinhorn  |
+  | 10 | [Böse Zauberin](/de/units/Evil Sorceress/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 633.6 | 5770 |   -   |
+  | 11 | [Assassine](/de/units/Assassin/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 12 | [Vampir](/de/units/Vampire/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Vampirlord  |
+  | 13 | [Schwarzer Ritter](/de/units/Black Knight/) | Ansturm | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Schattenritter  |
+  | 14 | [Wolfsreiter](/de/units/Wolf Rider/) | Ansturm | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Wolfskrieger  |

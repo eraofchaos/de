@@ -2,18 +2,18 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Kavallerist Exklusiv."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Cavalier Ritterpike.md"
 toc: false
 classes: wide
 ---
- [Konflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Ritterpike** 
 
- **Exklusiv for Unit:** [Kavallerist](/units/Cavalier/) 
+ **Exklusiv for Unit:** [Kavallerist](/de/units/Cavalier/) 
 
  **Item to Rangaufstieg:** -
 
@@ -27,9 +27,9 @@ classes: wide
 
 ## Rangaufstieg
 
-  |     Stars    |  Required to Up | Exklusiver Effekt |
+  |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Erwachen  | ? | <Verkrüppelnder Wurfspeer> 2 Sekunden nach Beginn der Schlacht werfen Ritter ihre zusätzlichen Wurfspeere, die einer zufälligen gegnerischen Einheit Schaden in Höhe von 200 % ihres ANG zufügen und die ABW des Ziels 30 Sek. lang um 10 % reduzieren. Ist das Ziel eine Fernkampf-/Zauberer-Einheit, wird ihr SCHD (Einheit) um 20 % reduziert. |
   | **1x** <i class="fas fa-star"/> | ? | Die Schadensreduzierung des Kavalleristen wird um 25 % erhöht, wenn er Fernkampfschaden erleidet. |
   | **2x** <i class="fas fa-star"/> | ? | Erhöht den ANG des Kavalleristen um 20 % und seinen Schaden um 10 %. |
   | **3x** <i class="fas fa-star"/> | ? | Die ABW des Kavalleristen wird um 10 % erhöht. Zu Beginn der Schlacht wird die Durchdringung aller verbündeten Schloss-Einheiten um 300 erhöht. Dieser Effekt kann nicht gebannt werden. |

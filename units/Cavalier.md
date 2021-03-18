@@ -3,7 +3,7 @@ title: "Kavallerist"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Kavallerist"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen.
 
- **Klasse:** [Ansturm](/units/Unit Class Charging/)
+ **Klasse:** [Ansturm](/de/units/Unit Class Charging/)
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Mensch
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Lanzengang: Verursacht erheblichen Schaden und betäubt beim ersten Angriff.
 
@@ -73,14 +73,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Kavalleristenlanze](/equipment/Kavalleristenlanze/) | **ANG** | **ABW** | 
-  | [Visier der Abwehr](/equipment/Visier der Abwehr/) | **LP** | **ABW** | 
-  | [Schild des Schutzes](/equipment/Schild des Schutzes/) | **ANG** | **ABW** | 
-  | [Paladin-Schulterschutz](/equipment/Paladin-Schulterschutz/) | **LP** | **ABW** | 
+  | [Kavalleristenlanze](/de/equipment/Kavalleristenlanze/) | **ANG** | **ABW** | 
+  | [Visier der Abwehr](/de/equipment/Visier der Abwehr/) | **LP** | **ABW** | 
+  | [Schild des Schutzes](/de/equipment/Schild des Schutzes/) | **ANG** | **ABW** | 
+  | [Paladin-Schulterschutz](/de/equipment/Paladin-Schulterschutz/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Ritterpike](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Ritterpike](/de/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
@@ -91,9 +91,9 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Schutzengel](/Emblem/Guardian Angel/) (Gut)
-* [Das Urteil der Väter](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Hochmut](/Emblem/Arrogance/) (Chaos)
+* [Schutzengel](/de/Emblem/Guardian Angel/) (Gut)
+* [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) (Neutral)
+* [Hochmut](/de/Emblem/Arrogance/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -160,19 +160,14 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Schloss**  (Schloss-Kader)
-* **Ansturm**  (Ansturm-Kader)
 
 ### Heldenbonus
-* [Mullich](/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/de/heroes/Mullich/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
-* Angriff
-* LP
-* Schaden (Einheit)
-* SCHD-Reduzierung (Einheit)
+* ?!? 
 
 
 ## Awaking
@@ -191,26 +186,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Heldenhafter-Ritter-Seelen im Untergrund: Stufen 16-2 und 16-4. </span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Setze einen Kavalleristen ein und gewinne </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Kämpfe im Meisterduell unter der Führung von Mullich. </span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Überlebensfähigkeiten
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterfertigkeiten&gt;</span><span style="color: #645252;font-size:18px">Erhöht LP und Magieresistenz um 30 %.</span>
-
-### 2nd Skill (or 1st): Kriegsfähigkeiten
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterfertigkeiten&gt;</span><span style="color: #645252;font-size:18px">Erhöht ANG und Magieresistenz um weitere 30 %.</span>
-
-### 3rd Skill (or 4th): Leichtgepanzerter Rittersturm
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schneller Durchbruch&gt;</span><span style="color: #645252;font-size:18px">Aktiviert Schneller Durchbruch, wenn eine Zieleinheit getötet wird (außer beschworene Monster).</span>
-
-### 4th Skill (or 3rd): Schwergepanzerter Rittersturm
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schneller Durchbruch&gt;</span><span style="color: #645252;font-size:18px">Nach einem weiteren Angriff wird der Schaden um 150 % erhöht, und die Feinde werden 5 Sek. lang „betäubt“.</span>
-
-### 5th Skill (or 6th): Fanatismus
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Erhöht die Schadensreduzierung zusätzlich um 20 %. Der Effekt wird verdoppelt, wenn die Einheit „Hohe Moral“ hat.</span>
-
-### 6th Skill (or 5th): Ruhiger Geist
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Ritterlanze&gt;</span><span style="color: #645252;font-size:18px">Im Kampf wird ein garantierter Krit. Treffer mit dem „Hohe Moral“-Effekt zugefügt. Wirkungsdauer 10 Sek.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: de
 ref: "Mönch"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Beschreibung:** Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht.
 
- **Klasse:** [Zauberer](/units/Unit Class Caster/)
+ **Klasse:** [Zauberer](/de/units/Unit Class Caster/)
 
  **Klasse Beschreibung:** Da sie die Geheimnisse der Magie beherrschen, haben Zauberer-Einheiten eine höhere Magieresistenz.
 
- **Fraktion:** [Schloss](/units/Faction Castle/)
+ **Fraktion:** [Schloss](/de/units/Faction Castle/)
 
  **Race:** Mensch
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/de/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
  **Unit description:** Gebet: Heilt deine Einheit mit der niedrigsten Gesundheit.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Kugel der Göttlichkeit](/equipment/Kugel der Göttlichkeit/) | **ANG** | **ABW** | 
-  | [Mystikerkappe](/equipment/Mystikerkappe/) | **LP** | **ABW** | 
-  | [Ritualrune](/equipment/Ritualrune/) | **ANG** | **ABW** | 
-  | [Einfache leichte Rüstung](/equipment/Einfache leichte Rüstung/) | **LP** | **ABW** | 
+  | [Kugel der Göttlichkeit](/de/equipment/Kugel der Göttlichkeit/) | **ANG** | **ABW** | 
+  | [Mystikerkappe](/de/equipment/Mystikerkappe/) | **LP** | **ABW** | 
+  | [Ritualrune](/de/equipment/Ritualrune/) | **ANG** | **ABW** | 
+  | [Einfache leichte Rüstung](/de/equipment/Einfache leichte Rüstung/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
- **Name:** [Arkangesang](/Exclusive/Monk Arcane Chant/) 
+ **Name:** [Arkangesang](/de/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -89,8 +89,8 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
-* [Immerwährendes Geheimnis](/Emblem/Everlasting Secret/) (Rechtschaffen)
-* [Zorn](/Emblem/Anger/) (Chaos)
+* [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
+* [Zorn](/de/Emblem/Anger/) (Chaos)
 
 ## Kombinationsinfo
 
@@ -154,19 +154,14 @@ toc: true
 ## Relevanz
 ### Kaderverbindung
 
-* **Schloss**  (Schloss-Kader)
-* **Magie**  (Zauberer-Kader)
 
 ### Heldenbonus
-* [Roland](/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/de/heroes/Roland/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/de/heroes/Dracon/)  ->   Spezialität:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
-* Angriff
-* LP
-* Heilung
-* Magieresistenz
+* ?!? 
 
 
 ## Awaking
@@ -185,26 +180,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Zelot-Seelen im Untergrund: Stufen 13-2 und 13-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Setze einen Mönch ein, um </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> Arenakämpfe zu gewinnen.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Inquisition des Heiligen Lichts
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Segnung der Tapferen&gt;</span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Zu Beginn des Kampfes erhöht der Mönch den Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 60 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes fügt jede Mönch-Einheit gegnerischen Inferno-Einheiten ein Mal alle 2 Sekunden Schaden in Höhe von 10 % ihres ANG zu.</span>
-
-### 2nd Skill (or 1st): Segen des Heiligen Lichts
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Segnung der Tapferen&gt;</span><span style="color: #645252;font-size:18px"> Gewährt alle 30 Sekunden allen verbündeten Einheiten in einem großen Radius um den Zauberer 10 Sekunden lang „Hohe Moral“. Ist der Mönch auf dem Schlachtfeld anwesend, erhöht sich der Krit. Gesamt-SCHD und die erhaltene Heilung aller verbündeten Einheiten 120 Sekunden lang zusätzlich um 20 %. Während der ersten 60 Sekunden des Kampfes heilt jede Mönch-Einheit bei verbündeten Schloss-Einheiten ein Mal alle 2 Sekunden LP in Höhe von 10 % ihres ANG.</span>
-
-### 3rd Skill (or 4th): Strahlender Segen
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch das Mana der Helden um 10. Die AKZ beträgt 3 Sekunden.</span>
-
-### 4th Skill (or 3rd): Majestätische Gnade
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> Wenn der Mönch „Hohe Moral“ erhält, wird der Krit. Treffer aller verbündeten Einheiten um 200 Punkte erhöht. Dieser Effekt hält den gesamten Kampf über an, ist aber nicht stapelbar. Erhöht auch die Mana-Erholung um 0,5. Die AKZ beträgt 3 Sekunden. Der Mana-Erholung-Buff kann bis zu 4 Mal ausgelöst werden.</span>
-
-### 5th Skill (or 6th): Weises Urteil
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erholung&gt;</span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, beginnt zudem ein 3-stufiger Angriff gegen die gegnerische Einheit mit den geringsten LP, der Schaden in Höhe von 150 % des eigenen ANG zufügt.</span>
-
-### 6th Skill (or 5th): Psalm der Messe
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Erholung&gt;</span><span style="color: #645252;font-size:18px"> Ist der Mönch auf dem Schlachtfeld anwesend, wird die erhaltene Heilung aller verbündeten Einheiten um 20 % erhöht. Wenn Gebet gewirkt wird, wird außerdem die verbündete Einheit mit den geringsten LP in 3 Stufen um LP in Höhe von 150 % des eigenen ANG geheilt.</span>
 
 ## Technical info
  **runart:** 0
