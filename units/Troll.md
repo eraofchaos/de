@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Trolle haben eine hohe Intelligenz und benutzen schwere Felsbrocken als Waffen. Sie stehen oft in der vordersten Kampflinie, um den Gegner mit heftigen und schweren Schlägen anzugreifen."
 unitID: 409
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Troll"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kettenfels](/de/equipment/Kettenfels/) | **ANG** | **ABW** | 
-  | [Macht der Lords](/de/equipment/Macht der Lords/) | **LP** | **ABW** | 
-  | [Durchbruchsrüstung](/de/equipment/Durchbruchsrüstung/) | **ANG** | **ABW** | 
-  | [Garnisonsstiefel](/de/equipment/Garnisonsstiefel/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kettenfels](/images/e/e_4091.png) | [Kettenfels](/de/equipment/Chained Boulder/) | **ANG** | **ABW** | 
+  | ![Macht der Lords](/images/e/e_4092.png) | [Macht der Lords](/de/equipment/Might of Lords/) | **LP** | **ABW** | 
+  | ![Durchbruchsrüstung](/images/e/e_4093.png) | [Durchbruchsrüstung](/de/equipment/Breach Armor/) | **ANG** | **ABW** | 
+  | ![Garnisonsstiefel](/images/e/e_4094.png) | [Garnisonsstiefel](/de/equipment/Garrison Boots/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Dendroidenwache"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dendroidenwachen sind die Verkörperung ihrer bewaldeten Heimat. Sie sind nicht sonderlich geschickt, aber extrem hart im Nehmen. Mit den Ranken des Waldes erwürgen sie arglose Gegner."
 unitID: 205
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Dendroidenwache"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ast der Vitalität](/de/equipment/Ast der Vitalität/) | **ANG** | **ABW** | 
-  | [Krone der Fülle](/de/equipment/Krone der Fülle/) | **LP** | **ABW** | 
-  | [Immergrün-Rune](/de/equipment/Immergrün-Rune/) | **ANG** | **ABW** | 
-  | [Rankenrüstung](/de/equipment/Rankenrüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ast der Vitalität](/images/e/e_2051.png) | [Ast der Vitalität](/de/equipment/Branch of Vitality/) | **ANG** | **ABW** | 
+  | ![Krone der Fülle](/images/e/e_2052.png) | [Krone der Fülle](/de/equipment/Bountiful's Crown/) | **LP** | **ABW** | 
+  | ![Immergrün-Rune](/images/e/e_2053.png) | [Immergrün-Rune](/de/equipment/Evergreen Rune/) | **ANG** | **ABW** | 
+  | ![Rankenrüstung](/images/e/e_2054.png) | [Rankenrüstung](/de/equipment/Vine's Armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

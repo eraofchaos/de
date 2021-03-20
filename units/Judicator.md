@@ -3,7 +3,7 @@ title: "Richterin"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Richterin"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Stab der Theokratie](/de/equipment/Stab der Theokratie/) | **ANG** | **ABW** | 
-  | [Himmlische Segenshaube](/de/equipment/Himmlische Segenshaube/) | **LP** | **ABW** | 
-  | [Leichter Umhang](/de/equipment/Leichter Umhang/) | **ANG** | **ABW** | 
-  | [Göttliche Armschiene](/de/equipment/Göttliche Armschiene/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Stab der Theokratie](/images/e/e_1091.png) | [Stab der Theokratie](/de/equipment/Staff of Theocracy/) | **ANG** | **ABW** | 
+  | ![Himmlische Segenshaube](/images/e/e_1092.png) | [Himmlische Segenshaube](/de/equipment/Celestial Hood of Bliss/) | **LP** | **ABW** | 
+  | ![Leichter Umhang](/images/e/e_1093.png) | [Leichter Umhang](/de/equipment/Light Cape/) | **ANG** | **ABW** | 
+  | ![Göttliche Armschiene](/images/e/e_1094.png) | [Göttliche Armschiene](/de/equipment/Divine Vambrace/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

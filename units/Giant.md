@@ -3,7 +3,7 @@ title: "Gigant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Gigant"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Blitzschlag](/de/equipment/Blitzschlag/) | **ANG** | **ABW** | 
-  | [Schulterschutz aus purem Gold](/de/equipment/Schulterschutz aus purem Gold/) | **LP** | **ABW** | 
-  | [Donnerhelm](/de/equipment/Donnerhelm/) | **ANG** | **ABW** | 
-  | [Blitzharnisch](/de/equipment/Blitzharnisch/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Blitzschlag](/images/e/e_6071.png) | [Blitzschlag](/de/equipment/Thunderbolt/) | **ANG** | **ABW** | 
+  | ![Schulterschutz aus purem Gold](/images/e/e_6072.png) | [Schulterschutz aus purem Gold](/de/equipment/Pauldrons of Pure Gold/) | **LP** | **ABW** | 
+  | ![Donnerhelm](/images/e/e_6073.png) | [Donnerhelm](/de/equipment/Thunder Helmet/) | **ANG** | **ABW** | 
+  | ![Blitzharnisch](/images/e/e_6074.png) | [Blitzharnisch](/de/equipment/Breastplate of Lightning/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

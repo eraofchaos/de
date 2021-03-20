@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Goblin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Stachelknüppel](/de/equipment/Stachelknüppel/) | **ANG** | **ABW** | 
-  | [Ledergürtel](/de/equipment/Ledergürtel/) | **LP** | **ABW** | 
-  | [Knochenkette](/de/equipment/Knochenkette/) | **ANG** | **ABW** | 
-  | [Lederner Schulterschutz](/de/equipment/Lederner Schulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Stachelknüppel](/images/e/e_4011.png) | [Stachelknüppel](/de/equipment/Spiked Club/) | **ANG** | **ABW** | 
+  | ![Ledergürtel](/images/e/e_4012.png) | [Ledergürtel](/de/equipment/Leather Belt/) | **LP** | **ABW** | 
+  | ![Knochenkette](/images/e/e_4013.png) | [Knochenkette](/de/equipment/Necklace of Bone/) | **ANG** | **ABW** | 
+  | ![Lederner Schulterschutz](/images/e/e_4014.png) | [Lederner Schulterschutz](/de/equipment/Leather Pauldrons/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

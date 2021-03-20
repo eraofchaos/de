@@ -3,7 +3,7 @@ title: "Nachtmahr"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Nachtmahr"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Albtraum-Pupille](/de/equipment/Albtraum-Pupille/) | **ANG** | **ABW** | 
-  | [Abgrundfeuer](/de/equipment/Abgrundfeuer/) | **LP** | **ABW** | 
-  | [Asche-Hufeisen](/de/equipment/Asche-Hufeisen/) | **ANG** | **ABW** | 
-  | [Flammende Pferdemähne](/de/equipment/Flammende Pferdemähne/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Albtraum-Pupille](/images/e/e_5081.png) | [Albtraum-Pupille](/de/equipment/Nightmare Pupil/) | **ANG** | **ABW** | 
+  | ![Abgrundfeuer](/images/e/e_5082.png) | [Abgrundfeuer](/de/equipment/Fire in the Abyss/) | **LP** | **ABW** | 
+  | ![Asche-Hufeisen](/images/e/e_5083.png) | [Asche-Hufeisen](/de/equipment/Ash Horseshoe/) | **ANG** | **ABW** | 
+  | ![Flammende Pferdemähne](/images/e/e_5084.png) | [Flammende Pferdemähne](/de/equipment/Horsehair of Fire/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

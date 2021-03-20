@@ -3,7 +3,7 @@ title: "Regnanschlange"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Regnanschlange"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dreizack](/de/equipment/Dreizack/) | **ANG** | **ABW** | 
-  | [Muschelhorn](/de/equipment/Muschelhorn/) | **LP** | **ABW** | 
-  | [Krallen der Meerjungfrau](/de/equipment/Krallen der Meerjungfrau/) | **ANG** | **ABW** | 
-  | [Mazarinflosse](/de/equipment/Mazarinflosse/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dreizack](/images/e/e_99041.png) | [Dreizack](/de/equipment/Trident/) | **ANG** | **ABW** | 
+  | ![Muschelhorn](/images/e/e_99042.png) | [Muschelhorn](/de/equipment/Shell Horn/) | **LP** | **ABW** | 
+  | ![Krallen der Meerjungfrau](/images/e/e_99043.png) | [Krallen der Meerjungfrau](/de/equipment/Mermaid Claws/) | **ANG** | **ABW** | 
+  | ![Mazarinflosse](/images/e/e_99044.png) | [Mazarinflosse](/de/equipment/Mazarine Fin/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

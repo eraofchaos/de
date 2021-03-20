@@ -3,7 +3,7 @@ title: "Regnanseherin"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen."
 unitID: 9907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Regnanseherin"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Göttliches Recht der Meeresseele](/de/equipment/Göttliches Recht der Meeresseele/) | **ANG** | **ABW** | 
-  | [Halskette von Poseidons Seele](/de/equipment/Halskette von Poseidons Seele/) | **LP** | **ABW** | 
-  | [Strahlendes Stirnband](/de/equipment/Strahlendes Stirnband/) | **ANG** | **ABW** | 
-  | [Edler Armreif](/de/equipment/Edler Armreif/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Göttliches Recht der Meeresseele](/images/e/e_99071.png) | [Göttliches Recht der Meeresseele](/de/equipment/Divine Scepter of the Ocean's Soul/) | **ANG** | **ABW** | 
+  | ![Halskette von Poseidons Seele](/images/e/e_99072.png) | [Halskette von Poseidons Seele](/de/equipment/Poseidon's Soul Necklace/) | **LP** | **ABW** | 
+  | ![Strahlendes Stirnband](/images/e/e_99073.png) | [Strahlendes Stirnband](/de/equipment/Radiance Headband/) | **ANG** | **ABW** | 
+  | ![Edler Armreif](/images/e/e_99074.png) | [Edler Armreif](/de/equipment/Noble Bracelet/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

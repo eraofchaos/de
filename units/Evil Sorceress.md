@@ -3,7 +3,7 @@ title: "Böse Zauberin"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie war einst die heilige Jungfrau des Tempels Baa. Ihre Haut ist von Natur aus mit Runen bedeckt, die ihr furchterregende Kräfte ähnlich jener von Dämonen verleihen."
 unitID: 709
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Böse Zauberin"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/de/equipment/UnknownEquipment_7091/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_7092](/de/equipment/UnknownEquipment_7092/) | **LP** | **ABW** | 
-  | [UnknownEquipment_7093](/de/equipment/UnknownEquipment_7093/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_7094](/de/equipment/UnknownEquipment_7094/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/de/equipment/UnknownEquipment_7091/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/de/equipment/UnknownEquipment_7092/) | **LP** | **ABW** | 
+  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/de/equipment/UnknownEquipment_7093/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/de/equipment/UnknownEquipment_7094/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

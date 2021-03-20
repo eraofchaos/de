@@ -3,7 +3,7 @@ title: "Dunkler Kämpe"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
 unitID: 309
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Dunkler Kämpe"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sichel des Schweigens](/de/equipment/Sichel des Schweigens/) | **ANG** | **ABW** | 
-  | [Schwerer Helm des Vorlebens](/de/equipment/Schwerer Helm des Vorlebens/) | **LP** | **ABW** | 
-  | [Rettendes Infernofeuer](/de/equipment/Rettendes Infernofeuer/) | **ANG** | **ABW** | 
-  | [Schulterblatt des Hades](/de/equipment/Schulterblatt des Hades/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sichel des Schweigens](/images/e/e_3091.png) | [Sichel des Schweigens](/de/equipment/Sickle of Silence/) | **ANG** | **ABW** | 
+  | ![Schwerer Helm des Vorlebens](/images/e/e_3092.png) | [Schwerer Helm des Vorlebens](/de/equipment/Heavy Helm of Pre-life/) | **LP** | **ABW** | 
+  | ![Rettendes Infernofeuer](/images/e/e_3093.png) | [Rettendes Infernofeuer](/de/equipment/Salvation Inferno Fire/) | **ANG** | **ABW** | 
+  | ![Schulterblatt des Hades](/images/e/e_3094.png) | [Schulterblatt des Hades](/de/equipment/Hades' Scapula/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

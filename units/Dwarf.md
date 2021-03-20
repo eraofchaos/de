@@ -3,7 +3,7 @@ title: "Zwerg"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Zwerg"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Starker Hammer](/de/equipment/Starker Hammer/) | **ANG** | **ABW** | 
-  | [Hörnerhelm](/de/equipment/Hörnerhelm/) | **LP** | **ABW** | 
-  | [Panzerhandschuhe des Herdfeuers](/de/equipment/Panzerhandschuhe des Herdfeuers/) | **ANG** | **ABW** | 
-  | [Schulterschutz des Herdfeuers](/de/equipment/Schulterschutz des Herdfeuers/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Starker Hammer](/images/e/e_2021.png) | [Starker Hammer](/de/equipment/Strong Hammer/) | **ANG** | **ABW** | 
+  | ![Hörnerhelm](/images/e/e_2022.png) | [Hörnerhelm](/de/equipment/Horned Helmet/) | **LP** | **ABW** | 
+  | ![Panzerhandschuhe des Herdfeuers](/images/e/e_2023.png) | [Panzerhandschuhe des Herdfeuers](/de/equipment/Gauntlets of Hearth Fire/) | **ANG** | **ABW** | 
+  | ![Schulterschutz des Herdfeuers](/images/e/e_2024.png) | [Schulterschutz des Herdfeuers](/de/equipment/Pauldrons of Hearth Fire/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

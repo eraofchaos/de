@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Hydra"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Seuchen-Drachenschwanz](/de/equipment/Seuchen-Drachenschwanz/) | **ANG** | **ABW** | 
-  | [Ohrringe des Herrschers](/de/equipment/Ohrringe des Herrschers/) | **LP** | **ABW** | 
-  | [Seuchen-Drachenklaue](/de/equipment/Seuchen-Drachenklaue/) | **ANG** | **ABW** | 
-  | [Scharfe Rückenstacheln](/de/equipment/Scharfe Rückenstacheln/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Seuchen-Drachenschwanz](/images/e/e_8071.png) | [Seuchen-Drachenschwanz](/de/equipment/Plague Dragon Tail/) | **ANG** | **ABW** | 
+  | ![Ohrringe des Herrschers](/images/e/e_8072.png) | [Ohrringe des Herrschers](/de/equipment/Ruler's Earrings/) | **LP** | **ABW** | 
+  | ![Seuchen-Drachenklaue](/images/e/e_8073.png) | [Seuchen-Drachenklaue](/de/equipment/Plague Dragon Claw/) | **ANG** | **ABW** | 
+  | ![Scharfe Rückenstacheln](/images/e/e_8074.png) | [Scharfe Rückenstacheln](/de/equipment/Sharp Back-spikes/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

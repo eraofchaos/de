@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Wyvern"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Drachenklauen](/de/equipment/Drachenklauen/) | **ANG** | **ABW** | 
-  | [Seuchenzahn](/de/equipment/Seuchenzahn/) | **LP** | **ABW** | 
-  | [Imp-Rückenstacheln](/de/equipment/Imp-Rückenstacheln/) | **ANG** | **ABW** | 
-  | [Drachenschwingen](/de/equipment/Drachenschwingen/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Drachenklauen](/images/e/e_8061.png) | [Drachenklauen](/de/equipment/Dragon Claws/) | **ANG** | **ABW** | 
+  | ![Seuchenzahn](/images/e/e_8062.png) | [Seuchenzahn](/de/equipment/Plague Fang/) | **LP** | **ABW** | 
+  | ![Imp-Rückenstacheln](/images/e/e_8063.png) | [Imp-Rückenstacheln](/de/equipment/Imp Back-spikes/) | **ANG** | **ABW** | 
+  | ![Drachenschwingen](/images/e/e_8064.png) | [Drachenschwingen](/de/equipment/Dragon Wings/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

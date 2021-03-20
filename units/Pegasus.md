@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Pegasus"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dornenchakram](/de/equipment/Dornenchakram/) | **ANG** | **ABW** | 
-  | [Immergrün-Reif](/de/equipment/Immergrün-Reif/) | **LP** | **ABW** | 
-  | [Panzerhandschuhe der Rosen](/de/equipment/Panzerhandschuhe der Rosen/) | **ANG** | **ABW** | 
-  | [Wunderrüstung](/de/equipment/Wunderrüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dornenchakram](/images/e/e_2041.png) | [Dornenchakram](/de/equipment/Thorn's Chakram/) | **ANG** | **ABW** | 
+  | ![Immergrün-Reif](/images/e/e_2042.png) | [Immergrün-Reif](/de/equipment/Evergreen Circlet/) | **LP** | **ABW** | 
+  | ![Panzerhandschuhe der Rosen](/images/e/e_2043.png) | [Panzerhandschuhe der Rosen](/de/equipment/Gauntlets of Roses/) | **ANG** | **ABW** | 
+  | ![Wunderrüstung](/images/e/e_2044.png) | [Wunderrüstung](/de/equipment/Armor of Wonder/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

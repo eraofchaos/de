@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Gog"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Versengende Kugel](/de/equipment/Versengende Kugel/) | **ANG** | **ABW** | 
-  | [Feuriges Horn](/de/equipment/Feuriges Horn/) | **LP** | **ABW** | 
-  | [Flammenschweif](/de/equipment/Flammenschweif/) | **ANG** | **ABW** | 
-  | [Versengender Armschutz](/de/equipment/Versengender Armschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Versengende Kugel](/images/e/e_5021.png) | [Versengende Kugel](/de/equipment/Scalding Orb/) | **ANG** | **ABW** | 
+  | ![Feuriges Horn](/images/e/e_5022.png) | [Feuriges Horn](/de/equipment/Fiery Horn/) | **LP** | **ABW** | 
+  | ![Flammenschweif](/images/e/e_5023.png) | [Flammenschweif](/de/equipment/Tail of Flame/) | **ANG** | **ABW** | 
+  | ![Versengender Armschutz](/images/e/e_5024.png) | [Versengender Armschutz](/de/equipment/Scalding Bracers/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

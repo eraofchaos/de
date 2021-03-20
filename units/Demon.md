@@ -3,7 +3,7 @@ title: "Dämon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
 unitID: 504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Dämon"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Horn des Brandes](/de/equipment/Horn des Brandes/) | **ANG** | **ABW** | 
-  | [Stahlcollier](/de/equipment/Stahlcollier/) | **LP** | **ABW** | 
-  | [Versengende Klauen](/de/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
-  | [Stachliger Armschutz](/de/equipment/Stachliger Armschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Horn des Brandes](/images/e/e_5041.png) | [Horn des Brandes](/de/equipment/Horn of Scorching/) | **ANG** | **ABW** | 
+  | ![Stahlcollier](/images/e/e_5042.png) | [Stahlcollier](/de/equipment/Steel Necklet/) | **LP** | **ABW** | 
+  | ![Versengende Klauen](/images/e/e_5043.png) | [Versengende Klauen](/de/equipment/Scalding Claws/) | **ANG** | **ABW** | 
+  | ![Stachliger Armschutz](/images/e/e_5044.png) | [Stachliger Armschutz](/de/equipment/Spiked Bracers/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

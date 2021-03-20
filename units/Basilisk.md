@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
 unitID: 804
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Basilisk"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kragen des Basilisken](/de/equipment/Kragen des Basilisken/) | **ANG** | **ABW** | 
-  | [Gehärtete Schuppe](/de/equipment/Gehärtete Schuppe/) | **LP** | **ABW** | 
-  | [Giftkralle](/de/equipment/Giftkralle/) | **ANG** | **ABW** | 
-  | [Versteinernder Zahn](/de/equipment/Versteinernder Zahn/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kragen des Basilisken](/images/e/e_8041.png) | [Kragen des Basilisken](/de/equipment/Basilisk's Neck Umbrella/) | **ANG** | **ABW** | 
+  | ![Gehärtete Schuppe](/images/e/e_8042.png) | [Gehärtete Schuppe](/de/equipment/Adamantine Scale/) | **LP** | **ABW** | 
+  | ![Giftkralle](/images/e/e_8043.png) | [Giftkralle](/de/equipment/Poisoned Claw/) | **ANG** | **ABW** | 
+  | ![Versteinernder Zahn](/images/e/e_8044.png) | [Versteinernder Zahn](/de/equipment/Petrification Fang/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

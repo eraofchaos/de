@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Betrachter"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Auge der Blasphemie](/de/equipment/Auge der Blasphemie/) | **ANG** | **ABW** | 
-  | [Pupille des Todes](/de/equipment/Pupille des Todes/) | **LP** | **ABW** | 
-  | [Böser Stoßzahn](/de/equipment/Böser Stoßzahn/) | **ANG** | **ABW** | 
-  | [Abgrundtentakel](/de/equipment/Abgrundtentakel/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Auge der Blasphemie](/images/e/e_7031.png) | [Auge der Blasphemie](/de/equipment/Eye of Blasphemy/) | **ANG** | **ABW** | 
+  | ![Pupille des Todes](/images/e/e_7032.png) | [Pupille des Todes](/de/equipment/Pupil of Death/) | **LP** | **ABW** | 
+  | ![Böser Stoßzahn](/images/e/e_7033.png) | [Böser Stoßzahn](/de/equipment/Evil Tusk/) | **ANG** | **ABW** | 
+  | ![Abgrundtentakel](/images/e/e_7034.png) | [Abgrundtentakel](/de/equipment/Tentacles from the Abyss/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

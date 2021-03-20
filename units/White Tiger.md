@@ -3,7 +3,7 @@ title: "Weißer Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden."
 unitID: 809
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Weißer Tiger"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/de/equipment/UnknownEquipment_8091/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_8092](/de/equipment/UnknownEquipment_8092/) | **LP** | **ABW** | 
-  | [UnknownEquipment_8093](/de/equipment/UnknownEquipment_8093/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_8094](/de/equipment/UnknownEquipment_8094/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_8091](/images/e/e_8091.png) | [UnknownEquipment_8091](/de/equipment/UnknownEquipment_8091/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_8092](/images/e/e_8092.png) | [UnknownEquipment_8092](/de/equipment/UnknownEquipment_8092/) | **LP** | **ABW** | 
+  | ![UnknownEquipment_8093](/images/e/e_8093.png) | [UnknownEquipment_8093](/de/equipment/UnknownEquipment_8093/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_8094](/images/e/e_8094.png) | [UnknownEquipment_8094](/de/equipment/UnknownEquipment_8094/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

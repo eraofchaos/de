@@ -3,7 +3,7 @@ title: "Eisengolem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Eisengolem"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Eiserne Panzerhandschuhe](/de/equipment/Eiserne Panzerhandschuhe/) | **ANG** | **ABW** | 
-  | [Stachelbewehrter Schulterschutz](/de/equipment/Stachelbewehrter Schulterschutz/) | **LP** | **ABW** | 
-  | [Arkanes Herz](/de/equipment/Arkanes Herz/) | **ANG** | **ABW** | 
-  | [Brustpanzer aus gehärtetem Eisen](/de/equipment/Brustpanzer aus gehärtetem Eisen/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Eiserne Panzerhandschuhe](/images/e/e_6031.png) | [Eiserne Panzerhandschuhe](/de/equipment/Iron Gauntlets/) | **ANG** | **ABW** | 
+  | ![Stachelbewehrter Schulterschutz](/images/e/e_6032.png) | [Stachelbewehrter Schulterschutz](/de/equipment/Spiked Pauldrons/) | **LP** | **ABW** | 
+  | ![Arkanes Herz](/images/e/e_6033.png) | [Arkanes Herz](/de/equipment/Arcane Heart/) | **ANG** | **ABW** | 
+  | ![Brustpanzer aus gehärtetem Eisen](/images/e/e_6034.png) | [Brustpanzer aus gehärtetem Eisen](/de/equipment/Hardened Iron Chest Armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

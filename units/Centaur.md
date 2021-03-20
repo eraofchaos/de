@@ -3,7 +3,7 @@ title: "Zentaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Zentaur"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kriegsaxt der Wildnis](/de/equipment/Kriegsaxt der Wildnis/) | **ANG** | **ABW** | 
-  | [Helm der Wildnis](/de/equipment/Helm der Wildnis/) | **LP** | **ABW** | 
-  | [Panzerhandschuhe der Wildnis](/de/equipment/Panzerhandschuhe der Wildnis/) | **ANG** | **ABW** | 
-  | [Schulterschutz der Wildnis](/de/equipment/Schulterschutz der Wildnis/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kriegsaxt der Wildnis](/images/e/e_2011.png) | [Kriegsaxt der Wildnis](/de/equipment/Battleaxe of the Wild/) | **ANG** | **ABW** | 
+  | ![Helm der Wildnis](/images/e/e_2012.png) | [Helm der Wildnis](/de/equipment/Helm of the Wild/) | **LP** | **ABW** | 
+  | ![Panzerhandschuhe der Wildnis](/images/e/e_2013.png) | [Panzerhandschuhe der Wildnis](/de/equipment/Gauntlets of the Wild/) | **ANG** | **ABW** | 
+  | ![Schulterschutz der Wildnis](/images/e/e_2014.png) | [Schulterschutz der Wildnis](/de/equipment/Pauldrons of Wild/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

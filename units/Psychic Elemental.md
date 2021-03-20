@@ -3,7 +3,7 @@ title: "Psy-Elementar"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Psy-Elementar"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kern des Polarsterns](/de/equipment/Kern des Polarsterns/) | **ANG** | **ABW** | 
-  | [Himmlischer Stern](/de/equipment/Himmlischer Stern/) | **LP** | **ABW** | 
-  | [Sternengeist-Krone](/de/equipment/Sternengeist-Krone/) | **ANG** | **ABW** | 
-  | [Mächtige Armschiene](/de/equipment/Mächtige Armschiene/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kern des Polarsterns](/images/e/e_9061.png) | [Kern des Polarsterns](/de/equipment/Core of the Pole Star/) | **ANG** | **ABW** | 
+  | ![Himmlischer Stern](/images/e/e_9062.png) | [Himmlischer Stern](/de/equipment/Heavenly Star/) | **LP** | **ABW** | 
+  | ![Sternengeist-Krone](/images/e/e_9063.png) | [Sternengeist-Krone](/de/equipment/Star Spirit Crown/) | **ANG** | **ABW** | 
+  | ![Mächtige Armschiene](/images/e/e_9064.png) | [Mächtige Armschiene](/de/equipment/Mighty Vambrace/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Giftbrut"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen."
 unitID: 509
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Giftbrut"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/de/equipment/UnknownEquipment_5091/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_5092](/de/equipment/UnknownEquipment_5092/) | **LP** | **ABW** | 
-  | [UnknownEquipment_5093](/de/equipment/UnknownEquipment_5093/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_5094](/de/equipment/UnknownEquipment_5094/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/de/equipment/UnknownEquipment_5091/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/de/equipment/UnknownEquipment_5092/) | **LP** | **ABW** | 
+  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/de/equipment/UnknownEquipment_5093/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/de/equipment/UnknownEquipment_5094/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

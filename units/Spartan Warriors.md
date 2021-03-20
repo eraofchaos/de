@@ -3,7 +3,7 @@ title: "Spartaner"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Spartaner"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spartanerhelm](/de/equipment/Spartanerhelm/) | **ANG** | **ABW** | 
-  | [Stahlschild](/de/equipment/Stahlschild/) | **LP** | **ABW** | 
-  | [Durchdringender Speer](/de/equipment/Durchdringender Speer/) | **ANG** | **ABW** | 
-  | [Fußlappen](/de/equipment/Fußlappen/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Spartanerhelm](/de/equipment/Spartan Helmet/) | **ANG** | **ABW** | 
+  |  | [Stahlschild](/de/equipment/Steel Shield/) | **LP** | **ABW** | 
+  |  | [Durchdringender Speer](/de/equipment/Piercing Spear/) | **ANG** | **ABW** | 
+  |  | [Fußlappen](/de/equipment/Footwraps/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

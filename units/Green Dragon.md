@@ -3,7 +3,7 @@ title: "Grüner Drache"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Grüner Drache"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Gifthorn](/de/equipment/Gifthorn/) | **ANG** | **ABW** | 
-  | [Drachenschuppen-Rüstung](/de/equipment/Drachenschuppen-Rüstung/) | **LP** | **ABW** | 
-  | [Klauen des Verfalls](/de/equipment/Klauen des Verfalls/) | **ANG** | **ABW** | 
-  | [Giftiges Drachenblut](/de/equipment/Giftiges Drachenblut/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Gifthorn](/images/e/e_2071.png) | [Gifthorn](/de/equipment/Venomous Horn/) | **ANG** | **ABW** | 
+  | ![Drachenschuppen-Rüstung](/images/e/e_2072.png) | [Drachenschuppen-Rüstung](/de/equipment/Dragon Scale Armor/) | **LP** | **ABW** | 
+  | ![Klauen des Verfalls](/images/e/e_2073.png) | [Klauen des Verfalls](/de/equipment/Claws of Decay/) | **ANG** | **ABW** | 
+  | ![Giftiges Drachenblut](/images/e/e_2074.png) | [Giftiges Drachenblut](/de/equipment/Venomous Dragon Blood/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

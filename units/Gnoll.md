@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
 unitID: 801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Gnoll"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Werwolfmachete](/de/equipment/Werwolfmachete/) | **ANG** | **ABW** | 
-  | [Werwolf-Turmschild](/de/equipment/Werwolf-Turmschild/) | **LP** | **ABW** | 
-  | [Werwolfkette](/de/equipment/Werwolfkette/) | **ANG** | **ABW** | 
-  | [Werwolf-Panzerhandschuhe](/de/equipment/Werwolf-Panzerhandschuhe/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Werwolfmachete](/images/e/e_8011.png) | [Werwolfmachete](/de/equipment/Werewolf's Machete/) | **ANG** | **ABW** | 
+  | ![Werwolf-Turmschild](/images/e/e_8012.png) | [Werwolf-Turmschild](/de/equipment/Werewolf's Square Shield/) | **LP** | **ABW** | 
+  | ![Werwolfkette](/images/e/e_8013.png) | [Werwolfkette](/de/equipment/Werewolf's Chain/) | **ANG** | **ABW** | 
+  | ![Werwolf-Panzerhandschuhe](/images/e/e_8014.png) | [Werwolf-Panzerhandschuhe](/de/equipment/Werewolf's Gauntlets/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

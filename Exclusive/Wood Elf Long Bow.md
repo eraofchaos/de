@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Waldelfe Exklusiv."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Wood Elf Langbogen.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
 unitID: 108
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Paladin"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Richterschwert](/de/equipment/Richterschwert/) | **ANG** | **ABW** | 
-  | [Schwurhelm](/de/equipment/Schwurhelm/) | **LP** | **ABW** | 
-  | [Eiserner Schulterschutz](/de/equipment/Eiserner Schulterschutz/) | **ANG** | **ABW** | 
-  | [Geschmiedeter Armschutz](/de/equipment/Geschmiedeter Armschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Richterschwert](/images/e/e_1081.png) | [Richterschwert](/de/equipment/Judgment Sword/) | **ANG** | **ABW** | 
+  | ![Schwurhelm](/images/e/e_1082.png) | [Schwurhelm](/de/equipment/Vow Helmet/) | **LP** | **ABW** | 
+  | ![Eiserner Schulterschutz](/images/e/e_1083.png) | [Eiserner Schulterschutz](/de/equipment/Iron Pauldrons/) | **ANG** | **ABW** | 
+  | ![Geschmiedeter Armschutz](/images/e/e_1084.png) | [Geschmiedeter Armschutz](/de/equipment/Forged Bracers/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

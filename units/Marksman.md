@@ -3,7 +3,7 @@ title: "Scharfschütze"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Scharfschütze"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Leichte Armbrust](/de/equipment/Leichte Armbrust/) | **ANG** | **ABW** | 
-  | [Stahlkappe](/de/equipment/Stahlkappe/) | **LP** | **ABW** | 
-  | [Durchschussbolzen](/de/equipment/Durchschussbolzen/) | **ANG** | **ABW** | 
-  | [Lederpanzerhandschuhe](/de/equipment/Lederpanzerhandschuhe/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Leichte Armbrust](/images/e/e_1021.png) | [Leichte Armbrust](/de/equipment/Light Crossbow/) | **ANG** | **ABW** | 
+  | ![Stahlkappe](/images/e/e_1022.png) | [Stahlkappe](/de/equipment/Steel Cap/) | **LP** | **ABW** | 
+  | ![Durchschussbolzen](/images/e/e_1023.png) | [Durchschussbolzen](/de/equipment/Piercing Bolts/) | **ANG** | **ABW** | 
+  | ![Lederpanzerhandschuhe](/images/e/e_1024.png) | [Lederpanzerhandschuhe](/de/equipment/Leather Gauntlets/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Knochendrache"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Knochenstachel](/de/equipment/Knochenstachel/) | **ANG** | **ABW** | 
-  | [Drakonischer Schädel](/de/equipment/Drakonischer Schädel/) | **LP** | **ABW** | 
-  | [Durchbohrende Krallen](/de/equipment/Durchbohrende Krallen/) | **ANG** | **ABW** | 
-  | [Seelenedelstein](/de/equipment/Seelenedelstein/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Knochenstachel](/images/e/e_3071.png) | [Knochenstachel](/de/equipment/Bone Spike/) | **ANG** | **ABW** | 
+  | ![Drakonischer Schädel](/images/e/e_3072.png) | [Drakonischer Schädel](/de/equipment/Draconic Skull/) | **LP** | **ABW** | 
+  | ![Durchbohrende Krallen](/images/e/e_3073.png) | [Durchbohrende Krallen](/de/equipment/Piercing Claws/) | **ANG** | **ABW** | 
+  | ![Seelenedelstein](/images/e/e_3074.png) | [Seelenedelstein](/de/equipment/Soul Gem/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

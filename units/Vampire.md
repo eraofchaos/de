@@ -3,7 +3,7 @@ title: "Vampir"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Vampir"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Blutrünstiger Gürtel](/de/equipment/Blutrünstiger Gürtel/) | **ANG** | **ABW** | 
-  | [Leichte Rüstung des Blutdurstes](/de/equipment/Leichte Rüstung des Blutdurstes/) | **LP** | **ABW** | 
-  | [Schattenschultern](/de/equipment/Schattenschultern/) | **ANG** | **ABW** | 
-  | [Schattenumhang](/de/equipment/Schattenumhang/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Blutrünstiger Gürtel](/images/e/e_3041.png) | [Blutrünstiger Gürtel](/de/equipment/Bloodthirsty Belt/) | **ANG** | **ABW** | 
+  | ![Leichte Rüstung des Blutdurstes](/images/e/e_3042.png) | [Leichte Rüstung des Blutdurstes](/de/equipment/Light Armor of Bloodthirst/) | **LP** | **ABW** | 
+  | ![Schattenschultern](/images/e/e_3043.png) | [Schattenschultern](/de/equipment/Shadow Shoulders/) | **ANG** | **ABW** | 
+  | ![Schattenumhang](/images/e/e_3044.png) | [Schattenumhang](/de/equipment/Shadow Cloak/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

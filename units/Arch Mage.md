@@ -3,7 +3,7 @@ title: "Erzmagier"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Erzmagier"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Langstab der mystischen Macht](/de/equipment/Langstab der mystischen Macht/) | **ANG** | **ABW** | 
-  | [Kristallkrone der Magie](/de/equipment/Kristallkrone der Magie/) | **LP** | **ABW** | 
-  | [Mystische Manakugel](/de/equipment/Mystische Manakugel/) | **ANG** | **ABW** | 
-  | [Umhang der Magier](/de/equipment/Umhang der Magier/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Langstab der mystischen Macht](/images/e/e_6041.png) | [Langstab der mystischen Macht](/de/equipment/Long Staff of Mystic Power/) | **ANG** | **ABW** | 
+  | ![Kristallkrone der Magie](/images/e/e_6042.png) | [Kristallkrone der Magie](/de/equipment/Crystal Crown of Magic/) | **LP** | **ABW** | 
+  | ![Mystische Manakugel](/images/e/e_6043.png) | [Mystische Manakugel](/de/equipment/Mystic Orb of Mana/) | **ANG** | **ABW** | 
+  | ![Umhang der Magier](/images/e/e_6044.png) | [Umhang der Magier](/de/equipment/Mantle of the Magi/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

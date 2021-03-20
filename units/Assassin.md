@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Assassine"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Assassinenkapuze](/de/equipment/Assassinenkapuze/) | **ANG** | **ABW** | 
-  | [Versteckte Klinge](/de/equipment/Versteckte Klinge/) | **LP** | **ABW** | 
-  | [Assassinengürtel](/de/equipment/Assassinengürtel/) | **ANG** | **ABW** | 
-  | [Lederstiefel](/de/equipment/Lederstiefel/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Assassinenkapuze](/de/equipment/Assassin's Hood/) | **ANG** | **ABW** | 
+  |  | [Versteckte Klinge](/de/equipment/Hidden Blade/) | **LP** | **ABW** | 
+  |  | [Assassinengürtel](/de/equipment/Assassin's Belt/) | **ANG** | **ABW** | 
+  |  | [Lederstiefel](/de/equipment/Leather Boots/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Lich"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Unheilsstab](/de/equipment/Unheilsstab/) | **ANG** | **ABW** | 
-  | [Aaskrone](/de/equipment/Aaskrone/) | **LP** | **ABW** | 
-  | [Seelengürtel](/de/equipment/Seelengürtel/) | **ANG** | **ABW** | 
-  | [Leichte Rüstung der Unterwelt](/de/equipment/Leichte Rüstung der Unterwelt/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Unheilsstab](/images/e/e_3051.png) | [Unheilsstab](/de/equipment/Nether Staff/) | **ANG** | **ABW** | 
+  | ![Aaskrone](/images/e/e_3052.png) | [Aaskrone](/de/equipment/Carrion Crown/) | **LP** | **ABW** | 
+  | ![Seelengürtel](/images/e/e_3053.png) | [Seelengürtel](/de/equipment/Soul Belt/) | **ANG** | **ABW** | 
+  | ![Leichte Rüstung der Unterwelt](/images/e/e_3054.png) | [Leichte Rüstung der Unterwelt](/de/equipment/Light Armor of the Netherworld/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

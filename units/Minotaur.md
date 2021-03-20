@@ -3,7 +3,7 @@ title: "Minotaurus"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Minotaurus"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Gorgonen-Kriegsaxt](/de/equipment/Gorgonen-Kriegsaxt/) | **ANG** | **ABW** | 
-  | [Gorgonen-Schulterpanzer](/de/equipment/Gorgonen-Schulterpanzer/) | **LP** | **ABW** | 
-  | [Gorgonenbänder](/de/equipment/Gorgonenbänder/) | **ANG** | **ABW** | 
-  | [Gorgonengürtel](/de/equipment/Gorgonengürtel/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Gorgonen-Kriegsaxt](/images/e/e_7051.png) | [Gorgonen-Kriegsaxt](/de/equipment/Gorgon Battle Axe/) | **ANG** | **ABW** | 
+  | ![Gorgonen-Schulterpanzer](/images/e/e_7052.png) | [Gorgonen-Schulterpanzer](/de/equipment/Gorgon Shoulder-guards/) | **LP** | **ABW** | 
+  | ![Gorgonenbänder](/images/e/e_7053.png) | [Gorgonenbänder](/de/equipment/Gorgon Bands/) | **ANG** | **ABW** | 
+  | ![Gorgonengürtel](/images/e/e_7054.png) | [Gorgonengürtel](/de/equipment/Gorgon Belt/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

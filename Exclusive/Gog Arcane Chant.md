@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Gog Exklusiv."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Gog Arkangesang.md"
 toc: false

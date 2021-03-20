@@ -3,7 +3,7 @@ title: "Eisdämon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Eisdämon ist selbst auf der Konflux-Ebene eine seltsame Existenz. Er ist wie ein Stück Eis, das niemals schmilzt. Er blendet deine Augen und raubt dir den Atem. Er ist wie die Leichen, die in Gletschergräbern ruhen."
 unitID: 908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Eisdämon"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Uraltes Eis](/de/equipment/Uraltes Eis/) | **ANG** | **ABW** | 
-  | [Frostberührung](/de/equipment/Frostberührung/) | **LP** | **ABW** | 
-  | [Eiskalter Helm](/de/equipment/Eiskalter Helm/) | **ANG** | **ABW** | 
-  | [Thron aus Eis](/de/equipment/Thron aus Eis/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Uraltes Eis](/images/e/e_9081.png) | [Uraltes Eis](/de/equipment/Ancient Ice/) | **ANG** | **ABW** | 
+  | ![Frostberührung](/images/e/e_9082.png) | [Frostberührung](/de/equipment/Frost Touch/) | **LP** | **ABW** | 
+  | ![Eiskalter Helm](/images/e/e_9083.png) | [Eiskalter Helm](/de/equipment/Frigid Helm/) | **ANG** | **ABW** | 
+  | ![Thron aus Eis](/images/e/e_9084.png) | [Thron aus Eis](/de/equipment/Throne of Ice/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

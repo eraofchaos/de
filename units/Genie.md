@@ -3,7 +3,7 @@ title: "Dschinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Dschinn"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Mystische Goldlampe](/de/equipment/Mystische Goldlampe/) | **ANG** | **ABW** | 
-  | [Seltsames Kristallornament](/de/equipment/Seltsames Kristallornament/) | **LP** | **ABW** | 
-  | [Roter Kupferarmschutz](/de/equipment/Roter Kupferarmschutz/) | **ANG** | **ABW** | 
-  | [Verzauberte Rüstung](/de/equipment/Verzauberte Rüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Mystische Goldlampe](/images/e/e_6051.png) | [Mystische Goldlampe](/de/equipment/Mystic Gold Lamp/) | **ANG** | **ABW** | 
+  | ![Seltsames Kristallornament](/images/e/e_6052.png) | [Seltsames Kristallornament](/de/equipment/Strange Crystal Ornament/) | **LP** | **ABW** | 
+  | ![Roter Kupferarmschutz](/images/e/e_6053.png) | [Roter Kupferarmschutz](/de/equipment/Red Copper Bracer/) | **ANG** | **ABW** | 
+  | ![Verzauberte Rüstung](/images/e/e_6054.png) | [Verzauberte Rüstung](/de/equipment/Enchanted Armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

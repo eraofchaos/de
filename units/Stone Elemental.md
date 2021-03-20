@@ -3,7 +3,7 @@ title: "Steinelementar"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Steinelementar ist das Ergebnis geologischer Verschmelzung mehrerer Mineralien. Teilt sich in kleinere Steinelementare auf, die weiterkämpfen."
 unitID: 905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Steinelementar"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Magmakern](/de/equipment/Magmakern/) | **ANG** | **ABW** | 
-  | [Explodierende Magma](/de/equipment/Explodierende Magma/) | **LP** | **ABW** | 
-  | [Zwielichtstein](/de/equipment/Zwielichtstein/) | **ANG** | **ABW** | 
-  | [Steinkrone](/de/equipment/Steinkrone/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Magmakern](/images/e/e_9051.png) | [Magmakern](/de/equipment/Core of Magma/) | **ANG** | **ABW** | 
+  | ![Explodierende Magma](/images/e/e_9052.png) | [Explodierende Magma](/de/equipment/Exploding Magma/) | **LP** | **ABW** | 
+  | ![Zwielichtstein](/images/e/e_9053.png) | [Zwielichtstein](/de/equipment/Twilight Stone/) | **ANG** | **ABW** | 
+  | ![Steinkrone](/images/e/e_9054.png) | [Steinkrone](/de/equipment/Crown of Stone/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Meerjungfrau"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Meeresorgan](/de/equipment/Meeresorgan/) | **ANG** | **ABW** | 
-  | [Meermensch-Ohrringe](/de/equipment/Meermensch-Ohrringe/) | **LP** | **ABW** | 
-  | [Flexibler Fischschwanz](/de/equipment/Flexibler Fischschwanz/) | **ANG** | **ABW** | 
-  | [Schutz des Meeres](/de/equipment/Schutz des Meeres/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Meeresorgan](/images/e/e_99051.png) | [Meeresorgan](/de/equipment/Sea Organ/) | **ANG** | **ABW** | 
+  | ![Meermensch-Ohrringe](/images/e/e_99052.png) | [Meermensch-Ohrringe](/de/equipment/Merman Earrings/) | **LP** | **ABW** | 
+  | ![Flexibler Fischschwanz](/images/e/e_99053.png) | [Flexibler Fischschwanz](/de/equipment/Flexible Fishtail/) | **ANG** | **ABW** | 
+  | ![Schutz des Meeres](/images/e/e_99054.png) | [Schutz des Meeres](/de/equipment/Ocean's Protection/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Zyklop"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Zyklop"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Fels](/de/equipment/Fels/) | **ANG** | **ABW** | 
-  | [Fesseln des Krieges](/de/equipment/Fesseln des Krieges/) | **LP** | **ABW** | 
-  | [Stachliger Armschutz](/de/equipment/Stachliger Armschutz/) | **ANG** | **ABW** | 
-  | [Lederhose](/de/equipment/Lederhose/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Fels](/images/e/e_4061.png) | [Fels](/de/equipment/Boulder/) | **ANG** | **ABW** | 
+  | ![Fesseln des Krieges](/images/e/e_4062.png) | [Fesseln des Krieges](/de/equipment/Shackles of War/) | **LP** | **ABW** | 
+  | ![Stachliger Armschutz](/images/e/e_4063.png) | [Stachliger Armschutz](/de/equipment/Spiked Bracers/) | **ANG** | **ABW** | 
+  | ![Lederhose](/images/e/e_4064.png) | [Lederhose](/de/equipment/Leather Trousers/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

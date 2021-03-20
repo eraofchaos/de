@@ -3,7 +3,7 @@ title: "Meerelementar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
 unitID: 9903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Meerelementar"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ewige Träne](/de/equipment/Ewige Träne/) | **ANG** | **ABW** | 
-  | [Kern des Wasserelementars](/de/equipment/Kern des Wasserelementars/) | **LP** | **ABW** | 
-  | [Wellenstrom](/de/equipment/Wellenstrom/) | **ANG** | **ABW** | 
-  | [Wirbelnarbe](/de/equipment/Wirbelnarbe/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ewige Träne](/images/e/e_99031.png) | [Ewige Träne](/de/equipment/Eternal Tear/) | **ANG** | **ABW** | 
+  | ![Kern des Wasserelementars](/images/e/e_99032.png) | [Kern des Wasserelementars](/de/equipment/Core of Water Elemental/) | **LP** | **ABW** | 
+  | ![Wellenstrom](/images/e/e_99033.png) | [Wellenstrom](/de/equipment/Wavy Flow/) | **ANG** | **ABW** | 
+  | ![Wirbelnarbe](/images/e/e_99034.png) | [Wirbelnarbe](/de/equipment/Vortex Scar/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

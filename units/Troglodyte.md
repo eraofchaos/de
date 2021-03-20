@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Troglodyt"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Knochenspeer des Mörders](/de/equipment/Knochenspeer des Mörders/) | **ANG** | **ABW** | 
-  | [Schädelplatte des Wirts](/de/equipment/Schädelplatte des Wirts/) | **LP** | **ABW** | 
-  | [Rückenbrecherstich](/de/equipment/Rückenbrecherstich/) | **ANG** | **ABW** | 
-  | [Stark ätzendes Blut](/de/equipment/Stark ätzendes Blut/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Knochenspeer des Mörders](/images/e/e_7011.png) | [Knochenspeer des Mörders](/de/equipment/Ripper's Bone Spear/) | **ANG** | **ABW** | 
+  | ![Schädelplatte des Wirts](/images/e/e_7012.png) | [Schädelplatte des Wirts](/de/equipment/Host Cranium/) | **LP** | **ABW** | 
+  | ![Rückenbrecherstich](/images/e/e_7013.png) | [Rückenbrecherstich](/de/equipment/Spine-breaking Stab/) | **ANG** | **ABW** | 
+  | ![Stark ätzendes Blut](/images/e/e_7014.png) | [Stark ätzendes Blut](/de/equipment/Blood of Strong Acid/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

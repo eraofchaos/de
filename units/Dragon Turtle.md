@@ -3,7 +3,7 @@ title: "Drachenschildkröte"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Drachenschildkröte"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scharfe Zähne der Drachenschildkröte](/de/equipment/Scharfe Zähne der Drachenschildkröte/) | **ANG** | **ABW** | 
-  | [Stachliger Schildkrötenpanzer](/de/equipment/Stachliger Schildkrötenpanzer/) | **LP** | **ABW** | 
-  | [Scharfe Kralle der Drachenschildkröte](/de/equipment/Scharfe Kralle der Drachenschildkröte/) | **ANG** | **ABW** | 
-  | [Schwanz der Drachenschildkröte](/de/equipment/Schwanz der Drachenschildkröte/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scharfe Zähne der Drachenschildkröte](/images/e/e_99061.png) | [Scharfe Zähne der Drachenschildkröte](/de/equipment/Dragon Turtle's Sharp Teeth/) | **ANG** | **ABW** | 
+  | ![Stachliger Schildkrötenpanzer](/images/e/e_99062.png) | [Stachliger Schildkrötenpanzer](/de/equipment/Spiked Tortoise Shell/) | **LP** | **ABW** | 
+  | ![Scharfe Kralle der Drachenschildkröte](/images/e/e_99063.png) | [Scharfe Kralle der Drachenschildkröte](/de/equipment/Dragon Turtle's Sharp Claw/) | **ANG** | **ABW** | 
+  | ![Schwanz der Drachenschildkröte](/images/e/e_99064.png) | [Schwanz der Drachenschildkröte](/de/equipment/Dragon Turtle's Tail/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

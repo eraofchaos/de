@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Roc"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Donnerschnabel](/de/equipment/Donnerschnabel/) | **ANG** | **ABW** | 
-  | [Gewitterflügel](/de/equipment/Gewitterflügel/) | **LP** | **ABW** | 
-  | [Blitzkrallen](/de/equipment/Blitzkrallen/) | **ANG** | **ABW** | 
-  | [Blitzrüstung](/de/equipment/Blitzrüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Donnerschnabel](/images/e/e_4051.png) | [Donnerschnabel](/de/equipment/Beak of Thunder/) | **ANG** | **ABW** | 
+  | ![Gewitterflügel](/images/e/e_4052.png) | [Gewitterflügel](/de/equipment/Wings of a Thunderbolt/) | **LP** | **ABW** | 
+  | ![Blitzkrallen](/images/e/e_4053.png) | [Blitzkrallen](/de/equipment/Claws of Lightning/) | **ANG** | **ABW** | 
+  | ![Blitzrüstung](/images/e/e_4054.png) | [Blitzrüstung](/de/equipment/Lightning's armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

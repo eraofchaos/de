@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Schwarzer Ritter"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Verfluchtes Schwert](/de/equipment/Verfluchtes Schwert/) | **ANG** | **ABW** | 
-  | [Visier der Toten](/de/equipment/Visier der Toten/) | **LP** | **ABW** | 
-  | [Albtraum-Armschutz](/de/equipment/Albtraum-Armschutz/) | **ANG** | **ABW** | 
-  | [Albtraum-Schulterschutz](/de/equipment/Albtraum-Schulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Verfluchtes Schwert](/images/e/e_3061.png) | [Verfluchtes Schwert](/de/equipment/Cursed Sword/) | **ANG** | **ABW** | 
+  | ![Visier der Toten](/images/e/e_3062.png) | [Visier der Toten](/de/equipment/Visor of the Dead/) | **LP** | **ABW** | 
+  | ![Albtraum-Armschutz](/images/e/e_3063.png) | [Albtraum-Armschutz](/de/equipment/Bracer of Nightmares/) | **ANG** | **ABW** | 
+  | ![Albtraum-Schulterschutz](/images/e/e_3064.png) | [Albtraum-Schulterschutz](/de/equipment/Nightmare Pauldrons/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

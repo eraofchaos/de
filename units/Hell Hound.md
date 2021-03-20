@@ -3,7 +3,7 @@ title: "Höllenhund"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Höllenhunde greifen den Feind mit drei Köpfen an. Ihr Körper ist von glühend heißer Lava überzogen, und ihre Spuren hinterlassen Flammen."
 unitID: 503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Höllenhund"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Versengende Zähne](/de/equipment/Versengende Zähne/) | **ANG** | **ABW** | 
-  | [Höllische Rüstung](/de/equipment/Höllische Rüstung/) | **LP** | **ABW** | 
-  | [Versengende Klauen](/de/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
-  | [Flammenmähne](/de/equipment/Flammenmähne/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Versengende Zähne](/images/e/e_5031.png) | [Versengende Zähne](/de/equipment/Scalding Teeth/) | **ANG** | **ABW** | 
+  | ![Höllische Rüstung](/images/e/e_5032.png) | [Höllische Rüstung](/de/equipment/Hellish Armor/) | **LP** | **ABW** | 
+  | ![Versengende Klauen](/images/e/e_5033.png) | [Versengende Klauen](/de/equipment/Scalding Claws/) | **ANG** | **ABW** | 
+  | ![Flammenmähne](/images/e/e_5034.png) | [Flammenmähne](/de/equipment/Mane of Flame/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

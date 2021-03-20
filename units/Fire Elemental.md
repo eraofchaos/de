@@ -3,7 +3,7 @@ title: "Feuerelementar"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Feuerelementar"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Feuerkern](/de/equipment/Feuerkern/) | **ANG** | **ABW** | 
-  | [Kochender Schild](/de/equipment/Kochender Schild/) | **LP** | **ABW** | 
-  | [Saphirbetrachter](/de/equipment/Saphirbetrachter/) | **ANG** | **ABW** | 
-  | [Meerblaue scharfe Kralle](/de/equipment/Meerblaue scharfe Kralle/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Feuerkern](/images/e/e_9041.png) | [Feuerkern](/de/equipment/Core of Fire/) | **ANG** | **ABW** | 
+  | ![Kochender Schild](/images/e/e_9042.png) | [Kochender Schild](/de/equipment/Boiling Shield/) | **LP** | **ABW** | 
+  | ![Saphirbetrachter](/images/e/e_9043.png) | [Saphirbetrachter](/de/equipment/Beholder of Sapphire/) | **ANG** | **ABW** | 
+  | ![Meerblaue scharfe Kralle](/images/e/e_9044.png) | [Meerblaue scharfe Kralle](/de/equipment/Navy Blue Sharp Claw/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

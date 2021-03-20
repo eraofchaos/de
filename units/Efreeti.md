@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern."
 unitID: 506
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Efreet"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Flammenkugel](/de/equipment/Flammenkugel/) | **ANG** | **ABW** | 
-  | [Leichte Rüstung der Flamme](/de/equipment/Leichte Rüstung der Flamme/) | **LP** | **ABW** | 
-  | [Armschutz der Flamme](/de/equipment/Armschutz der Flamme/) | **ANG** | **ABW** | 
-  | [Schulterschutz der Flamme](/de/equipment/Schulterschutz der Flamme/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Flammenkugel](/images/e/e_5061.png) | [Flammenkugel](/de/equipment/Orb of Flame/) | **ANG** | **ABW** | 
+  | ![Leichte Rüstung der Flamme](/images/e/e_5062.png) | [Leichte Rüstung der Flamme](/de/equipment/Light Armor of Flame/) | **LP** | **ABW** | 
+  | ![Armschutz der Flamme](/images/e/e_5063.png) | [Armschutz der Flamme](/de/equipment/Bracers of Flame/) | **ANG** | **ABW** | 
+  | ![Schulterschutz der Flamme](/images/e/e_5064.png) | [Schulterschutz der Flamme](/de/equipment/Pauldrons of Flame/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

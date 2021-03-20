@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Regnanpirat"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Robuste Machete](/de/equipment/Robuste Machete/) | **ANG** | **ABW** | 
-  | [Seemannshemd](/de/equipment/Seemannshemd/) | **LP** | **ABW** | 
-  | [Rechtschaffenes Stirnband](/de/equipment/Rechtschaffenes Stirnband/) | **ANG** | **ABW** | 
-  | [Seemannshose](/de/equipment/Seemannshose/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Robuste Machete](/images/e/e_99011.png) | [Robuste Machete](/de/equipment/Toughened Machete/) | **ANG** | **ABW** | 
+  | ![Seemannshemd](/images/e/e_99012.png) | [Seemannshemd](/de/equipment/Sailor's Shirt/) | **LP** | **ABW** | 
+  | ![Rechtschaffenes Stirnband](/images/e/e_99013.png) | [Rechtschaffenes Stirnband](/de/equipment/Righteous Headband/) | **ANG** | **ABW** | 
+  | ![Seemannshose](/images/e/e_99014.png) | [Seemannshose](/de/equipment/Sailor's Pants/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

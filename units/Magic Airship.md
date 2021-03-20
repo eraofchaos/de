@@ -3,7 +3,7 @@ title: "Magisches Luftschiff"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Magisches Luftschiff"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Flugsystem](/de/equipment/Flugsystem/) | **ANG** | **ABW** | 
-  | [Steuersystem](/de/equipment/Steuersystem/) | **LP** | **ABW** | 
-  | [Hauptkontrollturm](/de/equipment/Hauptkontrollturm/) | **ANG** | **ABW** | 
-  | [Beobachtungsdeck](/de/equipment/Beobachtungsdeck/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Flugsystem](/images/e/e_6081.png) | [Flugsystem](/de/equipment/Lift-off System/) | **ANG** | **ABW** | 
+  | ![Steuersystem](/images/e/e_6082.png) | [Steuersystem](/de/equipment/Control System/) | **LP** | **ABW** | 
+  | ![Hauptkontrollturm](/images/e/e_6083.png) | [Hauptkontrollturm](/de/equipment/Main Control Tower/) | **ANG** | **ABW** | 
+  | ![Beobachtungsdeck](/images/e/e_6084.png) | [Beobachtungsdeck](/de/equipment/Observation Deck/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

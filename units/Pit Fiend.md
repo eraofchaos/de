@@ -3,7 +3,7 @@ title: "Grottenteufel"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
 unitID: 505
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Grottenteufel"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Höllische Peitsche](/de/equipment/Höllische Peitsche/) | **ANG** | **ABW** | 
-  | [Bezauberte leichte Rüstung](/de/equipment/Bezauberte leichte Rüstung/) | **LP** | **ABW** | 
-  | [Bezaubertes Horn](/de/equipment/Bezaubertes Horn/) | **ANG** | **ABW** | 
-  | [Bezauberter Schulterschutz](/de/equipment/Bezauberter Schulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Höllische Peitsche](/images/e/e_5051.png) | [Höllische Peitsche](/de/equipment/Hellish Whip/) | **ANG** | **ABW** | 
+  | ![Bezauberte leichte Rüstung](/images/e/e_5052.png) | [Bezauberte leichte Rüstung](/de/equipment/Charmed Light Armor/) | **LP** | **ABW** | 
+  | ![Bezaubertes Horn](/images/e/e_5053.png) | [Bezaubertes Horn](/de/equipment/Charmed Horn/) | **ANG** | **ABW** | 
+  | ![Bezauberter Schulterschutz](/images/e/e_5054.png) | [Bezauberter Schulterschutz](/de/equipment/Charming Pauldrons/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

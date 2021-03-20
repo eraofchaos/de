@@ -3,7 +3,7 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Stahlsäbel](/de/equipment/Stahlsäbel/) | **ANG** | **ABW** | 
-  | [Schutzriemen](/de/equipment/Schutzriemen/) | **LP** | **ABW** | 
-  | [Schutzhandschuhe](/de/equipment/Schutzhandschuhe/) | **ANG** | **ABW** | 
-  | [Haizügel](/de/equipment/Haizügel/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Stahlsäbel](/images/e/e_99091.png) | [Stahlsäbel](/de/equipment/Steel Scimitar/) | **ANG** | **ABW** | 
+  | ![Schutzriemen](/images/e/e_99093.png) | [Schutzriemen](/de/equipment/Protective Strap/) | **LP** | **ABW** | 
+  | ![Schutzhandschuhe](/images/e/e_99092.png) | [Schutzhandschuhe](/de/equipment/Protective Gloves/) | **ANG** | **ABW** | 
+  | ![Haizügel](/images/e/e_99094.png) | [Haizügel](/de/equipment/Shark Reins/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

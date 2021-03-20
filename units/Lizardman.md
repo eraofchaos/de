@@ -3,7 +3,7 @@ title: "Echsenmensch"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Echsenmensch"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Stachelbewehrter Kragen](/de/equipment/Stachelbewehrter Kragen/) | **ANG** | **ABW** | 
-  | [Armschutz des Kriegers](/de/equipment/Armschutz des Kriegers/) | **LP** | **ABW** | 
-  | [Schulterblatt des Kriegers](/de/equipment/Schulterblatt des Kriegers/) | **ANG** | **ABW** | 
-  | [Jagdbogen](/de/equipment/Jagdbogen/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Stachelbewehrter Kragen](/images/e/e_8021.png) | [Stachelbewehrter Kragen](/de/equipment/Spiked Neck Umbrella/) | **ANG** | **ABW** | 
+  | ![Armschutz des Kriegers](/images/e/e_8022.png) | [Armschutz des Kriegers](/de/equipment/Warrior's Bracers/) | **LP** | **ABW** | 
+  | ![Schulterblatt des Kriegers](/images/e/e_8023.png) | [Schulterblatt des Kriegers](/de/equipment/Warrior's Scapula/) | **ANG** | **ABW** | 
+  | ![Jagdbogen](/images/e/e_8024.png) | [Jagdbogen](/de/equipment/Hunting Longbow/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Sturmelementar"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Flackernder Kugelblitz](/de/equipment/Flackernder Kugelblitz/) | **ANG** | **ABW** | 
-  | [Donnerkern](/de/equipment/Donnerkern/) | **LP** | **ABW** | 
-  | [Magische Klaue](/de/equipment/Magische Klaue/) | **ANG** | **ABW** | 
-  | [Blitzbetrachter](/de/equipment/Blitzbetrachter/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Flackernder Kugelblitz](/images/e/e_9021.png) | [Flackernder Kugelblitz](/de/equipment/Flickering Lightning Ball/) | **ANG** | **ABW** | 
+  | ![Donnerkern](/images/e/e_9022.png) | [Donnerkern](/de/equipment/Thunder Core/) | **LP** | **ABW** | 
+  | ![Magische Klaue](/images/e/e_9023.png) | [Magische Klaue](/de/equipment/Magic Claw/) | **ANG** | **ABW** | 
+  | ![Blitzbetrachter](/images/e/e_9024.png) | [Blitzbetrachter](/de/equipment/Beholder of Lightning/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

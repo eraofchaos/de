@@ -3,7 +3,7 @@ title: "Pixie"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Pixie"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Duftender Kranz](/de/equipment/Duftender Kranz/) | **ANG** | **ABW** | 
-  | [Gewand von Mond und Sternen](/de/equipment/Gewand von Mond und Sternen/) | **LP** | **ABW** | 
-  | [Leuchtende Schmetterlingsflügel](/de/equipment/Leuchtende Schmetterlingsflügel/) | **ANG** | **ABW** | 
-  | [Smaragd-Armreif](/de/equipment/Smaragd-Armreif/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Duftender Kranz](/images/e/e_9011.png) | [Duftender Kranz](/de/equipment/Fragrant Wreath/) | **ANG** | **ABW** | 
+  | ![Gewand von Mond und Sternen](/images/e/e_9012.png) | [Gewand von Mond und Sternen](/de/equipment/Gown of Moon and Stars/) | **LP** | **ABW** | 
+  | ![Leuchtende Schmetterlingsflügel](/images/e/e_9013.png) | [Leuchtende Schmetterlingsflügel](/de/equipment/Phosphorus Butterfly Wings/) | **ANG** | **ABW** | 
+  | ![Smaragd-Armreif](/images/e/e_9014.png) | [Smaragd-Armreif](/de/equipment/Emerald Arm Ring/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

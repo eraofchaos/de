@@ -3,7 +3,7 @@ title: "Schwarzer Drache"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Schwarzer Drache"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Magische Drachenklauen](/de/equipment/Magische Drachenklauen/) | **ANG** | **ABW** | 
-  | [Verheerendes Feuer](/de/equipment/Verheerendes Feuer/) | **LP** | **ABW** | 
-  | [Verdunkelnde Schwingen](/de/equipment/Verdunkelnde Schwingen/) | **ANG** | **ABW** | 
-  | [Eisenschuppe](/de/equipment/Eisenschuppe/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Magische Drachenklauen](/images/e/e_7071.png) | [Magische Drachenklauen](/de/equipment/Magic Dragon Claws/) | **ANG** | **ABW** | 
+  | ![Verheerendes Feuer](/images/e/e_7072.png) | [Verheerendes Feuer](/de/equipment/Devastative Fire/) | **LP** | **ABW** | 
+  | ![Verdunkelnde Schwingen](/images/e/e_7073.png) | [Verdunkelnde Schwingen](/de/equipment/Sky-blocking Wings/) | **ANG** | **ABW** | 
+  | ![Eisenschuppe](/images/e/e_7074.png) | [Eisenschuppe](/de/equipment/Ironclad Scale/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Mumie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
 unitID: 308
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Mumie"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Unsterbliche Berührung](/de/equipment/Unsterbliche Berührung/) | **ANG** | **ABW** | 
-  | [Uralte Bandage](/de/equipment/Uralte Bandage/) | **LP** | **ABW** | 
-  | [Pupille des Toten](/de/equipment/Pupille des Toten/) | **ANG** | **ABW** | 
-  | [Atem des Todes](/de/equipment/Atem des Todes/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Unsterbliche Berührung](/images/e/e_3081.png) | [Unsterbliche Berührung](/de/equipment/Immortal Touch/) | **ANG** | **ABW** | 
+  | ![Uralte Bandage](/images/e/e_3082.png) | [Uralte Bandage](/de/equipment/Ancient Bandage/) | **LP** | **ABW** | 
+  | ![Pupille des Toten](/images/e/e_3083.png) | [Pupille des Toten](/de/equipment/Pupil of the Departed/) | **ANG** | **ABW** | 
+  | ![Atem des Todes](/images/e/e_3084.png) | [Atem des Todes](/de/equipment/Breath of Death/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Engel"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Klinge des Imperiums](/de/equipment/Klinge des Imperiums/) | **ANG** | **ABW** | 
-  | [Leichte Kampfrüstung](/de/equipment/Leichte Kampfrüstung/) | **LP** | **ABW** | 
-  | [Leichte Panzerhandschuhe](/de/equipment/Leichte Panzerhandschuhe/) | **ANG** | **ABW** | 
-  | [Schulterschutz der Leichtigkeit](/de/equipment/Schulterschutz der Leichtigkeit/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Klinge des Imperiums](/images/e/e_1071.png) | [Klinge des Imperiums](/de/equipment/Empire's Sword/) | **ANG** | **ABW** | 
+  | ![Leichte Kampfrüstung](/images/e/e_1072.png) | [Leichte Kampfrüstung](/de/equipment/Light Battle Armor/) | **LP** | **ABW** | 
+  | ![Leichte Panzerhandschuhe](/images/e/e_1073.png) | [Leichte Panzerhandschuhe](/de/equipment/Light Gauntlets/) | **ANG** | **ABW** | 
+  | ![Schulterschutz der Leichtigkeit](/images/e/e_1074.png) | [Schulterschutz der Leichtigkeit](/de/equipment/Pauldrons of Lightness/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Wandelnde Tote"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
 unitID: 302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Wandelnde Tote"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Blutverschmierte Machete](/de/equipment/Blutverschmierte Machete/) | **ANG** | **ABW** | 
-  | [Knochencollier](/de/equipment/Knochencollier/) | **LP** | **ABW** | 
-  | [Veredelter stählerner Armschutz](/de/equipment/Veredelter stählerner Armschutz/) | **ANG** | **ABW** | 
-  | [Hose des Verfalls](/de/equipment/Hose des Verfalls/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Blutverschmierte Machete](/images/e/e_3021.png) | [Blutverschmierte Machete](/de/equipment/Bloodstained Machete/) | **ANG** | **ABW** | 
+  | ![Knochencollier](/images/e/e_3022.png) | [Knochencollier](/de/equipment/Bone Necklet/) | **LP** | **ABW** | 
+  | ![Veredelter stählerner Armschutz](/images/e/e_3023.png) | [Veredelter stählerner Armschutz](/de/equipment/Refined Steel Bracer/) | **ANG** | **ABW** | 
+  | ![Hose des Verfalls](/images/e/e_3024.png) | [Hose des Verfalls](/de/equipment/Trousers of Decay/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

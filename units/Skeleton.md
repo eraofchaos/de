@@ -3,7 +3,7 @@ title: "Skelett"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde."
 unitID: 301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Skelett"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Unheiliger Säbel](/de/equipment/Unheiliger Säbel/) | **ANG** | **ABW** | 
-  | [Rostiger Helm](/de/equipment/Rostiger Helm/) | **LP** | **ABW** | 
-  | [Unheiliger Schild](/de/equipment/Unheiliger Schild/) | **ANG** | **ABW** | 
-  | [Rostiger Schulterschutz](/de/equipment/Rostiger Schulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Unheiliger Säbel](/images/e/e_3011.png) | [Unheiliger Säbel](/de/equipment/Unholy Scimitar/) | **ANG** | **ABW** | 
+  | ![Rostiger Helm](/images/e/e_3012.png) | [Rostiger Helm](/de/equipment/Rusted Helmet/) | **LP** | **ABW** | 
+  | ![Unheiliger Schild](/images/e/e_3013.png) | [Unheiliger Schild](/de/equipment/Unholy Shield/) | **ANG** | **ABW** | 
+  | ![Rostiger Schulterschutz](/images/e/e_3014.png) | [Rostiger Schulterschutz](/de/equipment/Rusted Pauldrons/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

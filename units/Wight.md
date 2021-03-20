@@ -3,7 +3,7 @@ title: "Geist"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Geist"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Geisterhafte Klauen](/de/equipment/Geisterhafte Klauen/) | **ANG** | **ABW** | 
-  | [Leichte Rüstung des Requiems](/de/equipment/Leichte Rüstung des Requiems/) | **LP** | **ABW** | 
-  | [Verfluchte Seele](/de/equipment/Verfluchte Seele/) | **ANG** | **ABW** | 
-  | [Kleid des Requiems](/de/equipment/Kleid des Requiems/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Geisterhafte Klauen](/images/e/e_3031.png) | [Geisterhafte Klauen](/de/equipment/Ghostly Claws/) | **ANG** | **ABW** | 
+  | ![Leichte Rüstung des Requiems](/images/e/e_3032.png) | [Leichte Rüstung des Requiems](/de/equipment/Light Armor of Requiem/) | **LP** | **ABW** | 
+  | ![Verfluchte Seele](/images/e/e_3033.png) | [Verfluchte Seele](/de/equipment/Cursed Soul/) | **ANG** | **ABW** | 
+  | ![Kleid des Requiems](/images/e/e_3034.png) | [Kleid des Requiems](/de/equipment/Dress of Requiem/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

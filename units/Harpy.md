@@ -3,7 +3,7 @@ title: "Harpyie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Harpyie"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Herzstoßdolch](/de/equipment/Herzstoßdolch/) | **ANG** | **ABW** | 
-  | [Mystische Rüstung](/de/equipment/Mystische Rüstung/) | **LP** | **ABW** | 
-  | [Klauenmörder](/de/equipment/Klauenmörder/) | **ANG** | **ABW** | 
-  | [Schulterpanzer der Zauberin](/de/equipment/Schulterpanzer der Zauberin/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Herzstoßdolch](/images/e/e_7021.png) | [Herzstoßdolch](/de/equipment/Heart Stab Dagger/) | **ANG** | **ABW** | 
+  | ![Mystische Rüstung](/images/e/e_7022.png) | [Mystische Rüstung](/de/equipment/Mystic Armor/) | **LP** | **ABW** | 
+  | ![Klauenmörder](/images/e/e_7023.png) | [Klauenmörder](/de/equipment/Claw Killer/) | **ANG** | **ABW** | 
+  | ![Schulterpanzer der Zauberin](/images/e/e_7024.png) | [Schulterpanzer der Zauberin](/de/equipment/Enchantress' Shoulder-guards/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

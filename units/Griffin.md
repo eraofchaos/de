@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Greif"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sägekrallen](/de/equipment/Sägekrallen/) | **ANG** | **ABW** | 
-  | [Kopfschutz der Schnelligkeit](/de/equipment/Kopfschutz der Schnelligkeit/) | **LP** | **ABW** | 
-  | [Erzgreifenfeder](/de/equipment/Erzgreifenfeder/) | **ANG** | **ABW** | 
-  | [Wappen des Imperiums](/de/equipment/Wappen des Imperiums/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sägekrallen](/images/e/e_1031.png) | [Sägekrallen](/de/equipment/Serrated Claws/) | **ANG** | **ABW** | 
+  | ![Kopfschutz der Schnelligkeit](/images/e/e_1032.png) | [Kopfschutz der Schnelligkeit](/de/equipment/Headplate of Speed/) | **LP** | **ABW** | 
+  | ![Erzgreifenfeder](/images/e/e_1033.png) | [Erzgreifenfeder](/de/equipment/Archgriffin Feather/) | **ANG** | **ABW** | 
+  | ![Wappen des Imperiums](/images/e/e_1034.png) | [Wappen des Imperiums](/de/equipment/Empire's Crest/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

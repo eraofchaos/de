@@ -2,7 +2,7 @@
 title: "Exklusiv - Unheilssäbel"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Unheilssäbel. Unheilssäbel. Era of Chaos Exklusiv Unheilssäbel. Schwarzer Ritter Exklusiv."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Black Knight Unheilssäbel.md"
 toc: false

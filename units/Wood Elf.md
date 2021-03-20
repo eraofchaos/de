@@ -3,7 +3,7 @@ title: "Waldelfe"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
 unitID: 203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Waldelfe"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sylvanischer Langbogen](/de/equipment/Sylvanischer Langbogen/) | **ANG** | **ABW** | 
-  | [Reif der grünen Blätter](/de/equipment/Reif der grünen Blätter/) | **LP** | **ABW** | 
-  | [Pfeile der Jade](/de/equipment/Pfeile der Jade/) | **ANG** | **ABW** | 
-  | [Kurzrobe der grünen Blätter](/de/equipment/Kurzrobe der grünen Blätter/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sylvanischer Langbogen](/images/e/e_2031.png) | [Sylvanischer Langbogen](/de/equipment/Sylvan Longbow/) | **ANG** | **ABW** | 
+  | ![Reif der grünen Blätter](/images/e/e_2032.png) | [Reif der grünen Blätter](/de/equipment/Circlet of Verdurous Leaves/) | **LP** | **ABW** | 
+  | ![Pfeile der Jade](/images/e/e_2033.png) | [Pfeile der Jade](/de/equipment/Arrows of Jade/) | **ANG** | **ABW** | 
+  | ![Kurzrobe der grünen Blätter](/images/e/e_2034.png) | [Kurzrobe der grünen Blätter](/de/equipment/Short Robe of Verdurous Leaves/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

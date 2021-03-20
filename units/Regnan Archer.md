@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Regnanbogensch."
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arbaleste des Meeres](/de/equipment/Arbaleste des Meeres/) | **ANG** | **ABW** | 
-  | [Kappe des Ansehens](/de/equipment/Kappe des Ansehens/) | **LP** | **ABW** | 
-  | [Stahlpfeil](/de/equipment/Stahlpfeil/) | **ANG** | **ABW** | 
-  | [Jägerkleidung](/de/equipment/Jägerkleidung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arbaleste des Meeres](/images/e/e_99021.png) | [Arbaleste des Meeres](/de/equipment/Ocean's Arbalest/) | **ANG** | **ABW** | 
+  | ![Kappe des Ansehens](/images/e/e_99022.png) | [Kappe des Ansehens](/de/equipment/Cap of Prestige/) | **LP** | **ABW** | 
+  | ![Stahlpfeil](/images/e/e_99023.png) | [Stahlpfeil](/de/equipment/Steel Arrow/) | **ANG** | **ABW** | 
+  | ![Jägerkleidung](/images/e/e_99024.png) | [Jägerkleidung](/de/equipment/Hunter's Clothing/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

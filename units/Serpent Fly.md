@@ -3,7 +3,7 @@ title: "Schlangenfliege"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
 unitID: 803
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Schlangenfliege"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kragen des Unholds](/de/equipment/Kragen des Unholds/) | **ANG** | **ABW** | 
-  | [Tödliche Kieferwaffe](/de/equipment/Tödliche Kieferwaffe/) | **LP** | **ABW** | 
-  | [Übler Zacken](/de/equipment/Übler Zacken/) | **ANG** | **ABW** | 
-  | [Giftzahn](/de/equipment/Giftzahn/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kragen des Unholds](/images/e/e_8031.png) | [Kragen des Unholds](/de/equipment/Fiend's Neck Umbrella/) | **ANG** | **ABW** | 
+  | ![Tödliche Kieferwaffe](/images/e/e_8032.png) | [Tödliche Kieferwaffe](/de/equipment/Fatal Jaw Weapon/) | **LP** | **ABW** | 
+  | ![Übler Zacken](/images/e/e_8033.png) | [Übler Zacken](/de/equipment/Bleak Barb/) | **ANG** | **ABW** | 
+  | ![Giftzahn](/images/e/e_8034.png) | [Giftzahn](/de/equipment/Toxic Fang/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

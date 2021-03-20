@@ -3,7 +3,7 @@ title: "Stein-Wasserspeier"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
 unitID: 602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Stein-Wasserspeier"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Steinhorn](/de/equipment/Steinhorn/) | **ANG** | **ABW** | 
-  | [Steinflügel](/de/equipment/Steinflügel/) | **LP** | **ABW** | 
-  | [Scharfe Felsklauen](/de/equipment/Scharfe Felsklauen/) | **ANG** | **ABW** | 
-  | [Verzauberter Schweif](/de/equipment/Verzauberter Schweif/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Steinhorn](/images/e/e_6021.png) | [Steinhorn](/de/equipment/Stone Horn/) | **ANG** | **ABW** | 
+  | ![Steinflügel](/images/e/e_6022.png) | [Steinflügel](/de/equipment/Stone Wings/) | **LP** | **ABW** | 
+  | ![Scharfe Felsklauen](/images/e/e_6023.png) | [Scharfe Felsklauen](/de/equipment/Sharp Rock Claws/) | **ANG** | **ABW** | 
+  | ![Verzauberter Schweif](/images/e/e_6024.png) | [Verzauberter Schweif](/de/equipment/Enchanted Tail/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

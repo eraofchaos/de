@@ -3,7 +3,7 @@ title: "Wespenwurz"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
 unitID: 808
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Wespenwurz"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Starker Blütenast](/de/equipment/Starker Blütenast/) | **ANG** | **ABW** | 
-  | [Giftdorn](/de/equipment/Giftdorn/) | **LP** | **ABW** | 
-  | [Blumen-Overlord](/de/equipment/Blumen-Overlord/) | **ANG** | **ABW** | 
-  | [Killerbiene](/de/equipment/Killerbiene/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Starker Blütenast](/images/e/e_8081.png) | [Starker Blütenast](/de/equipment/Strong Flowering Branch/) | **ANG** | **ABW** | 
+  | ![Giftdorn](/images/e/e_8082.png) | [Giftdorn](/de/equipment/Toxic Thorn/) | **LP** | **ABW** | 
+  | ![Blumen-Overlord](/images/e/e_8083.png) | [Blumen-Overlord](/de/equipment/Flower Overlord/) | **ANG** | **ABW** | 
+  | ![Killerbiene](/images/e/e_8084.png) | [Killerbiene](/de/equipment/Killer Bee/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

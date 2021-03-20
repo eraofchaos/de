@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Behemoths gehören zu den wenigen urtümlichen Kreaturen, die noch aus der Zeit vor den Drachen stammen. Ihre gewaltigen Leiber sind immun gegen die Angriffe ihrer Feinde."
 unitID: 407
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Behemoth"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Wilde Krallen](/de/equipment/Wilde Krallen/) | **ANG** | **ABW** | 
-  | [Eisenhaut](/de/equipment/Eisenhaut/) | **LP** | **ABW** | 
-  | [Wilde Reißzähne](/de/equipment/Wilde Reißzähne/) | **ANG** | **ABW** | 
-  | [Dichter Fellbewuchs](/de/equipment/Dichter Fellbewuchs/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Wilde Krallen](/images/e/e_4071.png) | [Wilde Krallen](/de/equipment/Ferocious Claws/) | **ANG** | **ABW** | 
+  | ![Eisenhaut](/images/e/e_4072.png) | [Eisenhaut](/de/equipment/Ironclad Skin/) | **LP** | **ABW** | 
+  | ![Wilde Reißzähne](/images/e/e_4073.png) | [Wilde Reißzähne](/de/equipment/Ferocious Fangs/) | **ANG** | **ABW** | 
+  | ![Dichter Fellbewuchs](/images/e/e_4074.png) | [Dichter Fellbewuchs](/de/equipment/Thick Fur Hide/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Drachengolem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Drachengolem"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Legierungsklaue](/de/equipment/Legierungsklaue/) | **ANG** | **ABW** | 
-  | [Titan-Drachenkopf](/de/equipment/Titan-Drachenkopf/) | **LP** | **ABW** | 
-  | [Hauptsteuerknüppel](/de/equipment/Hauptsteuerknüppel/) | **ANG** | **ABW** | 
-  | [Legierungsrüstung](/de/equipment/Legierungsrüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Legierungsklaue](/images/e/e_6091.png) | [Legierungsklaue](/de/equipment/Alloy Claw/) | **ANG** | **ABW** | 
+  | ![Titan-Drachenkopf](/images/e/e_6092.png) | [Titan-Drachenkopf](/de/equipment/Titanium Dragon Head/) | **LP** | **ABW** | 
+  | ![Hauptsteuerknüppel](/images/e/e_6093.png) | [Hauptsteuerknüppel](/de/equipment/Main Control Stick/) | **ANG** | **ABW** | 
+  | ![Legierungsrüstung](/images/e/e_6094.png) | [Legierungsrüstung](/de/equipment/Alloy Armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

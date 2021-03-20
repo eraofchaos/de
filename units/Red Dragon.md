@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Roter Drache"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Horn des roten Feuers](/de/equipment/Horn des roten Feuers/) | **ANG** | **ABW** | 
-  | [Uralte Schwingen](/de/equipment/Uralte Schwingen/) | **LP** | **ABW** | 
-  | [Versengende Klauen](/de/equipment/Versengende Klauen/) | **ANG** | **ABW** | 
-  | [Brutaler Drachenschwanz](/de/equipment/Brutaler Drachenschwanz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Horn des roten Feuers](/images/e/e_7081.png) | [Horn des roten Feuers](/de/equipment/Horn of Red Fire/) | **ANG** | **ABW** | 
+  | ![Uralte Schwingen](/images/e/e_7082.png) | [Uralte Schwingen](/de/equipment/Ancient Wings/) | **LP** | **ABW** | 
+  | ![Versengende Klauen](/images/e/e_7083.png) | [Versengende Klauen](/de/equipment/Scalding Claws/) | **ANG** | **ABW** | 
+  | ![Brutaler Drachenschwanz](/images/e/e_7084.png) | [Brutaler Drachenschwanz](/de/equipment/Vehement Dragon Tail/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

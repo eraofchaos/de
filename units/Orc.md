@@ -3,7 +3,7 @@ title: "Ork"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Ork"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Wurfaxt](/de/equipment/Wurfaxt/) | **ANG** | **ABW** | 
-  | [Gürtel der Zurückhaltung](/de/equipment/Gürtel der Zurückhaltung/) | **LP** | **ABW** | 
-  | [Eiserner Schulterschutz](/de/equipment/Eiserner Schulterschutz/) | **ANG** | **ABW** | 
-  | [Blutdürstiger Schulterschutz](/de/equipment/Blutdürstiger Schulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Wurfaxt](/images/e/e_4031.png) | [Wurfaxt](/de/equipment/Throwing Axe/) | **ANG** | **ABW** | 
+  | ![Gürtel der Zurückhaltung](/images/e/e_4032.png) | [Gürtel der Zurückhaltung](/de/equipment/Belt of Constraint/) | **LP** | **ABW** | 
+  | ![Eiserner Schulterschutz](/images/e/e_4033.png) | [Eiserner Schulterschutz](/de/equipment/Iron Pauldrons/) | **ANG** | **ABW** | 
+  | ![Blutdürstiger Schulterschutz](/images/e/e_4034.png) | [Blutdürstiger Schulterschutz](/de/equipment/Bloodthirsty Pauldrons/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

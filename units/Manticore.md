@@ -3,7 +3,7 @@ title: "Mantikor"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr."
 unitID: 706
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Mantikor"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Abgrundklaue](/de/equipment/Abgrundklaue/) | **ANG** | **ABW** | 
-  | [Tödlicher Giftzahn](/de/equipment/Tödlicher Giftzahn/) | **LP** | **ABW** | 
-  | [Giftschwanz](/de/equipment/Giftschwanz/) | **ANG** | **ABW** | 
-  | [Mantikorflügel](/de/equipment/Mantikorflügel/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Abgrundklaue](/images/e/e_7061.png) | [Abgrundklaue](/de/equipment/Abyss Claw/) | **ANG** | **ABW** | 
+  | ![Tödlicher Giftzahn](/images/e/e_7062.png) | [Tödlicher Giftzahn](/de/equipment/Fatal Poison Fang/) | **LP** | **ABW** | 
+  | ![Giftschwanz](/images/e/e_7063.png) | [Giftschwanz](/de/equipment/Toxic Tail/) | **ANG** | **ABW** | 
+  | ![Mantikorflügel](/images/e/e_7064.png) | [Mantikorflügel](/de/equipment/Manticore Wings/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

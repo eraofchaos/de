@@ -3,7 +3,7 @@ title: "Einhorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Einhorn"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kristall-Langhorn](/de/equipment/Kristall-Langhorn/) | **ANG** | **ABW** | 
-  | [Träumersteine](/de/equipment/Träumersteine/) | **LP** | **ABW** | 
-  | [Kristallhufe](/de/equipment/Kristallhufe/) | **ANG** | **ABW** | 
-  | [Nebelmähne](/de/equipment/Nebelmähne/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kristall-Langhorn](/images/e/e_2061.png) | [Kristall-Langhorn](/de/equipment/Crystal Longhorn/) | **ANG** | **ABW** | 
+  | ![Träumersteine](/images/e/e_2062.png) | [Träumersteine](/de/equipment/Dreamer's Stones/) | **LP** | **ABW** | 
+  | ![Kristallhufe](/images/e/e_2063.png) | [Kristallhufe](/de/equipment/Crystal Hooves/) | **ANG** | **ABW** | 
+  | ![Nebelmähne](/images/e/e_2064.png) | [Nebelmähne](/de/equipment/Misty Mane/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Eiselementar"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Tiefeneis-Kristall](/de/equipment/Tiefeneis-Kristall/) | **ANG** | **ABW** | 
-  | [Kopfschmuck der Gezeiten](/de/equipment/Kopfschmuck der Gezeiten/) | **LP** | **ABW** | 
-  | [Zeichen des Ozeans](/de/equipment/Zeichen des Ozeans/) | **ANG** | **ABW** | 
-  | [Gewand der Meerjungfrau](/de/equipment/Gewand der Meerjungfrau/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Tiefeneis-Kristall](/images/e/e_9031.png) | [Tiefeneis-Kristall](/de/equipment/Deep Ice Crystal/) | **ANG** | **ABW** | 
+  | ![Kopfschmuck der Gezeiten](/images/e/e_9032.png) | [Kopfschmuck der Gezeiten](/de/equipment/Tidal Headdress/) | **LP** | **ABW** | 
+  | ![Zeichen des Ozeans](/images/e/e_9033.png) | [Zeichen des Ozeans](/de/equipment/Mark of the Ocean/) | **ANG** | **ABW** | 
+  | ![Gewand der Meerjungfrau](/images/e/e_9034.png) | [Gewand der Meerjungfrau](/de/equipment/Cloth of the Mermaid/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

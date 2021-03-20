@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Imp"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Düstere Klauen](/de/equipment/Düstere Klauen/) | **ANG** | **ABW** | 
-  | [Düsteres Katar](/de/equipment/Düsteres Katar/) | **LP** | **ABW** | 
-  | [Düstere Schwingen](/de/equipment/Düstere Schwingen/) | **ANG** | **ABW** | 
-  | [Düstere leichte Rüstung](/de/equipment/Düstere leichte Rüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Düstere Klauen](/images/e/e_5011.png) | [Düstere Klauen](/de/equipment/Sinister Claws/) | **ANG** | **ABW** | 
+  | ![Düsteres Katar](/images/e/e_5012.png) | [Düsteres Katar](/de/equipment/Sinister Katar/) | **LP** | **ABW** | 
+  | ![Düstere Schwingen](/images/e/e_5013.png) | [Düstere Schwingen](/de/equipment/Sinister Wings/) | **ANG** | **ABW** | 
+  | ![Düstere leichte Rüstung](/images/e/e_5014.png) | [Düstere leichte Rüstung](/de/equipment/Sinister Light Armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Feuervogel"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht."
 unitID: 907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Feuervogel"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Schnabel der tosenden Flamme](/de/equipment/Schnabel der tosenden Flamme/) | **ANG** | **ABW** | 
-  | [Rune der Wiederauferstehung](/de/equipment/Rune der Wiederauferstehung/) | **LP** | **ABW** | 
-  | [Krallen der tosenden Flamme](/de/equipment/Krallen der tosenden Flamme/) | **ANG** | **ABW** | 
-  | [Regenbogenfarbene Schwingen](/de/equipment/Regenbogenfarbene Schwingen/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Schnabel der tosenden Flamme](/images/e/e_9071.png) | [Schnabel der tosenden Flamme](/de/equipment/Beak of Raging Flame/) | **ANG** | **ABW** | 
+  | ![Rune der Wiederauferstehung](/images/e/e_9072.png) | [Rune der Wiederauferstehung](/de/equipment/Rune of Resurrection/) | **LP** | **ABW** | 
+  | ![Krallen der tosenden Flamme](/images/e/e_9073.png) | [Krallen der tosenden Flamme](/de/equipment/Claws of Raging Flame/) | **ANG** | **ABW** | 
+  | ![Regenbogenfarbene Schwingen](/images/e/e_9074.png) | [Regenbogenfarbene Schwingen](/de/equipment/Rainbow Feathered Wings/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

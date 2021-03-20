@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mithilfe von Zaubersprüchen, die einen geheimnisvollen Schild erschaffen, benutzen Leprechauns, die der Beschwörung folgen, den Monolithen des Weltenbaums, um auf das grausame und mörderische Schlachtfeld zu reisen, wo sie zum stärksten Schild der Natur werden!"
 unitID: 909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Leprechaun"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Glückliche Segen](/de/equipment/Glückliche Segen/) | **ANG** | **ABW** | 
-  | [Quelle der Kraft](/de/equipment/Quelle der Kraft/) | **LP** | **ABW** | 
-  | [Lebenswächter](/de/equipment/Lebenswächter/) | **ANG** | **ABW** | 
-  | [Die Leichtigkeit des Windes](/de/equipment/Die Leichtigkeit des Windes/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Glückliche Segen](/images/e/e_9091.png) | [Glückliche Segen](/de/equipment/Lucky Blessings/) | **ANG** | **ABW** | 
+  | ![Quelle der Kraft](/images/e/e_9092.png) | [Quelle der Kraft](/de/equipment/Source of Power/) | **LP** | **ABW** | 
+  | ![Lebenswächter](/images/e/e_9093.png) | [Lebenswächter](/de/equipment/Life Guardian/) | **ANG** | **ABW** | 
+  | ![Die Leichtigkeit des Windes](/images/e/e_9094.png) | [Die Leichtigkeit des Windes](/de/equipment/The Lightness of the Wind/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

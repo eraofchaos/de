@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Greif Exklusiv."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Griffin Ritterpike.md"
 toc: false

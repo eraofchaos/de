@@ -3,7 +3,7 @@ title: "Kavallerist"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Kavallerist"
 toc: true
@@ -73,12 +73,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kavalleristenlanze](/de/equipment/Kavalleristenlanze/) | **ANG** | **ABW** | 
-  | [Visier der Abwehr](/de/equipment/Visier der Abwehr/) | **LP** | **ABW** | 
-  | [Schild des Schutzes](/de/equipment/Schild des Schutzes/) | **ANG** | **ABW** | 
-  | [Paladin-Schulterschutz](/de/equipment/Paladin-Schulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kavalleristenlanze](/images/e/e_1061.png) | [Kavalleristenlanze](/de/equipment/Cavalier's Lance/) | **ANG** | **ABW** | 
+  | ![Visier der Abwehr](/images/e/e_1062.png) | [Visier der Abwehr](/de/equipment/Visor of Defense/) | **LP** | **ABW** | 
+  | ![Schild des Schutzes](/images/e/e_1063.png) | [Schild des Schutzes](/de/equipment/Shield of Protection/) | **ANG** | **ABW** | 
+  | ![Paladin-Schulterschutz](/images/e/e_1064.png) | [Paladin-Schulterschutz](/de/equipment/Paladin's Pauldron/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

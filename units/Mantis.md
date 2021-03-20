@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ihre rasiermesserscharfen, riesigen Klingen demonstrieren ihren Stolz als legendäres Geschöpf. Die Elfen von Vori verliehen der Mantis hohe und ausdauernde Vitalität."
 unitID: 209
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Mantis"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/de/equipment/UnknownEquipment_2091/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_2092](/de/equipment/UnknownEquipment_2092/) | **LP** | **ABW** | 
-  | [UnknownEquipment_2093](/de/equipment/UnknownEquipment_2093/) | **ANG** | **ABW** | 
-  | [UnknownEquipment_2094](/de/equipment/UnknownEquipment_2094/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_2091](/images/e/e_2091.png) | [UnknownEquipment_2091](/de/equipment/UnknownEquipment_2091/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_2092](/images/e/e_2092.png) | [UnknownEquipment_2092](/de/equipment/UnknownEquipment_2092/) | **LP** | **ABW** | 
+  | ![UnknownEquipment_2093](/images/e/e_2093.png) | [UnknownEquipment_2093](/de/equipment/UnknownEquipment_2093/) | **ANG** | **ABW** | 
+  | ![UnknownEquipment_2094](/images/e/e_2094.png) | [UnknownEquipment_2094](/de/equipment/UnknownEquipment_2094/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

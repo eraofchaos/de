@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Gorgone"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Gehärtetes Leder](/de/equipment/Gehärtetes Leder/) | **ANG** | **ABW** | 
-  | [Barbaren-Rückenpanzerung](/de/equipment/Barbaren-Rückenpanzerung/) | **LP** | **ABW** | 
-  | [Tödliches Ochsenhorn](/de/equipment/Tödliches Ochsenhorn/) | **ANG** | **ABW** | 
-  | [Magischer Ochsenhuf](/de/equipment/Magischer Ochsenhuf/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Gehärtetes Leder](/images/e/e_8051.png) | [Gehärtetes Leder](/de/equipment/Adamantine Leather/) | **ANG** | **ABW** | 
+  | ![Barbaren-Rückenpanzerung](/images/e/e_8052.png) | [Barbaren-Rückenpanzerung](/de/equipment/Barbarian Back Armor/) | **LP** | **ABW** | 
+  | ![Tödliches Ochsenhorn](/images/e/e_8053.png) | [Tödliches Ochsenhorn](/de/equipment/Deadly Ox Horn/) | **ANG** | **ABW** | 
+  | ![Magischer Ochsenhuf](/images/e/e_8054.png) | [Magischer Ochsenhuf](/de/equipment/Magic Ox Hoof/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

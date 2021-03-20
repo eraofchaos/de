@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Revyaratan"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scharfe Fänge](/de/equipment/Scharfe Fänge/) | **ANG** | **ABW** | 
-  | [Eiskalte Flosse](/de/equipment/Eiskalte Flosse/) | **LP** | **ABW** | 
-  | [Schwanz des Seemonsters](/de/equipment/Schwanz des Seemonsters/) | **ANG** | **ABW** | 
-  | [Tentakel der Versuchung](/de/equipment/Tentakel der Versuchung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scharfe Fänge](/images/e/e_99081.png) | [Scharfe Fänge](/de/equipment/Sharp Fangs/) | **ANG** | **ABW** | 
+  | ![Eiskalte Flosse](/images/e/e_99082.png) | [Eiskalte Flosse](/de/equipment/Ice-cold Fin/) | **LP** | **ABW** | 
+  | ![Schwanz des Seemonsters](/images/e/e_99083.png) | [Schwanz des Seemonsters](/de/equipment/Sea Monster Tail/) | **ANG** | **ABW** | 
+  | ![Tentakel der Versuchung](/images/e/e_99084.png) | [Tentakel der Versuchung](/de/equipment/Tentacles of Temptation/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

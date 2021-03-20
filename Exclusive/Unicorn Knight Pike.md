@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Einhorn Exklusiv."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Unicorn Ritterpike.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Schwertkämpfer"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Schwertkämpfer"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Klinge des Imperiums](/de/equipment/Klinge des Imperiums/) | **ANG** | **ABW** | 
-  | [Ofiziershelm](/de/equipment/Ofiziershelm/) | **LP** | **ABW** | 
-  | [Schild des Imperiums](/de/equipment/Schild des Imperiums/) | **ANG** | **ABW** | 
-  | [Schulterschutz des Imperiums](/de/equipment/Schulterschutz des Imperiums/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Klinge des Imperiums](/images/e/e_1041.png) | [Klinge des Imperiums](/de/equipment/Empire's Sword/) | **ANG** | **ABW** | 
+  | ![Ofiziershelm](/images/e/e_1042.png) | [Ofiziershelm](/de/equipment/Officer's Helmet/) | **LP** | **ABW** | 
+  | ![Schild des Imperiums](/images/e/e_1043.png) | [Schild des Imperiums](/de/equipment/Empire's Shield/) | **ANG** | **ABW** | 
+  | ![Schulterschutz des Imperiums](/images/e/e_1044.png) | [Schulterschutz des Imperiums](/de/equipment/Empire's Pauldrons/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

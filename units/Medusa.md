@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wunderschöne Frauen mit Schlangenkörpern und Schlangenhaaren. Wer in ihre Augen schaut, wird zu Stein."
 unitID: 704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Medusa"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Langbogen des Gemetzels](/de/equipment/Langbogen des Gemetzels/) | **ANG** | **ABW** | 
-  | [Sich windendes Schlangenhaar](/de/equipment/Sich windendes Schlangenhaar/) | **LP** | **ABW** | 
-  | [Krone der Königin](/de/equipment/Krone der Königin/) | **ANG** | **ABW** | 
-  | [Abgrundrüstung](/de/equipment/Abgrundrüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Langbogen des Gemetzels](/images/e/e_7041.png) | [Langbogen des Gemetzels](/de/equipment/Slaughter Longbow/) | **ANG** | **ABW** | 
+  | ![Sich windendes Schlangenhaar](/images/e/e_7042.png) | [Sich windendes Schlangenhaar](/de/equipment/Writhing Snake Hair/) | **LP** | **ABW** | 
+  | ![Krone der Königin](/images/e/e_7043.png) | [Krone der Königin](/de/equipment/Queen's Crown/) | **ANG** | **ABW** | 
+  | ![Abgrundrüstung](/images/e/e_7044.png) | [Abgrundrüstung](/de/equipment/Abyss Armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

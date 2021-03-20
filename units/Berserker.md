@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Berserker"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Obsidian-Kriegsaxt](/de/equipment/Obsidian-Kriegsaxt/) | **ANG** | **ABW** | 
-  | [Knochenkette](/de/equipment/Knochenkette/) | **LP** | **ABW** | 
-  | [Tierknochenhelm](/de/equipment/Tierknochenhelm/) | **ANG** | **ABW** | 
-  | [Lederband](/de/equipment/Lederband/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Obsidian-Kriegsaxt](/images/e/e_4081.png) | [Obsidian-Kriegsaxt](/de/equipment/Obsidian Battle Axe/) | **ANG** | **ABW** | 
+  | ![Knochenkette](/images/e/e_4082.png) | [Knochenkette](/de/equipment/Necklace of Bone/) | **LP** | **ABW** | 
+  | ![Tierknochenhelm](/images/e/e_4083.png) | [Tierknochenhelm](/de/equipment/Beast-boned Helmet/) | **ANG** | **ABW** | 
+  | ![Lederband](/images/e/e_4084.png) | [Lederband](/de/equipment/Leather Band/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

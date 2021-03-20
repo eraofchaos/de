@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Mönch"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Kugel der Göttlichkeit](/de/equipment/Kugel der Göttlichkeit/) | **ANG** | **ABW** | 
-  | [Mystikerkappe](/de/equipment/Mystikerkappe/) | **LP** | **ABW** | 
-  | [Ritualrune](/de/equipment/Ritualrune/) | **ANG** | **ABW** | 
-  | [Einfache leichte Rüstung](/de/equipment/Einfache leichte Rüstung/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Kugel der Göttlichkeit](/images/e/e_1051.png) | [Kugel der Göttlichkeit](/de/equipment/Orb of Divinity/) | **ANG** | **ABW** | 
+  | ![Mystikerkappe](/images/e/e_1052.png) | [Mystikerkappe](/de/equipment/Mystic's Cap/) | **LP** | **ABW** | 
+  | ![Ritualrune](/images/e/e_1053.png) | [Ritualrune](/de/equipment/Rune of Ritual/) | **ANG** | **ABW** | 
+  | ![Einfache leichte Rüstung](/images/e/e_1054.png) | [Einfache leichte Rüstung](/de/equipment/Basic Light Armor/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

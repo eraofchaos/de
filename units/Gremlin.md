@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gremlins haben sich verpflichtet, dem Turm zu dienen. Sie greifen mit ihren verzauberten Kettenkugeln aus der Ferne an."
 unitID: 601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Gremlin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Blitzflegel](/de/equipment/Blitzflegel/) | **ANG** | **ABW** | 
-  | [Verzauberte Haube](/de/equipment/Verzauberte Haube/) | **LP** | **ABW** | 
-  | [Verzauberte Handschuhe](/de/equipment/Verzauberte Handschuhe/) | **ANG** | **ABW** | 
-  | [Windfester Umhang](/de/equipment/Windfester Umhang/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Blitzflegel](/images/e/e_6011.png) | [Blitzflegel](/de/equipment/Lightning's Flail/) | **ANG** | **ABW** | 
+  | ![Verzauberte Haube](/images/e/e_6012.png) | [Verzauberte Haube](/de/equipment/Enchanted Hood/) | **LP** | **ABW** | 
+  | ![Verzauberte Handschuhe](/images/e/e_6013.png) | [Verzauberte Handschuhe](/de/equipment/Enchanted Gloves/) | **ANG** | **ABW** | 
+  | ![Windfester Umhang](/images/e/e_6014.png) | [Windfester Umhang](/de/equipment/Windproof Cloak/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

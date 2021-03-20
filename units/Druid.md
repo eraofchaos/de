@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Druidin"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Krone der Gelassenheit](/de/equipment/Krone der Gelassenheit/) | **ANG** | **ABW** | 
-  | [Ältestenstab](/de/equipment/Ältestenstab/) | **LP** | **ABW** | 
-  | [Robe des tosenden Sturms](/de/equipment/Robe des tosenden Sturms/) | **ANG** | **ABW** | 
-  | [Hohe Stiefel des Waldes](/de/equipment/Hohe Stiefel des Waldes/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Krone der Gelassenheit](/images/e/e_2081.png) | [Krone der Gelassenheit](/de/equipment/Crown of Tranquility/) | **ANG** | **ABW** | 
+  | ![Ältestenstab](/images/e/e_2082.png) | [Ältestenstab](/de/equipment/Elder Staff/) | **LP** | **ABW** | 
+  | ![Robe des tosenden Sturms](/images/e/e_2083.png) | [Robe des tosenden Sturms](/de/equipment/Robe of Storm Rage/) | **ANG** | **ABW** | 
+  | ![Hohe Stiefel des Waldes](/images/e/e_2084.png) | [Hohe Stiefel des Waldes](/de/equipment/Thigh Boots of the Forest/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

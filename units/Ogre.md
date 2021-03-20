@@ -3,7 +3,7 @@ title: "Oger"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Oger"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Widderkopf-Stab](/de/equipment/Widderkopf-Stab/) | **ANG** | **ABW** | 
-  | [Ritualgürtel](/de/equipment/Ritualgürtel/) | **LP** | **ABW** | 
-  | [Stammestalisman](/de/equipment/Stammestalisman/) | **ANG** | **ABW** | 
-  | [Ritualschulterschutz](/de/equipment/Ritualschulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Widderkopf-Stab](/images/e/e_4041.png) | [Widderkopf-Stab](/de/equipment/Rams-head Staff/) | **ANG** | **ABW** | 
+  | ![Ritualgürtel](/images/e/e_4042.png) | [Ritualgürtel](/de/equipment/Belt of Ritual/) | **LP** | **ABW** | 
+  | ![Stammestalisman](/images/e/e_4043.png) | [Stammestalisman](/de/equipment/Tribal Talisman/) | **ANG** | **ABW** | 
+  | ![Ritualschulterschutz](/images/e/e_4044.png) | [Ritualschulterschutz](/de/equipment/Pauldrons of Ritual/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Naga"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Strömende Klinge](/de/equipment/Strömende Klinge/) | **ANG** | **ABW** | 
-  | [Schulterschutz des Seefahrers](/de/equipment/Schulterschutz des Seefahrers/) | **LP** | **ABW** | 
-  | [Kopfschmuck des Schlangengottes](/de/equipment/Kopfschmuck des Schlangengottes/) | **ANG** | **ABW** | 
-  | [Robuste und geschmeidige Hüftplatte](/de/equipment/Robuste und geschmeidige Hüftplatte/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Strömende Klinge](/images/e/e_6061.png) | [Strömende Klinge](/de/equipment/Everflowing Blade/) | **ANG** | **ABW** | 
+  | ![Schulterschutz des Seefahrers](/images/e/e_6062.png) | [Schulterschutz des Seefahrers](/de/equipment/Seafaring Pauldrons/) | **LP** | **ABW** | 
+  | ![Kopfschmuck des Schlangengottes](/images/e/e_6063.png) | [Kopfschmuck des Schlangengottes](/de/equipment/Headdress of the Serpent God/) | **ANG** | **ABW** | 
+  | ![Robuste und geschmeidige Hüftplatte](/images/e/e_6064.png) | [Robuste und geschmeidige Hüftplatte](/de/equipment/Strong and Flexible Waistplate/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

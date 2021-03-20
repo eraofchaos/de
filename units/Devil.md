@@ -3,7 +3,7 @@ title: "Teufel"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
 unitID: 507
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Teufel"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Teufelssense](/de/equipment/Teufelssense/) | **ANG** | **ABW** | 
-  | [Magma-Pentagramm](/de/equipment/Magma-Pentagramm/) | **LP** | **ABW** | 
-  | [Magma-Panzerhandschuhe](/de/equipment/Magma-Panzerhandschuhe/) | **ANG** | **ABW** | 
-  | [Magma-Schulterschutz](/de/equipment/Magma-Schulterschutz/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Teufelssense](/images/e/e_5071.png) | [Teufelssense](/de/equipment/Devil's Scythe/) | **ANG** | **ABW** | 
+  | ![Magma-Pentagramm](/images/e/e_5072.png) | [Magma-Pentagramm](/de/equipment/Molten Pentagram/) | **LP** | **ABW** | 
+  | ![Magma-Panzerhandschuhe](/images/e/e_5073.png) | [Magma-Panzerhandschuhe](/de/equipment/Gauntlets of Molten Lava/) | **ANG** | **ABW** | 
+  | ![Magma-Schulterschutz](/images/e/e_5074.png) | [Magma-Schulterschutz](/de/equipment/Pauldrons of Molten Lava/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

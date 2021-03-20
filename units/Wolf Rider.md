@@ -3,7 +3,7 @@ title: "Wolfsreiter"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
 unitID: 402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Wolfsreiter"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scharfer Säbel](/de/equipment/Scharfer Säbel/) | **ANG** | **ABW** | 
-  | [Mächtiger Gürtel](/de/equipment/Mächtiger Gürtel/) | **LP** | **ABW** | 
-  | [Armschutz des Wolfes](/de/equipment/Armschutz des Wolfes/) | **ANG** | **ABW** | 
-  | [Schulterschutz der Wolfszunge](/de/equipment/Schulterschutz der Wolfszunge/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scharfer Säbel](/images/e/e_4021.png) | [Scharfer Säbel](/de/equipment/Razor-bladed Sabre/) | **ANG** | **ABW** | 
+  | ![Mächtiger Gürtel](/images/e/e_4022.png) | [Mächtiger Gürtel](/de/equipment/Mighty Belt/) | **LP** | **ABW** | 
+  | ![Armschutz des Wolfes](/images/e/e_4023.png) | [Armschutz des Wolfes](/de/equipment/Bracer of the Wolf/) | **ANG** | **ABW** | 
+  | ![Schulterschutz der Wolfszunge](/images/e/e_4024.png) | [Schulterschutz der Wolfszunge](/de/equipment/Pauldrons of Wolf-tongue/) | **LP** | **ABW** | 
 
 ## Exklusiv
 

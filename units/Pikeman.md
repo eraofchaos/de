@@ -3,7 +3,7 @@ title: "Pikenier"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie."
 unitID: 101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: de
 ref: "Pikenier"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Ausrüstung
 
-  |  Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Azurlanze](/de/equipment/Azurlanze/) | **ANG** | **ABW** | 
-  | [Plattenhelm](/de/equipment/Plattenhelm/) | **LP** | **ABW** | 
-  | [Schild der Wache](/de/equipment/Schild der Wache/) | **ANG** | **ABW** | 
-  | [Plattenschulterpanzer](/de/equipment/Plattenschulterpanzer/) | **LP** | **ABW** | 
+  | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Azurlanze](/images/e/e_1011.png) | [Azurlanze](/de/equipment/Azure Lance/) | **ANG** | **ABW** | 
+  | ![Plattenhelm](/images/e/e_1012.png) | [Plattenhelm](/de/equipment/Plate Helmet/) | **LP** | **ABW** | 
+  | ![Schild der Wache](/images/e/e_1013.png) | [Schild der Wache](/de/equipment/Sentinel's Shield/) | **ANG** | **ABW** | 
+  | ![Plattenschulterpanzer](/images/e/e_1014.png) | [Plattenschulterpanzer](/de/equipment/Plated Shoulderpads/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
