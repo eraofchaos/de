@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert."
 heroID: 60301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Gelu"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Wahnsinn
  **Beschreibung:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und steigert <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang ihr ANG-Tempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Gelu](/de/heroes/Adjutant Gelu/) 
+
+ **Type:**  Einheiten 
+
+ **Adjutant-Fähigkeit:**  Präzisionsschlag 
+
+ **Beschreibung:** Erhöht den Krit. Gesamt-SCHD von verbündeten Fernkampf-Einheiten um <span style="color: #48b946;font-size:20px">{(3+0.3*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verlangsamung](/de/combination/Verlangsamung/) 
 
 ## HERO Biography
    - Gelu war selbst in jungen Jahren schon ein ausgezeichneter Kundschafter und mit zunehmenden Alter haben sich seine Talente verzehnfacht.

@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, der uralte König der Lava, hat Hunderte von Jahren in den Bergen an der Grenze zu Eeofol geschlafen. Jetzt wacht er auf und schließt sich den Elementaren an. Erdamon ist mehr als bereit, der Welt zu helfen, und sich der Kreeganer mithilfe eines Kriegs zu entledigen."
 heroID: 60703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Erdamon"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Lavafalle
  **Beschreibung:** Beschwört eine Lavafalle, die Kreaturen, außer fliegenden Kreaturen, neben der Falle im Sekundentakt <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Erdzauberschaden zufügt und sie 0,7 Sek. lang <span style="color: #e07c44;font-size:20px">betäubt</span><span style="color: black">. Dauer der Falle: {$olast11/1000} Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Erdamon](/de/heroes/Adjutant Erdamon/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserter Konflux 
+
+ **Beschreibung:** Erhöht die LP verbündeter Konflux-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Betäubung](/de/combination/Betäubung/) 
+* [Schild](/de/combination/Schild/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland ist der erste – und bisher einzige – Mensch, der vom Kreis der Elfenältesten ganz akzeptiert wurde. Manche scherzen sogar, er sei wirklich ein Elf, der in einem menschlichen Körper wiedergeboren wurde."
 heroID: 60303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Ryland"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Gebet
  **Beschreibung:** Stellt bei verbündeten Einheiten innerhalb einer großen Reichweite <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> LP wieder her. Die wiederhergestellten LP verdoppeln sich bei Zielen mit <span style="color: #e07c44;font-size:20px">Schilden.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Ryland](/de/heroes/Adjutant Ryland/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserter Schutzwall 
+
+ **Beschreibung:** Erhöht die LP verbündeter Schutzwall-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Betäubung](/de/combination/Betäubung/) 
+* [Schild](/de/combination/Schild/) 
 
 ## HERO Biography
 

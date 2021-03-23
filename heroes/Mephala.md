@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Mephala genoss eine Ausbildung in der Armee Erathias und war ein Naturtalent, wenn es darum ging, das Gelände zu ihren Gunsten auszunutzen. Obwohl sie den Frieden und die Ruhe ihres Dorfs bevorzugt, bleibt sie für ihr Land beim Militär."
 heroID: 60302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Mephala"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Heiliger Schild
  **Beschreibung:** Beschwört einen riesigen Schutzschild und verleiht verbündeten Einheiten Immunität gegen jeglichen Schaden. Dauer: <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Mephala](/de/heroes/Adjutant Mephala/) 
+
+ **Type:**  Einheiten 
+
+ **Adjutant-Fähigkeit:**  Abwehrformation 
+
+ **Beschreibung:** Erhöht den Schildwert verbündeter Abwehr-Einheiten um <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Schild](/de/combination/Schild/) 
 
 ## HERO Biography
    - Ein verheerendes Feuer tobte im Wald. Mephala eilte hin, um die Ursache zu ergründen ...

@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna lebte in Enroth, als sie hörte, dass ein Elementar in Erathia aufgetaucht war. Da sie glaubte, dort weitaus mächtigere Magie zu lernen, überquerte sie das Meer, um neue Geheimnisse zu lüften."
 heroID: 60701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Luna"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Brennendes Land
  **Beschreibung:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Feuerzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Feuerschaden bei <span style="color: #e07c44;font-size:20px">brennenden Zielen.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Luna](/de/heroes/Adjutant Luna/) 
+
+ **Type:**  Zauberspruch 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Feuermagie 
+
+ **Beschreibung:** Erhöht den Zauber-SCHD durch Feuer von verbündeten Helden um <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

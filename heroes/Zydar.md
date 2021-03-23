@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar widmete den Großteil seines Lebens der Verbesserung seiner Zauber und wurde ein mächtiger Zauberer, bevor er die Anführerrolle auf dem Schlachtfeld ergriff. Er ist verlässlicher als seine dämonischen Verwandten."
 heroID: 60901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Zydar"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Feuertor
  **Beschreibung:** Errichtet 1 Feuertor im Zielbereich und beschwört 3 Imp-Einheiten der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">. Die Imps bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ANG und LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Zydar](/de/heroes/Adjutant Zydar/) 
+
+ **Type:**  Statistik 
+
+ **Adjutant-Fähigkeit:**  Intelligenzsammlung 
+
+ **Beschreibung:** Erhöht die Intelligenz verbündeter Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
 
 ## HERO Biography
 

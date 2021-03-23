@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Catherine ist die Königin von Erathia und deshalb gezwungen, Krieg zu führen, um das Königreich ihres Vaters zu beschützen. Sie wird bis zum finalen Showdown der Armageddonklinge kämpfen."
 heroID: 60102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Catherine"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Schneesturm
  **Beschreibung:** Beschwört einen Schneesturm, der Gegnern innerhalb eines großen Bereichs 5-mal Wasserzauberschaden, insgesamt <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>, zufügt und sie 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Catherine](/de/heroes/Adjutant Catherine/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbessertes Schloss 
+
+ **Beschreibung:** Erhöht die LP verbündeter Schloss-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Hohe Moral](/de/combination/Hohe Moral/) 
+* [Verlangsamung](/de/combination/Verlangsamung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
    - Catherines schwierigster Kampf war gleichermaßen einer der letzten: die Schlacht an der Greifenklippe, wo ihre Truppen eine mächtige Armee aus Teufeln besiegten. Diese Auseinandersetzung ebnete ihr offiziell die Rückkehr auf den Thron.

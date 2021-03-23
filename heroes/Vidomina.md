@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte."
 heroID: 60502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Vidomina"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Untotenarmee
  **Beschreibung:** Beschwört so viele Skelette der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> im Zielbereich, wie sich gegnerische Einheiten darin befinden. Skelette bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Vidomina](/de/heroes/Adjutant Vidomina/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Nekropolis 
+
+ **Beschreibung:** Erhöht ANG von verbündeten Nekropolis-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Niedrige Moral](/de/combination/Niedrige Moral/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
    - Ein als Ketzerei betiteltes Experiment hilft Vidomina, den Grund für das Leben zu finden ...

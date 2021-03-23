@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. König Roland wurde von den Kreeganern von einer Gruppe Krieger gerettet. Als Dank trat er der Armee Erathias als General bei. Dort lernte er Catherine kennen, und gemeinsam boten sie ihren Gegnern die Stirn."
 heroID: 60103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Roland"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Königswind
  **Beschreibung:** Verleiht allen verbündeten Einheiten <span style="color: #e07c44;font-size:20px">Hohe Moral</span><span style="color: black">, was ihren ANG um 50<50*($a122+$a126+$a132+$a136)> % erhöht. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Roland](/de/heroes/Adjutant Roland/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Moralwoge 
+
+ **Beschreibung:** Wenn verbündete Schloss-Einheiten eine <span style="color: #e07c44;font-size:20px">hohe Moral</span><span style="color: black"> haben, erhöht sich ihr Angriffstempo für 6 Sek. um <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Hohe Moral](/de/combination/Hohe Moral/) 
+* [Verbrennung](/de/combination/Verbrennung/) 
 
 ## HERO Biography
 

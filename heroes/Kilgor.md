@@ -3,7 +3,7 @@ title: "Kilgor"
 permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. Kilgor besiegte in jungem Alter seinen Vater, um Klanhäuptling zu werden. Sein Ruhm hat sich seither in ganz Krewlod verbreitet. Viele glauben, dass er der einzige Krieger ist, der das Fest des Lebens dieser Generation gewinnen kann."
 heroID: 60601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Kilgor"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Unbeugsamer Wille
  **Beschreibung:** Erhöht die Zähigkeit aller verbündeten Einheiten um 50 und ihren krit. Schaden um 10 %. Verbündete Burg-Einheiten stellen alle 3 Sek. <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> LP wieder her. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Kilgor](/de/heroes/Adjutant Kilgor/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Meister des Krieges 
+
+ **Beschreibung:** Erhöht SCHD (Einheit) verbündeter Burg-Einheiten alle 15 Sek. um <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))} %</span><span style="color: black">. Bis zu 4 Mal stapelbar.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
 
 ## HERO Biography
 

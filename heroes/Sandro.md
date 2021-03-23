@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro ist ein Totenbeschwörer, der jede Ecke Enroths und Erathias kennt. Jetzt unterstützt er offensichtlich Finneas Vilmar, den Anführer der Totenbeschwörer von Deyja."
 heroID: 60501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Sandro"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Dunkelste Stunden
  **Beschreibung:** Fügt allen gegnerischen Einheiten, außer Nekropolis-Einheiten, Erdzauberschaden entsprechend <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> und 5 % ihrer max. LP zu und belegt sie <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang mit <span style="color: #e07c44;font-size:20px">Niedriger Moral</span><span style="color: black">. Gleichzeitig werden die LP verbündeter Nekropolis-Einheiten um <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> wiederhergestellt und sie leiden an <span style="color: #e07c44;font-size:20px">Niedriger Moral.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Sandro](/de/heroes/Adjutant Sandro/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Dunkle Invasion 
+
+ **Beschreibung:** Haben alle Einheiten <span style="color: #e07c44;font-size:20px">Niedrige Moral</span><span style="color: black">, verringert sich die SCHD-Reduzierung (Einheit) um <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Niedrige Moral](/de/combination/Niedrige Moral/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
    - Sandro beschloss, nach Deyja zu gehen, als er den Umhang des untoten Königs und die Rüstung der Verdammten hatte ...

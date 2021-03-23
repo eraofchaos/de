@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Ein General, der der Königsfamilie von Erathia treu ergeben ist. Seit dem Tod von König Greifenherz kümmert sich Morgan Kendal bis zur Rückkehr des rechtmäßigen Erben um das Land."
 heroID: 60104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Kendal"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Eiltaktik
  **Beschreibung:** Erhöht das ANG-Tempo und die Magieresistenz verbündeter Einheiten innerhalb des Zielbereichs <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang um 30 % beziehungsweise um 50 %. Die Erhöhung verdoppelt sich bei 9-Mann-Einheiten.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Kendal](/de/heroes/Adjutant Kendal/) 
+
+ **Type:**  Einheiten 
+
+ **Adjutant-Fähigkeit:**  Kriegsfieber 
+
+ **Beschreibung:** Erhöht SCHD (Einheit) von verbündeten Offensiv-Einheiten um <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Hohe Moral](/de/combination/Hohe Moral/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

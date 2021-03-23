@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, die einzige bekannte Zauberin Antagarichs soll angeblich die uneheliche Tochter von König Greifenherz sein."
 heroID: 61402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Sephinroth"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Kristallisierte Erde
  **Beschreibung:** Fügt gegnerischen Einheiten, außer <span style="color: #e07c44;font-size:20px">versteinerten</span><span style="color: black"> Einheiten, innerhalb eines äußerst großen Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu und <span style="color: #e07c44;font-size:20px">versteinert</span><span style="color: black"> sie <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang. <span style="color: #e07c44;font-size:20px">Versteinerte</span><span style="color: black"> gegnerische Einheiten erleiden doppelten Schaden.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Sephinroth](/de/heroes/Adjutant Sephinroth/) 
+
+ **Type:**  Statistik 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Erdmagie 
+
+ **Beschreibung:** Erhöht den Zauber-SCHD durch Erde von verbündeten Helden um <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Versteinerung](/de/combination/Versteinerung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

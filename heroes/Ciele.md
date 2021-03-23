@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Ciele gehörte zu den ersten Helden, die sich den Elementaren anschlossen, und ist eine stets siegreiche Generalin auf dem Schlachtfeld. Sie entdeckte die Verbindung unter den Magie-Elementaren mit ihren magischen Pfeilen."
 heroID: 60705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Ciele"
 toc: true
@@ -43,6 +43,24 @@ toc: true
 ### 4 Spell: Erdpfeil
  **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> Erdzauberschaden zu und <span style="color: #e07c44;font-size:20px">betäubt</span><span style="color: black"> sie 3 Sek. lang.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Ciele](/de/heroes/Adjutant Ciele/) 
+
+ **Type:**  Zauberspruch 
+
+ **Adjutant-Fähigkeit:**  Leuchtender Konflux 
+
+ **Beschreibung:** Verringert die Magieresistenz aller gegnerischen Einheiten gegen alle Zauber um <span style="color: #48b946;font-size:20px">{(8+0.8*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Schock](/de/combination/Schock/) 
+* [Versteinerung](/de/combination/Versteinerung/) 
+* [Verlangsamung](/de/combination/Verlangsamung/) 
+* [Verbrennung](/de/combination/Verbrennung/) 
+* [Stille](/de/combination/Stille/) 
 
 ## HERO Biography
 

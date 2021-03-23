@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon wird von vielen seiner Ältesten als magisches Wunderkind betrachtet. Sein Lebensziel ist es, der mächtigste Drachentöter der Welt zu werden."
 heroID: 61202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Dracon"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Klonen
  **Beschreibung:** Kopiert 1 eigene Einheit. Sie verfügt über <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))} %</span><span style="color: black"> des ANG der Originaleinheit und erleidet {($duplidmg11+$duplidmg12*($sklevel-1))} % mehr Schaden. Dauer: 30 Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Dracon](/de/heroes/Adjutant Dracon/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserter Turm 
+
+ **Beschreibung:** Erhöht ANG von verbündeten Turm-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verlangsamung](/de/combination/Verlangsamung/) 
 
 ## HERO Biography
 

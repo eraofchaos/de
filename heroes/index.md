@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "index.md"
 toc: false
@@ -31,22 +31,23 @@ classes: wide
   | 19 | [Korbac](/de/heroes/Korbac/) | Festung | Bestienmeister | R |  Luft voller Fliegen  |
   | 20 | [Lord Haart](/de/heroes/Lord Haart/) | Nekropolis | Todesritter | SR- |  Todesritter  |
   | 21 | [Luna](/de/heroes/Luna/) | Konflux | Elementarist | R |  Höllenmauer  |
-  | 22 | [Mensch Sandro](/de/heroes/Human Sandro/) | Nekropolis | Totenbeschwörer | SR |  Unsterbliche Seele  |
-  | 23 | [Mephala](/de/heroes/Mephala/) | Schutzwall | Waldläufer | R |  Absolute Abwehr  |
-  | 24 | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | R |  Psy-Elementar  |
-  | 25 | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | R+ |  Sturmangriff  |
-  | 26 | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | R |  Dungeon-Flut  |
-  | 27 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | R+ |  Segel setzen  |
-  | 28 | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | R |  Feuer-Lord  |
-  | 29 | [Roland](/de/heroes/Roland/) | Schloss | Ritter | SR+ |  Erhöhte Moral  |
-  | 30 | [Ryland](/de/heroes/Ryland/) | Schutzwall | Waldläufer | R |  Dendroidenwache  |
-  | 31 | [Sandro](/de/heroes/Sandro/) | Nekropolis | Totenbeschwörer | SSR |  Dunkelheit  |
-  | 32 | [Sephinroth](/de/heroes/Sephinroth/) | Dungeon | Hexer | R |  Kristallblick  |
-  | 33 | [Shiva](/de/heroes/Shiva/) | Burg | Barbar | R |  Sturmbringer  |
-  | 34 | [Solmyr](/de/heroes/Solmyr/) | Turm | Zauberer | SR |  Blitzstrahl-Salve  |
-  | 35 | [Tazar](/de/heroes/Tazar/) | Festung | Bestienmeister | SR |  Blutiger Zorn  |
-  | 36 | [Vidomina](/de/heroes/Vidomina/) | Nekropolis | Totenbeschwörer | R |  Totenbeschwörer  |
-  | 37 | [Wystan](/de/heroes/Wystan/) | Festung | Bestienmeister | R |  Moorjäger  |
-  | 38 | [Xeron](/de/heroes/Xeron/) | Inferno | Dämoniker | SSR |  Erzteufel  |
-  | 39 | [Yog](/de/heroes/Yog/) | Burg | Barbar | SR |  Rasender Zyklop  |
-  | 40 | [Zydar](/de/heroes/Zydar/) | Inferno | Ketzer | R |  Inferno beschwören  |
+  | 22 | [Melodia](/de/heroes/Melodia/) | Schutzwall | Druidin | R |  Großes Glück  |
+  | 23 | [Mensch Sandro](/de/heroes/Human Sandro/) | Nekropolis | Totenbeschwörer | SR |  Unsterbliche Seele  |
+  | 24 | [Mephala](/de/heroes/Mephala/) | Schutzwall | Waldläufer | R |  Absolute Abwehr  |
+  | 25 | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | R |  Psy-Elementar  |
+  | 26 | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | R+ |  Sturmangriff  |
+  | 27 | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | R |  Dungeon-Flut  |
+  | 28 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | R+ |  Segel setzen  |
+  | 29 | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | R |  Feuer-Lord  |
+  | 30 | [Roland](/de/heroes/Roland/) | Schloss | Ritter | SR+ |  Erhöhte Moral  |
+  | 31 | [Ryland](/de/heroes/Ryland/) | Schutzwall | Waldläufer | R |  Dendroidenwache  |
+  | 32 | [Sandro](/de/heroes/Sandro/) | Nekropolis | Totenbeschwörer | SSR |  Dunkelheit  |
+  | 33 | [Sephinroth](/de/heroes/Sephinroth/) | Dungeon | Hexer | R |  Kristallblick  |
+  | 34 | [Shiva](/de/heroes/Shiva/) | Burg | Barbar | R |  Sturmbringer  |
+  | 35 | [Solmyr](/de/heroes/Solmyr/) | Turm | Zauberer | SR |  Blitzstrahl-Salve  |
+  | 36 | [Tazar](/de/heroes/Tazar/) | Festung | Bestienmeister | SR |  Blutiger Zorn  |
+  | 37 | [Vidomina](/de/heroes/Vidomina/) | Nekropolis | Totenbeschwörer | R |  Totenbeschwörer  |
+  | 38 | [Wystan](/de/heroes/Wystan/) | Festung | Bestienmeister | R |  Moorjäger  |
+  | 39 | [Xeron](/de/heroes/Xeron/) | Inferno | Dämoniker | SSR |  Erzteufel  |
+  | 40 | [Yog](/de/heroes/Yog/) | Burg | Barbar | SR |  Rasender Zyklop  |
+  | 41 | [Zydar](/de/heroes/Zydar/) | Inferno | Ketzer | R |  Inferno beschwören  |

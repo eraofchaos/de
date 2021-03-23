@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Adelaide"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Frostring
  **Beschreibung:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und lässt <span style="color: #e07c44;font-size:20px">verlangsamte</span><span style="color: black"> Ziele 5 Sek. lang <span style="color: #e07c44;font-size:20px">erstarren.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Adelaide](/de/heroes/Adjutant Adelaide/) 
+
+ **Type:**  Zauberspruch 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Wassermagie 
+
+ **Beschreibung:** Erhöht den Zauber-SCHD durch Wasser von verbündeten Helden um <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verlangsamung](/de/combination/Verlangsamung/) 
+* [Erstarren](/de/combination/Erstarren/) 
 
 ## HERO Biography
 

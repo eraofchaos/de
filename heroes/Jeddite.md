@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite ist ein geheimnisvoller Mann, der engen Kontakt mit den hochrangigen Funktionären verschiedener Länder pflegt. Über seine Vergangenheit ist jedoch nichts bekannt und er erwähnt sie auch nicht."
 heroID: 61401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Jeddite"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Kreis des Lebens
  **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines großen Bereichs alle {$ointerval/1000} Sek. <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zu und stellt LP von verbündeten Einheiten entsprechend des ausgeteilten Schadens wieder her. Dauer: {($olast11+$olast12*($sklevel-1))/1000} Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Jeddite](/de/heroes/Adjutant Jeddite/) 
+
+ **Type:**  Zauberspruch 
+
+ **Adjutant-Fähigkeit:**  Ruinierte Abwehr 
+
+ **Beschreibung:** Verringert die ABW gegnerischer Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Versteinerung](/de/combination/Versteinerung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva wurde in eine Familie hineingeboren, deren Mitglieder sich auf die Ausbildung und Domestizierung von Rocs spezialisierten. Sie wollte mit dem Familienunternehmen nichts zu tun haben, sondern sich stattdessen Krewlods Armee anschließen und eine ausgezeichnete Söldnerin werden."
 heroID: 60603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Shiva"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Sturm
  **Beschreibung:** Beschwört einen Sturm im Zielbereich, der allen Einheiten in einem bestimmten Bereich {$olast11/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zufügt und ihr Angriffstempo um 15 % verringert.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Shiva](/de/heroes/Adjutant Shiva/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Burg 
+
+ **Beschreibung:** Erhöht ANG von verbündeten Burg-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

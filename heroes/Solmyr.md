@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr saß über tausend Jahre in einer Dschinnflasche fest und ist seinem Befreier, Gavin Magnus, dem ewigen Herrscher über das Hochland von Bracada, ewig dankbar und hat ihm immerwährende Treue geschworen."
 heroID: 61201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Solmyr"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Blitzstrahl-Salve
  **Beschreibung:** Feuert einen Blitzstrahl ab, der 5-mal auf eine andere gegnerische Einheit überspringt. Jeder Sprung fügt <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> Luftzauberschaden zu.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Solmyr](/de/heroes/Adjutant Solmyr/) 
+
+ **Type:**  Zauberspruch 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Luftmagie 
+
+ **Beschreibung:** Erhöht den Zauber-SCHD durch Luft von verbündeten Helden um <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Schock](/de/combination/Schock/) 
 
 ## HERO Biography
    - Ein neues Bewusstsein begann sich im Verstandlabyrinth zu bilden ...

@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral kam vor ungefähr einem Jahrzehnt nach Erathia und wurde schnell von der Magiergilde von Bracada anerkannt. Nachdem er in der Gilde eine hohe Position einnahm, scherzten einige, dass dabei bestimmt Magie im Spiel war."
 heroID: 61203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Astral"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Brillante Erde
  **Beschreibung:** <span style="color: #e07c44;font-size:20px">Blendet</span><span style="color: black"> alle gegnerischen Einheiten und verringert ihre Präzision um 1.000. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Astral](/de/heroes/Adjutant Astral/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Magiewoge 
+
+ **Beschreibung:** Jedes Mal, wenn ein verbündeter Held einen Zauber wirkt, erlangen verbündete Turm-Einheiten <span style="color: #48b946;font-size:20px">{(0.5+0.05*($sklevel-1))} %</span><span style="color: black"> ihrer max. LP wieder. Die AKZ beträgt 4 Sek.
+
+## Kombinationsinfo
+
+* [Blindheit](/de/combination/Blindheit/) 
+* [Stille](/de/combination/Stille/) 
 
 ## HERO Biography
 

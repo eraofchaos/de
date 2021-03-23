@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch."
 heroID: 61701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Cassanbel"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Flutwellen
  **Beschreibung:** Wirkt <Flutwellen>, die alle gegnerischen Einheiten mit Wucht treffen, <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zufügen und sie 10 Sek. lang <span style="color: #e07c44;font-size:20px">abschrecken</span><span style="color: black">. Außerdem besteht eine Chance von 20 % für 2 Sek. langes <span style="color: #e07c44;font-size:20px">Erstarren.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Cassanbel](/de/heroes/Adjutant Cassanbel/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Herr des Ozeans 
+
+ **Beschreibung:** Wirken verbündete Helden Wasserzauber, erhöhen sich der Krit. Treffer für verbündete Bucht-Einheiten um <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}</span><span style="color: black"> und der Krit. Gesamt-SCHD um 1 %. Bis zu 20 Mal stapelbar.
+
+## Kombinationsinfo
+
+* [Verlangsamung](/de/combination/Verlangsamung/) 
+* [Erstarren](/de/combination/Erstarren/) 
+* [Abschreckung](/de/combination/Abschreckung/) 
 
 ## HERO Biography
 

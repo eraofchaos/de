@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandras herausragende Kampffähigkeiten verdankt sie ihrer spartanischen Erziehung. Nachdem die Spartaner sie auf dem Berg Taygetos ihrem Tod überlassen hatten, wurde sie zur Söldnerin."
 heroID: 62001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Kassandra"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Beschreibung:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauber-Schaden zu und verursacht {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">Verbrennung</span><span style="color: black"> und <span style="color: #e07c44;font-size:20px">Betäubung</span><span style="color: black">.
 
 
+## Adjutant
+
+ **Adjutant:**  [Adjutant Kassandra](/de/heroes/Adjutant Kassandra/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Macht des Leonidas 
+
+ **Beschreibung:** Wirkt ein gegnerischer Held einen Feuerzauber, erhöht sich die ABW deiner neutralen Einheiten 10 Sek. lang um <span style="color: #48b946;font-size:20px">{(0.5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+  none
 ## HERO Biography
 
 ## HERO Skins

@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. Als Kind wurde sie von Dunkelelfen entführt und verkauft. Irgendwann wurde Jenova jedoch von einem rachsüchtigen Einhorn aus ihrem Elend befreit. Seit dieser Zeit verehrt sie diese geheimnisvollen Kreaturen im Wald und will ihr ganzes Leben mit ihnen verbringen. Niemand weiß besser über Einhörner Bescheid als Jenova, die deren Schnelligkeit und Intelligenz im Krieg nutzt, um einen taktischen Vorteil zu gewinnen."
 heroID: 60202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Jenova"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Herz der Reinheit
  **Beschreibung:** Beschwört 4 Einhornkönige der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> im Zielbereich. Die Einhörner bleiben 20 Sek. lang auf dem Schlachtfeld und haben <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> ANG sowie LP in Höhe von <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Jenova](/de/heroes/Adjutant Jenova/) 
+
+ **Type:**  Statistik 
+
+ **Adjutant-Fähigkeit:**  Wissenssammlung 
+
+ **Beschreibung:** Erhöht das Wissen verbündeter Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Blindheit](/de/combination/Blindheit/) 
+* [Schild](/de/combination/Schild/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog wurde viele Jahre lang von den Magiern in Bracada unterrichtet, aber er studiert lieber Militärstrategien anstatt magische Runen zu verwenden. Später erkannte Herzog Krewlod seinen Wert und er wurde ein außergewöhnlicher General in der Barbarenarmee."
 heroID: 60604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Yog"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Energieumkehr
  **Beschreibung:** Von Helden gewirkter Zauberschaden gegen alle verbündeten Einheiten heilt sie nun stattdessen und von Helden gewirkte Heilzauber fügen nun gegnerischen Einheiten Schaden zu. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Yog](/de/heroes/Adjutant Yog/) 
+
+ **Type:**  Statistik 
+
+ **Adjutant-Fähigkeit:**  Abwehrsammlung 
+
+ **Beschreibung:** Erhöht die ABW verbündeter Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
 
 ## HERO Biography
    - Herzog Boragus hat Yog zum Kommandanten der Zyklopeneinheiten ernannt. Doch zuvor ist die Fähigkeit erforderlich, sie im Zaum zu halten ...

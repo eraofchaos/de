@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka führt seine Truppen zum Ruhm, indem er alle einschüchtert. Bis jetzt war seine Taktik äußerst effektiv."
 heroID: 60802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Rashka"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Infernoflamme
  **Beschreibung:** Beschwört einen Infernospalt, der gegnerischen Einheiten im Umkreis {$olast11/1000} Sek. lang alle 0,5 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> Feuerzauberschaden zufügt. Schaden halbiert sich bei Inferno-Einheiten.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Rashka](/de/heroes/Adjutant Rashka/) 
+
+ **Type:**  Zauberspruch 
+
+ **Adjutant-Fähigkeit:**  Feuriger Amoklauf 
+
+ **Beschreibung:** Erhöht den Zauber-SCHD durch Feuer von verbündeten Helden um <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
 
 ## HERO Biography
    - Rashka ist ein ehrgeiziger Lord der Hölle. Seit Xenofex gestürzt wurde, arbeitet er an seinem Plan, Eeofol zu vereinen.

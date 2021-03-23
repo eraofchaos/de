@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. Während des sechsmonatigen Grenzkriegs gegen Krewlod führte Tazar eine kleine Streitkraft in einem Außenposten Tatalias an. Er konnte die fünfmal größere Armee Krewlods acht Tage lang aufhalten, bis Verstärkung eintraf."
 heroID: 61501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Tazar"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Todeskampf
  **Beschreibung:** Alle Einheiten auf dem Schlachtfeld werden mit 2 zufälligen Debuffs belegt, die nicht entfernt werden können. Die Schaden-Debuffs für Gegner verdoppeln sich. Verbündete Festung-Einheiten erhalten 10 % Lebensentzug für <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Tazar](/de/heroes/Adjutant Tazar/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Seuchensucher 
+
+ **Beschreibung:** Verringert die erhaltene Heilung aller Einheiten um <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Versteinerung](/de/combination/Versteinerung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

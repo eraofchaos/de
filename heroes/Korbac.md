@@ -3,7 +3,7 @@ title: "Korbac"
 permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac rettete den Gelehrten Valjean und gilt seither in Erathia als Held. Ob das nun stimmt oder nicht, Korbac hat auf jeden Fall sein Können im Dienste für Tatalia unter Beweis gestellt."
 heroID: 61502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Korbac"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Schlangenfliegennest
  **Beschreibung:** Beschwört eine Schlange der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> im Zielbereich. Sie bleibt 20 Sek. lang auf dem Schlachtfeld und hat <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ANG und LP in Höhe von <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Korbac](/de/heroes/Adjutant Korbac/) 
+
+ **Type:**  Statistik 
+
+ **Adjutant-Fähigkeit:**  Angriffsverfeinerung 
+
+ **Beschreibung:** Erhöht den ANG verbündeter Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Hohe Moral](/de/combination/Hohe Moral/) 
+* [Verlangsamung](/de/combination/Verlangsamung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

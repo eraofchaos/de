@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere wurde mit der Fähigkeit geboren, Psy- und Magie-Elementare zu kontrollieren. Er ist ein bedeutender General der Elementare."
 heroID: 60702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Monere"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Mystikdomäne
  **Beschreibung:** Erschafft eine Mystikdomäne im Zielbereich, die gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> Erdzauberschaden zufügt und gegnerische Einheiten in Reichweite <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3> Sek. lang belegt mit <span style="color: #e07c44;font-size:20px">Stille.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Monere](/de/heroes/Adjutant Monere/) 
+
+ **Type:**  Statistik 
+
+ **Adjutant-Fähigkeit:**  Ruiniertes Wissen 
+
+ **Beschreibung:** Verringert das Wissen gegnerischer Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verlangsamung](/de/combination/Verlangsamung/) 
+* [Verbrennung](/de/combination/Verbrennung/) 
+* [Stille](/de/combination/Stille/) 
 
 ## HERO Biography
 

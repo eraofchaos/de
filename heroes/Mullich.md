@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Sir Mullichs Truppen sind bekannt für ihre Geschwindigkeit, und Mullich selbst für seine Selbstkontrolle und Disziplin. Er unterzieht seine Truppen einer Spezialausbildung, um sie schneller zu machen."
 heroID: 60101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Mullich"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Zeitstopp
  **Beschreibung:** Beschwört ein Zeitfeld, das gegnerische Einheiten in Reichweite bewegungsunfähig macht. Dauer: <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Mullich](/de/heroes/Adjutant Mullich/) 
+
+ **Type:**  Einheiten 
+
+ **Adjutant-Fähigkeit:**  Durch feindliche Linien 
+
+ **Beschreibung:** Erhöht zum Kampfbeginn die SCHD-Reduzierung (Einheit) einer Ansturm-Einheit für 20 Sek. um <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Hohe Moral](/de/combination/Hohe Moral/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
    - Mullich wurde in einer Taverne zum Ritter geschlagen ...

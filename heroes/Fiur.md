@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Obwohl er für einen Elementar noch jung und unerprobt ist, besitzt Fiur Kräfte, die ihresgleichen suchen. Man glaubt, dass er früher oder später einer der stärksten Helden der Elementare werden wird."
 heroID: 60704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Fiur"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Flammenausbruch
  **Beschreibung:** Fügt gegnerischen Einheiten in einem großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> Feuerzauberschaden und <span style="color: #e07c44;font-size:20px">brennenden</span><span style="color: black"> Einheiten zusätzlichen Schaden entsprechend 35 % ihrer max. LP zu.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Fiur](/de/heroes/Adjutant Fiur/) 
+
+ **Type:**  Statistik 
+
+ **Adjutant-Fähigkeit:**  Ruinierte Intelligenz 
+
+ **Beschreibung:** Verringert die Intelligenz gegnerischer Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
 
 ## HERO Biography
 

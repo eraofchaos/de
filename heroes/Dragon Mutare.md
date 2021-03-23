@@ -3,7 +3,7 @@ title: "Drache Mutare"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Drache Mutare. Drache Mutare. Nachdem sie aus der Drachenblutphiole getrunken hatte, wurde Mutare zu einem Drachen mit einem menschlichen Bewusstsein. Manche glauben, dass ihre Verwandlung die Ankunft des Drachenvaters ankündigt."
 heroID: 61302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Dragon Mutare"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Drachenbrüllen
  **Beschreibung:** Belegt alle gegnerischen Einheiten mit <span style="color: #e07c44;font-size:20px">Blutung</span><span style="color: black">, was 16 Sek. lang alle 2 Sek. Schaden entsprechend <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))} %</span><span style="color: black"> ihrer max. LP zufügt und sie 6 Sek. lang <span style="color: #e07c44;font-size:20px">betäubt</span><span style="color: black">. Manche Einheiten können immun gegen durch <span style="color: #e07c44;font-size:20px">Blutung</span><span style="color: black"> zugefügten Schaden werden und die Heilung verringert sich für <span style="color: #e07c44;font-size:20px">blutende Einheiten.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Drache Mutare](/de/heroes/Adjutant Dragon Mutare/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Drachenkreis 
+
+ **Beschreibung:** Wirkt ein gegnerischer Held einen Zauber, erhöht sich der SCHD (Einheit) verbündeter Dungeon-Einheiten 5 Sek. lang um <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))} %</span><span style="color: black">. Bis zu 5 Mal stapelbar.
+
+## Kombinationsinfo
+
+* [Blutung](/de/combination/Blutung/) 
+* [Verbrennung](/de/combination/Verbrennung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

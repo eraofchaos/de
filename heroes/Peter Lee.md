@@ -3,7 +3,7 @@ title: "Peter Lee"
 permalink: /heroes/Peter Lee/
 excerpt: "Era of Chaos Peter Lee. Peter Lee. Peter Lee ist ein legendärer Pirat, aber offensichtlich zieht er Schätze und Abenteuer dem Brandschatzen und der Plünderei vor. Es heißt, dass er und seine Flotte bis zum Ende der Welt gereist seien."
 heroID: 61801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Peter Lee"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Wellen brechen
  **Beschreibung:** Peter Lee fügt mit einem Angriffsschiff allen gegnerischen Einheiten <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu. Abwehr-Einheiten erleiden zusätzlichen Zauberschaden entsprechend 10 % ihrer max. LP.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Peter Lee](/de/heroes/Adjutant Peter Lee/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Bucht 
+
+ **Beschreibung:** Erhöht den ANG von verbündeten Bucht-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Hohe Moral](/de/combination/Hohe Moral/) 
+* [Verlangsamung](/de/combination/Verlangsamung/) 
+* [Abschreckung](/de/combination/Abschreckung/) 
 
 ## HERO Biography
 

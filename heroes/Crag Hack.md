@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack war ein unbesungener Held in Enroth, bevor er die Segel nach Erathia setzte. Er erkannte, dass er in diesem Land voller Tumulte den größtmöglichen Nutzen aus seinen Talenten ziehen kann."
 heroID: 60602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Crag Hack"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Tötungswille
  **Beschreibung:** Erhöht den ANG verbündeter Nahkampfeinheiten um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> % und ihren Lebensentzug um {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span><span style="color: black">
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Crag Hack](/de/heroes/Adjutant Crag Hack/) 
+
+ **Type:**  Einheiten 
+
+ **Adjutant-Fähigkeit:**  Bis zum Tod 
+
+ **Beschreibung:** Erhöht die Durchdringung aller verbündeten Nahkampfeinheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Blutung](/de/combination/Blutung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
    - Wenn gerade keine Schlacht ansteht, liebt Crag Hack es, über das Meer zu segeln und Schiffe und Hafenstädte zu überfallen, um seinen Blutdurst zu stillen.

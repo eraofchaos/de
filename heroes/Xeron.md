@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Als Luzifer Kreegan Xenofex tötete und die Macht übernahm, war Xeron der erste, der dem Usurpator die Treue schwor. Durch diese Tat erkaufte er sich die Gunst des neuen Königs."
 heroID: 60801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Xeron"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Echo des Abgrunds
  **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Feuerzauberschaden zu und beschwört im Zielbereich 1 Teufel der Stufe <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">, der immun gegen jeglichen Schaden ist, 10 Sek. lang auf dem Schlachtfeld bleibt und <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> ANG hat.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Xeron](/de/heroes/Adjutant Xeron/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Versengte Seele 
+
+ **Beschreibung:** Greifen verbündete Inferno-Einheiten andere Einheiten an, die mit <span style="color: #e07c44;font-size:20px">Verbrennung</span><span style="color: black"> belegt sind, erhöht sich der SCHD (Einheit) um <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
 
 ## HERO Biography
 

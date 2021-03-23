@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan ist der älteste Schwiegersohn von König Tralossk und steht in der Thronfolge an zweiter Stelle. Er wartet auf den Tag, an dem er den Thron besteigen kann."
 heroID: 61504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Wystan"
 toc: true
@@ -43,6 +43,23 @@ toc: true
 ### 4 Spell: Morast
  **Beschreibung:** Beschwört einen Morast am bestimmten Ort, der das ANG-Tempo verbündeter Festung-Einheiten in einem äußerst großen Bereich um <span style="color: #e07c44;font-size:20px">10 %</span><span style="color: black"> erhöht, im Sekundentakt ihre LP entsprechend <span style="color: #e07c44;font-size:20px">3 %</span><span style="color: black"> ihrer max. LP wiederherstellt, das ANG-Tempo gegnerischer Einheiten, außer fliegenden Einheiten, um <span style="color: #e07c44;font-size:20px">30 %</span><span style="color: black"> und deren Bewegungstempo um <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> verringert. Dauer: {($olast11+$olast12*($sklevel-1))/1000} Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Wystan](/de/heroes/Adjutant Wystan/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserte Festung 
+
+ **Beschreibung:** Erhöht die LP verbündeter Festungseinheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Blutung](/de/combination/Blutung/) 
+* [Krankheit](/de/combination/Krankheit/) 
+* [Betäubung](/de/combination/Betäubung/) 
+* [Schild](/de/combination/Schild/) 
 
 ## HERO Biography
 

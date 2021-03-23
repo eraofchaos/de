@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart wurde getötet und wiederbelebt. Als General der Untotenarmee ist er jetzt noch stärker als zu Lebzeiten."
 heroID: 60401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Lord Haart"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Tötungsbefehl
  **Beschreibung:** Befiehlt Todesrittern, einmal einen <span style="color: #48b946;font-size:20px">Kritischen Schlag</span><span style="color: black"> zu verüben. Der Schaden erhöht sich dieses Mal um 20 %. Verringert die ABW des Ziels um {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Lord Haart](/de/heroes/Adjutant Lord Haart/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Fürchterliche Aura 
+
+ **Beschreibung:** Erhöht SCHD (Einheit) von verbündeten Nekropolis-Einheiten um <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Niedrige Moral](/de/combination/Niedrige Moral/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

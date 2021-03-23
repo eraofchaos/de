@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Mutare kam in Nighon erst vor kurzer Zeit an die Macht, kann aber schon seit ihrer Geburt Drachen befehligen. In Schlachten ist sie dadurch nahezu unverwundbar."
 heroID: 61301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Mutare"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Erdrutsch
  **Beschreibung:** Fügt gegnerischen Einheiten im Wirkungsbereich alle 0,8 Sek. <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> Schaden zu. Diese Einheiten werden außerdem {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">betäubt</span><span style="color: black">. Wirkungsdauer: {$olast11/1000} Sek.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Mutare](/de/heroes/Adjutant Mutare/) 
+
+ **Type:**  Fraktion 
+
+ **Adjutant-Fähigkeit:**  Verbesserter Dungeon 
+
+ **Beschreibung:** Erhöht die LP verbündeter Dungeon-Einheiten um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+* [Verbrennung](/de/combination/Verbrennung/) 
+* [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
 

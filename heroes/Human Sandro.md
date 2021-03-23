@@ -3,7 +3,7 @@ title: "Mensch Sandro"
 permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Mensch Sandro. Mensch Sandro. Mensch Sandro, der Lehrling des Magiers Eric in Bracada, ist ein junger Magier, der von Enroth aus das Meer überquerte. Er verbirgt seine Ambitionen und Absichten vor seinem Lehrer und anderen, die ihn kennen."
 heroID: 60503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: de
 ref: "Human Sandro"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Beschreibung:** Beschwört einen Schatten, der 10 Sek. lang andauert und gegnerischen Einheiten in Reichweite im Sekundentakt <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> Erdzauberschaden zufügt und ihr Angriffstempo um 30 % verringert. Gleichzeitig erhöhen sich ANG-Tempo und Lebensentzug verbündeter Nekropolis-Einheiten um 30 %.
 
 
+## Adjutant
+
+ **Adjutant:**  [Adjutant Mensch Sandro](/de/heroes/Adjutant Human Sandro/) 
+
+ **Type:**  Zauberspruch 
+
+ **Adjutant-Fähigkeit:**  Verbotene Nekromantie 
+
+ **Beschreibung:** Erhöht den Effekt aller Beschwörungszauber von verbündeten Helden um <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))} %</span><span style="color: black"> und SCHD-Reduzierung (Einheit) um <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))} %</span><span style="color: black">.
+
+## Kombinationsinfo
+
+  none
 ## HERO Biography
 
 ## HERO Skins
