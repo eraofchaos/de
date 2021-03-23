@@ -2,7 +2,7 @@
 title: "Kampfformation INTERNAL"
 permalink: /Battle Formation/Battle Formation internal
 excerpt: "Kampfformation.Jede Fraktion hat eigene Potenziale und Energie. Lass die exklusive Kampfformation aufleuchten, um deine latente Kraft zu aktivieren."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: de
 ref: "index.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
 ## Kampfformation by Fraktion: 
 
-  [Schloss](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Schutzwall](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Burg](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Nekropolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Turm](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Festung](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Konflux](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Bucht](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
+  [Schloss](/de/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Schutzwall](/de/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Burg](/de/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Nekropolis](/de/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Inferno](/de/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Turm](/de/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Dungeon](/de/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Festung](/de/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Konflux](/de/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Bucht](/de/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
 ## Regeln
 

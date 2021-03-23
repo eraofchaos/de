@@ -2,7 +2,7 @@
 title: "Kampfformation "
 permalink: /Battle Formation/
 excerpt: "Kampfformation.Jede Fraktion hat eigene Potenziale und Energie. Lass die exklusive Kampfformation aufleuchten, um deine latente Kraft zu aktivieren."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: de
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
 ## Kampfformation by Fraktion: 
 
-  [Schloss](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Schutzwall](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Burg](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nekropolis](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Turm](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Festung](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Konflux](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Bucht](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+  [Schloss](/de/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Schutzwall](/de/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Burg](/de/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nekropolis](/de/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/de/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Turm](/de/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/de/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Festung](/de/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Konflux](/de/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Bucht](/de/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
 ## Regeln
 

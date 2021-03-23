@@ -2,13 +2,13 @@
 title: "Kampfformation Schutzwall"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "Kampfformation Schutzwall"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: de
 ref: "BattleFormationFactionRampart"
 toc: false
 classes: wide
 ---
- [Schloss](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Schutzwall](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Burg](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nekropolis](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Turm](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Festung](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Konflux](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Bucht](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+ [Schloss](/de/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Schutzwall](/de/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Burg](/de/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Nekropolis](/de/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/de/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Turm](/de/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/de/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Festung](/de/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Konflux](/de/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Bucht](/de/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
   **Fraction:** [Schutzwall](/units/Faction Rampart)
 
@@ -32,43 +32,43 @@ classes: wide
 
 ## Kampfformation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **10** x [Zentaur](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.3** % | 150 |  **10** x [Zentaur](/de/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ANG + **0.9** % | 70 |   |
-  | 3 | Rampart - A Strike Hit | Präzision + **6**  | 150 |  **10** x [Zentaur](/units/Centaur) |
+  | 3 | Rampart - A Strike Hit | Präzision + **6**  | 150 |  **10** x [Zentaur](/de/units/Centaur) |
   | 4 | Rampart - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 5 | Rampart - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Zentaur](/units/Centaur) |
+  | 5 | Rampart - Ingeniousness | Ausweichen + **6**  | 150 |  **10** x [Zentaur](/de/units/Centaur) |
   | 6 | Rampart - Physical Trials | LP + **0.9** % | 70 |   |
-  | 7 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Waldelfe](/units/Wood Elf) |
+  | 7 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.3** % | 150 |  **10** x [Waldelfe](/de/units/Wood Elf) |
   | 8 | Rampart - Physical Trials | LP + **0.9** % | 70 |   |
-  | 9 | Rampart - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Waldelfe](/units/Wood Elf) |
+  | 9 | Rampart - Rocklike Skin | Zähigkeit + **6**  | 150 |  **10** x [Waldelfe](/de/units/Wood Elf) |
   | 10 | Rampart - Storm Assaulter | ANG + **0.5** %, LP + **0.5** % | 70 |   |
-  | 11 | Rampart - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Waldelfe](/units/Wood Elf) |
+  | 11 | Rampart - Blaster | Kritischer Treffer + **5**  | 150 |  **10** x [Waldelfe](/de/units/Wood Elf) |
   | 12 | Rampart - Storm Assaulter | ANG + **0.9** % | 70 |   |
   
 
 
 ## Kampfformation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **10** x [Zentaur](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.4** % | 160 |  **10** x [Zentaur](/de/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ANG + **1** % | 80 |   |
   | 3 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 4 | Rampart - A Strike Hit | Präzision + **6**  | 160 |  **10** x [Einhorn](/units/Unicorn) |
+  | 4 | Rampart - A Strike Hit | Präzision + **6**  | 160 |  **10** x [Einhorn](/de/units/Unicorn) |
   | 5 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 6 | Rampart - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 7 | Rampart - Ingeniousness | Ausweichen + **6**  | 160 |  **10** x [Zwerg](/units/Dwarf) |
+  | 7 | Rampart - Ingeniousness | Ausweichen + **6**  | 160 |  **10** x [Zwerg](/de/units/Dwarf) |
   | 8 | Rampart - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 9 | Rampart - Physical Trials | LP + **1** % | 80 |   |
-  | 10 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Einhorn](/units/Unicorn) |
+  | 10 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 160 |  **10** x [Einhorn](/de/units/Unicorn) |
   | 11 | Rampart - Physical Trials | LP + **1** % | 80 |   |
   | 12 | Rampart - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
-  | 13 | Rampart - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Zwerg](/units/Dwarf) |
+  | 13 | Rampart - Rocklike Skin | Zähigkeit + **7**  | 160 |  **10** x [Zwerg](/de/units/Dwarf) |
   | 14 | Rampart - Physical Trials | ANG + **0.3** %, LP + **0.7** % | 80 |   |
   | 15 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
-  | 16 | Rampart - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Waldelfe](/units/Wood Elf) |
+  | 16 | Rampart - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Waldelfe](/de/units/Wood Elf) |
   | 17 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Rampart - Storm Assaulter | ANG + **1** % | 80 |   |
   
