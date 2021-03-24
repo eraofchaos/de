@@ -2,7 +2,7 @@
 title: "Exklusiv - Geistkern"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Geistkern. Geistkern. Era of Chaos Exklusiv Geistkern. Psy-Elementar Exklusiv."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Psychic Elemental Geistkern.md"
 toc: false

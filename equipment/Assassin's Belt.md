@@ -2,7 +2,7 @@
 title: "Assassinengürtel"
 permalink: /equipment/Assassin's Belt/
 excerpt: "Era of Chaos Assassinengürtel. Assassinengürtel"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Assassin's Belt.md"
 toc: false

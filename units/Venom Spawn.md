@@ -3,7 +3,7 @@ title: "Giftbrut"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen."
 unitID: 509
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Giftbrut"
 toc: true

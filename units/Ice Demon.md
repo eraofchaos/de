@@ -3,7 +3,7 @@ title: "Eisdämon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Eisdämon ist selbst auf der Konflux-Ebene eine seltsame Existenz. Er ist wie ein Stück Eis, das niemals schmilzt. Er blendet deine Augen und raubt dir den Atem. Er ist wie die Leichen, die in Gletschergräbern ruhen."
 unitID: 908
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Eisdämon"
 toc: true

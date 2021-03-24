@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Blutung"
 permalink: /combination/Bleeding/
 excerpt: "Kombinationsinfo - Blutung. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Blutung.md"
 toc: false
@@ -16,27 +16,27 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Zentaur](/units/Zentaur/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Pegasus](/units/Pegasus/) | [Drache Mutare](/heroes/Drache Mutare/) |
-  | 3 | [Ork](/units/Ork/) | [Wystan](/heroes/Wystan/) |
-  | 4 | [Dendroidenwache](/units/Dendroidenwache/) | - |
-  | 5 | [Behemoth](/units/Behemoth/) | - |
-  | 6 | [Höllenhund](/units/Höllenhund/) | - |
-  | 7 | [Minotaurus](/units/Minotaurus/) | - |
-  | 8 | [Wespenwurz](/units/Wespenwurz/) | - |
-  | 9 | [Dunkler Kämpe](/units/Dunkler Kämpe/) | - |
+  | 1 | [Zentaur](/de/units/Centaur/) | [Crag Hack](/de/heroes/Crag Hack/) |
+  | 2 | [Pegasus](/de/units/Pegasus/) | [Drache Mutare](/de/heroes/Dragon Mutare/) |
+  | 3 | [Ork](/de/units/Orc/) | [Wystan](/de/heroes/Wystan/) |
+  | 4 | [Dendroidenwache](/de/units/Dendroid Guard/) | - |
+  | 5 | [Behemoth](/de/units/Behemoth/) | - |
+  | 6 | [Höllenhund](/de/units/Hell Hound/) | - |
+  | 7 | [Minotaurus](/de/units/Minotaur/) | - |
+  | 8 | [Wespenwurz](/de/units/Waspwort/) | - |
+  | 9 | [Dunkler Kämpe](/de/units/Dark Champion/) | - |
 
 
 #### Einheiten und Helden verursachen zusätzlichen Schaden gegen Feinde mit „Blutung“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Grüner Drache](/units/Grüner Drache/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Höllenhund](/units/Höllenhund/) | [Drache Mutare](/heroes/Drache Mutare/) |
-  | 3 | [Lich](/units/Lich/) | - |
-  | 4 | [Wandelnde Tote](/units/Wandelnde Tote/) | - |
-  | 5 | [Medusa](/units/Medusa/) | - |
-  | 6 | [Troglodyt](/units/Troglodyt/) | - |
-  | 7 | [Echsenmensch](/units/Echsenmensch/) | - |
-  | 8 | [Gorgone](/units/Gorgone/) | - |
-  | 9 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Grüner Drache](/de/units/Green Dragon/) | [Crag Hack](/de/heroes/Crag Hack/) |
+  | 2 | [Höllenhund](/de/units/Hell Hound/) | [Drache Mutare](/de/heroes/Dragon Mutare/) |
+  | 3 | [Lich](/de/units/Lich/) | - |
+  | 4 | [Wandelnde Tote](/de/units/Walking Dead/) | - |
+  | 5 | [Medusa](/de/units/Medusa/) | - |
+  | 6 | [Troglodyt](/de/units/Troglodyte/) | - |
+  | 7 | [Echsenmensch](/de/units/Lizardman/) | - |
+  | 8 | [Gorgone](/de/units/Gorgon/) | - |
+  | 9 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

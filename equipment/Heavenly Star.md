@@ -2,7 +2,7 @@
 title: "Himmlischer Stern"
 permalink: /equipment/Heavenly Star/
 excerpt: "Era of Chaos Himmlischer Stern. Himmlischer Stern"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Heavenly Star.md"
 toc: false

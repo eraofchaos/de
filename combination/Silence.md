@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Stille"
 permalink: /combination/Silence/
 excerpt: "Kombinationsinfo - Stille. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Stille.md"
 toc: false
@@ -16,17 +16,17 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Pixie](/units/Pixie/) | [Astral](/heroes/Astral/) |
-  | 2 | [Mantikor](/units/Mantikor/) | [Monere](/heroes/Monere/) |
-  | 3 | [Teufel](/units/Teufel/) | [Ciele](/heroes/Ciele/) |
-  | 4 | [Knochendrache](/units/Knochendrache/) | - |
-  | 5 | [Geist](/units/Geist/) | - |
-  | 6 | [Dunkler Kämpe](/units/Dunkler Kämpe/) | - |
+  | 1 | [Pixie](/de/units/Sprite/) | [Astral](/de/heroes/Astral/) |
+  | 2 | [Mantikor](/de/units/Manticore/) | [Monere](/de/heroes/Monere/) |
+  | 3 | [Teufel](/de/units/Devil/) | [Ciele](/de/heroes/Ciele/) |
+  | 4 | [Knochendrache](/de/units/Bone Dragon/) | - |
+  | 5 | [Geist](/de/units/Wight/) | - |
+  | 6 | [Dunkler Kämpe](/de/units/Dark Champion/) | - |
 
 
 #### Einheiten und Helden haben einen Vorteil gegen Feinde mit „Stille“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | - |
-  | 2 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Gorgone](/de/units/Gorgon/) | - |
+  | 2 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

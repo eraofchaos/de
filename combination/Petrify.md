@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Versteinerung"
 permalink: /combination/Petrify/
 excerpt: "Kombinationsinfo - Versteinerung. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Versteinerung.md"
 toc: false
@@ -16,15 +16,15 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Medusa](/units/Medusa/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Basilisk](/units/Basilisk/) | [Jeddite](/heroes/Jeddite/) |
-  | 3 | - | [Ciele](/heroes/Ciele/) |
-  | 4 | - | [Tazar](/heroes/Tazar/) |
+  | 1 | [Medusa](/de/units/Medusa/) | [Sephinroth](/de/heroes/Sephinroth/) |
+  | 2 | [Basilisk](/de/units/Basilisk/) | [Jeddite](/de/heroes/Jeddite/) |
+  | 3 | - | [Ciele](/de/heroes/Ciele/) |
+  | 4 | - | [Tazar](/de/heroes/Tazar/) |
 
 
 #### Einheiten und Helden haben einen Vorteil gegen Feinde mit „Versteinerung“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Gorgone](/de/units/Gorgon/) | [Sephinroth](/de/heroes/Sephinroth/) |
+  | 2 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

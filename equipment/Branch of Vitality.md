@@ -2,7 +2,7 @@
 title: "Ast der Vitalität"
 permalink: /equipment/Branch of Vitality/
 excerpt: "Era of Chaos Ast der Vitalität. Ast der Vitalität"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Branch of Vitality.md"
 toc: false

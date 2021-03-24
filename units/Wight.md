@@ -3,7 +3,7 @@ title: "Geist"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Geist"
 toc: true

@@ -2,7 +2,7 @@
 title: "Item - Materials - Gute Edelsteine"
 permalink: /Items/mat_16/
 excerpt: "Era of Chaos  Gute Edelsteine"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_16.md"
 toc: false

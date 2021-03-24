@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Verlangsamung"
 permalink: /combination/Slow/
 excerpt: "Kombinationsinfo - Verlangsamung. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Verlangsamung.md"
 toc: false
@@ -16,24 +16,24 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Dendroidenwache](/units/Dendroidenwache/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Zentaur](/units/Zentaur/) | [Catherine](/heroes/Catherine/) |
-  | 3 | [Wandelnde Tote](/units/Wandelnde Tote/) | [Dracon](/heroes/Dracon/) |
-  | 4 | [Eiselementar](/units/Eiselementar/) | [Gem](/heroes/Gem/) |
-  | 5 | [Meerelementar](/units/Meerelementar/) | [Monere](/heroes/Monere/) |
-  | 6 | [Regnanbogensch.](/units/Regnanbogensch./) | [Korbac](/heroes/Korbac/) |
-  | 7 | - | [Ciele](/heroes/Ciele/) |
-  | 8 | - | [Cassanbel](/heroes/Cassanbel/) |
-  | 9 | - | [Peter Lee](/heroes/Peter Lee/) |
+  | 1 | [Dendroidenwache](/de/units/Dendroid Guard/) | [Adelaide](/de/heroes/Adelaide/) |
+  | 2 | [Zentaur](/de/units/Centaur/) | [Catherine](/de/heroes/Catherine/) |
+  | 3 | [Wandelnde Tote](/de/units/Walking Dead/) | [Dracon](/de/heroes/Dracon/) |
+  | 4 | [Eiselementar](/de/units/Ice Elemental/) | [Gem](/de/heroes/Gem/) |
+  | 5 | [Meerelementar](/de/units/Sea Elemental/) | [Monere](/de/heroes/Monere/) |
+  | 6 | [Regnanbogensch.](/de/units/Regnan Archer/) | [Korbac](/de/heroes/Korbac/) |
+  | 7 | - | [Ciele](/de/heroes/Ciele/) |
+  | 8 | - | [Cassanbel](/de/heroes/Cassanbel/) |
+  | 9 | - | [Peter Lee](/de/heroes/Peter Lee/) |
 
 
 #### Einheiten und Helden verursachen Doppelschlag gegen Feinde mit „Verlangsamung“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Scharfschütze](/units/Scharfschütze/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Schwertkämpfer](/units/Schwertkämpfer/) | [Gelu](/heroes/Gelu/) |
-  | 3 | [Waldelfe](/units/Waldelfe/) | [Peter Lee](/heroes/Peter Lee/) |
-  | 4 | [Wolfsreiter](/units/Wolfsreiter/) | - |
-  | 5 | [Gorgone](/units/Gorgone/) | - |
-  | 6 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Scharfschütze](/de/units/Marksman/) | [Adelaide](/de/heroes/Adelaide/) |
+  | 2 | [Schwertkämpfer](/de/units/Swordsman/) | [Gelu](/de/heroes/Gelu/) |
+  | 3 | [Waldelfe](/de/units/Wood Elf/) | [Peter Lee](/de/heroes/Peter Lee/) |
+  | 4 | [Wolfsreiter](/de/units/Wolf Rider/) | - |
+  | 5 | [Gorgone](/de/units/Gorgon/) | - |
+  | 6 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

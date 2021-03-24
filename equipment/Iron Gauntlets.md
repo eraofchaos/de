@@ -2,7 +2,7 @@
 title: "Eiserne Panzerhandschuhe"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "Era of Chaos Eiserne Panzerhandschuhe. Eiserne Panzerhandschuhe"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Iron Gauntlets.md"
 toc: false

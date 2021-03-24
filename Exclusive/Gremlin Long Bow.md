@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Gremlin Exklusiv."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Gremlin Langbogen.md"
 toc: false

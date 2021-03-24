@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Schock"
 permalink: /combination/Static/
 excerpt: "Kombinationsinfo - Schock. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Schock.md"
 toc: false
@@ -16,14 +16,14 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Erzmagier](/units/Erzmagier/) | [Solmyr](/heroes/Solmyr/) |
-  | 2 | [Sturmelementar](/units/Sturmelementar/) | [Ciele](/heroes/Ciele/) |
+  | 1 | [Erzmagier](/de/units/Arch Mage/) | [Solmyr](/de/heroes/Solmyr/) |
+  | 2 | [Sturmelementar](/de/units/Storm Elemental/) | [Ciele](/de/heroes/Ciele/) |
 
 
 #### Einheiten und Helden haben einen Vorteil gegen Feinde mit „Schock“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Sturmelementar](/units/Sturmelementar/) | - |
-  | 2 | [Gorgone](/units/Gorgone/) | - |
-  | 3 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Sturmelementar](/de/units/Storm Elemental/) | - |
+  | 2 | [Gorgone](/de/units/Gorgon/) | - |
+  | 3 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Buch der Waffen"
 permalink: /Items/mat_32/
 excerpt: "Era of Chaos  Buch der Waffen"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_32.md"
 toc: false

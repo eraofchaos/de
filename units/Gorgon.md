@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Gorgone"
 toc: true

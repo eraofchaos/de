@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenedelsteine"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Seelenedelsteine"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_86.md"
 toc: false

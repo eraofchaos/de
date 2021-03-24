@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Erstarren"
 permalink: /combination/Freeze/
 excerpt: "Kombinationsinfo - Erstarren. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Erstarren.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Eiselementar](/units/Eiselementar/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Magisches Luftschiff](/units/Magisches Luftschiff/) | [Cassanbel](/heroes/Cassanbel/) |
+  | 1 | [Eiselementar](/de/units/Ice Elemental/) | [Adelaide](/de/heroes/Adelaide/) |
+  | 2 | [Magisches Luftschiff](/de/units/Magic Airship/) | [Cassanbel](/de/heroes/Cassanbel/) |
 
 
 #### Einheiten und Helden haben einen Vorteil gegen Feinde mit „Erstarren“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Gorgone](/de/units/Gorgon/) | [Adelaide](/de/heroes/Adelaide/) |
+  | 2 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

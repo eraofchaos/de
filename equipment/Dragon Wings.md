@@ -2,7 +2,7 @@
 title: "Drachenschwingen"
 permalink: /equipment/Dragon Wings/
 excerpt: "Era of Chaos Drachenschwingen. Drachenschwingen"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Dragon Wings.md"
 toc: false

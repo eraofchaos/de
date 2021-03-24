@@ -3,7 +3,7 @@ title: "Mantikor"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr."
 unitID: 706
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Mantikor"
 toc: true

@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwarze Drachenschuppe"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Schwarze Drachenschuppe. Schwarze Drachenschuppe. Era of Chaos Exklusiv Schwarze Drachenschuppe. Schwarzer Drache Exklusiv."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Black Dragon Schwarze Drachenschuppe.md"
 toc: false

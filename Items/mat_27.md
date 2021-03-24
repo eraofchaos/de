@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvolles Holz"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Wertvolles Holz"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_27.md"
 toc: false

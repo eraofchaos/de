@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltenes Erz"
 permalink: /Items/mat_40/
 excerpt: "Era of Chaos  Seltenes Erz"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_40.md"
 toc: false

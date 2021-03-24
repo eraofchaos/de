@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendäres Holz"
 permalink: /Items/mat_55/
 excerpt: "Era of Chaos  Legendäres Holz"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_55.md"
 toc: false

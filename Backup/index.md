@@ -15,12 +15,12 @@ classes: wide
 
   |  Nr  | Schlachtfeldreserve | Open Level | Spezialfähigkeit | Schlachtfeldfähigkeit | Globale Fähigkeit |
   |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Ansturmoffensive](/de/Backup/Ansturmoffensive/) |  | Ansturmsoffensive | Stürmischer Angriff | Speerspitze |
-  | 2  | [Lunas Segen](/de/Backup/Lunas Segen/) | 80 | Lunas Segen | Heilen | Energiekraft |
-  | 3  | [Schlitzer des Todes](/de/Backup/Schlitzer des Todes/) | 85 | Schlitzer des Todes | Peinigen | Gelehrsamkeit |
-  | 4  | [Arktischer Befehl](/de/Backup/Arktischer Befehl/) | 89 | Arktischer Befehl | Mächtige Energie | Nahrung |
-  | 5  | [Zauberbefehlskreis](/de/Backup/Zauberbefehlskreis/) | 93 | Zauberbefehlskreis | Kraftfeld | Erglühen |
-  | 6  | [Jagd im Wald](/de/Backup/Jagd im Wald/) | 97 | Jagd im Wald | Ansporn | Ermächtigung |
+  | 1  | [Ansturmoffensive](/de/Backup/Charge Offensive/) |  | Ansturmsoffensive | Stürmischer Angriff | Speerspitze |
+  | 2  | [Lunas Segen](/de/Backup/Blessing of Luna/) | 80 | Lunas Segen | Heilen | Energiekraft |
+  | 3  | [Schlitzer des Todes](/de/Backup/Scythe of the Death/) | 85 | Schlitzer des Todes | Peinigen | Gelehrsamkeit |
+  | 4  | [Arktischer Befehl](/de/Backup/Arctic Coercion/) | 89 | Arktischer Befehl | Mächtige Energie | Nahrung |
+  | 5  | [Zauberbefehlskreis](/de/Backup/Spell Commandment/) | 93 | Zauberbefehlskreis | Kraftfeld | Erglühen |
+  | 6  | [Jagd im Wald](/de/Backup/Hunt in the Forest/) | 97 | Jagd im Wald | Ansporn | Ermächtigung |
 
 
 ## Spezialfähigkeit Level up costs:

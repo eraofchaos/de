@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Blindheit"
 permalink: /combination/Blind/
 excerpt: "Kombinationsinfo - Blindheit. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Blindheit.md"
 toc: false
@@ -16,12 +16,12 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Einhorn](/units/Einhorn/) | [Astral](/heroes/Astral/) |
+  | 1 | [Einhorn](/de/units/Unicorn/) | [Astral](/de/heroes/Astral/) |
 
 
 #### Einheiten und Helden verursachen zusätzlichen Schaden gegen Feinde mit „Blindheit“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Jenova](/heroes/Jenova/) |
-  | 2 | [Schlangenfliege](/units/Schlangenfliege/) | [Astral](/heroes/Astral/) |
+  | 1 | [Gorgone](/de/units/Gorgon/) | [Jenova](/de/heroes/Jenova/) |
+  | 2 | [Schlangenfliege](/de/units/Serpent Fly/) | [Astral](/de/heroes/Astral/) |

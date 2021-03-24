@@ -2,7 +2,7 @@
 title: "Wappen des Imperiums"
 permalink: /equipment/Empire's Crest/
 excerpt: "Era of Chaos Wappen des Imperiums. Wappen des Imperiums"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Empire's Crest.md"
 toc: false

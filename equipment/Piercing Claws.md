@@ -2,7 +2,7 @@
 title: "Durchbohrende Krallen"
 permalink: /equipment/Piercing Claws/
 excerpt: "Era of Chaos Durchbohrende Krallen. Durchbohrende Krallen"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Piercing Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Verbrennung"
 permalink: /combination/Burning/
 excerpt: "Kombinationsinfo - Verbrennung. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Verbrennung.md"
 toc: false
@@ -16,28 +16,28 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gog](/units/Gog/) | [Xeron](/heroes/Xeron/) |
-  | 2 | [Efreet](/units/Efreet/) | [Drache Mutare](/heroes/Drache Mutare/) |
-  | 3 | [Zyklop](/units/Zyklop/) | [Roland](/heroes/Roland/) |
-  | 4 | [Feuerelementar](/units/Feuerelementar/) | [Kilgor](/heroes/Kilgor/) |
-  | 5 | [Psy-Elementar](/units/Psy-Elementar/) | [Shiva](/heroes/Shiva/) |
-  | 6 | [Schwarzer Drache](/units/Schwarzer Drache/) | [Yog](/heroes/Yog/) |
-  | 7 | [Roter Drache](/units/Roter Drache/) | [Luna](/heroes/Luna/) |
-  | 8 | - | [Monere](/heroes/Monere/) |
-  | 9 | - | [Rashka](/heroes/Rashka/) |
-  | 10 | - | [Zydar](/heroes/Zydar/) |
-  | 11 | - | [Mutare](/heroes/Mutare/) |
-  | 12 | - | [Fiur](/heroes/Fiur/) |
-  | 13 | - | [Ciele](/heroes/Ciele/) |
+  | 1 | [Gog](/de/units/Gog/) | [Xeron](/de/heroes/Xeron/) |
+  | 2 | [Efreet](/de/units/Efreeti/) | [Drache Mutare](/de/heroes/Dragon Mutare/) |
+  | 3 | [Zyklop](/de/units/Cyclops/) | [Roland](/de/heroes/Roland/) |
+  | 4 | [Feuerelementar](/de/units/Fire Elemental/) | [Kilgor](/de/heroes/Kilgor/) |
+  | 5 | [Psy-Elementar](/de/units/Psychic Elemental/) | [Shiva](/de/heroes/Shiva/) |
+  | 6 | [Schwarzer Drache](/de/units/Black Dragon/) | [Yog](/de/heroes/Yog/) |
+  | 7 | [Roter Drache](/de/units/Red Dragon/) | [Luna](/de/heroes/Luna/) |
+  | 8 | - | [Monere](/de/heroes/Monere/) |
+  | 9 | - | [Rashka](/de/heroes/Rashka/) |
+  | 10 | - | [Zydar](/de/heroes/Zydar/) |
+  | 11 | - | [Mutare](/de/heroes/Mutare/) |
+  | 12 | - | [Fiur](/de/heroes/Fiur/) |
+  | 13 | - | [Ciele](/de/heroes/Ciele/) |
 
 
 #### Einheiten und Helden verursachen zusätzlichen Schaden gegen Feinde mit „Verbrennung“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Teufel](/units/Teufel/) | [Luna](/heroes/Luna/) |
-  | 2 | [Feuervogel](/units/Feuervogel/) | [Xeron](/heroes/Xeron/) |
-  | 3 | [Schwarzer Drache](/units/Schwarzer Drache/) | [Fiur](/heroes/Fiur/) |
-  | 4 | [Gorgone](/units/Gorgone/) | [Drache Mutare](/heroes/Drache Mutare/) |
-  | 5 | [Schlangenfliege](/units/Schlangenfliege/) | - |
-  | 6 | [Böse Zauberin](/units/Böse Zauberin/) | - |
+  | 1 | [Teufel](/de/units/Devil/) | [Luna](/de/heroes/Luna/) |
+  | 2 | [Feuervogel](/de/units/Firebird/) | [Xeron](/de/heroes/Xeron/) |
+  | 3 | [Schwarzer Drache](/de/units/Black Dragon/) | [Fiur](/de/heroes/Fiur/) |
+  | 4 | [Gorgone](/de/units/Gorgon/) | [Drache Mutare](/de/heroes/Dragon Mutare/) |
+  | 5 | [Schlangenfliege](/de/units/Serpent Fly/) | - |
+  | 6 | [Böse Zauberin](/de/units/Evil Sorceress/) | - |

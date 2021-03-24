@@ -2,7 +2,7 @@
 title: "Gifthorn"
 permalink: /equipment/Venomous Horn/
 excerpt: "Era of Chaos Gifthorn. Gifthorn"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Venomous Horn.md"
 toc: false

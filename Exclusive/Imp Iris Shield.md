@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Imp Exklusiv."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Imp Irisschild.md"
 toc: false

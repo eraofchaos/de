@@ -2,7 +2,7 @@
 title: "Ohrringe des Herrschers"
 permalink: /equipment/Ruler's Earrings/
 excerpt: "Era of Chaos Ohrringe des Herrschers. Ohrringe des Herrschers"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Ruler's Earrings.md"
 toc: false

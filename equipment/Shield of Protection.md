@@ -2,7 +2,7 @@
 title: "Schild des Schutzes"
 permalink: /equipment/Shield of Protection/
 excerpt: "Era of Chaos Schild des Schutzes. Schild des Schutzes"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Shield of Protection.md"
 toc: false

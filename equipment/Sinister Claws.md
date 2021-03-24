@@ -2,7 +2,7 @@
 title: "Düstere Klauen"
 permalink: /equipment/Sinister Claws/
 excerpt: "Era of Chaos Düstere Klauen. Düstere Klauen"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Sinister Claws.md"
 toc: false

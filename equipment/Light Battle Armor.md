@@ -2,7 +2,7 @@
 title: "Leichte Kampfrüstung"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Era of Chaos Leichte Kampfrüstung. Leichte Kampfrüstung"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Light Battle Armor.md"
 toc: false

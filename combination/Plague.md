@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Seuche"
 permalink: /combination/Plague/
 excerpt: "Kombinationsinfo - Seuche. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Seuche.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Schlangenfliege](/units/Schlangenfliege/) | - |
-  | 2 | [Echsenmensch](/units/Echsenmensch/) | - |
-  | 3 | [Wyvern](/units/Wyvern/) | - |
-  | 4 | [Wespenwurz](/units/Wespenwurz/) | - |
+  | 1 | [Schlangenfliege](/de/units/Serpent Fly/) | - |
+  | 2 | [Echsenmensch](/de/units/Lizardman/) | - |
+  | 3 | [Wyvern](/de/units/Wyvern/) | - |
+  | 4 | [Wespenwurz](/de/units/Waspwort/) | - |
 
 
 #### Einheiten und Helden haben einen Vorteil gegen Feinde mit „Seuche“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | - |
-  | 2 | [Schlangenfliege](/units/Schlangenfliege/) | - |
-  | 3 | [Wyvern](/units/Wyvern/) | - |
+  | 1 | [Gorgone](/de/units/Gorgon/) | - |
+  | 2 | [Schlangenfliege](/de/units/Serpent Fly/) | - |
+  | 3 | [Wyvern](/de/units/Wyvern/) | - |

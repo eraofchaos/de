@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Niedrige Moral"
 permalink: /combination/Low Morale/
 excerpt: "Kombinationsinfo - Niedrige Moral. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Niedrige Moral.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Schwarzer Ritter](/units/Schwarzer Ritter/) | [Lord Haart](/heroes/Lord Haart/) |
-  | 2 | [Knochendrache](/units/Knochendrache/) | [Vidomina](/heroes/Vidomina/) |
-  | 3 | - | [Sandro](/heroes/Sandro/) |
+  | 1 | [Schwarzer Ritter](/de/units/Black Knight/) | [Lord Haart](/de/heroes/Lord Haart/) |
+  | 2 | [Knochendrache](/de/units/Bone Dragon/) | [Vidomina](/de/heroes/Vidomina/) |
+  | 3 | - | [Sandro](/de/heroes/Sandro/) |
 
 
 #### Einheiten und Helden haben einen Vorteil gegen Feinde mit „Niedrige Moral“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Wandelnde Tote](/units/Wandelnde Tote/) | [Lord Haart](/heroes/Lord Haart/) |
-  | 2 | [Knochendrache](/units/Knochendrache/) | [Sandro](/heroes/Sandro/) |
-  | 3 | [Gorgone](/units/Gorgone/) | - |
-  | 4 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Wandelnde Tote](/de/units/Walking Dead/) | [Lord Haart](/de/heroes/Lord Haart/) |
+  | 2 | [Knochendrache](/de/units/Bone Dragon/) | [Sandro](/de/heroes/Sandro/) |
+  | 3 | [Gorgone](/de/units/Gorgon/) | - |
+  | 4 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

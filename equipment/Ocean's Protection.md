@@ -2,7 +2,7 @@
 title: "Schutz des Meeres"
 permalink: /equipment/Ocean's Protection/
 excerpt: "Era of Chaos Schutz des Meeres. Schutz des Meeres"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Ocean's Protection.md"
 toc: false

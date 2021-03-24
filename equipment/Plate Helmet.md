@@ -2,7 +2,7 @@
 title: "Plattenhelm"
 permalink: /equipment/Plate Helmet/
 excerpt: "Era of Chaos Plattenhelm. Plattenhelm"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Plate Helmet.md"
 toc: false

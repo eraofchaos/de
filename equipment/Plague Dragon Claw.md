@@ -2,7 +2,7 @@
 title: "Seuchen-Drachenklaue"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Era of Chaos Seuchen-Drachenklaue. Seuchen-Drachenklaue"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Plague Dragon Claw.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Behemoths gehören zu den wenigen urtümlichen Kreaturen, die noch aus der Zeit vor den Drachen stammen. Ihre gewaltigen Leiber sind immun gegen die Angriffe ihrer Feinde."
 unitID: 407
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Behemoth"
 toc: true

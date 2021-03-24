@@ -2,7 +2,7 @@
 title: "Schulterschutz des Herdfeuers"
 permalink: /equipment/Pauldrons of Hearth Fire/
 excerpt: "Era of Chaos Schulterschutz des Herdfeuers. Schulterschutz des Herdfeuers"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Pauldrons of Hearth Fire.md"
 toc: false

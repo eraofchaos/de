@@ -2,7 +2,7 @@
 title: "Himmlische Segenshaube"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Era of Chaos Himmlische Segenshaube. Himmlische Segenshaube"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Celestial Hood of Bliss.md"
 toc: false

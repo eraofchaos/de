@@ -2,7 +2,7 @@
 title: "Zwielichtstein"
 permalink: /equipment/Twilight Stone/
 excerpt: "Era of Chaos Zwielichtstein. Zwielichtstein"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Twilight Stone.md"
 toc: false

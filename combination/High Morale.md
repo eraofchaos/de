@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Hohe Moral"
 permalink: /combination/High Morale/
 excerpt: "Kombinationsinfo - Hohe Moral. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Hohe Moral.md"
 toc: false
@@ -16,21 +16,21 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Mönch](/units/Mönch/) | [Roland](/heroes/Roland/) |
-  | 2 | [Paladin](/units/Paladin/) | [Mullich](/heroes/Mullich/) |
-  | 3 | [Richterin](/units/Richterin/) | [Catherine](/heroes/Catherine/) |
-  | 4 | - | [Korbac](/heroes/Korbac/) |
-  | 5 | - | [Kendal](/heroes/Kendal/) |
-  | 6 | - | [Peter Lee](/heroes/Peter Lee/) |
+  | 1 | [Mönch](/de/units/Monk/) | [Roland](/de/heroes/Roland/) |
+  | 2 | [Paladin](/de/units/Paladin/) | [Mullich](/de/heroes/Mullich/) |
+  | 3 | [Richterin](/de/units/Judicator/) | [Catherine](/de/heroes/Catherine/) |
+  | 4 | - | [Korbac](/de/heroes/Korbac/) |
+  | 5 | - | [Kendal](/de/heroes/Kendal/) |
+  | 6 | - | [Peter Lee](/de/heroes/Peter Lee/) |
 
 
 #### Einheiten und Helden erhalten einen zusätzlichen Buff für „Hohe Moral“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Pikenier](/units/Pikenier/) | [Roland](/heroes/Roland/) |
-  | 2 | [Scharfschütze](/units/Scharfschütze/) | [Catherine](/heroes/Catherine/) |
-  | 3 | [Greif](/units/Greif/) | - |
-  | 4 | [Schwertkämpfer](/units/Schwertkämpfer/) | - |
-  | 5 | [Kavallerist](/units/Kavallerist/) | - |
-  | 6 | [Paladin](/units/Paladin/) | - |
+  | 1 | [Pikenier](/de/units/Pikeman/) | [Roland](/de/heroes/Roland/) |
+  | 2 | [Scharfschütze](/de/units/Marksman/) | [Catherine](/de/heroes/Catherine/) |
+  | 3 | [Greif](/de/units/Griffin/) | - |
+  | 4 | [Schwertkämpfer](/de/units/Swordsman/) | - |
+  | 5 | [Kavallerist](/de/units/Cavalier /) | - |
+  | 6 | [Paladin](/de/units/Paladin/) | - |

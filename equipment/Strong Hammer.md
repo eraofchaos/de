@@ -2,7 +2,7 @@
 title: "Starker Hammer"
 permalink: /equipment/Strong Hammer/
 excerpt: "Era of Chaos Starker Hammer. Starker Hammer"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Strong Hammer.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Krankheit"
 permalink: /combination/Disease/
 excerpt: "Kombinationsinfo - Krankheit. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Krankheit.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Mumie](/units/Mumie/) | [Wystan](/heroes/Wystan/) |
+  | 1 | [Mumie](/de/units/Mummy/) | [Wystan](/de/heroes/Wystan/) |
 
 
 #### Einheiten und Helden haben einen Vorteil gegen Feinde mit „Krankheit“.
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Mumie](/units/Mumie/) | - |
-  | 2 | [Gorgone](/units/Gorgone/) | - |
-  | 3 | [Schlangenfliege](/units/Schlangenfliege/) | - |
+  | 1 | [Mumie](/de/units/Mummy/) | - |
+  | 2 | [Gorgone](/de/units/Gorgon/) | - |
+  | 3 | [Schlangenfliege](/de/units/Serpent Fly/) | - |

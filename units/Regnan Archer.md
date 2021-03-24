@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Regnanbogensch."
 toc: true

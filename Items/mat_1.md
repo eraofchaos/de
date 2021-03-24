@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechtes Holz"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Schlechtes Holz"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_1.md"
 toc: false

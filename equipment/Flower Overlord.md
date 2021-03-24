@@ -2,7 +2,7 @@
 title: "Blumen-Overlord"
 permalink: /equipment/Flower Overlord/
 excerpt: "Era of Chaos Blumen-Overlord. Blumen-Overlord"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Flower Overlord.md"
 toc: false

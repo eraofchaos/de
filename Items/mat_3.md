@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechter Schwefel"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Schlechter Schwefel"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: de
 ref: "mat_3.md"
 toc: false

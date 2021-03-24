@@ -2,7 +2,7 @@
 title: "Schutzhandschuhe"
 permalink: /equipment/Protective Gloves/
 excerpt: "Era of Chaos Schutzhandschuhe. Schutzhandschuhe"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: de
 ref: "Protective Gloves.md"
 toc: false
