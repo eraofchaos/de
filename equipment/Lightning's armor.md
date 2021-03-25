@@ -2,7 +2,7 @@
 title: "Blitzrüstung"
 permalink: /equipment/Lightning's armor/
 excerpt: "Era of Chaos Blitzrüstung. Blitzrüstung"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Lightning's armor.md"
 toc: false

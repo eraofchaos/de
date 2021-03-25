@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Schwertkämpfer Exklusiv."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Swordsman Irisschild.md"
 toc: false

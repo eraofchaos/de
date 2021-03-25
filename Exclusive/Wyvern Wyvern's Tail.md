@@ -2,7 +2,7 @@
 title: "Exklusiv - Wyvernschwanz"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Wyvernschwanz. Wyvernschwanz. Era of Chaos Exklusiv Wyvernschwanz. Wyvern Exklusiv."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Wyvern Wyvernschwanz.md"
 toc: false

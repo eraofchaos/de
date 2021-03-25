@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Gebrochene Prophez."
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Era of Chaos Gebrochene Prophez.. Gebrochene Prophez.. Era of Chaos Heiliges Emblem Gebrochene Prophez.. Era of Chaos Böse Gebrochene Prophez."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Broken Prophecy.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +10 %, „Heiliges Emblem“-ABW +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn eingesetzte Einheiten bei einem Standardangriff einen kritischen Treffer verursachen, verursacht der Angriff mit einer Wahrscheinlichkeit von 4 % 2 Sek. lang „Betäubung“.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +20 %, „Heiliges Emblem“-ABW +55</span> | 
   | [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +1 %, „Heiliges Emblem“-ABW +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn eingesetzte Einheiten bei einem Standardangriff einen kritischen Treffer verursachen, verursacht der Angriff mit einer Wahrscheinlichkeit von 1 % 1 Sek. lang „Betäubung“.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +2 %, „Heiliges Emblem“-ABW +6</span> | 

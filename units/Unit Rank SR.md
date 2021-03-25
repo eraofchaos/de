@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Unit Rank SR"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
   | 27 | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
   | 28 | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Heldenhafte Ritter  |
   | 29 | [Waldelfe](/de/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Großelf  |
-  | 30 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 30 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Drachenfliege  |
   | 31 | [Mantikor](/de/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Skorpikor  |
   | 32 | [Pegasus](/de/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Silberpegasus  |
   | 33 | [Basilisk](/de/units/Basilisk/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

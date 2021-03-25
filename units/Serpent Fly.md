@@ -3,7 +3,7 @@ title: "Schlangenfliege"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
 unitID: 803
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Schlangenfliege"
 toc: true
@@ -193,40 +193,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Drachenfliege
 
- **Awaking Beschreibung:** null
+ **Awaking Beschreibung:** Nach dem Naturgesetz des „Überleben des Stärkeren“ lebend, entwickeln die Schlangenfliegen ihre Waffen stetig weiter. Je schärfer ihre Stacheln, desto tödlicher wird ihr Gift. Sie sind schreckenerregende Jäger und die Herren der Schlammlande.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Setze eine Schlangenfliege und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Festungseinheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia einmal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Ressourcen während eines Gildenabenteuers.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Drachenfliegen-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Setze eine Seuchen-Schlangenfliege und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Festungseinheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Seuchenform
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Moorseuche&gt;</span><span style="color: #645252;font-size:18px"> Erhöht den SCHD (Einheit) gegen das Ziel um 50 %. Falls das Ziel unter Versteinerung leidet, wird seine SCHD-Reduzierung (Einheit) zudem um 20 % reduziert. Dauert 6 Sek. lang an.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+### 2nd Skill (or 1st): Pestform
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Moorseuche&gt;</span><span style="color: #645252;font-size:18px"> Erhöht den SCHD (Einheit) gegen das Ziel um 50 %. Falls das Ziel unter Versteinerung leidet, wird sein SCHD (Einheit) zudem um 20 % reduziert. Dauert 6 Sek. lang an.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+### 3rd Skill (or 4th): Miasmaodem
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Fliegen in der Luft&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt die Angriffstempo-Steigerung der Schlangenfliege.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Macht des Moores
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Fliegen in der Luft&gt;</span><span style="color: #645252;font-size:18px"> Verdoppelt die Steigerung des Wertes „Kritischer Treffer“ der Schlangenfliege.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Erschöpfte Macht
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schwäche&gt;</span><span style="color: #645252;font-size:18px"> Verringert zusätzlich die SCHD-Reduzierung (Einheit) von feindlichen Einheiten um 5 % und ihre Zähigkeit um 80. Dauert 10 Sek. lang an. Bis zu 3 Mal stapelbar.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Verbrauchte Energie
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schwäche&gt;</span><span style="color: #645252;font-size:18px"> Verringert zusätzlich die Abwehr von feindlichen Einheiten um 5 % und ihr Ausweichen um 80. Dauert 10 Sek. lang an. Bis zu 3 Mal stapelbar.</span>
 
 ## Technical info
  **runart:** 0

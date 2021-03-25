@@ -2,7 +2,7 @@
 title: "Kampfformation Burg"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Kampfformation Burg"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: de
 ref: "BattleFormationFactionStronghold"
 toc: false

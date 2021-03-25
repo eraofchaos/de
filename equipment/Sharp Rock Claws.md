@@ -2,7 +2,7 @@
 title: "Scharfe Felsklauen"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "Era of Chaos Scharfe Felsklauen. Scharfe Felsklauen"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Sharp Rock Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Segen der Königin"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Era of Chaos Segen der Königin. Segen der Königin. Era of Chaos Heiliges Emblem Segen der Königin. Era of Chaos Rechtschaffen Segen der Königin"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Queen's Blessing.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Segen der Königin](/de/Emblem/Queen's Blessing/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +9, „Heiliges Emblem“-ABW +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn die LP zum ersten Mal unter 35 % fallen, wird ABW 15 Sek. lang um 60 % erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +22,5, „Heiliges Emblem“-ABW +22,5</span> | 
   | [Segen der Königin](/de/Emblem/Queen's Blessing/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +4,5, „Heiliges Emblem“-ABW +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Wenn die LP zum ersten Mal unter 35 % fallen, wird ABW 15 Sek. lang um 30 % erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +11,5, „Heiliges Emblem“-ABW +11,5</span> | 

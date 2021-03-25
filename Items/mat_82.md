@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenerz"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Seelenerz"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "mat_82.md"
 toc: false

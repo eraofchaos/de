@@ -2,7 +2,7 @@
 title: "Gürtel der Zurückhaltung"
 permalink: /equipment/Belt of Constraint/
 excerpt: "Era of Chaos Gürtel der Zurückhaltung. Gürtel der Zurückhaltung"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Belt of Constraint.md"
 toc: false

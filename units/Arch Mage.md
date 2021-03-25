@@ -3,7 +3,7 @@ title: "Erzmagier"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Erzmagier"
 toc: true
@@ -111,7 +111,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Der Standardangriff der Magierin erhöht ihren eigenen Angriff um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, bis zu 20 Stapel. Die Stapel bleiben aktiv, solange das Ziel nicht gewechselt wird.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Wirbelsturm
- **Beschreibung:** <span style="color: #645252;font-size:20px">Die Magierin beschwört einen Tornado, der 1 zufällige Einheit aus der hinteren Reihe umschließt; das Ziel kann weder angreifen noch Fähigkeiten wirken, und seine Schadensreduzierung sinkt um 100 %. Der Tornado fügt dem Ziel <span style="color: #48b946;font-size:20px">„Schock“</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Die Wirkungsdauer des Tornados und des Schocks beträgt </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. Hintere Reihe bezieht sich auf gegnerische Einheiten ganz hinten in einer Reihe.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Magierin beschwört einen Tornado, der 1 zufällige Einheit aus der hinteren Reihe umschließt; das Ziel kann weder angreifen noch Fähigkeiten wirken, und seine SCHD-Reduzierung (Einheit) sinkt um 20 %. Der Tornado fügt dem Ziel <span style="color: #48b946;font-size:20px">Schock</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu. Die Wirkungsdauer des Tornados und des Schocks beträgt </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. Hintere Reihe bezieht sich auf die gegnerische Einheit ganz am Ende einer Reihe.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Energieverlust
  **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn Magierinnen auf dem Schlachtfeld sind, sinkt die Manaregeneration des gegnerischen Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein verbündeter Held einen Luftzauber wirkt, gewinnt der verbündete Held 2 Mana zurück.</span><span style="color: black">

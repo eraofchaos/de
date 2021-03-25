@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandras herausragende Kampffähigkeiten verdankt sie ihrer spartanischen Erziehung. Nachdem die Spartaner sie auf dem Berg Taygetos ihrem Tod überlassen hatten, wurde sie zur Söldnerin."
 heroID: 62001
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: de
 ref: "Kassandra"
 toc: true

@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Schwarzer Ritter"
 toc: true

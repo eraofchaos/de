@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Hydra"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
- **Race:** Einhorn
+ **Race:** Göttliche Bestie
 
  **Members:** [x1](/de/units/Unit Member x1/)
 

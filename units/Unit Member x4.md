@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Unit Member x4"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
   | 19 | [Magisches Luftschiff](/de/units/Magic Airship/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 20 | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
   | 21 | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Heldenhafte Ritter  |
-  | 22 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 22 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Drachenfliege  |
   | 23 | [Mantikor](/de/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Skorpikor  |
   | 24 | [Pegasus](/de/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Silberpegasus  |
   | 25 | [Basilisk](/de/units/Basilisk/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

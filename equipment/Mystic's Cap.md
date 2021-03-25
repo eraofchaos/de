@@ -2,7 +2,7 @@
 title: "Mystikerkappe"
 permalink: /equipment/Mystic's Cap/
 excerpt: "Era of Chaos Mystikerkappe. Mystikerkappe"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Mystic's Cap.md"
 toc: false

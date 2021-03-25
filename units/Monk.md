@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Mönch"
 toc: true
@@ -110,36 +110,34 @@ toc: true
 ### Ultimative Fähigkeit: Gebet
  **Beschreibung:** <span style="color: #645252;font-size:20px">Mönche stellen alle 17 Sek. </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> LP der verbündeten Einheit wieder her, die prozentual am wenigsten LP übrig hat.</span><span style="color: black">
 
-### Gewöhnliche Fähigkeit 1 : Segnung der Tapferen
- **Beschreibung:** <span style="color: #645252;font-size:20px">Zu Beginn der Schlacht verleihen Mönche allen verbündeten Einheiten in ihrem Weg </span><span style="color: black"><span style="color: #48b946;font-size:20px">„Hohe Moral“</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wirkungsdauer </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek.</span><span style="color: black">
+### Gewöhnliche Fähigkeit 1 : null
+ **Beschreibung:** 
 
 ### Gewöhnliche Fähigkeit 2 : Meditation
- **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn Mönche auf dem Schlachtfeld sind, steigt die Manaregeneration des Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn Mönche auf dem Schlachtfeld sind, steigt die Manaregeneration des Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Erholung
- **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Mönches steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Heilung um 50 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Mönches steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Heilung um 50 %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Belagerungskampf
- **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübte Drachentöter. Wenn sie gegen 1-Mann-Einheiten kämpfen, wird ihr Schaden erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Abwehr-Resonanz
- **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Schloss-Einheiten sind geübt in der gemeinsamen Verteidigung. Für jede überlebende Einheit wird ABW erhöht um</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str5 = "(LEVEL*1.5+2.5)"
-    let str6 = "(LEVEL*0.5+2.5)"
-    let str3 = "LEVEL*0.05+0.25"
-    let str4 = "LEVEL*4+16"
+    let str5 = "(LEVEL*0.5+2.5)"
+    let str3 = "LEVEL*4+16"
+    let str4 = "(LEVEL*1.5+2.5)"
     let str1 = "(LEVEL*15+285)*0.01*ATK"
-    let str2 = "(LEVEL*1+11)"
+    let str2 = "LEVEL*0.05+0.25"
     let res="ERR";
     try {
      res = eval(str5); document.getElementById('str5').textContent = res;
-     res = eval(str6); document.getElementById('str6').textContent = res;
      res = eval(str3); document.getElementById('str3').textContent = res;
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;

@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Eisenfausts Vermächtnis"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Eisenfausts Vermächtnis. Eisenfausts Vermächtnis. Era of Chaos Heiliges Emblem Eisenfausts Vermächtnis. Era of Chaos Rechtschaffen Eisenfausts Vermächtnis"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Ironfist's Legacy.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +3 %, „Heiliges Emblem“-ABW +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Reduziert die erhaltene Heilung der Zieleinheit 6 Sek. lang um 18 %. AKZ 10 Sek.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +7 %, „Heiliges Emblem“-ABW +16</span> | 
   | [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +1 %, „Heiliges Emblem“-ABW +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Reduziert die erhaltene Heilung der Zieleinheit 6 Sek. lang um 10 %. AKZ 10 Sek.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +2 %, „Heiliges Emblem“-ABW +6</span> | 

@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Hochmut"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Hochmut. Hochmut. Era of Chaos Heiliges Emblem Hochmut. Era of Chaos Chaos Hochmut"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Arrogance.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Hochmut](/de/Emblem/Arrogance/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +2, ABW +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den Schaden eingesetzter Einheiten um 3 %, wenn sie gegen ein Ziel mit mehr als 50 % LP kämpfen.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +6, ABW +0,2 %</span> | 
   | [Hochmut](/de/Emblem/Arrogance/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +6, ABW +0,3 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den Schaden eingesetzter Einheiten um 6 %, wenn sie gegen ein Ziel mit mehr als 50 % LP kämpfen.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +16, ABW +0,7 %</span> | 

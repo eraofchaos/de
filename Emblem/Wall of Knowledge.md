@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Wall der Weisheit"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Wall der Weisheit. Wall der Weisheit. Era of Chaos Heiliges Emblem Wall der Weisheit. Era of Chaos Gut Wall der Weisheit"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Wall of Knowledge.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +13, ABW +0,5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den SCHD (Einheit) eingesetzter Einheiten um 4 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +30, ABW +1,5 %</span> | 
   | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +20, ABW +1 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht den SCHD (Einheit) eingesetzter Einheiten um 5 %, immer wenn eine Einheit derselben Klasse in deiner Aufstellung eingesetzt wird.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +55, ABW +2 %</span> | 

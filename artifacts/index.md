@@ -2,7 +2,7 @@
 title: "Artefakt"
 permalink: /artifacts/
 excerpt: "Era of Chaos  List of all Artefakt. Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "index.md"
 toc: false

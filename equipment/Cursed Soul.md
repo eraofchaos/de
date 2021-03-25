@@ -2,7 +2,7 @@
 title: "Verfluchte Seele"
 permalink: /equipment/Cursed Soul/
 excerpt: "Era of Chaos Verfluchte Seele. Verfluchte Seele"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Cursed Soul.md"
 toc: false

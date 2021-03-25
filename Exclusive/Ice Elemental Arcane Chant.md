@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Eiselementar Exklusiv."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Ice Elemental Arkangesang.md"
 toc: false

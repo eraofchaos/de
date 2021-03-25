@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegenes Quecksilber"
 permalink: /Items/mat_21/
 excerpt: "Era of Chaos  Überlegenes Quecksilber"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "mat_21.md"
 toc: false

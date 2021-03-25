@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 14  Nekropoliswoche
+
+  |  Date  |      Reward    |    Reward Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Apr** | **3x [Skelett](/de/Items/unt_208/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **6 Apr** | **3x [Wandelnde Tote](/de/Items/unt_209/)**  | Ein Trupp Wandelnder Toter schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **7 Apr** | **100x <i class="fas fa-gem"/>**  | Eure Truppen haben mehrere Schätze in einer alten eingestürzten Gruft gefunden! |
+  | **8 Apr** | **2x [Vampir](/de/Items/unt_211/)**  | Ein Trupp Vampire schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **9 Apr** | **2x [Geist](/de/Items/unt_210/)**  | Ein Trupp Geister schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **10 Apr** | **5x [Einheitentruhe (Nekropolis)](/de/Items/con_1271/)**  | Deine Nekropolis-Einheiten haben dir mehrere Schatztruhen überreicht! |
+  | **11 Apr** | **3x [Vidomina](/de/Items/her_372/)**  | Vidomina ist fasziniert von Euren untoten Kriegern, sie möchte sich Euch anschließen! |
+
 
 #### 2021 Week 13  Dungeonwoche
 

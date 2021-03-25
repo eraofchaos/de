@@ -2,7 +2,7 @@
 title: "Schwerer Helm des Vorlebens"
 permalink: /equipment/Heavy Helm of Pre-life/
 excerpt: "Era of Chaos Schwerer Helm des Vorlebens. Schwerer Helm des Vorlebens"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Heavy Helm of Pre-life.md"
 toc: false

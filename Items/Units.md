@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Units.md"
 toc: false
@@ -91,7 +91,7 @@ classes: wide
   | 77 | [Seelenstein der Medusenkönigin](/de/Items/unt_331/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe der Medusenkönigin. |
   | 78 | [Seelenstein der Nagakönigin](/de/Items/unt_325/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe der Nagakönigin. |
   | 79 | [Seelenstein der Riesengorgone](/de/Items/unt_339/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe der Riesengorgone. |
-  | 80 | [Seelenstein der Seuchen-Schlangenfliege](/de/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe der Seuchen-Schlangenfliege. |
+  | 80 | [Seelenstein der Seuchen-Schlangenfliege](/de/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe der Drachenfliege. |
   | 81 | [Seelenstein des Bösen Auges](/de/Items/unt_330/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Bösen Auges. |
   | 82 | [Seelenstein des Dendroidensoldaten](/de/Items/unt_293/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Dendroidensoldaten. |
   | 83 | [Seelenstein des Donnervogels](/de/Items/unt_309/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Donnervogels. |
@@ -153,7 +153,7 @@ classes: wide
   | 139 | [Titan-Seelenstein](/de/Items/unt_326/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Titanen. |
   | 140 | [Tool_3209](/de/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 141 | [Tool_3509](/de/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 142 | [Tool_3709](/de/Items/unt_252/){: .btn .btn--era6} | Unit Soul |  |
+  | 142 | [Tool_3709](/de/Items/unt_252/){: .btn .btn--era6} | Unit Soul | Mit 80 Seelen-Tokens lässt sich eine Böse Zauberin beschwören. Ihr Rang kann auch mit Tokens erhöht werden. |
   | 143 | [Tool_3809](/de/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 144 | [Tool_94601](/de/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
   | 145 | [Tool_94602](/de/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |

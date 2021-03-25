@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltenes Quecksilber"
 permalink: /Items/mat_42/
 excerpt: "Era of Chaos  Seltenes Quecksilber"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "mat_42.md"
 toc: false

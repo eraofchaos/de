@@ -2,7 +2,7 @@
 title: "Blutrünstiger Gürtel"
 permalink: /equipment/Bloodthirsty Belt/
 excerpt: "Era of Chaos Blutrünstiger Gürtel. Blutrünstiger Gürtel"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Bloodthirsty Belt.md"
 toc: false

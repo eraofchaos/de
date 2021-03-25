@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Rechtsprinzip der Erben"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Era of Chaos Rechtsprinzip der Erben. Rechtsprinzip der Erben. Era of Chaos Heiliges Emblem Rechtsprinzip der Erben. Era of Chaos Neutral Rechtsprinzip der Erben"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Successors' Legal Principles.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; LP +1 %, „Heiliges Emblem“-ABW +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die ABW um 1 % und Zähigkeit um 100; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 150 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; LP +2 %, „Heiliges Emblem“-ABW +6</span> | 
   | [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; LP +3 %, „Heiliges Emblem“-ABW +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die ABW um 3 % und Zähigkeit um 200; zu Beginn der Schlacht wird Zähigkeit zusätzlich um 300 erhöht. Dieser Bonus sinkt innerhalb von 30 Sek. auf 0.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; LP +7 %, „Heiliges Emblem“-ABW +16</span> | 

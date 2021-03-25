@@ -2,7 +2,7 @@
 title: "Item - Materials - Epische Edelsteine"
 permalink: /Items/mat_51/
 excerpt: "Era of Chaos  Epische Edelsteine"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "mat_51.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Fesseln des Krieges"
 permalink: /equipment/Shackles of War/
 excerpt: "Era of Chaos Fesseln des Krieges. Fesseln des Krieges"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Shackles of War.md"
 toc: false

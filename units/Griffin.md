@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Greif"
 toc: true

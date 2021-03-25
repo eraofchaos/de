@@ -2,7 +2,7 @@
 title: "Werwolf-Turmschild"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Era of Chaos Werwolf-Turmschild. Werwolf-Turmschild"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Werewolf's Square Shield.md"
 toc: false

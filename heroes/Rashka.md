@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka führt seine Truppen zum Ruhm, indem er alle einschüchtert. Bis jetzt war seine Taktik äußerst effektiv."
 heroID: 60802
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: de
 ref: "Rashka"
 toc: true

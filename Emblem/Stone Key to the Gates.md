@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Steinschlüssel zu den Toren"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Era of Chaos Steinschlüssel zu den Toren. Steinschlüssel zu den Toren. Era of Chaos Heiliges Emblem Steinschlüssel zu den Toren. Era of Chaos Neutral Steinschlüssel zu den Toren"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Stone Key to the Gates.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +2, ABW +10 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Gegen Ziele mit „Blutung“ wird der Schaden der Einheit um 3 % erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +6, ABW +0,2 %</span> | 
   | [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +13, ABW +0,5 %</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Der Schaden der Einheit wird um 3 % erhöht. Gegen Ziele mit „Blutung“ wird der Schaden der Einheit um zusätzliche 9 % erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +30, ABW +1,5 %</span> | 

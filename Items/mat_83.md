@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenholz"
 permalink: /Items/mat_83/
 excerpt: "Era of Chaos  Seelenholz"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "mat_83.md"
 toc: false

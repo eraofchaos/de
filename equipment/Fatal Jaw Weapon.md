@@ -2,7 +2,7 @@
 title: "Tödliche Kieferwaffe"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "Era of Chaos Tödliche Kieferwaffe. Tödliche Kieferwaffe"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Fatal Jaw Weapon.md"
 toc: false

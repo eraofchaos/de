@@ -2,7 +2,7 @@
 title: "Pupille des Toten"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Era of Chaos Pupille des Toten. Pupille des Toten"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Pupil of the Departed.md"
 toc: false

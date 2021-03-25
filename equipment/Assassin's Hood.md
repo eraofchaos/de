@@ -2,7 +2,7 @@
 title: "Assassinenkapuze"
 permalink: /equipment/Assassin's Hood/
 excerpt: "Era of Chaos Assassinenkapuze. Assassinenkapuze"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Assassin's Hood.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Weißer Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden."
 unitID: 809
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Weißer Tiger"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Fraktion:** [Festung](/de/units/Faction Fortress/)
 
- **Race:** Einhorn
+ **Race:** Göttliche Bestie
 
  **Members:** [x1](/de/units/Unit Member x1/)
 

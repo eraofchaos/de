@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Unit Class Caster"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | [Gigant](/de/units/Giant/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |
   | 12 | [Mönch](/de/units/Monk/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zelot  |
   | 13 | [Magisches Luftschiff](/de/units/Magic Airship/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
-  | 14 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 14 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Drachenfliege  |
   | 15 | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 16 | [Grüner Drache](/de/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Goldener Drache  |
   | 17 | [Geist](/de/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Gespenst  |

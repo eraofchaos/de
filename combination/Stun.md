@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Betäubung"
 permalink: /combination/Stun/
 excerpt: "Kombinationsinfo - Betäubung. Units and Heroes Formation."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Betäubung.md"
 toc: false

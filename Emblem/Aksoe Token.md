@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Aksoe-Token"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Era of Chaos Aksoe-Token. Aksoe-Token. Era of Chaos Heiliges Emblem Aksoe-Token. Era of Chaos Neutral Aksoe-Token"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Aksoe Token.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Aksoe-Token](/de/Emblem/Aksoe Token/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +3 %, „Heiliges Emblem“-ABW +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Der Schaden der Einheit wird um 1,5 % erhöht. Gegen Ziele mit „Verlangsamung“ wird der Schaden der Einheit um zusätzliche 4,5 % erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +7 %, „Heiliges Emblem“-ABW +16</span> | 
   | [Aksoe-Token](/de/Emblem/Aksoe Token/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ANG +1 %, „Heiliges Emblem“-ABW +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Gegen Ziele mit „Verlangsamung“ wird der Schaden der Einheit um 3 % erhöht.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ANG +2 %, „Heiliges Emblem“-ABW +6</span> | 

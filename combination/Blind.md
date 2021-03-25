@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Blindheit"
 permalink: /combination/Blind/
 excerpt: "Kombinationsinfo - Blindheit. Units and Heroes Formation."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Blindheit.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Engelsbund. Engelsbund Eine heilige Reliquie, durch Engelskraft aus kostbaren Gegenständen geschmiedet. Kann die Macht Eurer Verbündeten erhöhen."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Angelic Alliance.md"
 toc: false
@@ -51,8 +51,8 @@ classes: wide
   |:--------|:----------------| 
   | **2** | Erhöht 20 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
   | **5** | Erhöht 20 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
-  | **8** | Erhöht 25 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
-  | **11** | Erhöht 25 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
-  | **14** | Erhöht 25 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
-  | **17** | Erhöht 25 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
-  | **20** | Erhöht 25 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
+  | **8** | Erhöht 40 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
+  | **11** | Erhöht 40 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
+  | **14** | Erhöht 40 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
+  | **17** | Erhöht 40 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 
+  | **20** | Erhöht 40 Sek. lang den Angriff aller verbündeten Einheiten um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))} %</span>, das Angriffstempo um <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))} %</span> und das Bewegungstempo um 30. | 

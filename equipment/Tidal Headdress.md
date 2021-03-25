@@ -2,7 +2,7 @@
 title: "Kopfschmuck der Gezeiten"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Era of Chaos Kopfschmuck der Gezeiten. Kopfschmuck der Gezeiten"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Tidal Headdress.md"
 toc: false

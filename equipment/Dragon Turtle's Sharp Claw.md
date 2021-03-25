@@ -2,7 +2,7 @@
 title: "Scharfe Kralle der Drachenschildkröte"
 permalink: /equipment/Dragon Turtle's Sharp Claw/
 excerpt: "Era of Chaos Scharfe Kralle der Drachenschildkröte. Scharfe Kralle der Drachenschildkröte"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Dragon Turtle's Sharp Claw.md"
 toc: false

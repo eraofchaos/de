@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Wollust"
 permalink: /Emblem/Lust/
 excerpt: "Era of Chaos Wollust. Wollust. Era of Chaos Heiliges Emblem Wollust. Era of Chaos Chaos Wollust"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: de
 ref: "Lust.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Rechtschaffen](/de/Emblem/Type Order/){: .btn .btn--warning}   [Gut](/de/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/de/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/de/Emblem/Type Chaos/){: .btn .btn--danger}   [Böse](/de/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Wollust](/de/Emblem/Lust/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +9, „Heiliges Emblem“-ABW +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die erhaltene Heilung eingesetzter Einheiten um 10 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +22,5, „Heiliges Emblem“-ABW +22,5</span> | 
   | [Wollust](/de/Emblem/Lust/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; „Heiliges Emblem“-ANG +15, „Heiliges Emblem“-ABW +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Erhöht die erhaltene Heilung eingesetzter Einheiten um 15 %.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; „Heiliges Emblem“-ANG +37,5, „Heiliges Emblem“-ABW +37,5</span> | 

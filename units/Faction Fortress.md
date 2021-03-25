@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "Era of Chaos Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Faction Fortress"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | [Weißer Tiger](/de/units/White Tiger/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 2 | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnollkrieger  |
   | 3 | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
-  | 4 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 4 | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Drachenfliege  |
   | 5 | [Basilisk](/de/units/Basilisk/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 6 | [Gorgone](/de/units/Gorgon/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |
   | 7 | [Wyvern](/de/units/Wyvern/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Wyvernkönig  |

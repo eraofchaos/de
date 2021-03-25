@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvolle Edelsteine"
 permalink: /Items/mat_30/
 excerpt: "Era of Chaos  Wertvolle Edelsteine"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "mat_30.md"
 toc: false

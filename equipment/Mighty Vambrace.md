@@ -2,7 +2,7 @@
 title: "Mächtige Armschiene"
 permalink: /equipment/Mighty Vambrace/
 excerpt: "Era of Chaos Mächtige Armschiene. Mächtige Armschiene"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Mighty Vambrace.md"
 toc: false

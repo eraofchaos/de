@@ -2,7 +2,7 @@
 title: "Versengende Klauen"
 permalink: /equipment/Scalding Claws/
 excerpt: "Era of Chaos Versengende Klauen. Versengende Klauen"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Scalding Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Tiefeneis-Kristall"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "Era of Chaos Tiefeneis-Kristall. Tiefeneis-Kristall"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Deep Ice Crystal.md"
 toc: false

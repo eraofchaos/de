@@ -2,7 +2,7 @@
 title: "Mystische Goldlampe"
 permalink: /equipment/Mystic Gold Lamp/
 excerpt: "Era of Chaos Mystische Goldlampe. Mystische Goldlampe"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Mystic Gold Lamp.md"
 toc: false

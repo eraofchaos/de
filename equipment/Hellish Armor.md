@@ -2,7 +2,7 @@
 title: "Höllische Rüstung"
 permalink: /equipment/Hellish Armor/
 excerpt: "Era of Chaos Höllische Rüstung. Höllische Rüstung"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Hellish Armor.md"
 toc: false

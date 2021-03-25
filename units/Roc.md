@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Roc"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Fraktion:** [Burg](/de/units/Faction Stronghold/)
 
- **Race:** Einhorn
+ **Race:** Göttliche Bestie
 
  **Members:** [x4](/de/units/Unit Member x4/)
 

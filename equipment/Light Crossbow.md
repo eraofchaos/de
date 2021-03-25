@@ -2,7 +2,7 @@
 title: "Leichte Armbrust"
 permalink: /equipment/Light Crossbow/
 excerpt: "Era of Chaos Leichte Armbrust. Leichte Armbrust"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Light Crossbow.md"
 toc: false

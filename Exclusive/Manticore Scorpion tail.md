@@ -2,7 +2,7 @@
 title: "Exklusiv - Skorpionschwanz"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Skorpionschwanz. Skorpionschwanz. Era of Chaos Exklusiv Skorpionschwanz. Mantikor Exklusiv."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Manticore Skorpionschwanz.md"
 toc: false

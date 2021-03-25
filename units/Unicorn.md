@@ -3,7 +3,7 @@ title: "Einhorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Einhorn"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Fraktion:** [Schutzwall](/de/units/Faction Rampart/)
 
- **Race:** Einhorn
+ **Race:** Göttliche Bestie
 
  **Members:** [x4](/de/units/Unit Member x4/)
 

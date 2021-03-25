@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: de
 ref: "Lich"
 toc: true
