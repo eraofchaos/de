@@ -2,7 +2,7 @@
 title: "Adjutant Kassandra"
 permalink: /heroes/Adjutant Kassandra/
 excerpt: "Era of Chaos  Adjutant Kassandra"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: de
 ref: "Adjutant Kassandra.md"
 toc: false

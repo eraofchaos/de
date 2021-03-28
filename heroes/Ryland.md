@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland ist der erste – und bisher einzige – Mensch, der vom Kreis der Elfenältesten ganz akzeptiert wurde. Manche scherzen sogar, er sei wirklich ein Elf, der in einem menschlichen Körper wiedergeboren wurde."
 heroID: 60303
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: de
 ref: "Ryland"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Schutzwall
 
- **Rate:** R
+ **Rate:** SR
+
+ **User Rate:** R
 
  **Specialty:** Dendroidenwache
 

@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: de
 ref: "Adelaide"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Schloss
 
- **Rate:** R+
+ **Rate:** SR
+
+ **User Rate:** R+
 
  **Specialty:** Frostring
 

@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite ist ein geheimnisvoller Mann, der engen Kontakt mit den hochrangigen Funktionären verschiedener Länder pflegt. Über seine Vergangenheit ist jedoch nichts bekannt und er erwähnt sie auch nicht."
 heroID: 61401
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: de
 ref: "Jeddite"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Dungeon
 
  **Rate:** SR
+
+ **User Rate:** SR
 
  **Specialty:** Kreis des Lebens
 
