@@ -1,0 +1,29 @@
+---
+title: "Hauptstory - Kapitel 11 - 11-8 Schnelle Schlacht"
+permalink: /Main Story/Chapter 11_8/
+excerpt: "Kapitel 11 - 8. Era of Chaos  Hauptstory - Kapitel 11_8. 11-8 Schnelle Schlacht"
+last_modified_at: 2021-03-30
+locale: de
+ref: "Chapter 11_8.md"
+toc: false
+classes: wide
+---
+
+## Details
+
+ **Name:** 11-8 Schnelle Schlacht
+
+ **Beschreibung:** Vielleicht weiß Crag Hack bereits, dass wir uns nähern. Er hat eine Truppe ausgeschickt, um ein Lager zu errichten, weniger als 10 Kilometer von uns entfernt.
+
+ **Related to:** [Kapitel 11](/de/Main Story/Chapter 11/)
+
+## Beutebelohnung
+
+ **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+
+ **Drop 1:** **100% 1x** [Überragendes Holz](/de/Items/mat_34/){: .btn .btn--era4}
+
+ **Drop 2:** **60% 0x** [Wertvolles Quecksilber](/de/Items/mat_28/){: .btn .btn--era3}, **40% 1x** [Wertvolles Quecksilber](/de/Items/mat_28/){: .btn .btn--era3}
+
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
