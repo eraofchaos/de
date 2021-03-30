@@ -19,7 +19,7 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 1](/de/Main Story/Chapter 1/) | TBD | 
+  | [Kapitel 1](/de/Main Story/Chapter 1/) | Abendgraminsel | 
 
 
 ## Die Rückkehr der Königin: Kapitel 2 - Kapitel 4
@@ -34,9 +34,9 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 2](/de/Main Story/Chapter 2/) | TBD | 
-  | [Kapitel 3](/de/Main Story/Chapter 3/) | TBD | 
-  | [Kapitel 4](/de/Main Story/Chapter 4/) | TBD | 
+  | [Kapitel 2](/de/Main Story/Chapter 2/) | Die Rückkehr der Königin | 
+  | [Kapitel 3](/de/Main Story/Chapter 3/) | Schutzengel | 
+  | [Kapitel 4](/de/Main Story/Chapter 4/) | Die Greifenklippe | 
 
 
 ## Infernalische Einheit: Kapitel 5 - Kapitel 8
@@ -51,10 +51,10 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 5](/de/Main Story/Chapter 5/) | TBD | 
-  | [Kapitel 6](/de/Main Story/Chapter 6/) | TBD | 
-  | [Kapitel 7](/de/Main Story/Chapter 7/) | TBD | 
-  | [Kapitel 8](/de/Main Story/Chapter 8/) | TBD | 
+  | [Kapitel 5](/de/Main Story/Chapter 5/) | Byrds | 
+  | [Kapitel 6](/de/Main Story/Chapter 6/) | Erster Spatenstich | 
+  | [Kapitel 7](/de/Main Story/Chapter 7/) | Erathia | 
+  | [Kapitel 8](/de/Main Story/Chapter 8/) | Grenzländer | 
 
 
 ## Grenzkampf: Kapitel 9 - Kapitel 12
@@ -69,10 +69,10 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 9](/de/Main Story/Chapter 9/) | TBD | 
-  | [Kapitel 10](/de/Main Story/Chapter 10/) | TBD | 
-  | [Kapitel 11](/de/Main Story/Chapter 11/) | TBD | 
-  | [Kapitel 12](/de/Main Story/Chapter 12/) | TBD | 
+  | [Kapitel 9](/de/Main Story/Chapter 9/) | Chaoslande | 
+  | [Kapitel 10](/de/Main Story/Chapter 10/) | Marshland | 
+  | [Kapitel 11](/de/Main Story/Chapter 11/) | Tatalia | 
+  | [Kapitel 12](/de/Main Story/Chapter 12/) | Eismeer | 
 
 
 ## Magische Verstärkung: Kapitel 13 - Kapitel 15
@@ -87,9 +87,9 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 13](/de/Main Story/Chapter 13/) | TBD | 
-  | [Kapitel 14](/de/Main Story/Chapter 14/) | TBD | 
-  | [Kapitel 15](/de/Main Story/Chapter 15/) | TBD | 
+  | [Kapitel 13](/de/Main Story/Chapter 13/) | Tag und Nacht | 
+  | [Kapitel 14](/de/Main Story/Chapter 14/) | Sicherer Weg | 
+  | [Kapitel 15](/de/Main Story/Chapter 15/) | Vereinigte Front | 
 
 
 ## AvLees Rache: Kapitel 16 - Kapitel 18
@@ -104,9 +104,9 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 16](/de/Main Story/Chapter 16/) | TBD | 
-  | [Kapitel 17](/de/Main Story/Chapter 17/) | TBD | 
-  | [Kapitel 18](/de/Main Story/Chapter 18/) | TBD | 
+  | [Kapitel 16](/de/Main Story/Chapter 16/) | Fürs Vaterland | 
+  | [Kapitel 17](/de/Main Story/Chapter 17/) | Befreiung des Imperiums | 
+  | [Kapitel 18](/de/Main Story/Chapter 18/) | Geschäft mit dem Teufel | 
 
 
 ## Kraft und Zauberei: Kapitel 19 - Kapitel 21
@@ -121,9 +121,9 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 19](/de/Main Story/Chapter 19/) | TBD | 
-  | [Kapitel 20](/de/Main Story/Chapter 20/) | TBD | 
-  | [Kapitel 21](/de/Main Story/Chapter 21/) | TBD | 
+  | [Kapitel 19](/de/Main Story/Chapter 19/) | Neutrales Gebiet | 
+  | [Kapitel 20](/de/Main Story/Chapter 20/) | Tunnel und Troglodyten | 
+  | [Kapitel 21](/de/Main Story/Chapter 21/) | Der Gral | 
 
 
 ## Drachentöter: Kapitel 22 - Kapitel 24
@@ -138,9 +138,9 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 22](/de/Main Story/Chapter 22/) | TBD | 
-  | [Kapitel 23](/de/Main Story/Chapter 23/) | TBD | 
-  | [Kapitel 24](/de/Main Story/Chapter 24/) | TBD | 
+  | [Kapitel 22](/de/Main Story/Chapter 22/) | Kristalldrache | 
+  | [Kapitel 23](/de/Main Story/Chapter 23/) | Rostdrache | 
+  | [Kapitel 24](/de/Main Story/Chapter 24/) | Feendrache | 
 
 
 ## Das Blut des Drachen: Kapitel 25 - Kapitel 27
@@ -155,9 +155,9 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [Kapitel 25](/de/Main Story/Chapter 25/) | TBD | 
-  | [Kapitel 26](/de/Main Story/Chapter 26/) | TBD | 
-  | [Kapitel 27](/de/Main Story/Chapter 27/) | TBD | 
+  | [Kapitel 25](/de/Main Story/Chapter 25/) | Überleben des Stärkeren | 
+  | [Kapitel 26](/de/Main Story/Chapter 26/) | Die Führung ausbauen | 
+  | [Kapitel 27](/de/Main Story/Chapter 27/) | Blut des Drachenvaters | 
 
 
 ## Der Weg zum Morgengrauen: Kapitel 28 - Kapitel 30
@@ -172,8 +172,8 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [](/de/Main Story/Chapter 28/) | TBD | 
-  | [](/de/Main Story/Chapter 29/) | TBD | 
-  | [](/de/Main Story/Chapter 30/) | TBD | 
+  | [](/de/Main Story/Chapter 28/) | Tunnel und Troglodyten | 
+  | [](/de/Main Story/Chapter 29/) |  | 
+  | [](/de/Main Story/Chapter 30/) |  | 
 
 

@@ -1,7 +1,7 @@
 ---
-title: "Hauptstory - "
+title: "Hauptstory -  Tunnel und Troglodyten"
 permalink: /Main Story/Chapter 28/
-excerpt: ". Era of Chaos  Hauptstory - ."
+excerpt: ". Era of Chaos  Hauptstory - . Tunnel und Troglodyten"
 last_modified_at: 2021-03-30
 locale: de
 ref: "Chapter 28.md"

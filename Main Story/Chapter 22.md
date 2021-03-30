@@ -1,7 +1,7 @@
 ---
-title: "Hauptstory - Kapitel 22"
+title: "Hauptstory - Kapitel 22 Kristalldrache"
 permalink: /Main Story/Chapter 22/
-excerpt: "Kapitel 22. Era of Chaos  Hauptstory - Kapitel 22."
+excerpt: "Kapitel 22. Era of Chaos  Hauptstory - Kapitel 22. Kristalldrache"
 last_modified_at: 2021-03-30
 locale: de
 ref: "Chapter 22.md"

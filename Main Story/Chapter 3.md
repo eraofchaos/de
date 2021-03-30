@@ -1,7 +1,7 @@
 ---
-title: "Hauptstory - Kapitel 3"
+title: "Hauptstory - Kapitel 3 Schutzengel"
 permalink: /Main Story/Chapter 3/
-excerpt: "Kapitel 3. Era of Chaos  Hauptstory - Kapitel 3."
+excerpt: "Kapitel 3. Era of Chaos  Hauptstory - Kapitel 3. Schutzengel"
 last_modified_at: 2021-03-30
 locale: de
 ref: "Chapter 3.md"

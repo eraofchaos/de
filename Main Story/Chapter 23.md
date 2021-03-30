@@ -1,7 +1,7 @@
 ---
-title: "Hauptstory - Kapitel 23"
+title: "Hauptstory - Kapitel 23 Rostdrache"
 permalink: /Main Story/Chapter 23/
-excerpt: "Kapitel 23. Era of Chaos  Hauptstory - Kapitel 23."
+excerpt: "Kapitel 23. Era of Chaos  Hauptstory - Kapitel 23. Rostdrache"
 last_modified_at: 2021-03-30
 locale: de
 ref: "Chapter 23.md"

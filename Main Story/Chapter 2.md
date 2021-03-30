@@ -1,7 +1,7 @@
 ---
-title: "Hauptstory - Kapitel 2"
+title: "Hauptstory - Kapitel 2 Die Rückkehr der Königin"
 permalink: /Main Story/Chapter 2/
-excerpt: "Kapitel 2. Era of Chaos  Hauptstory - Kapitel 2."
+excerpt: "Kapitel 2. Era of Chaos  Hauptstory - Kapitel 2. Die Rückkehr der Königin"
 last_modified_at: 2021-03-30
 locale: de
 ref: "Chapter 2.md"

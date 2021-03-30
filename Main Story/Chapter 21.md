@@ -1,7 +1,7 @@
 ---
-title: "Hauptstory - Kapitel 21"
+title: "Hauptstory - Kapitel 21 Der Gral"
 permalink: /Main Story/Chapter 21/
-excerpt: "Kapitel 21. Era of Chaos  Hauptstory - Kapitel 21."
+excerpt: "Kapitel 21. Era of Chaos  Hauptstory - Kapitel 21. Der Gral"
 last_modified_at: 2021-03-30
 locale: de
 ref: "Chapter 21.md"

@@ -1,7 +1,7 @@
 ---
-title: "Hauptstory - Kapitel 7"
+title: "Hauptstory - Kapitel 7 Erathia"
 permalink: /Main Story/Chapter 7/
-excerpt: "Kapitel 7. Era of Chaos  Hauptstory - Kapitel 7."
+excerpt: "Kapitel 7. Era of Chaos  Hauptstory - Kapitel 7. Erathia"
 last_modified_at: 2021-03-30
 locale: de
 ref: "Chapter 7.md"
