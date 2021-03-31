@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Greif"
 toc: true
@@ -182,7 +182,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Heiliger Greif
+ **Awaking Name:** Königlicher Greif
 
  **Awaking Beschreibung:** Einst züchtete die Edric-Familie Greife, jetzt dienen sie Erathia als Wächter. Tag und Nacht kreisen sie über dem Schloss. Jeder törichte Eindringling, der sich dem Schloss nähert, wird von ihren scharfen Klauen in Stücke gerissen.
 
@@ -191,7 +191,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Ressourcen während eines Gildenabenteuers.</span>
 
- 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> „Heiliger Greif“-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> „Königlicher Greif“-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Setze einen Greif und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Schloss-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 

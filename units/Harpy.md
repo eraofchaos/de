@@ -3,7 +3,7 @@ title: "Harpyie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Harpyie"
 toc: true
@@ -172,40 +172,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Harpyienhexe
 
- **Awaking Beschreibung:** null
+ **Awaking Beschreibung:** Mitternacht bricht an und die Harpyien tanzen zum Lied des Fauns. Das Mondlicht spiegelt sich in ihren Klingen. Der eiskalte Schimmer, der ihrem schlingernden Flug folgt, ist ein herrlicher und doch ungemein tödlicher Anblick.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Setze eine Harpyie und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia einmal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #876741;font-size:18px">Besetze die Stadt im Gildenabenteuer-Untergrund </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Mal.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Harpyien-Seelen im Untergrund: Stufen 16-2 and 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Setze eine Harpyie und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Ansturm-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Scharfe Harpyienklinge
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Scharfe Harpyienkralle&gt;</span><span style="color: #645252;font-size:18px"> Jedes Mal, wenn den Angriffen der Harpyie ausgewichen wird, wird &lt;Scharfe Harpyienkralle&gt; garantiert einmal ausgelöst. Die AKZ beträgt 5 Sek.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+### 2nd Skill (or 1st): Harypien-Giftklinge
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Scharfe Harpyienkralle&gt;</span><span style="color: #645252;font-size:18px"> Fähigkeiten fügen der Zieleinheit zusätzlichen Schaden in Höhe von 200 % des eigenen ANG zu und belegen sie für 5 Sek. mit „Gift“.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+### 3rd Skill (or 4th): Zauberbrecher-Abwehr
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schrei des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px"> Wirkt ein gegnerischer Held einen Zauber, wird zusätzlich das Angriffstempo der gegnerischen Einheiten in der vorderen Reihe um 4 % verringert. Bis zu 5 Mal stapelbar. Dauert 8 Sek. lang an.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Zauberbrecher-Invasion
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schrei des Zauberbrechers&gt;</span><span style="color: #645252;font-size:18px"> Wirkt ein gegnerischer Held einen Zauber, wird zusätzlich das Angriffstempo der verbündeten Einheiten in der vorderen Reihe um 4 % erhöht. Bis zu 5 Mal stapelbar. Dauert 8 Sek. lang an.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Luft-Zielen
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Zielen im Flug&gt;</span><span style="color: #645252;font-size:18px"> Der eigene SCHD (Einheit) wird um 20 % erhöht, wenn Einheiten angegriffen werden, die mit „Blutung“ belegt sind.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Luft-Gemetzel
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Zielen im Flug&gt;</span><span style="color: #645252;font-size:18px"> Die eigene SCHD-Reduzierung (Einheit) wird um 20 % erhöht, wenn Einheiten angegriffen werden, die mit „Gift“ belegt sind.</span>
 
 ## Technical info
  **runart:** 1

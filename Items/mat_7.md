@@ -2,7 +2,7 @@
 title: "Item - Materials - Normales Holz"
 permalink: /Items/mat_7/
 excerpt: "Era of Chaos  Normales Holz"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_7.md"
 toc: false

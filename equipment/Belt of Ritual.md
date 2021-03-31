@@ -2,7 +2,7 @@
 title: "Ritualgürtel"
 permalink: /equipment/Belt of Ritual/
 excerpt: "Era of Chaos Ritualgürtel. Ritualgürtel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Belt of Ritual.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Böse Zauberin"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie war einst die heilige Jungfrau des Tempels Baa. Ihre Haut ist von Natur aus mit Runen bedeckt, die ihr furchterregende Kräfte ähnlich jener von Dämonen verleihen."
 unitID: 709
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Böse Zauberin"
 toc: true
@@ -35,45 +35,45 @@ toc: true
  **Position :** Reflektiert Zaubersprüche. Domäne-Buffs.
 
 ## Grundwerte
- **Base HP: 5770.0**
+ **Base HP: 6000.0**
 
- **Base ATK: 633.6**
+ **Base ATK: 550.0**
 
  **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Grün | 316.8 | 12.0 | 4327.5 |
-  | Blau | 633.6 | 24.0 | 8655.0 |
-  | Blau +1 | 950.4 | 36.0 | 12982.5 |
-  | Blau +2 | 1330.56 | 50.4 | 18175.5 |
-  | Lila | 1710.72 | 64.8 | 23368.5 |
-  | Lila +1 | 2090.88 | 79.2 | 28561.5 |
-  | Lila +2 | 2534.4 | 96.0 | 34620.0 |
-  | Lila +3 | 2977.92 | 112.8 | 40678.5 |
-  | Orange | 3421.44 | 129.6 | 46737.0 |
-  | Orange +1 | 3928.32 | 148.8 | 53661.0 |
-  | Orange +2 | 4435.2 | 168.0 | 60585.0 |
-  | Orange +3 | 4942.08 | 187.2 | 67509.0 |
-  | Orange +4 | 5448.96 | 206.4 | 74433.0 |
-  | Orange +5 | 6209.28 | 235.2 | 84819.0 |
-  | Rot | 7223.04 | 273.6 | 98667.0 |
+  | Grün | 275.0 | 13.0 | 4500.0 |
+  | Blau | 550.0 | 26.0 | 9000.0 |
+  | Blau +1 | 825.0 | 39.0 | 13500.0 |
+  | Blau +2 | 1155.0 | 54.6 | 18900.0 |
+  | Lila | 1485.0 | 70.2 | 24300.0 |
+  | Lila +1 | 1815.0 | 85.8 | 29700.0 |
+  | Lila +2 | 2200.0 | 104.0 | 36000.0 |
+  | Lila +3 | 2585.0 | 122.2 | 42300.0 |
+  | Orange | 2970.0 | 140.4 | 48600.0 |
+  | Orange +1 | 3410.0 | 161.2 | 55800.0 |
+  | Orange +2 | 3850.0 | 182.0 | 63000.0 |
+  | Orange +3 | 4290.0 | 202.8 | 70200.0 |
+  | Orange +4 | 4730.0 | 223.6 | 77400.0 |
+  | Orange +5 | 5390.0 | 254.8 | 88200.0 |
+  | Rot | 6270.0 | 296.4 | 102600.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
-  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
-  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
-  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
+  | **3x** <i class="fas fa-star"/> | 77.0 | 0.55 | 6.72 | 840.0 |
+  | **4x** <i class="fas fa-star"/> | 88.0 | 0.58 | 7.48 | 960.0 |
+  | **5x** <i class="fas fa-star"/> | 99.0 | 0.6 | 8.24 | 1080.0 |
+  | **6x** <i class="fas fa-star"/> | 110.0 | 0.63 | 9.0 | 1200.0 |
 
 ## Ausrüstung
 
   | I | Ausrüstung  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/de/equipment/UnknownEquipment_7091/) | **ANG** | **ABW** | 
-  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/de/equipment/UnknownEquipment_7092/) | **LP** | **ABW** | 
-  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/de/equipment/UnknownEquipment_7093/) | **ANG** | **ABW** | 
-  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/de/equipment/UnknownEquipment_7094/) | **LP** | **ABW** | 
+  | ![Stab des Zauberbrechers](/images/e/e_7091.png) | [Stab des Zauberbrechers](/de/equipment/Spell Breaker's Staff/) | **ANG** | **ABW** | 
+  | ![Dämonische Flügel](/images/e/e_7092.png) | [Dämonische Flügel](/de/equipment/Demonic Wings/) | **LP** | **ABW** | 
+  | ![Schädelhandschuhe](/images/e/e_7093.png) | [Schädelhandschuhe](/de/equipment/Cranial Gauntlets/) | **ANG** | **ABW** | 
+  | ![Harter Knochen](/images/e/e_7094.png) | [Harter Knochen](/de/equipment/Hard Bone/) | **LP** | **ABW** | 
 
 ## Exklusiv
 
@@ -104,36 +104,38 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Die Böse Zauberin wird immun gegen </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stille</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn die Böse Zauberin auf dem Schlachtfeld ist, erhöht sich das Anfangsmana deiner Helden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Beim Beginn der Schlacht wirkt sie &lt;Magischer Spiegel &gt; bei sich selbst und beschwört eine Einheit – außer große – für die Dauer der gesamten Schlacht. Erhöht die SCHD-Reduzierung (Einheit) der Bösen Zauberin um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn gegen Fernkampf-/Zauberer-Einheiten gekämpft wird.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Stab des Zauberbrechers
- **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht SCHD (Einheit) der Bösen Zauberin um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein gegnerischer Held einen Zauber wirkt, verursacht die Böse Zauberin bei gegnerischen Einheiten in einem bestimmten Radius der Zieleinheit Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG plus </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der maximalen LP und fügt allen gegnerischen Einheiten Schaden in Höhe von 1,5 % ihrer maximalen LP zu. Außerdem fügt sie </span><span style="color: black"><span style="color: #48b946;font-size:20px">vergifteten</span><span style="color: black"><span style="color: #645252;font-size:20px"> Einheiten 4 Sekunden lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">Betäubung</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu und verursacht zusätzlichen Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der maximalen LP bei </span><span style="color: black"><span style="color: #48b946;font-size:20px">brennenden</span><span style="color: black"><span style="color: #645252;font-size:20px"> Einheiten. Erhöht SCHD (Einheit) der Bösen Zauberin im Kampf gegen Turm-Einheiten um 50 %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht SCHD (Einheit) der Bösen Zauberin um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ABW um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn ein gegnerischer Held einen Zauber wirkt, verursacht die Böse Zauberin bei gegnerischen Einheiten in einem bestimmten Radius der Zieleinheit Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG plus </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der maximalen LP und fügt allen gegnerischen Einheiten Schaden in Höhe von 1,5 % ihrer maximalen LP zu. Außerdem fügt sie mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gift</span><span style="color: black"><span style="color: #645252;font-size:20px"> belegten Einheiten 4 Sekunden lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">Betäubung</span><span style="color: black"><span style="color: #645252;font-size:20px"> zu und verursacht zusätzlichen Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> der maximalen LP bei mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">Verbrennung</span><span style="color: black"><span style="color: #645252;font-size:20px"> belegten Einheiten. Erhöht SCHD (Einheit) der Bösen Zauberin im Kampf gegen Turm-Einheiten um 50 %.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Teleport
- **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bei normalen Angriffen von Dungeon-Ansturm-Einheiten besteht eine Chance von 5 %, 2 Sekunden lang Betäubung bei </span><span style="color: black"><span style="color: #48b946;font-size:20px">vergifteten</span><span style="color: black"><span style="color: #645252;font-size:20px"> Zielen auszulösen. 4 Sekunden nach Betreten des Schlachtfelds erhöht die Böse Zauberin das Angriffstempo verbündeter Ansturm-Einheiten um 15 %. Dieser Effekt hält </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sekunden lang an. Die Böse Zauberin reist zwischen Schatten und Realität hin und her. Die Böse Zauberin ist immun gegen SCHD (Einheit), kann aber nicht geheilt werden, während sie sich in den Schatten aufhält. Dauer 2 Sekunden. AKZ 5 Sekunden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Erhöht Angriffstempo um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Bei normalen Angriffen von Dungeon-Ansturm-Einheiten besteht eine Chance von 5 %, 2 Sekunden lang Betäubung bei mit </span><span style="color: black"><span style="color: #48b946;font-size:20px">Gift</span><span style="color: black"><span style="color: #645252;font-size:20px"> belegten Zielen auszulösen. 4 Sekunden nach Betreten des Schlachtfelds erhöht die Böse Zauberin das Angriffstempo verbündeter Ansturm-Einheiten um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dieser Effekt hält </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sekunden lang an. Die Böse Zauberin reist zwischen Schatten und Realität hin und her. Die Böse Zauberin ist immun gegen SCHD (Einheit), kann aber nicht geheilt werden, während sie sich in den Schatten aufhält. Dauer 2 Sekunden. AKZ 5 Sekunden.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit : Finsterer Konflikt
- **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Dungeon-Einheiten sind geübt darin, das Gelände zu nutzen; ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, wenn sie gegen Einheiten kämpfen, die nicht dem Dungeon angehören.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 6 : Blutiger Dungeon
- **Beschreibung:** <span style="color: #645252;font-size:20px"> Werden 3 Dungeon-Einheiten eingesetzt, erhöhen sich SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und SCHD-Reduzierung (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wird Seelenexplosion gewirkt, bildet sich die </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Blutiger-Dungeon&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">-Domäne</span><span style="color: black"><span style="color: #645252;font-size:20px">, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne existiert 15 Sekunden lang. AKZ beträgt 30 Sekunden.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px"> Werden 3 Dungeon-Einheiten eingesetzt, erhöhen sich SCHD (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und SCHD-Reduzierung (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wird Seelenexplosion gewirkt, bildet sich die </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Blutiger-Dungeon&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">-Domäne</span><span style="color: black"><span style="color: #645252;font-size:20px">, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne existiert 15 Sekunden lang. AKZ beträgt 30 Sekunden.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str7 = "LEVEL*3+11"
-    let str8 = "LEVEL*0.1+0.9"
-    let str5 = "LEVEL*2+20"
-    let str6 = "LEVEL*1+2"
-    let str3 = "LEVEL*0.1+2.6"
+    let str7 = "LEVEL*1+5"
+    let str8 = "LEVEL*3+11"
+    let str5 = "LEVEL*4+40"
+    let str6 = "LEVEL*1+5"
+    let str3 = "LEVEL*0.1+2.5"
     let str4 = "LEVEL*1+2"
     let str1 = "LEVEL*10+150"
     let str2 = "LEVEL*0.3+2.5"
-    let str12 = "(LEVEL*1+5)"
-    let str13 = "LEVEL*1+15"
-    let str10 = "LEVEL*1+10"
-    let str11 = "(LEVEL*1+15)"
-    let str9 = "LEVEL*0.1+3.5"
-    let str14 = "LEVEL*1+15"
+    let str12 = "(LEVEL*1.5+7.5)"
+    let str13 = "(LEVEL*1+15)"
+    let str10 = "LEVEL*0.1+3.5"
+    let str11 = "LEVEL*1+10"
+    let str16 = "LEVEL*1+15"
+    let str9 = "LEVEL*0.1+0.9"
+    let str14 = "(LEVEL*1+5)"
+    let str15 = "LEVEL*1+15"
     let res="ERR";
     try {
      res = eval(str7); document.getElementById('str7').textContent = res;
@@ -148,8 +150,10 @@ toc: true
      res = eval(str13); document.getElementById('str13').textContent = res;
      res = eval(str10); document.getElementById('str10').textContent = res;
      res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
      res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)
       event.preventDefault();

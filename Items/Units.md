@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Units.md"
 toc: false
@@ -109,7 +109,7 @@ classes: wide
   | 95 | [Seelenstein des Goldenen Drachen](/de/Items/unt_295/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Goldenen Drachen. |
   | 96 | [Seelenstein des Goldgolems](/de/Items/unt_322/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Goldgolems. |
   | 97 | [Seelenstein des Großelfen](/de/Items/unt_291/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Großelfen. |
-  | 98 | [Seelenstein des Heiligen Greifen](/de/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Heiligen Greifen. |
+  | 98 | [Seelenstein des Heiligen Greifen](/de/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Königlichen Greifen. |
   | 99 | [Seelenstein des Heldenhaften Ritters](/de/Items/unt_287/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Heldenhaften Ritters. |
   | 100 | [Seelenstein des Hellenbardenträgers](/de/Items/unt_282/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Hellebardenträgers. |
   | 101 | [Seelenstein des Hobgoblins](/de/Items/unt_305/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Hobgoblins. |

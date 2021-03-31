@@ -2,7 +2,7 @@
 title: "Item - Materials - Guter Kristall"
 permalink: /Items/mat_17/
 excerpt: "Era of Chaos  Guter Kristall"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_17.md"
 toc: false

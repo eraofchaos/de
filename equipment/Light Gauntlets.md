@@ -2,7 +2,7 @@
 title: "Leichte Panzerhandschuhe"
 permalink: /equipment/Light Gauntlets/
 excerpt: "Era of Chaos Leichte Panzerhandschuhe. Leichte Panzerhandschuhe"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Light Gauntlets.md"
 toc: false

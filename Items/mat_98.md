@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlendes Quecksilber"
 permalink: /Items/mat_98/
 excerpt: "Era of Chaos  Strahlendes Quecksilber"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_98.md"
 toc: false

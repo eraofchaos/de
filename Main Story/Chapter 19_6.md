@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-6 Doppelherrschaft"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "Kapitel 19 - 6. Era of Chaos  Hauptstory - Kapitel 19_6. 19-6 Doppelherrschaft"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 19_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimes Holz"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Geheimes Holz"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_76.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Medusas Bogen"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Medusas Bogen. Medusas Bogen. Era of Chaos Exklusiv Medusas Bogen. Medusa Exklusiv."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Medusa Medusas Bogen.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Fernkampf
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1610
 

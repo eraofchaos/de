@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-13 Magierkönig"
 permalink: /Main Story/Chapter 19_13/
 excerpt: "Kapitel 19 - 13. Era of Chaos  Hauptstory - Kapitel 19_13. 19-13 Magierkönig"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 19_13.md"
 toc: false

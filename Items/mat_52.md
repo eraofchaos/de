@@ -2,7 +2,7 @@
 title: "Item - Materials - Epischer Kristall"
 permalink: /Items/mat_52/
 excerpt: "Era of Chaos  Epischer Kristall"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_52.md"
 toc: false

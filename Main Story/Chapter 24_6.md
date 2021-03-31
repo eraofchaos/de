@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-6 Die Geheimnisse von Drachen"
 permalink: /Main Story/Chapter 24_6/
 excerpt: "Kapitel 24 - 6. Era of Chaos  Hauptstory - Kapitel 24_6. 24-6 Die Geheimnisse von Drachen"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 24_6.md"
 toc: false

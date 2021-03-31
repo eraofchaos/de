@@ -2,7 +2,7 @@
 title: "Giftzahn"
 permalink: /equipment/Toxic Fang/
 excerpt: "Era of Chaos Giftzahn. Giftzahn"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Toxic Fang.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-10 Geist erlangen"
 permalink: /Main Story/Chapter 10_10/
 excerpt: "Kapitel 10 - 10. Era of Chaos  Hauptstory - Kapitel 10_10. 10-10 Geist erlangen"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 10_10.md"
 toc: false

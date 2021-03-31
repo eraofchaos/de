@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-15 Ein Engel steigt herab"
 permalink: /Main Story/Chapter 9_15/
 excerpt: "Kapitel 9 - 15. Era of Chaos  Hauptstory - Kapitel 9_15. 9-15 Ein Engel steigt herab"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 9_15.md"
 toc: false

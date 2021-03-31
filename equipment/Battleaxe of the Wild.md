@@ -2,7 +2,7 @@
 title: "Kriegsaxt der Wildnis"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "Era of Chaos Kriegsaxt der Wildnis. Kriegsaxt der Wildnis"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Battleaxe of the Wild.md"
 toc: false

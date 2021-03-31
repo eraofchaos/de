@@ -2,7 +2,7 @@
 title: "Stammestalisman"
 permalink: /equipment/Tribal Talisman/
 excerpt: "Era of Chaos Stammestalisman. Stammestalisman"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Tribal Talisman.md"
 toc: false

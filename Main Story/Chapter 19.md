@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 Neutrales Gebiet"
 permalink: /Main Story/Chapter 19/
 excerpt: "Kapitel 19. Era of Chaos  Hauptstory - Kapitel 19. Neutrales Gebiet"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 19.md"
 toc: false

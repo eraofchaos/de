@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenkristall"
 permalink: /Items/mat_87/
 excerpt: "Era of Chaos  Seelenkristall"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_87.md"
 toc: false

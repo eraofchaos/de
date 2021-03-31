@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimer Schwefel"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Geheimer Schwefel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_78.md"
 toc: false

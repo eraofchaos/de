@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for October 2021"
 permalink: /FactionAltar/Faction Altar October_2021/
 excerpt: "Era of Chaos  Faction Altar for October 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Faction Altar October_2021.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
   |    Date    |  Race  |  Details  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 27 Sep - 4 Oct | **Dungeon** | [Faction Altar Drop Details](/de/FactionAltar/DROP_107/) | [Seelenstein des Dunklen Troglodyten](/de/Items/unt_328/), [Seelenstein des Minotaurenkönigs](/de/Items/unt_332/), [Seelenstein des Schwarzen Drachenkönigs](/de/Items/unt_334/) | [Troglodyt](/de/Items/unt_244/), [Harpyie](/de/Items/unt_245/), [Minotaurus](/de/Items/unt_248/), [Schwarzer Drache](/de/Items/unt_250/), [Roter Drache](/de/Items/unt_251/) | 
+  | 27 Sep - 4 Oct | **Bucht** | [Faction Altar Drop Details](/de/FactionAltar/DROP_112/) |  - | [Regnanpirat](/de/Items/unt_273/), [Regnanbogenschützin](/de/Items/unt_274/), [Meerelementar](/de/Items/unt_275/), [Drachenschildkröte](/de/Items/unt_278/), [Hai-Ausbilder](/de/Items/unt_281/) | 
   | 4 - 11 Oct | **Nekropolis** | [Faction Altar Drop Details](/de/FactionAltar/DROP_104/) | [Seelenstein des Skelettkriegers](/de/Items/unt_297/), [Seelenstein des Zombies](/de/Items/unt_298/), [Seelenstein des Vampirlords](/de/Items/unt_300/), [Seelenstein des Geisterdrachen](/de/Items/unt_303/) | [Skelett](/de/Items/unt_208/), [Wandelnde Tote](/de/Items/unt_209/), [Geist](/de/Items/unt_210/), [Vampir](/de/Items/unt_211/), [Knochendrache](/de/Items/unt_214/) | 
   | 11 - 18 Oct | **Konflux** | [Faction Altar Drop Details](/de/FactionAltar/DROP_109/) | [„Zorn des Donners“-Seelenstein](/de/Items/unt_344/), [Seelenstein des Stillen Schneegeists](/de/Items/unt_345/), [Seelenstein des Magieelementars](/de/Items/unt_347/), [Seelenstein des Phönix](/de/Items/unt_348/) | [Pixie](/de/Items/unt_262/), [Sturmelementar](/de/Items/unt_263/), [Eiselementar](/de/Items/unt_264/), [Psy-Elementar](/de/Items/unt_267/), [Feuervogel](/de/Items/unt_268/), [Leprechaun](/de/Items/unt_270/) | 
   | 18 - 25 Oct | **Burg** | [Faction Altar Drop Details](/de/FactionAltar/DROP_103/) | [Seelenstein des Hobgoblins](/de/Items/unt_305/), [Seelenstein des Wolfskriegers](/de/Items/unt_306/), [Seelenstein des Ork-Kommandanten](/de/Items/unt_307/), [Seelenstein des Ogermagiers](/de/Items/unt_308/), [Seelenstein des Donnervogels](/de/Items/unt_309/), [Seelenstein des Zyklopenkönigs](/de/Items/unt_310/), [Seelenstein des Ur-Behemoth](/de/Items/unt_311/) | [Goblin](/de/Items/unt_217/), [Wolfsreiter](/de/Items/unt_218/), [Ork](/de/Items/unt_219/), [Oger](/de/Items/unt_220/), [Roc](/de/Items/unt_221/), [Zyklop](/de/Items/unt_222/), [Behemoth](/de/Items/unt_223/), [Berserker](/de/Items/unt_224/) | 

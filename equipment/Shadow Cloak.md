@@ -2,7 +2,7 @@
 title: "Schattenumhang"
 permalink: /equipment/Shadow Cloak/
 excerpt: "Era of Chaos Schattenumhang. Schattenumhang"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Shadow Cloak.md"
 toc: false

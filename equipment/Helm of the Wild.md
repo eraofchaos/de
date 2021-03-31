@@ -2,7 +2,7 @@
 title: "Helm der Wildnis"
 permalink: /equipment/Helm of the Wild/
 excerpt: "Era of Chaos Helm der Wildnis. Helm der Wildnis"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Helm of the Wild.md"
 toc: false

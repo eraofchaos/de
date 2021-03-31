@@ -2,7 +2,7 @@
 title: "Kampfformation "
 permalink: /Battle Formation/
 excerpt: "Kampfformation.Jede Fraktion hat eigene Potenziale und Energie. Lass die exklusive Kampfformation aufleuchten, um deine latente Kraft zu aktivieren."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "index.md"
 toc: false

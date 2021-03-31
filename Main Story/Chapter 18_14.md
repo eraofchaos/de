@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-14 Einmal ein Verräter"
 permalink: /Main Story/Chapter 18_14/
 excerpt: "Kapitel 18 - 14. Era of Chaos  Hauptstory - Kapitel 18_14. 18-14 Einmal ein Verräter"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 18_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Muschelhorn"
 permalink: /equipment/Shell Horn/
 excerpt: "Era of Chaos Muschelhorn. Muschelhorn"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Shell Horn.md"
 toc: false

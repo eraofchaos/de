@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegenes Erz"
 permalink: /Items/mat_19/
 excerpt: "Era of Chaos  Überlegenes Erz"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_19.md"
 toc: false

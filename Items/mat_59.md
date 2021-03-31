@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendärer Kristall"
 permalink: /Items/mat_59/
 excerpt: "Era of Chaos  Legendärer Kristall"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_59.md"
 toc: false

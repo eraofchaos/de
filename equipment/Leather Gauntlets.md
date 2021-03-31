@@ -2,7 +2,7 @@
 title: "Lederpanzerhandschuhe"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Era of Chaos Lederpanzerhandschuhe. Lederpanzerhandschuhe"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Leather Gauntlets.md"
 toc: false

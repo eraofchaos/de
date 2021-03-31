@@ -2,7 +2,7 @@
 title: "Versengende Kugel"
 permalink: /equipment/Scalding Orb/
 excerpt: "Era of Chaos Versengende Kugel. Versengende Kugel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Scalding Orb.md"
 toc: false

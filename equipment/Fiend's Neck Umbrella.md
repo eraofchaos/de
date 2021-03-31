@@ -2,7 +2,7 @@
 title: "Kragen des Unholds"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "Era of Chaos Kragen des Unholds. Kragen des Unholds"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Fiend's Neck Umbrella.md"
 toc: false

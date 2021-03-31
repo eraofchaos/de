@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendäre Edelsteine"
 permalink: /Items/mat_58/
 excerpt: "Era of Chaos  Legendäre Edelsteine"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_58.md"
 toc: false

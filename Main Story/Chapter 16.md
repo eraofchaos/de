@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 Fürs Vaterland"
 permalink: /Main Story/Chapter 16/
 excerpt: "Kapitel 16. Era of Chaos  Hauptstory - Kapitel 16. Fürs Vaterland"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 16.md"
 toc: false

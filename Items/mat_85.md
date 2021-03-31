@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenschwefel"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Seelenschwefel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_85.md"
 toc: false

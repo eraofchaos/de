@@ -2,7 +2,7 @@
 title: "Artefakt - Zaubererbrunnen - Mystische Manakugel"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Era of Chaos  Zaubererbrunnen - Mystische Manakugel. Eine Kristallkugel mit starker Magie. Eine der Komponenten für den Zaubererbrunnen."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Mystic Orb of Mana.md"
 toc: false

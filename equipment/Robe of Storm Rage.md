@@ -2,7 +2,7 @@
 title: "Robe des tosenden Sturms"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "Era of Chaos Robe des tosenden Sturms. Robe des tosenden Sturms"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Robe of Storm Rage.md"
 toc: false

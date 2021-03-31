@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-4 Ein neuer Anfang"
 permalink: /Main Story/Chapter 15_4/
 excerpt: "Kapitel 15 - 4. Era of Chaos  Hauptstory - Kapitel 15_4. 15-4 Ein neuer Anfang"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 15_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvolles Quecksilber"
 permalink: /Items/mat_28/
 excerpt: "Era of Chaos  Wertvolles Quecksilber"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "mat_28.md"
 toc: false

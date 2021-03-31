@@ -2,7 +2,7 @@
 title: "Exklusiv - Blutrünstiger Geist"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Blutrünstiger Geist. Blutrünstiger Geist. Era of Chaos Exklusiv Blutrünstiger Geist. Behemoth Exklusiv."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Behemoth Blutrünstiger Geist.md"
 toc: false

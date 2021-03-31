@@ -2,7 +2,7 @@
 title: "Kampfformation Dungeon"
 permalink: /Battle Formation/Battle Formation Faction Dungeon internal
 excerpt: "Kampfformation Dungeon"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "BattleFormationFactionDungeon"
 toc: false

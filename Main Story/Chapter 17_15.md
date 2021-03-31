@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-15 Invasion des Bösen"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Kapitel 17 - 15. Era of Chaos  Hauptstory - Kapitel 17_15. 17-15 Invasion des Bösen"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 17_15.md"
 toc: false

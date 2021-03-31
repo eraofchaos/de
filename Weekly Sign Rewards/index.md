@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 15  Konfluxwoche
+
+  |  Date  |      Reward    |    Reward Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Apr** | **5x [Pixie](/de/Items/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **13 Apr** | **3x [Eiselementar](/de/Items/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **14 Apr** | **100x <i class="fas fa-gem"/>**  | Die Kreaturen der Konflux-Ebene überreichen Euch einen kleinen Haufen Diamanten! |
+  | **15 Apr** | **3x [Steinelementar](/de/Items/unt_266/)**  | Ein Trupp von Steinelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **16 Apr** | **3x [Sturmelementar](/de/Items/unt_263/)**  | Ein Trupp von Sturmelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **17 Apr** | **5x [Einheitentruhe (Konflux)](/de/Items/con_1275/)**  | Deine Truppen haben dir mehrere Kisten voller Elementarkraft gebracht! |
+  | **18 Apr** | **5x [Luna](/de/Items/her_378/)**  | Die in Eurem Gebiet angesammelte Elementarkraft führte zum Besuch eines Elementarmagiers! |
+
 
 #### 2021 Week 14  Nekropoliswoche
 

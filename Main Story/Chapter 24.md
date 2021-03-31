@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 Feendrache"
 permalink: /Main Story/Chapter 24/
 excerpt: "Kapitel 24. Era of Chaos  Hauptstory - Kapitel 24. Feendrache"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 24.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite ist ein geheimnisvoller Mann, der engen Kontakt mit den hochrangigen Funktionären verschiedener Länder pflegt. Über seine Vergangenheit ist jedoch nichts bekannt und er erwähnt sie auch nicht."
 heroID: 61401
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: de
 ref: "Jeddite"
 toc: true
@@ -62,12 +62,27 @@ toc: true
 * [Betäubung](/de/combination/Betäubung/) 
 
 ## HERO Biography
+   - Jeddite bricht auf, um den Wiedererweckungszauber zu suchen, nachdem seine Liebste getötet wird.
+   - Jeddite erlangt unter Erics Führung ein tieferes Verständnis für den Wiedererweckungszauber.
+   - Jeddite, Eric und Sandro entfremden sich immer mehr ...
+   - Es heißt, Jeddite und der Dämonenkönig haben einen Pakt geschlossen, von dem nur die beiden wissen.
+   - Der Dungeon reicht Jeddite die Hand der Freundschaft. Um seine Frau so schnell wie möglich wiederzuerwecken, geht Jeddite bereitwillig darauf ein.
 
 ## HERO Skins
 ### Skin 1: **Klassisch**
 
  **Beschreibung:** <span style="color: #ffffff;font-size:20px">Was Totenbeschwörer vom Tod verstehen, ist nicht der Rede wert.</span>
 
+
+### Skin 2: **Unsterbliche Liebe**
+
+ **Beschreibung:** <span style="color: #ffffff;font-size:20px">Alles, was Jeddite tut, dient der Wiedererweckung seiner Frau.</span>
+
+ **Skin features:** 
+
+   - Ein liebestoller Magier
+   - Brandneues Kampfbild
+   - Einzigartiger Avatar
 
 
 ## Initial Mastery

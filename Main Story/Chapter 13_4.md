@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-4 Für die Gerechtigkeit"
 permalink: /Main Story/Chapter 13_4/
 excerpt: "Kapitel 13 - 4. Era of Chaos  Hauptstory - Kapitel 13_4. 13-4 Für die Gerechtigkeit"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 13_4.md"
 toc: false

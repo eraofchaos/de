@@ -2,7 +2,7 @@
 title: "Lederstiefel"
 permalink: /equipment/Leather Boots/
 excerpt: "Era of Chaos Lederstiefel. Lederstiefel"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Leather Boots.md"
 toc: false

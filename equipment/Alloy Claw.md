@@ -2,7 +2,7 @@
 title: "Legierungsklaue"
 permalink: /equipment/Alloy Claw/
 excerpt: "Era of Chaos Legierungsklaue. Legierungsklaue"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: de
 ref: "Alloy Claw.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-8 Der Garten der Enthüllung"
 permalink: /Main Story/Chapter 3_8/
 excerpt: "Kapitel 3 - 8. Era of Chaos  Hauptstory - Kapitel 3_8. 3-8 Der Garten der Enthüllung"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: de
 ref: "Chapter 3_8.md"
 toc: false
