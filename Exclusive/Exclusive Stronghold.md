@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Exklusiv Stronghold. Exklusiv Stronghold. List of Exklusiv Stronghold in Era of Chaos"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Exclusive Stronghold"
 toc: false

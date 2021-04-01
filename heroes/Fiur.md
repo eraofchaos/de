@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Obwohl er für einen Elementar noch jung und unerprobt ist, besitzt Fiur Kräfte, die ihresgleichen suchen. Man glaubt, dass er früher oder später einer der stärksten Helden der Elementare werden wird."
 heroID: 60704
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Fiur"
 toc: true

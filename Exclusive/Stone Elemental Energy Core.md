@@ -2,7 +2,7 @@
 title: "Exklusiv - Energiekern"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Energiekern. Energiekern. Era of Chaos Exklusiv Energiekern. Steinelementar Exklusiv."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Stone Elemental Energiekern.md"
 toc: false

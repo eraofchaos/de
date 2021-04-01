@@ -2,7 +2,7 @@
 title: "Bezauberte leichte Rüstung"
 permalink: /equipment/Charmed Light Armor/
 excerpt: "Era of Chaos Bezauberte leichte Rüstung. Bezauberte leichte Rüstung"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Charmed Light Armor.md"
 toc: false

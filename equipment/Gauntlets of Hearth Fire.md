@@ -2,7 +2,7 @@
 title: "Panzerhandschuhe des Herdfeuers"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "Era of Chaos Panzerhandschuhe des Herdfeuers. Panzerhandschuhe des Herdfeuers"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

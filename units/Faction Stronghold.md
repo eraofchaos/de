@@ -2,13 +2,13 @@
 title: "Era of Chaos - Faction Stronghold -  Units"
 permalink: /units/Faction Stronghold/
 excerpt: "Era of Chaos Faction Stronghold. Faction Stronghold. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Faction Stronghold"
 toc: false
 classes: wide
 ---
-  [Battle Formation](/Battle Formation/Battle Formation Faction Stronghold)
+  [Kampfformation](/de/Battle Formation/Battle Formation Faction Stronghold)
 
  [Konflux](/de/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/de/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/de/units/Faction Dungeon/){: .btn .btn--warning} [Festung](/de/units/Faction Fortress/){: .btn .btn--danger} [Schutzwall](/de/units/Faction Rampart/){: .btn .btn--info} [Schloss](/de/units/Faction Castle/){: .btn .btn--primary} [Turm](/de/units/Faction Tower/){: .btn .btn--success} [Burg](/de/units/Faction Stronghold/){: .btn .btn--warning} [Bucht](/de/units/Faction Cove/){: .btn .btn--danger} [Neutrale Armee](/de/units/Faction Neutral Army/){: .btn .btn--info} [Nekropolis](/de/units/Faction Necropolis/){: .btn .btn--primary} 
 

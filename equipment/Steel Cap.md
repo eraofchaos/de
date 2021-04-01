@@ -2,7 +2,7 @@
 title: "Stahlkappe"
 permalink: /equipment/Steel Cap/
 excerpt: "Era of Chaos Stahlkappe. Stahlkappe"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Steel Cap.md"
 toc: false

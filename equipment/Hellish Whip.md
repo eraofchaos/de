@@ -2,7 +2,7 @@
 title: "Höllische Peitsche"
 permalink: /equipment/Hellish Whip/
 excerpt: "Era of Chaos Höllische Peitsche. Höllische Peitsche"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Hellish Whip.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Teufelssense"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Teufelssense. Teufelssense. Era of Chaos Exklusiv Teufelssense. Teufel Exklusiv."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Devil Teufelssense.md"
 toc: false

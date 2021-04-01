@@ -2,7 +2,7 @@
 title: "Knochenspeer des Mörders"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Era of Chaos Knochenspeer des Mörders. Knochenspeer des Mörders"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Ripper's Bone Spear.md"
 toc: false

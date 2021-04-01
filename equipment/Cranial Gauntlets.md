@@ -2,7 +2,7 @@
 title: "Schädelhandschuhe"
 permalink: /equipment/Cranial Gauntlets/
 excerpt: "Era of Chaos Schädelhandschuhe. Schädelhandschuhe"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Cranial Gauntlets.md"
 toc: false

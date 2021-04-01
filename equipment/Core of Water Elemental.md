@@ -2,7 +2,7 @@
 title: "Kern des Wasserelementars"
 permalink: /equipment/Core of Water Elemental/
 excerpt: "Era of Chaos Kern des Wasserelementars. Kern des Wasserelementars"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Core of Water Elemental.md"
 toc: false

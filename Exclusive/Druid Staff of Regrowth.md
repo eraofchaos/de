@@ -2,7 +2,7 @@
 title: "Exklusiv - Stab des Nachwachsens"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Stab des Nachwachsens. Stab des Nachwachsens. Era of Chaos Exklusiv Stab des Nachwachsens. Druidin Exklusiv."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Druid Stab des Nachwachsens.md"
 toc: false

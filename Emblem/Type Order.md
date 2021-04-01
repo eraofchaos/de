@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Rechtschaffen"
 permalink: /Emblem/Type Order/
 excerpt: "Era of Chaos Heiliges Emblem. Heiliges Emblem. Era of Chaos Heiliges Emblem Rechtschaffen. Era of Chaos Rechtschaffen"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "typeRechtschaffen.md"
 toc: false

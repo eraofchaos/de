@@ -2,7 +2,7 @@
 title: "Giftiges Drachenblut"
 permalink: /equipment/Venomous Dragon Blood/
 excerpt: "Era of Chaos Giftiges Drachenblut. Giftiges Drachenblut"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Venomous Dragon Blood.md"
 toc: false

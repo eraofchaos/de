@@ -2,7 +2,7 @@
 title: "Schnabel der tosenden Flamme"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Era of Chaos Schnabel der tosenden Flamme. Schnabel der tosenden Flamme"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Beak of Raging Flame.md"
 toc: false

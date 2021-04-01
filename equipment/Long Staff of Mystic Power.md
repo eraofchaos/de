@@ -2,7 +2,7 @@
 title: "Langstab der mystischen Macht"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "Era of Chaos Langstab der mystischen Macht. Langstab der mystischen Macht"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Long Staff of Mystic Power.md"
 toc: false

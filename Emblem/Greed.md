@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Habgier"
 permalink: /Emblem/Greed/
 excerpt: "Era of Chaos Habgier. Habgier. Era of Chaos Heiliges Emblem Habgier. Era of Chaos Chaos Habgier"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Greed.md"
 toc: false

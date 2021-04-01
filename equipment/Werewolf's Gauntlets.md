@@ -2,7 +2,7 @@
 title: "Werwolf-Panzerhandschuhe"
 permalink: /equipment/Werewolf's Gauntlets/
 excerpt: "Era of Chaos Werwolf-Panzerhandschuhe. Werwolf-Panzerhandschuhe"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Werewolf's Gauntlets.md"
 toc: false

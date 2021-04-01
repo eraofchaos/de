@@ -2,7 +2,7 @@
 title: "Abgrundrüstung"
 permalink: /equipment/Abyss Armor/
 excerpt: "Era of Chaos Abgrundrüstung. Abgrundrüstung"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Abyss Armor.md"
 toc: false

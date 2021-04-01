@@ -2,7 +2,7 @@
 title: "Visier der Toten"
 permalink: /equipment/Visor of the Dead/
 excerpt: "Era of Chaos Visier der Toten. Visier der Toten"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Visor of the Dead.md"
 toc: false
