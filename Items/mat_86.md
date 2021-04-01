@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenedelsteine"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Seelenedelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_86.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 24 (Feendrache) -> 24-1 
-*    Kapitel 24 (Feendrache) -> 24-5 
-*    Kapitel 24 (Feendrache) -> 24-11 
+*    Gildenabenteuer 
+*    [Kapitel 24: Feendrache -> 24-1](/de/Main Story/Chapter 24_1/) 
+*    [Kapitel 24: Feendrache -> 24-5](/de/Main Story/Chapter 24_5/) 
+*    [Kapitel 24: Feendrache -> 24-11](/de/Main Story/Chapter 24_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-6 Die Rede der Königin"
 permalink: /Main Story/Chapter 2_6/
 excerpt: "Kapitel 2 - 6. Era of Chaos  Hauptstory - Kapitel 2_6. 2-6 Die Rede der Königin"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 2_6.md"
 toc: false

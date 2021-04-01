@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-3 Halle der Stille"
 permalink: /Main Story/Chapter 27_3/
 excerpt: "Kapitel 27 - 3. Era of Chaos  Hauptstory - Kapitel 27_3. 27-3 Halle der Stille"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 27_3.md"
 toc: false

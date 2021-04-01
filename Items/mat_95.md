@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendenzertifikat"
 permalink: /Items/mat_95/
 excerpt: "Era of Chaos  Legendenzertifikat"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_95.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Gildenabenteuer 
 *    Kapitel - Klang des Schicksals 
 
 ## This item contains:

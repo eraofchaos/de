@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternholz"
 permalink: /Items/mat_90/
 excerpt: "Era of Chaos  Sternholz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_90.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-2 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-8 
+*    Gildenabenteuer 
+*    [Kapitel 26: Die Führung ausbauen -> 26-2](/de/Main Story/Chapter 26_2/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-8](/de/Main Story/Chapter 26_8/) 
 
 ## This item contains:
 

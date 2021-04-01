@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechte Edelsteine"
 permalink: /Items/mat_4/
 excerpt: "Era of Chaos  Schlechte Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_4.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 1 (Abendgraminsel) -> 1-4 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-1 
-*    Kapitel 3 (Schutzengel) -> 3-6 
+*    Gildenabenteuer 
+*    [Kapitel 1: Abendgraminsel -> 1-4](/de/Main Story/Chapter 1_4/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-1](/de/Main Story/Chapter 2_1/) 
+*    [Kapitel 3: Schutzengel -> 3-6](/de/Main Story/Chapter 3_6/) 
 
 ## This item contains:
 

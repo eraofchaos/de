@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragendes Holz"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Überragendes Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_34.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 10 (Marshland) -> 10-2 
-*    Kapitel 10 (Marshland) -> 10-5 
-*    Kapitel 10 (Marshland) -> 10-8 
+*    Gildenabenteuer 
+*    [Kapitel 10: Marshland -> 10-2](/de/Main Story/Chapter 10_2/) 
+*    [Kapitel 10: Marshland -> 10-5](/de/Main Story/Chapter 10_5/) 
+*    [Kapitel 10: Marshland -> 10-8](/de/Main Story/Chapter 10_8/) 
 
 ## This item contains:
 

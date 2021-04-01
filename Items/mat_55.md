@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendäres Holz"
 permalink: /Items/mat_55/
 excerpt: "Era of Chaos  Legendäres Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_55.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 16 (Fürs Vaterland) -> 16-2 
-*    Kapitel 16 (Fürs Vaterland) -> 16-5 
-*    Kapitel 16 (Fürs Vaterland) -> 16-8 
+*    Gildenabenteuer 
+*    [Kapitel 16: Fürs Vaterland -> 16-2](/de/Main Story/Chapter 16_2/) 
+*    [Kapitel 16: Fürs Vaterland -> 16-5](/de/Main Story/Chapter 16_5/) 
+*    [Kapitel 16: Fürs Vaterland -> 16-8](/de/Main Story/Chapter 16_8/) 
 
 ## This item contains:
 

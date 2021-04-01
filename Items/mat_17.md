@@ -2,7 +2,7 @@
 title: "Item - Materials - Guter Kristall"
 permalink: /Items/mat_17/
 excerpt: "Era of Chaos  Guter Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_17.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 5 (Byrds) -> 5-6 
-*    Kapitel 5 (Byrds) -> 5-12 
-*    Kapitel 5 (Byrds) -> 5-15 
+*    Gildenabenteuer 
+*    [Kapitel 5: Byrds -> 5-6](/de/Main Story/Chapter 5_6/) 
+*    [Kapitel 5: Byrds -> 5-12](/de/Main Story/Chapter 5_12/) 
+*    [Kapitel 5: Byrds -> 5-15](/de/Main Story/Chapter 5_15/) 
 
 ## This item contains:
 

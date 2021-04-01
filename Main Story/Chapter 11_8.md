@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-8 Schnelle Schlacht"
 permalink: /Main Story/Chapter 11_8/
 excerpt: "Kapitel 11 - 8. Era of Chaos  Hauptstory - Kapitel 11_8. 11-8 Schnelle Schlacht"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 11_8.md"
 toc: false

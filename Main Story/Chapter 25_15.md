@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-15 Wächter"
 permalink: /Main Story/Chapter 25_15/
 excerpt: "Kapitel 25 - 15. Era of Chaos  Hauptstory - Kapitel 25_15. 25-15 Wächter"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 25_15.md"
 toc: false

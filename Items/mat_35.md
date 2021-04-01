@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragendes Quecksilber"
 permalink: /Items/mat_35/
 excerpt: "Era of Chaos  Überragendes Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_35.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 10 (Marshland) -> 10-3 
-*    Kapitel 10 (Marshland) -> 10-6 
-*    Kapitel 10 (Marshland) -> 10-9 
+*    Gildenabenteuer 
+*    [Kapitel 10: Marshland -> 10-3](/de/Main Story/Chapter 10_3/) 
+*    [Kapitel 10: Marshland -> 10-6](/de/Main Story/Chapter 10_6/) 
+*    [Kapitel 10: Marshland -> 10-9](/de/Main Story/Chapter 10_9/) 
 
 ## This item contains:
 

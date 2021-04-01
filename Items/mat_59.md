@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendärer Kristall"
 permalink: /Items/mat_59/
 excerpt: "Era of Chaos  Legendärer Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_59.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 17 (Befreiung des Imperiums) -> 17-6 
-*    Kapitel 17 (Befreiung des Imperiums) -> 17-12 
-*    Kapitel 17 (Befreiung des Imperiums) -> 17-15 
+*    Gildenabenteuer 
+*    [Kapitel 17: Befreiung des Imperiums -> 17-6](/de/Main Story/Chapter 17_6/) 
+*    [Kapitel 17: Befreiung des Imperiums -> 17-12](/de/Main Story/Chapter 17_12/) 
+*    [Kapitel 17: Befreiung des Imperiums -> 17-15](/de/Main Story/Chapter 17_15/) 
 
 ## This item contains:
 

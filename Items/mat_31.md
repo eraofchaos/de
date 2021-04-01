@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvoller Kristall"
 permalink: /Items/mat_31/
 excerpt: "Era of Chaos  Wertvoller Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_31.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 9 (Chaoslande) -> 9-6 
-*    Kapitel 9 (Chaoslande) -> 9-12 
-*    Kapitel 9 (Chaoslande) -> 9-15 
+*    Gildenabenteuer 
+*    [Kapitel 9: Chaoslande -> 9-6](/de/Main Story/Chapter 9_6/) 
+*    [Kapitel 9: Chaoslande -> 9-12](/de/Main Story/Chapter 9_12/) 
+*    [Kapitel 9: Chaoslande -> 9-15](/de/Main Story/Chapter 9_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-12 Schlacht auf der Ebene"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Kapitel 13 - 12. Era of Chaos  Hauptstory - Kapitel 13_12. 13-12 Schlacht auf der Ebene"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 13_12.md"
 toc: false

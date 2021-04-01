@@ -2,7 +2,7 @@
 title: "Item - Materials - Normales Quecksilber"
 permalink: /Items/mat_8/
 excerpt: "Era of Chaos  Normales Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_8.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-4 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-8 
-*    Kapitel 3 (Schutzengel) -> 3-3 
+*    Gildenabenteuer 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-4](/de/Main Story/Chapter 2_4/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-8](/de/Main Story/Chapter 2_8/) 
+*    [Kapitel 3: Schutzengel -> 3-3](/de/Main Story/Chapter 3_3/) 
 
 ## This item contains:
 

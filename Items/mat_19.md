@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegenes Erz"
 permalink: /Items/mat_19/
 excerpt: "Era of Chaos  Überlegenes Erz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_19.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 6 (Erster Spatenstich) -> 6-1 
-*    Kapitel 6 (Erster Spatenstich) -> 6-4 
-*    Kapitel 6 (Erster Spatenstich) -> 6-7 
+*    Gildenabenteuer 
+*    [Kapitel 6: Erster Spatenstich -> 6-1](/de/Main Story/Chapter 6_1/) 
+*    [Kapitel 6: Erster Spatenstich -> 6-4](/de/Main Story/Chapter 6_4/) 
+*    [Kapitel 6: Erster Spatenstich -> 6-7](/de/Main Story/Chapter 6_7/) 
 
 ## This item contains:
 

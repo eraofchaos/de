@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegener Schwefel"
 permalink: /Items/mat_22/
 excerpt: "Era of Chaos  Überlegener Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_22.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 6 (Erster Spatenstich) -> 6-10 
-*    Kapitel 6 (Erster Spatenstich) -> 6-14 
-*    Kapitel 7 (Erathia) -> 7-4 
+*    Gildenabenteuer 
+*    [Kapitel 6: Erster Spatenstich -> 6-10](/de/Main Story/Chapter 6_10/) 
+*    [Kapitel 6: Erster Spatenstich -> 6-14](/de/Main Story/Chapter 6_14/) 
+*    [Kapitel 7: Erathia -> 7-4](/de/Main Story/Chapter 7_4/) 
 
 ## This item contains:
 

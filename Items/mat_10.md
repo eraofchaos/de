@@ -2,7 +2,7 @@
 title: "Item - Materials - Normale Edelsteine"
 permalink: /Items/mat_10/
 excerpt: "Era of Chaos  Normale Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_10.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 3 (Schutzengel) -> 3-1 
-*    Kapitel 3 (Schutzengel) -> 3-5 
-*    Kapitel 3 (Schutzengel) -> 3-11 
+*    Gildenabenteuer 
+*    [Kapitel 3: Schutzengel -> 3-1](/de/Main Story/Chapter 3_1/) 
+*    [Kapitel 3: Schutzengel -> 3-5](/de/Main Story/Chapter 3_5/) 
+*    [Kapitel 3: Schutzengel -> 3-11](/de/Main Story/Chapter 3_11/) 
 
 ## This item contains:
 

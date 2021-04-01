@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-1 Das Schloss besetzen"
 permalink: /Main Story/Chapter 23_1/
 excerpt: "Kapitel 23 - 1. Era of Chaos  Hauptstory - Kapitel 23_1. 23-1 Das Schloss besetzen"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 23_1.md"
 toc: false

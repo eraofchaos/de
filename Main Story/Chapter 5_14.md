@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-14 Drachenrüstung"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Kapitel 5 - 14. Era of Chaos  Hauptstory - Kapitel 5_14. 5-14 Drachenrüstung"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 5_14.md"
 toc: false

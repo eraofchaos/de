@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvolles Erz"
 permalink: /Items/mat_26/
 excerpt: "Era of Chaos  Wertvolles Erz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_26.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 8 (Grenzländer) -> 8-1 
-*    Kapitel 8 (Grenzländer) -> 8-4 
-*    Kapitel 8 (Grenzländer) -> 8-7 
+*    Gildenabenteuer 
+*    [Kapitel 8: Grenzländer -> 8-1](/de/Main Story/Chapter 8_1/) 
+*    [Kapitel 8: Grenzländer -> 8-4](/de/Main Story/Chapter 8_4/) 
+*    [Kapitel 8: Grenzländer -> 8-7](/de/Main Story/Chapter 8_7/) 
 
 ## This item contains:
 

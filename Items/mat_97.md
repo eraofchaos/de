@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlendes Holz"
 permalink: /Items/mat_97/
 excerpt: "Era of Chaos  Strahlendes Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_97.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 27 (Blut des Drachenvaters) -> 27-2 
-*    Kapitel 27 (Blut des Drachenvaters) -> 27-8 
+*    Gildenabenteuer 
+*    [Kapitel 27: Blut des Drachenvaters -> 27-2](/de/Main Story/Chapter 27_2/) 
+*    [Kapitel 27: Blut des Drachenvaters -> 27-8](/de/Main Story/Chapter 27_8/) 
 
 ## This item contains:
 

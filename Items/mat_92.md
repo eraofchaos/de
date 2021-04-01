@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternschwefel"
 permalink: /Items/mat_92/
 excerpt: "Era of Chaos  Sternschwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_92.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-4 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-10 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-13 
+*    Gildenabenteuer 
+*    [Kapitel 26: Die Führung ausbauen -> 26-4](/de/Main Story/Chapter 26_4/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-10](/de/Main Story/Chapter 26_10/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-13](/de/Main Story/Chapter 26_13/) 
 
 ## This item contains:
 

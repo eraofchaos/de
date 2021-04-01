@@ -2,7 +2,7 @@
 title: "Item - Materials - Normales Holz"
 permalink: /Items/mat_7/
 excerpt: "Era of Chaos  Normales Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_7.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-3 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-7 
-*    Kapitel 3 (Schutzengel) -> 3-2 
+*    Gildenabenteuer 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-3](/de/Main Story/Chapter 2_3/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-7](/de/Main Story/Chapter 2_7/) 
+*    [Kapitel 3: Schutzengel -> 3-2](/de/Main Story/Chapter 3_2/) 
 
 ## This item contains:
 

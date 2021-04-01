@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimes Quecksilber"
 permalink: /Items/mat_77/
 excerpt: "Era of Chaos  Geheimes Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_77.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 22 (Kristalldrache) -> 22-3 
-*    Kapitel 22 (Kristalldrache) -> 22-9 
-*    Kapitel 23 (Rostdrache) -> 23-3 
+*    Gildenabenteuer 
+*    [Kapitel 22: Kristalldrache -> 22-3](/de/Main Story/Chapter 22_3/) 
+*    [Kapitel 22: Kristalldrache -> 22-9](/de/Main Story/Chapter 22_9/) 
+*    [Kapitel 23: Rostdrache -> 23-3](/de/Main Story/Chapter 23_3/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythischer Schwefel"
 permalink: /Items/mat_64/
 excerpt: "Era of Chaos  Mythischer Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_64.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-10 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-14 
+*    Gildenabenteuer 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-10](/de/Main Story/Chapter 18_10/) 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-14](/de/Main Story/Chapter 18_14/) 
 
 ## This item contains:
 

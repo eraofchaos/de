@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltener Schwefel"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Seltener Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_43.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 12 (Eismeer) -> 12-10 
-*    Kapitel 12 (Eismeer) -> 12-14 
-*    Kapitel 13 (Tag und Nacht) -> 13-4 
+*    Gildenabenteuer 
+*    [Kapitel 12: Eismeer -> 12-10](/de/Main Story/Chapter 12_10/) 
+*    [Kapitel 12: Eismeer -> 12-14](/de/Main Story/Chapter 12_14/) 
+*    [Kapitel 13: Tag und Nacht -> 13-4](/de/Main Story/Chapter 13_4/) 
 
 ## This item contains:
 

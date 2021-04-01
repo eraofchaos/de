@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-2 Seltsame Zauberei"
 permalink: /Main Story/Chapter 18_2/
 excerpt: "Kapitel 18 - 2. Era of Chaos  Hauptstory - Kapitel 18_2. 18-2 Seltsame Zauberei"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 18_2.md"
 toc: false

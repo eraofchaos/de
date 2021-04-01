@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimes Holz"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Geheimes Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_76.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 22 (Kristalldrache) -> 22-2 
-*    Kapitel 22 (Kristalldrache) -> 22-8 
-*    Kapitel 23 (Rostdrache) -> 23-2 
+*    Gildenabenteuer 
+*    [Kapitel 22: Kristalldrache -> 22-2](/de/Main Story/Chapter 22_2/) 
+*    [Kapitel 22: Kristalldrache -> 22-8](/de/Main Story/Chapter 22_8/) 
+*    [Kapitel 23: Rostdrache -> 23-2](/de/Main Story/Chapter 23_2/) 
 
 ## This item contains:
 

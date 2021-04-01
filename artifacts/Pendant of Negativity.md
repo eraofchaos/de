@@ -2,7 +2,7 @@
 title: "Artefakt - Codex des Erzmagiers - Anhänger der Aufhebung"
 permalink: /artifacts/Pendant of Negativity/
 excerpt: "Era of Chaos  Codex des Erzmagiers - Anhänger der Aufhebung. Ein Ornament, geformt wie ein Blitz und mit dessen Kraft ausgestattet. Ein Codex des Erzmagiers."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Pendant of Negativity.md"
 toc: false

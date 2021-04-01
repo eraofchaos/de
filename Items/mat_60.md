@@ -2,7 +2,7 @@
 title: "Item - Materials - Buch der Essenzen"
 permalink: /Items/mat_60/
 excerpt: "Era of Chaos  Buch der Essenzen"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_60.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Gildenabenteuer 
 *    Kapitel - Sicherer Weg 
 *    Kapitel - Vereinigte Front 
 *    Kapitel - Fürs Vaterland 

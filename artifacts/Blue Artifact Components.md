@@ -2,7 +2,7 @@
 title: "Blue Artifact Components"
 permalink: /artifacts/Blue Artifact Components/
 excerpt: "Era of Chaos  List of all Blue Artifact Components . Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Blue Artifact Components.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvolles Holz"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Wertvolles Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_27.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 8 (Grenzländer) -> 8-2 
-*    Kapitel 8 (Grenzländer) -> 8-5 
-*    Kapitel 8 (Grenzländer) -> 8-8 
+*    Gildenabenteuer 
+*    [Kapitel 8: Grenzländer -> 8-2](/de/Main Story/Chapter 8_2/) 
+*    [Kapitel 8: Grenzländer -> 8-5](/de/Main Story/Chapter 8_5/) 
+*    [Kapitel 8: Grenzländer -> 8-8](/de/Main Story/Chapter 8_8/) 
 
 ## This item contains:
 

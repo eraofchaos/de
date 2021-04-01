@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechter Kristall"
 permalink: /Items/mat_5/
 excerpt: "Era of Chaos  Schlechter Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_5.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 1 (Abendgraminsel) -> 1-4 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-1 
-*    Kapitel 3 (Schutzengel) -> 3-1 
+*    Gildenabenteuer 
+*    [Kapitel 1: Abendgraminsel -> 1-4](/de/Main Story/Chapter 1_4/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-1](/de/Main Story/Chapter 2_1/) 
+*    [Kapitel 3: Schutzengel -> 3-1](/de/Main Story/Chapter 3_1/) 
 
 ## This item contains:
 

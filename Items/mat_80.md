@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimer Kristall"
 permalink: /Items/mat_80/
 excerpt: "Era of Chaos  Geheimer Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_80.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 22 (Kristalldrache) -> 22-6 
-*    Kapitel 22 (Kristalldrache) -> 22-12 
-*    Kapitel 22 (Kristalldrache) -> 22-15 
+*    Gildenabenteuer 
+*    [Kapitel 22: Kristalldrache -> 22-6](/de/Main Story/Chapter 22_6/) 
+*    [Kapitel 22: Kristalldrache -> 22-12](/de/Main Story/Chapter 22_12/) 
+*    [Kapitel 22: Kristalldrache -> 22-15](/de/Main Story/Chapter 22_15/) 
 
 ## This item contains:
 

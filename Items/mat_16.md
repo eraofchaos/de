@@ -2,7 +2,7 @@
 title: "Item - Materials - Gute Edelsteine"
 permalink: /Items/mat_16/
 excerpt: "Era of Chaos  Gute Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_16.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 5 (Byrds) -> 5-1 
-*    Kapitel 5 (Byrds) -> 5-5 
-*    Kapitel 5 (Byrds) -> 5-11 
+*    Gildenabenteuer 
+*    [Kapitel 5: Byrds -> 5-1](/de/Main Story/Chapter 5_1/) 
+*    [Kapitel 5: Byrds -> 5-5](/de/Main Story/Chapter 5_5/) 
+*    [Kapitel 5: Byrds -> 5-11](/de/Main Story/Chapter 5_11/) 
 
 ## This item contains:
 

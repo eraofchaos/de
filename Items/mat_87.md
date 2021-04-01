@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenkristall"
 permalink: /Items/mat_87/
 excerpt: "Era of Chaos  Seelenkristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_87.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 24 (Feendrache) -> 24-6 
-*    Kapitel 24 (Feendrache) -> 24-12 
-*    Kapitel 24 (Feendrache) -> 24-15 
+*    Gildenabenteuer 
+*    [Kapitel 24: Feendrache -> 24-6](/de/Main Story/Chapter 24_6/) 
+*    [Kapitel 24: Feendrache -> 24-12](/de/Main Story/Chapter 24_12/) 
+*    [Kapitel 24: Feendrache -> 24-15](/de/Main Story/Chapter 24_15/) 
 
 ## This item contains:
 

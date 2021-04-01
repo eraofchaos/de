@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlendes Quecksilber"
 permalink: /Items/mat_98/
 excerpt: "Era of Chaos  Strahlendes Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_98.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 27 (Blut des Drachenvaters) -> 27-3 
-*    Kapitel 27 (Blut des Drachenvaters) -> 27-9 
+*    Gildenabenteuer 
+*    [Kapitel 27: Blut des Drachenvaters -> 27-3](/de/Main Story/Chapter 27_3/) 
+*    [Kapitel 27: Blut des Drachenvaters -> 27-9](/de/Main Story/Chapter 27_9/) 
 
 ## This item contains:
 

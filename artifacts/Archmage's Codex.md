@@ -2,7 +2,7 @@
 title: "Artefakt - Codex des Erzmagiers"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Era of Chaos  Codex des Erzmagiers. Codex des Erzmagiers Zeichnet arkane Zauber auf. Stärkt Fernkampf-/Zauberer-Einheiten."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Archmage's Codex.md"
 toc: false

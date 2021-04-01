@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimer Schwefel"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Geheimer Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_78.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 22 (Kristalldrache) -> 22-4 
-*    Kapitel 22 (Kristalldrache) -> 22-10 
-*    Kapitel 22 (Kristalldrache) -> 22-13 
+*    Gildenabenteuer 
+*    [Kapitel 22: Kristalldrache -> 22-4](/de/Main Story/Chapter 22_4/) 
+*    [Kapitel 22: Kristalldrache -> 22-10](/de/Main Story/Chapter 22_10/) 
+*    [Kapitel 22: Kristalldrache -> 22-13](/de/Main Story/Chapter 22_13/) 
 
 ## This item contains:
 

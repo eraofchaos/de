@@ -2,7 +2,7 @@
 title: "Item - Materials - Normaler Schwefel"
 permalink: /Items/mat_9/
 excerpt: "Era of Chaos  Normaler Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_9.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-5 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-9 
-*    Kapitel 3 (Schutzengel) -> 3-4 
+*    Gildenabenteuer 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-5](/de/Main Story/Chapter 2_5/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-9](/de/Main Story/Chapter 2_9/) 
+*    [Kapitel 3: Schutzengel -> 3-4](/de/Main Story/Chapter 3_4/) 
 
 ## This item contains:
 

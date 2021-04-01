@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragende Edelsteine"
 permalink: /Items/mat_37/
 excerpt: "Era of Chaos  Überragende Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_37.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 11 (Tatalia) -> 11-1 
-*    Kapitel 11 (Tatalia) -> 11-5 
-*    Kapitel 11 (Tatalia) -> 11-11 
+*    Gildenabenteuer 
+*    [Kapitel 11: Tatalia -> 11-1](/de/Main Story/Chapter 11_1/) 
+*    [Kapitel 11: Tatalia -> 11-5](/de/Main Story/Chapter 11_5/) 
+*    [Kapitel 11: Tatalia -> 11-11](/de/Main Story/Chapter 11_11/) 
 
 ## This item contains:
 

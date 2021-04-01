@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechter Schwefel"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Schlechter Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_3.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 1 (Abendgraminsel) -> 1-2 
-*    Kapitel 1 (Abendgraminsel) -> 1-5 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-4 
+*    Gildenabenteuer 
+*    [Kapitel 1: Abendgraminsel -> 1-2](/de/Main Story/Chapter 1_2/) 
+*    [Kapitel 1: Abendgraminsel -> 1-5](/de/Main Story/Chapter 1_5/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-4](/de/Main Story/Chapter 2_4/) 
 
 ## This item contains:
 

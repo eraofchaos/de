@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragender Kristall"
 permalink: /Items/mat_38/
 excerpt: "Era of Chaos  Überragender Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_38.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 11 (Tatalia) -> 11-6 
-*    Kapitel 11 (Tatalia) -> 11-12 
-*    Kapitel 11 (Tatalia) -> 11-15 
+*    Gildenabenteuer 
+*    [Kapitel 11: Tatalia -> 11-6](/de/Main Story/Chapter 11_6/) 
+*    [Kapitel 11: Tatalia -> 11-12](/de/Main Story/Chapter 11_12/) 
+*    [Kapitel 11: Tatalia -> 11-15](/de/Main Story/Chapter 11_15/) 
 
 ## This item contains:
 

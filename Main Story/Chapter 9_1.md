@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-1 Überbleibsel der Elfen"
 permalink: /Main Story/Chapter 9_1/
 excerpt: "Kapitel 9 - 1. Era of Chaos  Hauptstory - Kapitel 9_1. 9-1 Überbleibsel der Elfen"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 9_1.md"
 toc: false

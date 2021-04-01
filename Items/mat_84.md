@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenquecksilber"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Seelenquecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_84.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 24 (Feendrache) -> 24-3 
-*    Kapitel 24 (Feendrache) -> 24-9 
-*    Kapitel 25 (Überleben des Stärkeren) -> 25-3 
+*    Gildenabenteuer 
+*    [Kapitel 24: Feendrache -> 24-3](/de/Main Story/Chapter 24_3/) 
+*    [Kapitel 24: Feendrache -> 24-9](/de/Main Story/Chapter 24_9/) 
+*    [Kapitel 25: Überleben des Stärkeren -> 25-3](/de/Main Story/Chapter 25_3/) 
 
 ## This item contains:
 

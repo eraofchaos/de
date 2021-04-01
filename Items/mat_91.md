@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternquecksilber"
 permalink: /Items/mat_91/
 excerpt: "Era of Chaos  Sternquecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_91.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-3 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-9 
+*    Gildenabenteuer 
+*    [Kapitel 26: Die Führung ausbauen -> 26-3](/de/Main Story/Chapter 26_3/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-9](/de/Main Story/Chapter 26_9/) 
 
 ## This item contains:
 

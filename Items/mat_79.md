@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheime Edelsteine"
 permalink: /Items/mat_79/
 excerpt: "Era of Chaos  Geheime Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_79.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 22 (Kristalldrache) -> 22-1 
-*    Kapitel 22 (Kristalldrache) -> 22-5 
-*    Kapitel 22 (Kristalldrache) -> 22-11 
+*    Gildenabenteuer 
+*    [Kapitel 22: Kristalldrache -> 22-1](/de/Main Story/Chapter 22_1/) 
+*    [Kapitel 22: Kristalldrache -> 22-5](/de/Main Story/Chapter 22_5/) 
+*    [Kapitel 22: Kristalldrache -> 22-11](/de/Main Story/Chapter 22_11/) 
 
 ## This item contains:
 

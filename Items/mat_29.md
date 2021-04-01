@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvoller Schwefel"
 permalink: /Items/mat_29/
 excerpt: "Era of Chaos  Wertvoller Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_29.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 8 (Grenzländer) -> 8-10 
-*    Kapitel 8 (Grenzländer) -> 8-14 
-*    Kapitel 9 (Chaoslande) -> 9-4 
+*    Gildenabenteuer 
+*    [Kapitel 8: Grenzländer -> 8-10](/de/Main Story/Chapter 8_10/) 
+*    [Kapitel 8: Grenzländer -> 8-14](/de/Main Story/Chapter 8_14/) 
+*    [Kapitel 9: Chaoslande -> 9-4](/de/Main Story/Chapter 9_4/) 
 
 ## This item contains:
 

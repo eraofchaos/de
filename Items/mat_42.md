@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltenes Quecksilber"
 permalink: /Items/mat_42/
 excerpt: "Era of Chaos  Seltenes Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_42.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 12 (Eismeer) -> 12-3 
-*    Kapitel 12 (Eismeer) -> 12-6 
-*    Kapitel 12 (Eismeer) -> 12-9 
+*    Gildenabenteuer 
+*    [Kapitel 12: Eismeer -> 12-3](/de/Main Story/Chapter 12_3/) 
+*    [Kapitel 12: Eismeer -> 12-6](/de/Main Story/Chapter 12_6/) 
+*    [Kapitel 12: Eismeer -> 12-9](/de/Main Story/Chapter 12_9/) 
 
 ## This item contains:
 

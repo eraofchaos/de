@@ -2,7 +2,7 @@
 title: "Item - Materials - Episches Quecksilber"
 permalink: /Items/mat_49/
 excerpt: "Era of Chaos  Episches Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_49.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 14 (Sicherer Weg) -> 14-3 
-*    Kapitel 14 (Sicherer Weg) -> 14-6 
-*    Kapitel 14 (Sicherer Weg) -> 14-9 
+*    Gildenabenteuer 
+*    [Kapitel 14: Sicherer Weg -> 14-3](/de/Main Story/Chapter 14_3/) 
+*    [Kapitel 14: Sicherer Weg -> 14-6](/de/Main Story/Chapter 14_6/) 
+*    [Kapitel 14: Sicherer Weg -> 14-9](/de/Main Story/Chapter 14_9/) 
 
 ## This item contains:
 

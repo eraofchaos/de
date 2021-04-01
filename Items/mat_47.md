@@ -2,7 +2,7 @@
 title: "Item - Materials - Episches Erz"
 permalink: /Items/mat_47/
 excerpt: "Era of Chaos  Episches Erz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_47.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 14 (Sicherer Weg) -> 14-1 
-*    Kapitel 14 (Sicherer Weg) -> 14-4 
-*    Kapitel 14 (Sicherer Weg) -> 14-7 
+*    Gildenabenteuer 
+*    [Kapitel 14: Sicherer Weg -> 14-1](/de/Main Story/Chapter 14_1/) 
+*    [Kapitel 14: Sicherer Weg -> 14-4](/de/Main Story/Chapter 14_4/) 
+*    [Kapitel 14: Sicherer Weg -> 14-7](/de/Main Story/Chapter 14_7/) 
 
 ## This item contains:
 

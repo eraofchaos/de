@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-2 Armeen begegnen sich"
 permalink: /Main Story/Chapter 6_2/
 excerpt: "Kapitel 6 - 2. Era of Chaos  Hauptstory - Kapitel 6_2. 6-2 Armeen begegnen sich"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 6_2.md"
 toc: false

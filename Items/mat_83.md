@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenholz"
 permalink: /Items/mat_83/
 excerpt: "Era of Chaos  Seelenholz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_83.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 24 (Feendrache) -> 24-2 
-*    Kapitel 24 (Feendrache) -> 24-8 
-*    Kapitel 25 (Überleben des Stärkeren) -> 25-2 
+*    Gildenabenteuer 
+*    [Kapitel 24: Feendrache -> 24-2](/de/Main Story/Chapter 24_2/) 
+*    [Kapitel 24: Feendrache -> 24-8](/de/Main Story/Chapter 24_8/) 
+*    [Kapitel 25: Überleben des Stärkeren -> 25-2](/de/Main Story/Chapter 25_2/) 
 
 ## This item contains:
 

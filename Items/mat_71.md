@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewiger Schwefel"
 permalink: /Items/mat_71/
 excerpt: "Era of Chaos  Ewiger Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_71.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-10 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-14 
-*    Kapitel 21 (Der Gral) -> 21-4 
+*    Gildenabenteuer 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-10](/de/Main Story/Chapter 20_10/) 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-14](/de/Main Story/Chapter 20_14/) 
+*    [Kapitel 21: Der Gral -> 21-4](/de/Main Story/Chapter 21_4/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegenes Holz"
 permalink: /Items/mat_20/
 excerpt: "Era of Chaos  Überlegenes Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_20.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 6 (Erster Spatenstich) -> 6-2 
-*    Kapitel 6 (Erster Spatenstich) -> 6-5 
-*    Kapitel 6 (Erster Spatenstich) -> 6-8 
+*    Gildenabenteuer 
+*    [Kapitel 6: Erster Spatenstich -> 6-2](/de/Main Story/Chapter 6_2/) 
+*    [Kapitel 6: Erster Spatenstich -> 6-5](/de/Main Story/Chapter 6_5/) 
+*    [Kapitel 6: Erster Spatenstich -> 6-8](/de/Main Story/Chapter 6_8/) 
 
 ## This item contains:
 

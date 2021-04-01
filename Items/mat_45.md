@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltener Kristall"
 permalink: /Items/mat_45/
 excerpt: "Era of Chaos  Seltener Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_45.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 13 (Tag und Nacht) -> 13-6 
-*    Kapitel 13 (Tag und Nacht) -> 13-12 
-*    Kapitel 13 (Tag und Nacht) -> 13-15 
+*    Gildenabenteuer 
+*    [Kapitel 13: Tag und Nacht -> 13-6](/de/Main Story/Chapter 13_6/) 
+*    [Kapitel 13: Tag und Nacht -> 13-12](/de/Main Story/Chapter 13_12/) 
+*    [Kapitel 13: Tag und Nacht -> 13-15](/de/Main Story/Chapter 13_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythisches Holz"
 permalink: /Items/mat_62/
 excerpt: "Era of Chaos  Mythisches Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_62.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-2 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-5 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-8 
+*    Gildenabenteuer 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-2](/de/Main Story/Chapter 18_2/) 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-5](/de/Main Story/Chapter 18_5/) 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-8](/de/Main Story/Chapter 18_8/) 
 
 ## This item contains:
 

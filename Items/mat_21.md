@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegenes Quecksilber"
 permalink: /Items/mat_21/
 excerpt: "Era of Chaos  Überlegenes Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_21.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 6 (Erster Spatenstich) -> 6-3 
-*    Kapitel 6 (Erster Spatenstich) -> 6-6 
-*    Kapitel 6 (Erster Spatenstich) -> 6-9 
+*    Gildenabenteuer 
+*    [Kapitel 6: Erster Spatenstich -> 6-3](/de/Main Story/Chapter 6_3/) 
+*    [Kapitel 6: Erster Spatenstich -> 6-6](/de/Main Story/Chapter 6_6/) 
+*    [Kapitel 6: Erster Spatenstich -> 6-9](/de/Main Story/Chapter 6_9/) 
 
 ## This item contains:
 

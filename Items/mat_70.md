@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewiges Quecksilber"
 permalink: /Items/mat_70/
 excerpt: "Era of Chaos  Ewiges Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_70.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-3 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-6 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-9 
+*    Gildenabenteuer 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-3](/de/Main Story/Chapter 20_3/) 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-6](/de/Main Story/Chapter 20_6/) 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-9](/de/Main Story/Chapter 20_9/) 
 
 ## This item contains:
 

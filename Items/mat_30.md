@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvolle Edelsteine"
 permalink: /Items/mat_30/
 excerpt: "Era of Chaos  Wertvolle Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_30.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 9 (Chaoslande) -> 9-1 
-*    Kapitel 9 (Chaoslande) -> 9-5 
-*    Kapitel 9 (Chaoslande) -> 9-11 
+*    Gildenabenteuer 
+*    [Kapitel 9: Chaoslande -> 9-1](/de/Main Story/Chapter 9_1/) 
+*    [Kapitel 9: Chaoslande -> 9-5](/de/Main Story/Chapter 9_5/) 
+*    [Kapitel 9: Chaoslande -> 9-11](/de/Main Story/Chapter 9_11/) 
 
 ## This item contains:
 

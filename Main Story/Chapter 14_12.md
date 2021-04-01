@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-12 Enträtseltes Geheimnis"
 permalink: /Main Story/Chapter 14_12/
 excerpt: "Kapitel 14 - 12. Era of Chaos  Hauptstory - Kapitel 14_12. 14-12 Enträtseltes Geheimnis"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 14_12.md"
 toc: false

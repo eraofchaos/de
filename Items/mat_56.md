@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendäres Quecksilber"
 permalink: /Items/mat_56/
 excerpt: "Era of Chaos  Legendäres Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_56.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 16 (Fürs Vaterland) -> 16-3 
-*    Kapitel 16 (Fürs Vaterland) -> 16-6 
-*    Kapitel 16 (Fürs Vaterland) -> 16-9 
+*    Gildenabenteuer 
+*    [Kapitel 16: Fürs Vaterland -> 16-3](/de/Main Story/Chapter 16_3/) 
+*    [Kapitel 16: Fürs Vaterland -> 16-6](/de/Main Story/Chapter 16_6/) 
+*    [Kapitel 16: Fürs Vaterland -> 16-9](/de/Main Story/Chapter 16_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Artefakt - Edenapfel - Edentuch"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Era of Chaos  Edenapfel - Edentuch. Das legendäre heilige Edentuch. Es gibt keine Möglichkeit, seine Echtheit zu überprüfen."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Shroud of Eden.md"
 toc: false

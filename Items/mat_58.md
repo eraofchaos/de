@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendäre Edelsteine"
 permalink: /Items/mat_58/
 excerpt: "Era of Chaos  Legendäre Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_58.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 17 (Befreiung des Imperiums) -> 17-1 
-*    Kapitel 17 (Befreiung des Imperiums) -> 17-5 
-*    Kapitel 17 (Befreiung des Imperiums) -> 17-11 
+*    Gildenabenteuer 
+*    [Kapitel 17: Befreiung des Imperiums -> 17-1](/de/Main Story/Chapter 17_1/) 
+*    [Kapitel 17: Befreiung des Imperiums -> 17-5](/de/Main Story/Chapter 17_5/) 
+*    [Kapitel 17: Befreiung des Imperiums -> 17-11](/de/Main Story/Chapter 17_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechtes Holz"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Schlechtes Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_1.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 1 (Abendgraminsel) -> 1-2 
-*    Kapitel 1 (Abendgraminsel) -> 1-3 
-*    Kapitel 1 (Abendgraminsel) -> 1-5 
+*    Gildenabenteuer 
+*    [Kapitel 1: Abendgraminsel -> 1-2](/de/Main Story/Chapter 1_2/) 
+*    [Kapitel 1: Abendgraminsel -> 1-3](/de/Main Story/Chapter 1_3/) 
+*    [Kapitel 1: Abendgraminsel -> 1-5](/de/Main Story/Chapter 1_5/) 
 
 ## This item contains:
 

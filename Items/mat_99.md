@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlender Schwefel"
 permalink: /Items/mat_99/
 excerpt: "Era of Chaos  Strahlender Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_99.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 27 (Blut des Drachenvaters) -> 27-4 
-*    Kapitel 27 (Blut des Drachenvaters) -> 27-10 
-*    Kapitel 27 (Blut des Drachenvaters) -> 27-13 
+*    Gildenabenteuer 
+*    [Kapitel 27: Blut des Drachenvaters -> 27-4](/de/Main Story/Chapter 27_4/) 
+*    [Kapitel 27: Blut des Drachenvaters -> 27-10](/de/Main Story/Chapter 27_10/) 
+*    [Kapitel 27: Blut des Drachenvaters -> 27-13](/de/Main Story/Chapter 27_13/) 
 
 ## This item contains:
 

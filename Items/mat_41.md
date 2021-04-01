@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltenes Holz"
 permalink: /Items/mat_41/
 excerpt: "Era of Chaos  Seltenes Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_41.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 12 (Eismeer) -> 12-2 
-*    Kapitel 12 (Eismeer) -> 12-5 
-*    Kapitel 12 (Eismeer) -> 12-8 
+*    Gildenabenteuer 
+*    [Kapitel 12: Eismeer -> 12-2](/de/Main Story/Chapter 12_2/) 
+*    [Kapitel 12: Eismeer -> 12-5](/de/Main Story/Chapter 12_5/) 
+*    [Kapitel 12: Eismeer -> 12-8](/de/Main Story/Chapter 12_8/) 
 
 ## This item contains:
 

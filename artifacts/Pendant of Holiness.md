@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund - Anhänger der Heiligkeit"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "Era of Chaos  Engelsbund - Anhänger der Heiligkeit. Eine Halskette eines Engels. Eine der Komponenten für den Engelsbund."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Pendant of Holiness.md"
 toc: false

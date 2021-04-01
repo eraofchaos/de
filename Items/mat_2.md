@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechtes Quecksilber"
 permalink: /Items/mat_2/
 excerpt: "Era of Chaos  Schlechtes Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_2.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 1 (Abendgraminsel) -> 1-1 
-*    Kapitel 1 (Abendgraminsel) -> 1-3 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-3 
+*    Gildenabenteuer 
+*    [Kapitel 1: Abendgraminsel -> 1-1](/de/Main Story/Chapter 1_1/) 
+*    [Kapitel 1: Abendgraminsel -> 1-3](/de/Main Story/Chapter 1_3/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-3](/de/Main Story/Chapter 2_3/) 
 
 ## This item contains:
 

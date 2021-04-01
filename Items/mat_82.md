@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenerz"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Seelenerz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_82.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 24 (Feendrache) -> 24-7 
-*    Kapitel 25 (Überleben des Stärkeren) -> 25-7 
+*    Gildenabenteuer 
+*    [Kapitel 24: Feendrache -> 24-7](/de/Main Story/Chapter 24_7/) 
+*    [Kapitel 25: Überleben des Stärkeren -> 25-7](/de/Main Story/Chapter 25_7/) 
 
 ## This item contains:
 

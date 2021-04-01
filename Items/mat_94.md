@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternkristall"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Sternkristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_94.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-6 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-12 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-15 
+*    Gildenabenteuer 
+*    [Kapitel 26: Die Führung ausbauen -> 26-6](/de/Main Story/Chapter 26_6/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-12](/de/Main Story/Chapter 26_12/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-15](/de/Main Story/Chapter 26_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Epischer Kristall"
 permalink: /Items/mat_52/
 excerpt: "Era of Chaos  Epischer Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_52.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 15 (Vereinigte Front) -> 15-6 
-*    Kapitel 15 (Vereinigte Front) -> 15-12 
-*    Kapitel 15 (Vereinigte Front) -> 15-15 
+*    Gildenabenteuer 
+*    [Kapitel 15: Vereinigte Front -> 15-6](/de/Main Story/Chapter 15_6/) 
+*    [Kapitel 15: Vereinigte Front -> 15-12](/de/Main Story/Chapter 15_12/) 
+*    [Kapitel 15: Vereinigte Front -> 15-15](/de/Main Story/Chapter 15_15/) 
 
 ## This item contains:
 

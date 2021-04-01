@@ -2,7 +2,7 @@
 title: "Zeitplan"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Zeitplan. Schedule for all near events and shop sales."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "index.md"
 toc: false

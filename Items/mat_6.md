@@ -2,7 +2,7 @@
 title: "Item - Materials - Normales Erz"
 permalink: /Items/mat_6/
 excerpt: "Era of Chaos  Normales Erz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_6.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-2 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-6 
-*    Kapitel 2 (Die Rückkehr der Königin) -> 2-10 
+*    Gildenabenteuer 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-2](/de/Main Story/Chapter 2_2/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-6](/de/Main Story/Chapter 2_6/) 
+*    [Kapitel 2: Die Rückkehr der Königin -> 2-10](/de/Main Story/Chapter 2_10/) 
 
 ## This item contains:
 

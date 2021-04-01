@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewiges Erz"
 permalink: /Items/mat_68/
 excerpt: "Era of Chaos  Ewiges Erz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_68.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-1 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-4 
-*    Kapitel 20 (Tunnel und Troglodyten) -> 20-7 
+*    Gildenabenteuer 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-1](/de/Main Story/Chapter 20_1/) 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-4](/de/Main Story/Chapter 20_4/) 
+*    [Kapitel 20: Tunnel und Troglodyten -> 20-7](/de/Main Story/Chapter 20_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegener Kristall"
 permalink: /Items/mat_24/
 excerpt: "Era of Chaos  Überlegener Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_24.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 7 (Erathia) -> 7-6 
-*    Kapitel 7 (Erathia) -> 7-12 
-*    Kapitel 7 (Erathia) -> 7-15 
+*    Gildenabenteuer 
+*    [Kapitel 7: Erathia -> 7-6](/de/Main Story/Chapter 7_6/) 
+*    [Kapitel 7: Erathia -> 7-12](/de/Main Story/Chapter 7_12/) 
+*    [Kapitel 7: Erathia -> 7-15](/de/Main Story/Chapter 7_15/) 
 
 ## This item contains:
 

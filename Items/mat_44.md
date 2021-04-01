@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltene Edelsteine"
 permalink: /Items/mat_44/
 excerpt: "Era of Chaos  Seltene Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_44.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 13 (Tag und Nacht) -> 13-1 
-*    Kapitel 13 (Tag und Nacht) -> 13-5 
-*    Kapitel 13 (Tag und Nacht) -> 13-11 
+*    Gildenabenteuer 
+*    [Kapitel 13: Tag und Nacht -> 13-1](/de/Main Story/Chapter 13_1/) 
+*    [Kapitel 13: Tag und Nacht -> 13-5](/de/Main Story/Chapter 13_5/) 
+*    [Kapitel 13: Tag und Nacht -> 13-11](/de/Main Story/Chapter 13_11/) 
 
 ## This item contains:
 

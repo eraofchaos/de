@@ -2,7 +2,7 @@
 title: "Item - Materials - Normaler Kristall"
 permalink: /Items/mat_11/
 excerpt: "Era of Chaos  Normaler Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_11.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 3 (Schutzengel) -> 3-6 
-*    Kapitel 3 (Schutzengel) -> 3-12 
-*    Kapitel 3 (Schutzengel) -> 3-15 
+*    Gildenabenteuer 
+*    [Kapitel 3: Schutzengel -> 3-6](/de/Main Story/Chapter 3_6/) 
+*    [Kapitel 3: Schutzengel -> 3-12](/de/Main Story/Chapter 3_12/) 
+*    [Kapitel 3: Schutzengel -> 3-15](/de/Main Story/Chapter 3_15/) 
 
 ## This item contains:
 

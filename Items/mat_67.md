@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendenzertifikat"
 permalink: /Items/mat_67/
 excerpt: "Era of Chaos  Legendenzertifikat"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_67.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Gildenabenteuer 
 *    Kapitel - Fürs Vaterland 
 *    Kapitel - Befreiung des Imperiums 
 *    Kapitel - Geschäft mit dem Teufel 

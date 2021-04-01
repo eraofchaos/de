@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltenes Erz"
 permalink: /Items/mat_40/
 excerpt: "Era of Chaos  Seltenes Erz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_40.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 12 (Eismeer) -> 12-1 
-*    Kapitel 12 (Eismeer) -> 12-4 
-*    Kapitel 12 (Eismeer) -> 12-7 
+*    Gildenabenteuer 
+*    [Kapitel 12: Eismeer -> 12-1](/de/Main Story/Chapter 12_1/) 
+*    [Kapitel 12: Eismeer -> 12-4](/de/Main Story/Chapter 12_4/) 
+*    [Kapitel 12: Eismeer -> 12-7](/de/Main Story/Chapter 12_7/) 
 
 ## This item contains:
 

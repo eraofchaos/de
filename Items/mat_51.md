@@ -2,7 +2,7 @@
 title: "Item - Materials - Epische Edelsteine"
 permalink: /Items/mat_51/
 excerpt: "Era of Chaos  Epische Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_51.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 15 (Vereinigte Front) -> 15-1 
-*    Kapitel 15 (Vereinigte Front) -> 15-5 
-*    Kapitel 15 (Vereinigte Front) -> 15-11 
+*    Gildenabenteuer 
+*    [Kapitel 15: Vereinigte Front -> 15-1](/de/Main Story/Chapter 15_1/) 
+*    [Kapitel 15: Vereinigte Front -> 15-5](/de/Main Story/Chapter 15_5/) 
+*    [Kapitel 15: Vereinigte Front -> 15-11](/de/Main Story/Chapter 15_11/) 
 
 ## This item contains:
 

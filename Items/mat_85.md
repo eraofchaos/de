@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenschwefel"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Seelenschwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_85.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 24 (Feendrache) -> 24-4 
-*    Kapitel 24 (Feendrache) -> 24-10 
-*    Kapitel 24 (Feendrache) -> 24-13 
+*    Gildenabenteuer 
+*    [Kapitel 24: Feendrache -> 24-4](/de/Main Story/Chapter 24_4/) 
+*    [Kapitel 24: Feendrache -> 24-10](/de/Main Story/Chapter 24_10/) 
+*    [Kapitel 24: Feendrache -> 24-13](/de/Main Story/Chapter 24_13/) 
 
 ## This item contains:
 

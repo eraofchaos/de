@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-3 Mutiger Vorstoß"
 permalink: /Main Story/Chapter 22_3/
 excerpt: "Kapitel 22 - 3. Era of Chaos  Hauptstory - Kapitel 22_3. 22-3 Mutiger Vorstoß"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 22_3.md"
 toc: false

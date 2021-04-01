@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimes Erz"
 permalink: /Items/mat_75/
 excerpt: "Era of Chaos  Geheimes Erz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_75.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 22 (Kristalldrache) -> 22-7 
-*    Kapitel 23 (Rostdrache) -> 23-7 
+*    Gildenabenteuer 
+*    [Kapitel 22: Kristalldrache -> 22-7](/de/Main Story/Chapter 22_7/) 
+*    [Kapitel 23: Rostdrache -> 23-7](/de/Main Story/Chapter 23_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Buch der Waffen"
 permalink: /Items/mat_32/
 excerpt: "Era of Chaos  Buch der Waffen"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_32.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Gildenabenteuer 
 *    Kapitel - Der Verlust der Hauptstadt 
 *    Kapitel - Grenzländer 
 *    Kapitel - Wilde Gedanken 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Gutes Holz"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Gutes Holz"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_13.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 4 (Die Greifenklippe) -> 4-2 
-*    Kapitel 4 (Die Greifenklippe) -> 4-5 
-*    Kapitel 4 (Die Greifenklippe) -> 4-8 
+*    Gildenabenteuer 
+*    [Kapitel 4: Die Greifenklippe -> 4-2](/de/Main Story/Chapter 4_2/) 
+*    [Kapitel 4: Die Greifenklippe -> 4-5](/de/Main Story/Chapter 4_5/) 
+*    [Kapitel 4: Die Greifenklippe -> 4-8](/de/Main Story/Chapter 4_8/) 
 
 ## This item contains:
 

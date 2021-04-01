@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendärer Schwefel"
 permalink: /Items/mat_57/
 excerpt: "Era of Chaos  Legendärer Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_57.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 16 (Fürs Vaterland) -> 16-10 
-*    Kapitel 16 (Fürs Vaterland) -> 16-14 
-*    Kapitel 17 (Befreiung des Imperiums) -> 17-4 
+*    Gildenabenteuer 
+*    [Kapitel 16: Fürs Vaterland -> 16-10](/de/Main Story/Chapter 16_10/) 
+*    [Kapitel 16: Fürs Vaterland -> 16-14](/de/Main Story/Chapter 16_14/) 
+*    [Kapitel 17: Befreiung des Imperiums -> 17-4](/de/Main Story/Chapter 17_4/) 
 
 ## This item contains:
 

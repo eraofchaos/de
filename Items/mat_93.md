@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternedelsteine"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Sternedelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_93.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-1 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-5 
-*    Kapitel 26 (Die Führung ausbauen) -> 26-11 
+*    Gildenabenteuer 
+*    [Kapitel 26: Die Führung ausbauen -> 26-1](/de/Main Story/Chapter 26_1/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-5](/de/Main Story/Chapter 26_5/) 
+*    [Kapitel 26: Die Führung ausbauen -> 26-11](/de/Main Story/Chapter 26_11/) 
 
 ## This item contains:
 

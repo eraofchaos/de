@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewige Edelsteine"
 permalink: /Items/mat_72/
 excerpt: "Era of Chaos  Ewige Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_72.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 21 (Der Gral) -> 21-1 
-*    Kapitel 21 (Der Gral) -> 21-5 
-*    Kapitel 21 (Der Gral) -> 21-11 
+*    Gildenabenteuer 
+*    [Kapitel 21: Der Gral -> 21-1](/de/Main Story/Chapter 21_1/) 
+*    [Kapitel 21: Der Gral -> 21-5](/de/Main Story/Chapter 21_5/) 
+*    [Kapitel 21: Der Gral -> 21-11](/de/Main Story/Chapter 21_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythisches Quecksilber"
 permalink: /Items/mat_63/
 excerpt: "Era of Chaos  Mythisches Quecksilber"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_63.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-3 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-6 
-*    Kapitel 18 (Geschäft mit dem Teufel) -> 18-9 
+*    Gildenabenteuer 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-3](/de/Main Story/Chapter 18_3/) 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-6](/de/Main Story/Chapter 18_6/) 
+*    [Kapitel 18: Geschäft mit dem Teufel -> 18-9](/de/Main Story/Chapter 18_9/) 
 
 ## This item contains:
 

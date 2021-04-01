@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythischer Kristall"
 permalink: /Items/mat_66/
 excerpt: "Era of Chaos  Mythischer Kristall"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_66.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 19 (Neutrales Gebiet) -> 19-6 
-*    Kapitel 19 (Neutrales Gebiet) -> 19-12 
-*    Kapitel 19 (Neutrales Gebiet) -> 19-15 
+*    Gildenabenteuer 
+*    [Kapitel 19: Neutrales Gebiet -> 19-6](/de/Main Story/Chapter 19_6/) 
+*    [Kapitel 19: Neutrales Gebiet -> 19-12](/de/Main Story/Chapter 19_12/) 
+*    [Kapitel 19: Neutrales Gebiet -> 19-15](/de/Main Story/Chapter 19_15/) 
 
 ## This item contains:
 

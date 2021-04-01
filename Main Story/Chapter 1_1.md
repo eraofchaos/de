@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-1 Inselwache"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "Kapitel 1 - 1. Era of Chaos  Hauptstory - Kapitel 1_1. 1-1 Inselwache"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "Chapter 1_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Guter Schwefel"
 permalink: /Items/mat_15/
 excerpt: "Era of Chaos  Guter Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_15.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 4 (Die Greifenklippe) -> 4-10 
-*    Kapitel 4 (Die Greifenklippe) -> 4-14 
-*    Kapitel 5 (Byrds) -> 5-4 
+*    Gildenabenteuer 
+*    [Kapitel 4: Die Greifenklippe -> 4-10](/de/Main Story/Chapter 4_10/) 
+*    [Kapitel 4: Die Greifenklippe -> 4-14](/de/Main Story/Chapter 4_14/) 
+*    [Kapitel 5: Byrds -> 5-4](/de/Main Story/Chapter 5_4/) 
 
 ## This item contains:
 

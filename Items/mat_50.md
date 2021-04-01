@@ -2,7 +2,7 @@
 title: "Item - Materials - Epischer Schwefel"
 permalink: /Items/mat_50/
 excerpt: "Era of Chaos  Epischer Schwefel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_50.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 14 (Sicherer Weg) -> 14-10 
-*    Kapitel 14 (Sicherer Weg) -> 14-14 
-*    Kapitel 15 (Vereinigte Front) -> 15-4 
+*    Gildenabenteuer 
+*    [Kapitel 14: Sicherer Weg -> 14-10](/de/Main Story/Chapter 14_10/) 
+*    [Kapitel 14: Sicherer Weg -> 14-14](/de/Main Story/Chapter 14_14/) 
+*    [Kapitel 15: Vereinigte Front -> 15-4](/de/Main Story/Chapter 15_4/) 
 
 ## This item contains:
 

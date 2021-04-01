@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythische Edelsteine"
 permalink: /Items/mat_65/
 excerpt: "Era of Chaos  Mythische Edelsteine"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: de
 ref: "mat_65.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Kapitel 19 (Neutrales Gebiet) -> 19-1 
-*    Kapitel 19 (Neutrales Gebiet) -> 19-5 
-*    Kapitel 19 (Neutrales Gebiet) -> 19-11 
+*    Gildenabenteuer 
+*    [Kapitel 19: Neutrales Gebiet -> 19-1](/de/Main Story/Chapter 19_1/) 
+*    [Kapitel 19: Neutrales Gebiet -> 19-5](/de/Main Story/Chapter 19_5/) 
+*    [Kapitel 19: Neutrales Gebiet -> 19-11](/de/Main Story/Chapter 19_11/) 
 
 ## This item contains:
 
