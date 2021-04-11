@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-15 Windnest"
 permalink: /Main Story/Chapter 4_15/
 excerpt: "Kapitel 4 - 15. Era of Chaos  Hauptstory - Kapitel 4_15. 4-15 Windnest"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 4_15.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Königin Catherine glaubt, dass sie ihren Krieg der Restauration nur mit der Unterstützung der Greife gewinnen kann. Die Hilfe der Greife ist ein Zeichen für die Auferstehung des Greifenherz-Königreichs.
 
- **Related to:** [Kapitel 4](/de/Main Story/Chapter 4/)
+ **Related to:** [Hauptstory Kapitel 4](/de/Main Story/Chapter 4/)
 
 ## Beutebelohnung
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}, **50% 1x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Xeron](/de/heroes/Xeron/) (Score: 1000, Level:19)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Dämon](/de/units/Demon/) (Score: 21789, Level:15)  | [Dämon](/de/units/Demon/) (Score: 21789, Level:15)  |
+  | - | - | [Teufel](/de/units/Devil/) (Score: 24839, Level:40)  | - |
+  | - | - | [Grottenteufel](/de/units/Pit Fiend/) (Score: 21789, Level:15)  | [Gog](/de/units/Gog/) (Score: 21789, Level:15)  |
+  | - | - | - | - |
+
 

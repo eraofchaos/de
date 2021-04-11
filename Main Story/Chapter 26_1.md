@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-1 Nationalbewusstsein"
 permalink: /Main Story/Chapter 26_1/
 excerpt: "Kapitel 26 - 1. Era of Chaos  Hauptstory - Kapitel 26_1. 26-1 Nationalbewusstsein"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 26_1.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Beschreibung:** Nighon ist heutzutage nur noch ein geografischer Begriff. Die Bewohner sprechen immer noch dieselbe Sprache und erfreuen sich derselben Traditionen, aber Nighon ist immer noch nicht unter einer Führung vereint.
 
- **Related to:** [Kapitel 26](/de/Main Story/Chapter 26/)
+ **Related to:** [Hauptstory Kapitel 26](/de/Main Story/Chapter 26/)
 
 ## Beutebelohnung
 
  **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Sternedelsteine](/de/Items/mat_93/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Seelenkristall](/de/Items/mat_87/){: .btn .btn--era5}, **40% 1x** [Seelenkristall](/de/Items/mat_87/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Seelenkristall +3](/de/Items/mat_87/){: .btn .btn--era5}, **40% 1x** [Seelenkristall +3](/de/Items/mat_87/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skelett](/de/units/Skeleton/) (Score: 382943, Level:100)  | [Erzmagier](/de/units/Arch Mage/) (Score: 382943, Level:100)  | - | - |
+  | [Skelett](/de/units/Skeleton/) (Score: 382943, Level:100)  | [Betrachter](/de/units/Beholder/) (Score: 382943, Level:100)  | - | - |
+  | [Skelett](/de/units/Skeleton/) (Score: 382943, Level:100)  | [Erzmagier](/de/units/Arch Mage/) (Score: 382943, Level:100)  | - | - |
+  | [Skelett](/de/units/Skeleton/) (Score: 382943, Level:100)  | - | - | - |
+
 

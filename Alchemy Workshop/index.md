@@ -2,7 +2,7 @@
 title: "Alchemiewerkstatt"
 permalink: /Alchemy Workshop/
 excerpt: "Alchemiewerkstatt.Die Alchemiewerkstatt ist ein wahrlich wundervoller Ort. Sie beherbergt nicht nur das Wissen verschiedener Völker, sondern produziert laufend verblüffende neue Dinge."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "index.md"
 toc: false
@@ -16,31 +16,31 @@ classes: wide
   |  Nr  |    Material    |   Refining points    |   Material description   |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1  | [Blauer Kristall](/de/Items/con_716/) | **375**  | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten verbessern. Gibt beim Benutzen 150 Einheiten-ERF. |
-  | 2  | [Buch der Essenzen](/de/Items/mat_39/) | **300**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila auf Lila +1. |
-  | 3  | [Buch der Essenzen](/de/Items/mat_46/) | **450**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
-  | 4  | [Buch der Essenzen](/de/Items/mat_53/) | **450**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
-  | 5  | [Buch der Essenzen](/de/Items/mat_60/) | **600**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
-  | 6  | [Buch der Waffen](/de/Items/mat_18/) | **150**  | Seltenes Material zur Aufwertung von Ausrüstung von Blau auf Blau +1. |
-  | 7  | [Buch der Waffen](/de/Items/mat_25/) | **300**  | Seltenes Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
-  | 8  | [Buch der Waffen](/de/Items/mat_32/) | **300**  | Standardmaterial zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
-  | 9  | [Epische Edelsteine](/de/Items/mat_51/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
-  | 10  | [Epischer Kristall](/de/Items/mat_52/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
-  | 11  | [Epischer Schwefel](/de/Items/mat_50/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
-  | 12  | [Episches Erz](/de/Items/mat_47/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
-  | 13  | [Episches Holz](/de/Items/mat_48/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
-  | 14  | [Episches Quecksilber](/de/Items/mat_49/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
-  | 15  | [Ewige Edelsteine](/de/Items/mat_72/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
-  | 16  | [Ewiger Kristall](/de/Items/mat_73/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
-  | 17  | [Ewiger Schwefel](/de/Items/mat_71/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
-  | 18  | [Ewiges Erz](/de/Items/mat_68/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
-  | 19  | [Ewiges Holz](/de/Items/mat_69/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
-  | 20  | [Ewiges Quecksilber](/de/Items/mat_70/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
-  | 21  | [Geheime Edelsteine](/de/Items/mat_79/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
-  | 22  | [Geheimer Kristall](/de/Items/mat_80/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
-  | 23  | [Geheimer Schwefel](/de/Items/mat_78/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
-  | 24  | [Geheimes Erz](/de/Items/mat_75/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
-  | 25  | [Geheimes Holz](/de/Items/mat_76/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
-  | 26  | [Geheimes Quecksilber](/de/Items/mat_77/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
+  | 2  | [Buch der Essenzen +1](/de/Items/mat_46/) | **450**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
+  | 3  | [Buch der Essenzen +2](/de/Items/mat_53/) | **450**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
+  | 4  | [Buch der Essenzen +3](/de/Items/mat_60/) | **600**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
+  | 5  | [Buch der Essenzen](/de/Items/mat_39/) | **300**  | Seltenes Material zur Aufwertung von Ausrüstung von Lila auf Lila +1. |
+  | 6  | [Buch der Waffen +1](/de/Items/mat_25/) | **300**  | Seltenes Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
+  | 7  | [Buch der Waffen +2](/de/Items/mat_32/) | **300**  | Standardmaterial zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
+  | 8  | [Buch der Waffen](/de/Items/mat_18/) | **150**  | Seltenes Material zur Aufwertung von Ausrüstung von Blau auf Blau +1. |
+  | 9  | [Epische Edelsteine +2](/de/Items/mat_51/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
+  | 10  | [Epischer Kristall +2](/de/Items/mat_52/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
+  | 11  | [Epischer Schwefel +2](/de/Items/mat_50/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
+  | 12  | [Episches Erz +2](/de/Items/mat_47/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
+  | 13  | [Episches Holz +2](/de/Items/mat_48/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
+  | 14  | [Episches Quecksilber +2](/de/Items/mat_49/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |
+  | 15  | [Ewige Edelsteine +1](/de/Items/mat_72/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
+  | 16  | [Ewiger Kristall +1](/de/Items/mat_73/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
+  | 17  | [Ewiger Schwefel +1](/de/Items/mat_71/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
+  | 18  | [Ewiges Erz +1](/de/Items/mat_68/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
+  | 19  | [Ewiges Holz +1](/de/Items/mat_69/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
+  | 20  | [Ewiges Quecksilber +1](/de/Items/mat_70/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
+  | 21  | [Geheime Edelsteine +2](/de/Items/mat_79/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
+  | 22  | [Geheimer Kristall +2](/de/Items/mat_80/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
+  | 23  | [Geheimer Schwefel +2](/de/Items/mat_78/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
+  | 24  | [Geheimes Erz +2](/de/Items/mat_75/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
+  | 25  | [Geheimes Holz +2](/de/Items/mat_76/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
+  | 26  | [Geheimes Quecksilber +2](/de/Items/mat_77/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
   | 27  | [Grüner Kristall](/de/Items/con_711/) | **125**  | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten ein wenig verbessern. Gibt beim Benutzen 50 Einheiten-ERF. |
   | 28  | [Gute Edelsteine](/de/Items/mat_16/) | **50**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau auf Blau +1. |
   | 29  | [Guter Kristall](/de/Items/mat_17/) | **50**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau auf Blau +1. |
@@ -48,18 +48,18 @@ classes: wide
   | 31  | [Gutes Erz](/de/Items/mat_12/) | **50**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau auf Blau +1. |
   | 32  | [Gutes Holz](/de/Items/mat_13/) | **50**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau auf Blau +1. |
   | 33  | [Gutes Quecksilber](/de/Items/mat_14/) | **50**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau auf Blau +1. |
-  | 34  | [Legendenzertifikat](/de/Items/mat_67/) | **600**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange auf Orange +1. |
-  | 35  | [Legendenzertifikat](/de/Items/mat_74/) | **600**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
-  | 36  | [Legendenzertifikat](/de/Items/mat_81/) | **750**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
-  | 37  | [Legendenzertifikat](/de/Items/mat_88/) | **750**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
-  | 38  | [Legendenzertifikat](/de/Items/mat_95/) | **900**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
-  | 39  | [Legendäre Edelsteine](/de/Items/mat_58/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
-  | 40  | [Legendärer Kristall](/de/Items/mat_59/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
-  | 41  | [Legendärer Schwefel](/de/Items/mat_57/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
-  | 42  | [Legendäres Erz](/de/Items/mat_54/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
-  | 43  | [Legendäres Holz](/de/Items/mat_55/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
-  | 44  | [Legendäres Quecksilber](/de/Items/mat_56/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
-  | 45  | [Legendäres Zertifikat](/de/Items/mat_102/) | **950**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
+  | 34  | [Legendenzertifikat +1](/de/Items/mat_74/) | **600**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +1 auf Orange +2. |
+  | 35  | [Legendenzertifikat +2](/de/Items/mat_81/) | **750**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +2 auf Orange +3. |
+  | 36  | [Legendenzertifikat +3](/de/Items/mat_88/) | **750**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
+  | 37  | [Legendenzertifikat +4](/de/Items/mat_95/) | **900**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
+  | 38  | [Legendenzertifikat](/de/Items/mat_67/) | **600**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange auf Orange +1. |
+  | 39  | [Legendäre Edelsteine +3](/de/Items/mat_58/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
+  | 40  | [Legendärer Kristall +3](/de/Items/mat_59/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
+  | 41  | [Legendärer Schwefel +3](/de/Items/mat_57/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
+  | 42  | [Legendäres Erz +3](/de/Items/mat_54/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
+  | 43  | [Legendäres Holz +3](/de/Items/mat_55/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
+  | 44  | [Legendäres Quecksilber +3](/de/Items/mat_56/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +3 auf Orange. |
+  | 45  | [Legendäres Zertifikat +5](/de/Items/mat_102/) | **950**  | Seltenes Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
   | 46  | [Lila Kristall](/de/Items/con_720/) | **1125**  | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten stark verbessern. Gibt beim Benutzen 450 Einheiten-ERF. |
   | 47  | [Mythische Edelsteine](/de/Items/mat_65/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange auf Orange +1. |
   | 48  | [Mythischer Kristall](/de/Items/mat_66/) | **200**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange auf Orange +1. |
@@ -80,43 +80,43 @@ classes: wide
   | 63  | [Schlechtes Erz](/de/Items/mat_1/) | **25**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Weiß auf Grün. |
   | 64  | [Schlechtes Holz](/de/Items/mat_1/) | **25**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Weiß auf Grün. |
   | 65  | [Schlechtes Quecksilber](/de/Items/mat_2/) | **25**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Weiß auf Grün. |
-  | 66  | [Seelenedelsteine](/de/Items/mat_86/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
-  | 67  | [Seelenerz](/de/Items/mat_82/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
-  | 68  | [Seelenholz](/de/Items/mat_83/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
-  | 69  | [Seelenkristall](/de/Items/mat_87/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
-  | 70  | [Seelenquecksilber](/de/Items/mat_84/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
-  | 71  | [Seelenschwefel](/de/Items/mat_85/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
-  | 72  | [Seltene Edelsteine](/de/Items/mat_44/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
-  | 73  | [Seltener Kristall](/de/Items/mat_45/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
-  | 74  | [Seltener Schwefel](/de/Items/mat_43/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
-  | 75  | [Seltenes Erz](/de/Items/mat_40/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
-  | 76  | [Seltenes Holz](/de/Items/mat_41/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
-  | 77  | [Seltenes Quecksilber](/de/Items/mat_42/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
-  | 78  | [Sternedelsteine](/de/Items/mat_93/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
-  | 79  | [Sternerz](/de/Items/mat_89/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
-  | 80  | [Sternholz](/de/Items/mat_90/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
-  | 81  | [Sternkristall](/de/Items/mat_94/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
-  | 82  | [Sternquecksilber](/de/Items/mat_91/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
-  | 83  | [Sternschwefel](/de/Items/mat_92/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
-  | 84  | [Strahlende Edelsteine](/de/Items/mat_100/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
-  | 85  | [Strahlender Kristall](/de/Items/mat_101/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
-  | 86  | [Strahlender Schwefel](/de/Items/mat_99/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
-  | 87  | [Strahlendes Erz](/de/Items/mat_96/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
-  | 88  | [Strahlendes Holz](/de/Items/mat_97/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
-  | 89  | [Strahlendes Quecksilber](/de/Items/mat_98/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
+  | 66  | [Seelenedelsteine +3](/de/Items/mat_86/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
+  | 67  | [Seelenerz +3](/de/Items/mat_82/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
+  | 68  | [Seelenholz +3](/de/Items/mat_83/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
+  | 69  | [Seelenkristall +3](/de/Items/mat_87/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
+  | 70  | [Seelenquecksilber +3](/de/Items/mat_84/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
+  | 71  | [Seelenschwefel +3](/de/Items/mat_85/) | **250**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +3 auf Orange +4. |
+  | 72  | [Seltene Edelsteine +1](/de/Items/mat_44/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
+  | 73  | [Seltener Kristall +1](/de/Items/mat_45/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
+  | 74  | [Seltener Schwefel +1](/de/Items/mat_43/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
+  | 75  | [Seltenes Erz +1](/de/Items/mat_40/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
+  | 76  | [Seltenes Holz +1](/de/Items/mat_41/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
+  | 77  | [Seltenes Quecksilber +1](/de/Items/mat_42/) | **150**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
+  | 78  | [Sternedelsteine +4](/de/Items/mat_93/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
+  | 79  | [Sternerz +4](/de/Items/mat_89/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
+  | 80  | [Sternholz +4](/de/Items/mat_90/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
+  | 81  | [Sternkristall +4](/de/Items/mat_94/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
+  | 82  | [Sternquecksilber +4](/de/Items/mat_91/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
+  | 83  | [Sternschwefel +4](/de/Items/mat_92/) | **300**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +4 auf Orange +5. |
+  | 84  | [Strahlende Edelsteine +5](/de/Items/mat_100/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
+  | 85  | [Strahlender Kristall +5](/de/Items/mat_101/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
+  | 86  | [Strahlender Schwefel +5](/de/Items/mat_99/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
+  | 87  | [Strahlendes Erz +5](/de/Items/mat_96/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
+  | 88  | [Strahlendes Holz +5](/de/Items/mat_97/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
+  | 89  | [Strahlendes Quecksilber +5](/de/Items/mat_98/) | **320**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Orange +5 auf Rot. |
   | 90  | [Weißer Kristall](/de/Items/con_707/) | **25**  | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten leicht verbessern. Gibt beim Benutzen 10 Einheiten-ERF. |
-  | 91  | [Wertvolle Edelsteine](/de/Items/mat_30/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
-  | 92  | [Wertvoller Kristall](/de/Items/mat_31/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
-  | 93  | [Wertvoller Schwefel](/de/Items/mat_29/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
-  | 94  | [Wertvolles Erz](/de/Items/mat_26/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
-  | 95  | [Wertvolles Holz](/de/Items/mat_27/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
-  | 96  | [Wertvolles Quecksilber](/de/Items/mat_28/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
-  | 97  | [Überlegene Edelsteine](/de/Items/mat_23/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
-  | 98  | [Überlegener Kristall](/de/Items/mat_24/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
-  | 99  | [Überlegener Schwefel](/de/Items/mat_22/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
-  | 100  | [Überlegenes Erz](/de/Items/mat_19/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
-  | 101  | [Überlegenes Holz](/de/Items/mat_20/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
-  | 102  | [Überlegenes Quecksilber](/de/Items/mat_21/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
+  | 91  | [Wertvolle Edelsteine +2](/de/Items/mat_30/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
+  | 92  | [Wertvoller Kristall +2](/de/Items/mat_31/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
+  | 93  | [Wertvoller Schwefel +2](/de/Items/mat_29/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
+  | 94  | [Wertvolles Erz +2](/de/Items/mat_26/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
+  | 95  | [Wertvolles Holz +2](/de/Items/mat_27/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
+  | 96  | [Wertvolles Quecksilber +2](/de/Items/mat_28/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +2 auf Lila. |
+  | 97  | [Überlegene Edelsteine +1](/de/Items/mat_23/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
+  | 98  | [Überlegener Kristall +1](/de/Items/mat_24/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
+  | 99  | [Überlegener Schwefel +1](/de/Items/mat_22/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
+  | 100  | [Überlegenes Erz +1](/de/Items/mat_19/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
+  | 101  | [Überlegenes Holz +1](/de/Items/mat_20/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
+  | 102  | [Überlegenes Quecksilber +1](/de/Items/mat_21/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Blau +1 auf Blau +2. |
   | 103  | [Überragende Edelsteine](/de/Items/mat_37/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila auf Lila +1. |
   | 104  | [Überragender Kristall](/de/Items/mat_38/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila auf Lila +1. |
   | 105  | [Überragender Schwefel](/de/Items/mat_36/) | **100**  | Gewöhnliches Material zur Aufwertung von Ausrüstung von Lila auf Lila +1. |

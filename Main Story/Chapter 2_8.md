@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-8 Freundschaftlicher Austausch"
 permalink: /Main Story/Chapter 2_8/
 excerpt: "Kapitel 2 - 8. Era of Chaos  Hauptstory - Kapitel 2_8. 2-8 Freundschaftlicher Austausch"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 2_8.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Ihr seid in einem Söldnerlager eingetroffen. Die Söldner trainieren, und sie laden Euch und Eure Armee ein, mitzumachen.
 
- **Related to:** [Kapitel 2](/de/Main Story/Chapter 2/)
+ **Related to:** [Hauptstory Kapitel 2](/de/Main Story/Chapter 2/)
 
 ## Beutebelohnung
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **80% 1x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}, **20% 2x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}, **60% 1x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}, **20% 2x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skelett](/de/units/Skeleton/) (Score: 2391, Level:8)  | - | [Geist](/de/units/Wight/) (Score: 2147, Level:8)  | [Geist](/de/units/Wight/) (Score: 2147, Level:8)  |
+  | - | - | - | - |
+  | [Skelett](/de/units/Skeleton/) (Score: 2391, Level:8)  | - | [Geist](/de/units/Wight/) (Score: 2147, Level:8)  | - |
+  | - | - | - | - |
+
 

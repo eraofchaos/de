@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-6 Wachturm"
 permalink: /Main Story/Chapter 4_6/
 excerpt: "Kapitel 4 - 6. Era of Chaos  Hauptstory - Kapitel 4_6. 4-6 Wachturm"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 4_6.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Die Aufgabe der Wache hier ist es, das Gebiet gegen Angreifer aus Eeofol zu verteidigen. Ihr müsst ihr beweisen, dass Ihr stark genug seid, um einer Allianz mit den Greifen würdig zu sein.
 
- **Related to:** [Kapitel 4](/de/Main Story/Chapter 4/)
+ **Related to:** [Hauptstory Kapitel 4](/de/Main Story/Chapter 4/)
 
 ## Beutebelohnung
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Schattenwolf](/de/units/Dire Wolf/) (Score: 3672, Level:13)  | [Schattenwolf](/de/units/Dire Wolf/) (Score: 3672, Level:13)  | - | - |
+  | [Nomade](/de/units/Nomad/) (Score: 3672, Level:13)  | - | - | - |
+  | [Nomade](/de/units/Nomad/) (Score: 3672, Level:13)  | - | - | - |
+  | [Schattenwolf](/de/units/Dire Wolf/) (Score: 3672, Level:13)  | - | - | - |
+
 

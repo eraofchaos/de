@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-3 Suche nach Frieden"
 permalink: /Main Story/Chapter 15_3/
 excerpt: "Kapitel 15 - 3. Era of Chaos  Hauptstory - Kapitel 15_3. 15-3 Suche nach Frieden"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 15_3.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Beschreibung:** Rebellen? Sie verdienen diese Bezeichnung nicht! Wir kämpfen für die Menschen. Und die? Die sind nichts weiter als ein Haufen Banditen!
 
- **Related to:** [Kapitel 15](/de/Main Story/Chapter 15/)
+ **Related to:** [Hauptstory Kapitel 15](/de/Main Story/Chapter 15/)
 
 ## Beutebelohnung
 
  **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Episches Quecksilber](/de/Items/mat_49/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Episches Quecksilber +2](/de/Items/mat_49/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Seltener Schwefel](/de/Items/mat_43/){: .btn .btn--era4}, **40% 1x** [Seltener Schwefel](/de/Items/mat_43/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Seltener Schwefel +1](/de/Items/mat_43/){: .btn .btn--era4}, **40% 1x** [Seltener Schwefel +1](/de/Items/mat_43/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Naga](/de/units/Naga/) (Score: 61930, Level:54)  | - | - | - |
+  | [Oger](/de/units/Ogre/) (Score: 61930, Level:54)  | - | - | [Gremlin](/de/units/Gremlin/) (Score: 61930, Level:54)  |
+  | [Oger](/de/units/Ogre/) (Score: 61930, Level:54)  | - | - | [Gremlin](/de/units/Gremlin/) (Score: 61930, Level:54)  |
+  | [Skelett](/de/units/Skeleton/) (Score: 61930, Level:54)  | - | - | - |
+
 

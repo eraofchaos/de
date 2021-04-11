@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund - Wunderrüstung"
 permalink: /artifacts/Armor of Wonders/
 excerpt: "Era of Chaos  Engelsbund - Wunderrüstung. Eine Rüstung aus der Glanzzeit des Reichs. Eine der Komponenten für den Engelsbund."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Armor of Wonders.md"
 toc: false

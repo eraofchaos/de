@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-3 Heiligtum"
 permalink: /Main Story/Chapter 2_3/
 excerpt: "Kapitel 2 - 3. Era of Chaos  Hauptstory - Kapitel 2_3. 2-3 Heiligtum"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 2_3.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Ihr betretet das Heiligtum. Ihr habt geglaubt, hier etwas Ruhe finden zu können, aber Eure Gegner gönnen Euch keinen Moment der Stille.
 
- **Related to:** [Kapitel 2](/de/Main Story/Chapter 2/)
+ **Related to:** [Hauptstory Kapitel 2](/de/Main Story/Chapter 2/)
 
 ## Beutebelohnung
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **80% 1x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}, **60% 1x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Pikenier](/de/units/Pikeman/) (Score: 1659, Level:6)  | - | - | - |
+  | [Pikenier](/de/units/Pikeman/) (Score: 1659, Level:6)  | - | [Zyklop](/de/units/Cyclops/) (Score: 2879, Level:6)  | - |
+  | [Pikenier](/de/units/Pikeman/) (Score: 1659, Level:6)  | - | - | - |
+  | - | - | - | - |
+
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Strahlender Schwefel"
+title: "Item - Materials - Strahlender Schwefel +5"
 permalink: /Items/mat_99/
-excerpt: "Era of Chaos  Strahlender Schwefel"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Strahlender Schwefel +5"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_99.md"
 toc: false

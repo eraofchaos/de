@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-14 Drachenrüstung"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Kapitel 5 - 14. Era of Chaos  Hauptstory - Kapitel 5_14. 5-14 Drachenrüstung"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 5_14.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Zum Glück hat sich die Golddrachen-Königin noch nicht gezeigt. Ihre Abwesenheit wirkt sich positiv auf den Mut der Dämonen aus. Alleine sind die Elfen zu wenig, um ihnen Angst einzujagen.
 
- **Related to:** [Kapitel 5](/de/Main Story/Chapter 5/)
+ **Related to:** [Hauptstory Kapitel 5](/de/Main Story/Chapter 5/)
 
 ## Beutebelohnung
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}, **50% 1x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Zwerg](/de/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+  | - | [Zwerg](/de/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+  | - | [Zwerg](/de/units/Dwarf/) (Score: 4038, Level:18)  | [Zyklop](/de/units/Cyclops/) (Score: 6539, Level:18)  | - |
+  | - | [Zwerg](/de/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+
 

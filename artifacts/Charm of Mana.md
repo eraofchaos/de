@@ -2,7 +2,7 @@
 title: "Artefakt - Zaubererbrunnen - Managlücksbringer"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Era of Chaos  Zaubererbrunnen - Managlücksbringer. Ein Glücksbringer, der Magie verstärkt. Eine der Komponenten für den Zaubererbrunnen."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Charm of Mana.md"
 toc: false

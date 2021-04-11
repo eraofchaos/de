@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-2 Dämonenangriff"
 permalink: /Main Story/Chapter 5_2/
 excerpt: "Kapitel 5 - 2. Era of Chaos  Hauptstory - Kapitel 5_2. 5-2 Dämonenangriff"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 5_2.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Dämonen sind anders als Menschen. In ihrer Welt gibt es keine Moral, kein Gesetz: Nur der Stärkere gewinnt.
 
- **Related to:** [Kapitel 5](/de/Main Story/Chapter 5/)
+ **Related to:** [Hauptstory Kapitel 5](/de/Main Story/Chapter 5/)
 
 ## Beutebelohnung
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}, **50% 1x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Kavallerist](/de/units/Cavalier/) (Score: 3855, Level:16)  | [Scharfschütze](/de/units/Marksman/) (Score: 3794, Level:16)  | [Scharfschütze](/de/units/Marksman/) (Score: 3794, Level:16)  | [Scharfschütze](/de/units/Marksman/) (Score: 3794, Level:16)  |
+  | - | - | - | - |
+  | - | - | - | - |
+  | [Schwertkämpfer](/de/units/Swordsman/) (Score: 3794, Level:16)  | [Scharfschütze](/de/units/Marksman/) (Score: 3794, Level:16)  | - | - |
+
 

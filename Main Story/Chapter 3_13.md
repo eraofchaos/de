@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-13 Ställe und Wälder"
 permalink: /Main Story/Chapter 3_13/
 excerpt: "Kapitel 3 - 13. Era of Chaos  Hauptstory - Kapitel 3_13. 3-13 Ställe und Wälder"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 3_13.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Königin Catherine weiß nichts von den Gerüchten, die sich um das Ableben von König Greifenherz ranken. Viele glauben nicht an einen natürlichen Tod.
 
- **Related to:** [Kapitel 3](/de/Main Story/Chapter 3/)
+ **Related to:** [Hauptstory Kapitel 3](/de/Main Story/Chapter 3/)
 
 ## Beutebelohnung
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **100% 1x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}, **60% 1x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dendroidenwache](/de/units/Dendroid Guard/) (Score: 6844, Level:12)  | - | [Waldelfe](/de/units/Wood Elf/) (Score: 2574, Level:12)  | [Waldelfe](/de/units/Wood Elf/) (Score: 2574, Level:12)  |
+  | [Zwerg](/de/units/Dwarf/) (Score: 2574, Level:12)  | - | - | - |
+  | - | - | - | - |
+  | - | - | - | - |
+
 

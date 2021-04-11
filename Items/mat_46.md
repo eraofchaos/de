@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Buch der Essenzen"
+title: "Item - Materials - Buch der Essenzen +1"
 permalink: /Items/mat_46/
-excerpt: "Era of Chaos  Buch der Essenzen"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Buch der Essenzen +1"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_46.md"
 toc: false

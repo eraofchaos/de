@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Seltene Edelsteine"
+title: "Item - Materials - Seltene Edelsteine +1"
 permalink: /Items/mat_44/
-excerpt: "Era of Chaos  Seltene Edelsteine"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Seltene Edelsteine +1"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_44.md"
 toc: false

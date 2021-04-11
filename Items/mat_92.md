@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Sternschwefel"
+title: "Item - Materials - Sternschwefel +4"
 permalink: /Items/mat_92/
-excerpt: "Era of Chaos  Sternschwefel"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Sternschwefel +4"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_92.md"
 toc: false

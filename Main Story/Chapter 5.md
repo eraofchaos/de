@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 Byrds"
 permalink: /Main Story/Chapter 5/
 excerpt: "Kapitel 5. Era of Chaos  Hauptstory - Kapitel 5. Byrds"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 5.md"
 toc: false
@@ -26,3 +26,45 @@ classes: wide
   | [5-13 Leidenschaftliche Rache](/de/Main Story/Chapter 5_13/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Guter Schwefel](/de/Items/mat_15/){: .btn .btn--era3}, [Normales Erz](/de/Items/mat_6/){: .btn .btn--era2}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
   | [5-14 Drachenrüstung](/de/Main Story/Chapter 5_14/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Gute Edelsteine](/de/Items/mat_16/){: .btn .btn--era3}, [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
   | [5-15 Krieg bricht aus](/de/Main Story/Chapter 5_15/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Guter Kristall](/de/Items/mat_17/){: .btn .btn--era3}, [Normale Edelsteine](/de/Items/mat_10/){: .btn .btn--era2}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+
+
+## Abschließen Kapitel 5
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
+## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Einheiten-ERF
+
+
+
+## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Einheiten-ERF
+
+
+
+## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_402
+
+ Reward 2: **10 x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Einheiten-ERF
+

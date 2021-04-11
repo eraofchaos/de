@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-1 Untergrundkrise"
 permalink: /Main Story/Chapter 5_1/
 excerpt: "Kapitel 5 - 1. Era of Chaos  Hauptstory - Kapitel 5_1. 5-1 Untergrundkrise"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 5_1.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Die Kunde, dass ein höherer Dämon von einem Sterblichen getötet wurde, hat sich herumgesprochen. Den meisten Dämonen mangelt es nicht an Selbstvertrauen, einige werden jedoch langsam vorsichtiger.
 
- **Related to:** [Kapitel 5](/de/Main Story/Chapter 5/)
+ **Related to:** [Hauptstory Kapitel 5](/de/Main Story/Chapter 5/)
 
 ## Beutebelohnung
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}, **50% 1x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Schwertkämpfer](/de/units/Swordsman/) (Score: 3428, Level:16)  | - | - | - |
+  | [Schwertkämpfer](/de/units/Swordsman/) (Score: 3428, Level:16)  | [Scharfschütze](/de/units/Marksman/) (Score: 3428, Level:16)  | - | - |
+  | [Schwertkämpfer](/de/units/Swordsman/) (Score: 3428, Level:16)  | [Scharfschütze](/de/units/Marksman/) (Score: 3428, Level:16)  | - | - |
+
 

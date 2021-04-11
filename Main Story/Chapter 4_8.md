@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-8 Eisenschnabelturm"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Kapitel 4 - 8. Era of Chaos  Hauptstory - Kapitel 4_8. 4-8 Eisenschnabelturm"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 4_8.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Der Greif ist das Symbol der Greifenherz-Familie. Wenn Ihr die Unterstützung der Greife gewinnen könnt, würde das Königin Catherines Sache unheimlich helfen.
 
- **Related to:** [Kapitel 4](/de/Main Story/Chapter 4/)
+ **Related to:** [Hauptstory Kapitel 4](/de/Main Story/Chapter 4/)
 
 ## Beutebelohnung
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}, **50% 1x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Nomade](/de/units/Nomad/) (Score: 3672, Level:14)  | [Greif](/de/units/Griffin/) (Score: 3977, Level:14)  | - | - |
+  | [Nomade](/de/units/Nomad/) (Score: 3672, Level:14)  | - | - | - |
+  | - | - | - | - |
+  | [Nomade](/de/units/Nomad/) (Score: 3672, Level:14)  | [Greif](/de/units/Griffin/) (Score: 3977, Level:14)  | - | - |
+
 

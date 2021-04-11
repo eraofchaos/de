@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-5 Gavins Königreich"
 permalink: /Main Story/Chapter 19_5/
 excerpt: "Kapitel 19 - 5. Era of Chaos  Hauptstory - Kapitel 19_5. 19-5 Gavins Königreich"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 19_5.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Nach dem Tod von Tarnum führte Gavin Magnus eine Gruppe Zauberer in die Ebenen des südlichen Kontinents, um dort ein neues Zuhause aufzubauen. Er nannte das Land Bracada.
 
- **Related to:** [Kapitel 19](/de/Main Story/Chapter 19/)
+ **Related to:** [Hauptstory Kapitel 19](/de/Main Story/Chapter 19/)
 
 ## Beutebelohnung
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Mythische Edelsteine](/de/Items/mat_65/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Legendärer Kristall](/de/Items/mat_59/){: .btn .btn--era4}, **40% 1x** [Legendärer Kristall](/de/Items/mat_59/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Legendärer Kristall +3](/de/Items/mat_59/){: .btn .btn--era4}, **40% 1x** [Legendärer Kristall +3](/de/Items/mat_59/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Adelaide](/de/heroes/Adelaide/) (Score: 1000, Level:1)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Steinelementar](/de/units/Stone Elemental/) (Score: 104471, Level:72)  | [Steinelementar](/de/units/Stone Elemental/) (Score: 104471, Level:72)  |
+  | - | - | [Dendroidenwache](/de/units/Dendroid Guard/) (Score: 104471, Level:72)  | [Erzmagier](/de/units/Arch Mage/) (Score: 104471, Level:72)  |
+  | - | - | [Eisengolem](/de/units/Iron Golem/) (Score: 104471, Level:72)  | [Sturmelementar](/de/units/Storm Elemental/) (Score: 104471, Level:72)  |
+  | - | - | [Naga](/de/units/Naga/) (Score: 104471, Level:72)  | [Naga](/de/units/Naga/) (Score: 104471, Level:72)  |
+
 

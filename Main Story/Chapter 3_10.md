@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-10 Fair Feather"
 permalink: /Main Story/Chapter 3_10/
 excerpt: "Kapitel 3 - 10. Era of Chaos  Hauptstory - Kapitel 3_10. 3-10 Fair Feather"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 3_10.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Es gibt Engel in dieser Stadt, aber sie wurden von Dämonen gefangen.
 
- **Related to:** [Kapitel 3](/de/Main Story/Chapter 3/)
+ **Related to:** [Hauptstory Kapitel 3](/de/Main Story/Chapter 3/)
 
 ## Beutebelohnung
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **100% 1x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}, **60% 1x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** [Mullich](/de/heroes/Mullich/) (Score: 1000, Level:13)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | - | [Schwertkämpfer](/de/units/Swordsman/) (Score: 1781, Level:12)  | [Scharfschütze](/de/units/Marksman/) (Score: 1781, Level:12)  |
+  | - | - | [Schwertkämpfer](/de/units/Swordsman/) (Score: 1781, Level:12)  | [Grüner Drache](/de/units/Green Dragon/) (Score: 3184, Level:12)  |
+  | - | - | - | [Scharfschütze](/de/units/Marksman/) (Score: 1781, Level:12)  |
+
 

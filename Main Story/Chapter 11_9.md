@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-9 Untergrundzugang"
 permalink: /Main Story/Chapter 11_9/
 excerpt: "Kapitel 11 - 9. Era of Chaos  Hauptstory - Kapitel 11_9. 11-9 Untergrundzugang"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 11_9.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Jetzt hat Kendal Angst. Er hat sogar vorgeschlagen, dass wir uns zurückziehen sollen.
 
- **Related to:** [Kapitel 11](/de/Main Story/Chapter 11/)
+ **Related to:** [Hauptstory Kapitel 11](/de/Main Story/Chapter 11/)
 
 ## Beutebelohnung
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Überragendes Quecksilber](/de/Items/mat_35/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Wertvoller Schwefel](/de/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Wertvoller Schwefel](/de/Items/mat_29/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Wertvoller Schwefel +2](/de/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Wertvoller Schwefel +2](/de/Items/mat_29/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dendroidenwache](/de/units/Dendroid Guard/) (Score: 32421, Level:43)  | - | - | - |
+  | [Dendroidenwache](/de/units/Dendroid Guard/) (Score: 32421, Level:43)  | - | [Grüner Drache](/de/units/Green Dragon/) (Score: 38598, Level:43)  | - |
+  | [Einhorn](/de/units/Unicorn/) (Score: 32421, Level:43)  | - | - | - |
+  | [Einhorn](/de/units/Unicorn/) (Score: 32421, Level:43)  | [Einhorn](/de/units/Unicorn/) (Score: 32421, Level:43)  | [Pegasus](/de/units/Pegasus/) (Score: 32421, Level:43)  | - |
+
 

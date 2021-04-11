@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-12 Versteck der Todesfee"
 permalink: /Main Story/Chapter 26_12/
 excerpt: "Kapitel 26 - 12. Era of Chaos  Hauptstory - Kapitel 26_12. 26-12 Versteck der Todesfee"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 26_12.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Beschreibung:** Harpyien bauen ihre Nester in den riesigen unterirdischen Höhlen, die genug Platz bieten, damit sie ihre Schwingen ausbreiten können.
 
- **Related to:** [Kapitel 26](/de/Main Story/Chapter 26/)
+ **Related to:** [Hauptstory Kapitel 26](/de/Main Story/Chapter 26/)
 
 ## Beutebelohnung
 
  **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Sternkristall](/de/Items/mat_94/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Seelenedelsteine](/de/Items/mat_86/){: .btn .btn--era5}, **40% 1x** [Seelenedelsteine](/de/Items/mat_86/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Seelenedelsteine +3](/de/Items/mat_86/){: .btn .btn--era5}, **40% 1x** [Seelenedelsteine +3](/de/Items/mat_86/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Naga](/de/units/Naga/) (Score: 434183, Level:103)  | - | - | - |
+  | [Naga](/de/units/Naga/) (Score: 434183, Level:103)  | - | - | - |
+  | [Eisengolem](/de/units/Iron Golem/) (Score: 434183, Level:103)  | [Betrachter](/de/units/Beholder/) (Score: 434183, Level:103)  | - | - |
+  | [Harpyie](/de/units/Harpy/) (Score: 434183, Level:103)  | [Pegasus](/de/units/Pegasus/) (Score: 434183, Level:103)  | [Waldelfe](/de/units/Wood Elf/) (Score: 434183, Level:103)  | - |
+
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Legendenzertifikat"
+title: "Item - Materials - Legendenzertifikat +2"
 permalink: /Items/mat_81/
-excerpt: "Era of Chaos  Legendenzertifikat"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Legendenzertifikat +2"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_81.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-12 Bürgerkrieg in der Burg"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Kapitel 10 - 12. Era of Chaos  Hauptstory - Kapitel 10_12. 10-12 Bürgerkrieg in der Burg"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 10_12.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Angeblich hat Kendal einen Ratgeber, dem er bedingungslos vertraut. Wenn wir mit ihm sprechen, können wir mit seiner Hilfe vielleicht ein Bündnis mit Kendals Streitkräften erwirken.
 
- **Related to:** [Kapitel 10](/de/Main Story/Chapter 10/)
+ **Related to:** [Hauptstory Kapitel 10](/de/Main Story/Chapter 10/)
 
 ## Beutebelohnung
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Überragendes Holz](/de/Items/mat_34/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Wertvolles Quecksilber](/de/Items/mat_28/){: .btn .btn--era3}, **40% 1x** [Wertvolles Quecksilber](/de/Items/mat_28/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Wertvolles Quecksilber +2](/de/Items/mat_28/){: .btn .btn--era3}, **40% 1x** [Wertvolles Quecksilber +2](/de/Items/mat_28/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Wolfsreiter](/de/units/Wolf Rider/) (Score: 24186, Level:42)  | [Roc](/de/units/Roc/) (Score: 24339, Level:42)  | [Roc](/de/units/Roc/) (Score: 24339, Level:42)  | [Roc](/de/units/Roc/) (Score: 24339, Level:42)  |
+  | [Oger](/de/units/Ogre/) (Score: 24186, Level:42)  | [Zyklop](/de/units/Cyclops/) (Score: 29676, Level:42)  | - | - |
+  | [Goblin](/de/units/Goblin/) (Score: 24186, Level:42)  | - | - | - |
+  | [Wolfsreiter](/de/units/Wolf Rider/) (Score: 24186, Level:42)  | - | - | - |
+
 

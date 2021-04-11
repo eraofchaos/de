@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-1 Inselwache"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "Kapitel 1 - 1. Era of Chaos  Hauptstory - Kapitel 1_1. 1-1 Inselwache"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 1_1.md"
 toc: false
@@ -15,11 +15,26 @@ classes: wide
 
  **Beschreibung:** Die Wache wird Euch ohne Erlaubnis des örtlichen Anführers nicht passieren lassen.
 
- **Related to:** [Kapitel 1](/de/Main Story/Chapter 1/)
+ **Related to:** [Hauptstory Kapitel 1](/de/Main Story/Chapter 1/)
 
 ## Beutebelohnung
 
  **Drop 1:** **80% 1x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}
 
  **Drop 2:** **80% 1x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Scharfschütze](/de/units/Marksman/) (Score: 1354, Level:10)  | [Scharfschütze](/de/units/Marksman/) (Score: 1354, Level:10)  |
+  | [Pikenier](/de/units/Pikeman/) (Score: 1354, Level:10)  | [Schwertkämpfer](/de/units/Swordsman/) (Score: 1354, Level:10)  | - | - |
+  | - | - | [Waldelfe](/de/units/Wood Elf/) (Score: 1354, Level:10)  | - |
+  | - | - | - | - |
+
 

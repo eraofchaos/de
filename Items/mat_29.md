@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Wertvoller Schwefel"
+title: "Item - Materials - Wertvoller Schwefel +2"
 permalink: /Items/mat_29/
-excerpt: "Era of Chaos  Wertvoller Schwefel"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Wertvoller Schwefel +2"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_29.md"
 toc: false

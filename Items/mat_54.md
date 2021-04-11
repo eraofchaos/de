@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Legendäres Erz"
+title: "Item - Materials - Legendäres Erz +3"
 permalink: /Items/mat_54/
-excerpt: "Era of Chaos  Legendäres Erz"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Legendäres Erz +3"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_54.md"
 toc: false

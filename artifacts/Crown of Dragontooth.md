@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters - Drachenzahnkrone"
 permalink: /artifacts/Crown of Dragontooth/
 excerpt: "Era of Chaos  Macht des Drachenvaters - Drachenzahnkrone. Ein Helm aus Drachenzähnen. Eine der Komponenten für die Macht des Drachenvaters."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Crown of Dragontooth.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Geheimes Quecksilber"
+title: "Item - Materials - Geheimes Quecksilber +2"
 permalink: /Items/mat_77/
-excerpt: "Era of Chaos  Geheimes Quecksilber"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Geheimes Quecksilber +2"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_77.md"
 toc: false

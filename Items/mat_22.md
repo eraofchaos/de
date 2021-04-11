@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Überlegener Schwefel"
+title: "Item - Materials - Überlegener Schwefel +1"
 permalink: /Items/mat_22/
-excerpt: "Era of Chaos  Überlegener Schwefel"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Überlegener Schwefel +1"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_22.md"
 toc: false

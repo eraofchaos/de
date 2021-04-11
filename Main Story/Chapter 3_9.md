@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-9 Baum der ersten Menschen"
 permalink: /Main Story/Chapter 3_9/
 excerpt: "Kapitel 3 - 9. Era of Chaos  Hauptstory - Kapitel 3_9. 3-9 Baum der ersten Menschen"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 3_9.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Die Engel von Fair Feather bewachen dieses Land. Ihr müsst ihnen beweisen, dass Ihr nicht mit den Dämonen unter einer Decke steckt.
 
- **Related to:** [Kapitel 3](/de/Main Story/Chapter 3/)
+ **Related to:** [Hauptstory Kapitel 3](/de/Main Story/Chapter 3/)
 
 ## Beutebelohnung
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **100% 1x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}, **60% 1x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}, **20% 2x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Schwertkämpfer](/de/units/Swordsman/) (Score: 2269, Level:12)  | [Engel](/de/units/Angel/) (Score: 5319, Level:12)  | [Mönch](/de/units/Monk/) (Score: 2269, Level:12)  | [Mönch](/de/units/Monk/) (Score: 2269, Level:12)  |
+  | [Pikenier](/de/units/Pikeman/) (Score: 2269, Level:12)  | - | - | - |
+  | - | - | - | - |
+  | - | - | - | - |
+
 

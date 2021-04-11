@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 Schutzengel"
 permalink: /Main Story/Chapter 3/
 excerpt: "Kapitel 3. Era of Chaos  Hauptstory - Kapitel 3. Schutzengel"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 3.md"
 toc: false
@@ -26,3 +26,39 @@ classes: wide
   | [3-13 Ställe und Wälder](/de/Main Story/Chapter 3_13/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}, [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1} |
   | [3-14 Das Alchemistenlabor](/de/Main Story/Chapter 3_14/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Normale Edelsteine](/de/Items/mat_10/){: .btn .btn--era2}, [Schlechter Kristall](/de/Items/mat_5/){: .btn .btn--era1} |
   | [3-15 Stadt der Sünde](/de/Main Story/Chapter 3_15/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}, [Schlechte Edelsteine](/de/Items/mat_4/){: .btn .btn--era1} |
+
+
+## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **5000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Einheiten-ERF
+
+
+
+## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Einheiten-ERF
+
+
+
+## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_201
+
+ Reward 2: **5 x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Einheiten-ERF
+

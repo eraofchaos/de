@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Seelenerz"
+title: "Item - Materials - Seelenerz +3"
 permalink: /Items/mat_82/
-excerpt: "Era of Chaos  Seelenerz"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Seelenerz +3"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_82.md"
 toc: false

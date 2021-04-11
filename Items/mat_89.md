@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Sternerz"
+title: "Item - Materials - Sternerz +4"
 permalink: /Items/mat_89/
-excerpt: "Era of Chaos  Sternerz"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Sternerz +4"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_89.md"
 toc: false

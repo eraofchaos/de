@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Sternquecksilber"
+title: "Item - Materials - Sternquecksilber +4"
 permalink: /Items/mat_91/
-excerpt: "Era of Chaos  Sternquecksilber"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Sternquecksilber +4"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_91.md"
 toc: false

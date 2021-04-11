@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-5 Düsteres Labyrinth"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Kapitel 26 - 5. Era of Chaos  Hauptstory - Kapitel 26_5. 26-5 Düsteres Labyrinth"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 26_5.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Beschreibung:** Minotauren sind seltsame Kreaturen. Sie bauen Labyrinthe im Untergrund, die unwissende Abenteurer zu einem „Besuch“ verleiten sollen.
 
- **Related to:** [Kapitel 26](/de/Main Story/Chapter 26/)
+ **Related to:** [Hauptstory Kapitel 26](/de/Main Story/Chapter 26/)
 
 ## Beutebelohnung
 
  **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Sternedelsteine](/de/Items/mat_93/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Seelenkristall](/de/Items/mat_87/){: .btn .btn--era5}, **40% 1x** [Seelenkristall](/de/Items/mat_87/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Seelenkristall +3](/de/Items/mat_87/){: .btn .btn--era5}, **40% 1x** [Seelenkristall +3](/de/Items/mat_87/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Dracon](/de/heroes/Dracon/) (Score: 120000, Level:100)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Harpyie](/de/units/Harpy/) (Score: 415120, Level:101)  | [Harpyie](/de/units/Harpy/) (Score: 415120, Level:101)  |
+  | - | - | [Eisengolem](/de/units/Iron Golem/) (Score: 415120, Level:101)  | [Pegasus](/de/units/Pegasus/) (Score: 415120, Level:101)  |
+  | - | - | [Schwarzer Drache](/de/units/Black Dragon/) (Score: 415120, Level:101)  | [Waldelfe](/de/units/Wood Elf/) (Score: 415120, Level:101)  |
+  | - | - | [Harpyie](/de/units/Harpy/) (Score: 415120, Level:101)  | [Harpyie](/de/units/Harpy/) (Score: 415120, Level:101)  |
+
 

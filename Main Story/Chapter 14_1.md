@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-1 Heimlichkeit"
 permalink: /Main Story/Chapter 14_1/
 excerpt: "Kapitel 14 - 1. Era of Chaos  Hauptstory - Kapitel 14_1. 14-1 Heimlichkeit"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: de
 ref: "Chapter 14_1.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Beschreibung:** Wir machen uns bereit, den Feind zu infiltrieren. Was für eine schwierige Mission. Wir müssen den gegnerischen Patrouillen entweder aus dem Weg gehen oder sie auf schnellstem Wege eliminieren.
 
- **Related to:** [Kapitel 14](/de/Main Story/Chapter 14/)
+ **Related to:** [Hauptstory Kapitel 14](/de/Main Story/Chapter 14/)
 
 ## Beutebelohnung
 
  **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Episches Erz](/de/Items/mat_47/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Episches Erz +2](/de/Items/mat_47/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Seltenes Holz](/de/Items/mat_41/){: .btn .btn--era4}, **40% 1x** [Seltenes Holz](/de/Items/mat_41/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Seltenes Holz +1](/de/Items/mat_41/){: .btn .btn--era4}, **40% 1x** [Seltenes Holz +1](/de/Items/mat_41/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Wolfsreiter](/de/units/Wolf Rider/) (Score: 51179, Level:51)  | - | [Wolfsreiter](/de/units/Wolf Rider/) (Score: 51179, Level:51)  | [Wolfsreiter](/de/units/Wolf Rider/) (Score: 51179, Level:51)  |
+  | [Roc](/de/units/Roc/) (Score: 51179, Level:51)  | - | - | - |
+  | [Oger](/de/units/Ogre/) (Score: 51179, Level:51)  | - | - | [Ork](/de/units/Orc/) (Score: 51179, Level:51)  |
+  | [Oger](/de/units/Ogre/) (Score: 51179, Level:51)  | - | - | [Roc](/de/units/Roc/) (Score: 51179, Level:51)  |
+
 

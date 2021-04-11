@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Ewiger Kristall"
+title: "Item - Materials - Ewiger Kristall +1"
 permalink: /Items/mat_73/
-excerpt: "Era of Chaos  Ewiger Kristall"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Ewiger Kristall +1"
+last_modified_at: 2021-04-11
 locale: de
 ref: "mat_73.md"
 toc: false
