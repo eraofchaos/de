@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewiges Quecksilber +1"
 permalink: /Items/mat_70/
 excerpt: "Era of Chaos  Ewiges Quecksilber +1"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "mat_70.md"
 toc: false

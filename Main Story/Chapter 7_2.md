@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-2 Eine Verschwörung kommt ans Licht"
 permalink: /Main Story/Chapter 7_2/
 excerpt: "Kapitel 7 - 2. Era of Chaos  Hauptstory - Kapitel 7_2. 7-2 Eine Verschwörung kommt ans Licht"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 7_2.md"
 toc: false

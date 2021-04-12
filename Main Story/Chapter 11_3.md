@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-3 Ein schwieriger Weg"
 permalink: /Main Story/Chapter 11_3/
 excerpt: "Kapitel 11 - 3. Era of Chaos  Hauptstory - Kapitel 11_3. 11-3 Ein schwieriger Weg"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 11_3.md"
 toc: false

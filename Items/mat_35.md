@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragendes Quecksilber"
 permalink: /Items/mat_35/
 excerpt: "Era of Chaos  Überragendes Quecksilber"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "mat_35.md"
 toc: false

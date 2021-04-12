@@ -2,7 +2,7 @@
 title: "Hauptstory -  "
 permalink: /Main Story/Chapter 30/
 excerpt: ". Era of Chaos  Hauptstory - . "
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 30.md"
 toc: false

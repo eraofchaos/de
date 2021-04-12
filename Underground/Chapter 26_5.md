@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 26 - 26-5 Schicksals Ende"
 permalink: /Underground/Chapter 26_5/
 excerpt: "Kapitel 26 - 5. Era of Chaos  Untergrund - Kapitel 26_5. 26-5 Schicksals Ende"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 26_5.md"
 toc: false

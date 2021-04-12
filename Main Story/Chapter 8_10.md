@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-10 Die Stadt im See"
 permalink: /Main Story/Chapter 8_10/
 excerpt: "Kapitel 8 - 10. Era of Chaos  Hauptstory - Kapitel 8_10. 8-10 Die Stadt im See"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 8_10.md"
 toc: false

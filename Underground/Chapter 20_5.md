@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 20 - 20-5 Eishauch"
 permalink: /Underground/Chapter 20_5/
 excerpt: "Kapitel 20 - 5. Era of Chaos  Untergrund - Kapitel 20_5. 20-5 Eishauch"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 20_5.md"
 toc: false

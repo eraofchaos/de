@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 7 - 7-3 Goldrausch"
 permalink: /Underground/Chapter 7_3/
 excerpt: "Kapitel 7 - 3. Era of Chaos  Untergrund - Kapitel 7_3. 7-3 Goldrausch"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 7_3.md"
 toc: false

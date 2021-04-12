@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternholz +4"
 permalink: /Items/mat_90/
 excerpt: "Era of Chaos  Sternholz +4"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "mat_90.md"
 toc: false

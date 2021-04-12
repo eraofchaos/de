@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-1 Magierreich"
 permalink: /Main Story/Chapter 19_1/
 excerpt: "Kapitel 19 - 1. Era of Chaos  Hauptstory - Kapitel 19_1. 19-1 Magierreich"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 19_1.md"
 toc: false

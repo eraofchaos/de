@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-2 Der Krieg kehrt zurück"
 permalink: /Main Story/Chapter 15_2/
 excerpt: "Kapitel 15 - 2. Era of Chaos  Hauptstory - Kapitel 15_2. 15-2 Der Krieg kehrt zurück"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 15_2.md"
 toc: false

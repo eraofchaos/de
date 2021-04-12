@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 27 Der Pilgerweg"
 permalink: /Underground/Chapter 27/
 excerpt: "Kapitel 27 Der Pilgerweg. Era of Chaos  Untergrund - Kapitel 27. Der Pilgerweg"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 27.md"
 toc: false

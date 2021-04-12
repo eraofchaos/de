@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternedelsteine +4"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Sternedelsteine +4"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "mat_93.md"
 toc: false

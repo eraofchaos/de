@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-13 Dem Ziel nähern"
 permalink: /Main Story/Chapter 14_13/
 excerpt: "Kapitel 14 - 13. Era of Chaos  Hauptstory - Kapitel 14_13. 14-13 Dem Ziel nähern"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 14_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-13 Elfenwanderung"
 permalink: /Main Story/Chapter 18_13/
 excerpt: "Kapitel 18 - 13. Era of Chaos  Hauptstory - Kapitel 18_13. 18-13 Elfenwanderung"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 18_13.md"
 toc: false

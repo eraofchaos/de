@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-14 Ein langer Kampf"
 permalink: /Main Story/Chapter 13_14/
 excerpt: "Kapitel 13 - 14. Era of Chaos  Hauptstory - Kapitel 13_14. 13-14 Ein langer Kampf"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 13_14.md"
 toc: false

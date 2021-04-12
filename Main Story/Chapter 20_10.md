@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-10 Borden"
 permalink: /Main Story/Chapter 20_10/
 excerpt: "Kapitel 20 - 10. Era of Chaos  Hauptstory - Kapitel 20_10. 20-10 Borden"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 20_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 25 - 25-3 Blutige Klinge"
 permalink: /Underground/Chapter 25_3/
 excerpt: "Kapitel 25 - 3. Era of Chaos  Untergrund - Kapitel 25_3. 25-3 Blutige Klinge"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 25_3.md"
 toc: false

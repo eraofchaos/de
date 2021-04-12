@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 16 - 16-2 Erinnerung des Himmels"
 permalink: /Underground/Chapter 16_2/
 excerpt: "Kapitel 16 - 2. Era of Chaos  Untergrund - Kapitel 16_2. 16-2 Erinnerung des Himmels"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 16_2.md"
 toc: false

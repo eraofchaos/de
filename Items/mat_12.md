@@ -2,7 +2,7 @@
 title: "Item - Materials - Gutes Erz"
 permalink: /Items/mat_12/
 excerpt: "Era of Chaos  Gutes Erz"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "mat_12.md"
 toc: false

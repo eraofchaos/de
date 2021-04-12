@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegener Kristall +1"
 permalink: /Items/mat_24/
 excerpt: "Era of Chaos  Überlegener Kristall +1"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "mat_24.md"
 toc: false

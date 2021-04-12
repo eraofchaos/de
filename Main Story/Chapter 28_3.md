@@ -2,7 +2,7 @@
 title: "Hauptstory -  - "
 permalink: /Main Story/Chapter 28_3/
 excerpt: " - 3. Era of Chaos  Hauptstory - _3. "
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 28_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-6 Wachturm"
 permalink: /Main Story/Chapter 4_6/
 excerpt: "Kapitel 4 - 6. Era of Chaos  Hauptstory - Kapitel 4_6. 4-6 Wachturm"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 4_6.md"
 toc: false

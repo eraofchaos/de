@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-2 Die Grausamkeiten des Reichs"
 permalink: /Main Story/Chapter 19_2/
 excerpt: "Kapitel 19 - 2. Era of Chaos  Hauptstory - Kapitel 19_2. 19-2 Die Grausamkeiten des Reichs"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 19_2.md"
 toc: false

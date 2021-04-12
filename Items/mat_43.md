@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltener Schwefel +1"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Seltener Schwefel +1"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "mat_43.md"
 toc: false

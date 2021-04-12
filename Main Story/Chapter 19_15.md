@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-15 Himmlisch"
 permalink: /Main Story/Chapter 19_15/
 excerpt: "Kapitel 19 - 15. Era of Chaos  Hauptstory - Kapitel 19_15. 19-15 Himmlisch"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: de
 ref: "Chapter 19_15.md"
 toc: false
