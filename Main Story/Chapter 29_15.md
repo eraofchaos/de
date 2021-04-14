@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-15 Schwarzsteinschlund"
 permalink: /Main Story/Chapter 29_15/
-excerpt: " - 15. Era of Chaos  Hauptstory - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 15. Era of Chaos  Hauptstory - Kapitel 29_15. 29-15 Schwarzsteinschlund"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-15 Schwarzsteinschlund
 
- **Beschreibung:** 
+ **Beschreibung:** Ein riesiger Spalt reißt die Erde entzwei. Das Schloss am Schwarzsteinschlund steht stolz darin und beherbergt hier stationierte Truppen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/de/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

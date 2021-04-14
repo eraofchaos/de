@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Ritterpike"
+title: "Exklusiv - Ritterpike (Vampire)"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Vampir Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Vampire Ritterpike.md"
 toc: false

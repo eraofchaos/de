@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-3 Verlassene Bibliothek"
 permalink: /Main Story/Chapter 29_3/
-excerpt: " - 3. Era of Chaos  Hauptstory - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 3. Era of Chaos  Hauptstory - Kapitel 29_3. 29-3 Verlassene Bibliothek"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-3 Verlassene Bibliothek
 
- **Beschreibung:** 
+ **Beschreibung:** Die Suche nach neuem Wissen führte in eine Bibliothek, doch sie war komplett leer – ohne Menschen und ohne Bücher.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

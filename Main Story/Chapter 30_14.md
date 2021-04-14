@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-14 Inferno-Hauptquartier"
 permalink: /Main Story/Chapter 30_14/
-excerpt: " - 14. Era of Chaos  Hauptstory - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 14. Era of Chaos  Hauptstory - Kapitel 30_14. 30-14 Inferno-Hauptquartier"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-14 Inferno-Hauptquartier
 
- **Beschreibung:** 
+ **Beschreibung:** Die Efreet aus der Unterwelt fungieren für gewöhnlich als militärische Berater der Inferno-Armeen und helfen ihnen, Strategien für die Schlacht zu entwickeln.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

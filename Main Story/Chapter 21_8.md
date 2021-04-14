@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-8 Jeder Weg"
 permalink: /Main Story/Chapter 21_8/
 excerpt: "Kapitel 21 - 8. Era of Chaos  Hauptstory - Kapitel 21_8. 21-8 Jeder Weg"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 21_8.md"
 toc: false

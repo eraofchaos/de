@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-3 Im Sinkflug"
 permalink: /Main Story/Chapter 28_3/
-excerpt: " - 3. Era of Chaos  Hauptstory - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 3. Era of Chaos  Hauptstory - Kapitel 28_3. 28-3 Im Sinkflug"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-3 Im Sinkflug
 
- **Beschreibung:** 
+ **Beschreibung:** Obwohl Mantikore im Untergrund leben, besitzen sie schreckliche, große Flügel. Aufgrund dieser besonderen Anatomie sind sie in der Lage, schnelle Sturzflugangriffe einzusetzen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

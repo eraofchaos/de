@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-12 Die Klippe des Grünen Drachen"
 permalink: /Main Story/Chapter 29_12/
-excerpt: " - 12. Era of Chaos  Hauptstory - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 12. Era of Chaos  Hauptstory - Kapitel 29_12. 29-12 Die Klippe des Grünen Drachen"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-12 Die Klippe des Grünen Drachen
 
- **Beschreibung:** 
+ **Beschreibung:** Das Nest eines Grünen Drachen thront auf einer emporragenden Klippe. Es wurde längst verlassen und nur einen Haufen Knochen blieb zurück.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-9 Jagdsitz"
 permalink: /Main Story/Chapter 29_9/
-excerpt: " - 9. Era of Chaos  Hauptstory - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 9. Era of Chaos  Hauptstory - Kapitel 29_9. 29-9 Jagdsitz"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-9 Jagdsitz
 
- **Beschreibung:** 
+ **Beschreibung:** Eine Hütte, in der Jäger wohnen. Für gewöhnlich sollten in der Nähe wilde Tiere unterwegs sein. Nur während der Zeit der Ernte leben hier Menschen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

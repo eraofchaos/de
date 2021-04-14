@@ -2,7 +2,7 @@
 title: "Item - Heroes"
 permalink: /Items/Heroes/
 excerpt: "Heroes in Era of Chaos"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Heroes.md"
 toc: false
@@ -76,87 +76,88 @@ classes: wide
   | 62 | [Heiliger Schild](/de/Items/her_467/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Heiliger Schild“ |
   | 63 | [Heilung](/de/Items/her_430/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Heilung“ |
   | 64 | [Held: Mensch Sandro](/de/Items/her_373/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Mensch Sandro für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 65 | [Hinderung](/de/Items/her_453/){: .btn .btn--era3} | Skill | Token eingesetzt für die Erstellung des Zauberbuchs „Hinderung“ |
-  | 66 | [Hypnose](/de/Items/her_440/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Hypnose“ |
-  | 67 | [Implosion](/de/Items/her_457/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Implosion“ |
-  | 68 | [Infernoflamme](/de/Items/her_406/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Infernoflamme“ |
-  | 69 | [Jeddite](/de/Items/her_391/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Jeddite für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 70 | [Jenova](/de/Items/her_365/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Jenova für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 71 | [Kassandra](/de/Items/her_399/){: .btn .btn--era5} | Hero Soul | Mit 30 Tokens lässt sich Kassandra für die Gruppe beschwören. Ihr Rang kann mit Tokens aufgewertet werden. |
-  | 72 | [Kendal](/de/Items/her_363/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Kendal für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 73 | [Kilgor](/de/Items/her_374/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Kilgor für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 74 | [Kleine Todeswelle](/de/Items/her_456/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Kleine Todeswelle“ |
-  | 75 | [Klonen](/de/Items/her_428/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Klonen“ |
-  | 76 | [Korbac](/de/Items/her_394/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Korbac für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 77 | [Kreis des Lebens](/de/Items/her_473/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Kreis des Lebens“ |
-  | 78 | [Kristallisierte Erde](/de/Items/her_474/){: .btn .btn--era5} | Skill |  |
-  | 79 | [Königswind](/de/Items/her_434/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Königswind“ |
-  | 80 | [Lavafalle](/de/Items/her_475/){: .btn .btn--era5} | Skill |  |
-  | 81 | [Lebensverbindung](/de/Items/her_429/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Lebensverbindung“ |
-  | 82 | [Lord Haart](/de/Items/her_370/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Lord Haart für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 83 | [Luftelementar](/de/Items/her_448/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftelementar“ |
-  | 84 | [Luftmeisterung](/de/Items/her_492/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftmeisterung“ |
-  | 85 | [Luftpfeil](/de/Items/her_449/){: .btn .btn--era2} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftpfeil“ |
-  | 86 | [Luftschild](/de/Items/her_435/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftschild“ |
-  | 87 | [Luna](/de/Items/her_378/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Luna für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 88 | [Mana-Unterdrückung](/de/Items/her_480/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Mana-Unterdrückung“ |
-  | 89 | [Meister der Rüstung](/de/Items/her_502/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meister der Rüstungen“ |
-  | 90 | [Meister der Waffen](/de/Items/her_503/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meister der Waffen“ |
-  | 91 | [Melodia](/de/Items/her_364/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Melodia für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 92 | [Mephala](/de/Items/her_367/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Mephala für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 93 | [Meteorregen](/de/Items/her_455/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meteorregen“ |
-  | 94 | [Monere](/de/Items/her_379/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Monere für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 95 | [Morast](/de/Items/her_476/){: .btn .btn--era5} | Skill |  |
-  | 96 | [Mullich](/de/Items/her_360/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Mullich für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 97 | [Mutare](/de/Items/her_389/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Mutare für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 98 | [Mystikdomäne](/de/Items/her_470/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Mystikdomäne“ |
-  | 99 | [Nekromantie](/de/Items/her_460/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Nekromantie“ |
-  | 100 | [Peter Lee](/de/Items/her_397/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Peter Lee für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 101 | [Präzision](/de/Items/her_439/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Präzision“ |
-  | 102 | [Rashka](/de/Items/her_384/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Rashka für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 103 | [Roland](/de/Items/her_362/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Roland für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 104 | [Ruf der Wildnis](/de/Items/her_462/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Ruf der Wildnis“ |
-  | 105 | [Ruhe](/de/Items/her_487/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Ruhe“ |
-  | 106 | [Ryland](/de/Items/her_368/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Ryland für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 107 | [Sandro](/de/Items/her_371/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Sandro für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 108 | [Schneesturm](/de/Items/her_423/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Schneesturm“ |
-  | 109 | [Schneller Angriff](/de/Items/her_437/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Schneller Angriff“ |
-  | 110 | [Sephinroth](/de/Items/her_392/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Sephinroth für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 111 | [Shiva](/de/Items/her_376/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Shiva für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 112 | [Siebter Sinn](/de/Items/her_495/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Siebter Sinn“ |
-  | 113 | [Sohn der Erde](/de/Items/her_504/){: .btn .btn--era4} | Skill |  |
-  | 114 | [Solmyr](/de/Items/her_386/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Solmyr für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 115 | [Sorge](/de/Items/her_458/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Sorge“ |
-  | 116 | [Steinhaut](/de/Items/her_452/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Steinhaut“ |
-  | 117 | [Steinwand](/de/Items/her_463/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Steinwand“ |
-  | 118 | [Stille Tiefsee](/de/Items/her_484/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Stille Tiefsee“ |
-  | 119 | [Sturm](/de/Items/her_445/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Sturm“ |
-  | 120 | [Tazar](/de/Items/her_393/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Tazar für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 121 | [Teleport](/de/Items/her_426/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Teleport“ |
-  | 122 | [Tor des Feuers](/de/Items/her_412/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tor des Feuers“ |
-  | 123 | [Tote beleben](/de/Items/her_466/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tote beleben“ |
-  | 124 | [Treibsand](/de/Items/her_454/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Treibsand“ |
-  | 125 | [Töter](/de/Items/her_402/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Töter“ |
-  | 126 | [Tötungsbefehl](/de/Items/her_469/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tötungsbefehl“ |
-  | 127 | [Tötungswille](/de/Items/her_414/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tötungswille“ |
-  | 128 | [Universal-Helden-Tokens](/de/Items/her_358/){: .btn .btn--era5} | Event related | Diese Tokens enthalten wundersame Magie und können den Rang jedes Helden erhöhen. |
-  | 129 | [Untote vernichten](/de/Items/her_444/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Untote vernichten“ |
-  | 130 | [Untotenarmee](/de/Items/her_468/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Untotenarmee“ |
-  | 131 | [Versteinerung](/de/Items/her_471/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Versteinerung“ |
-  | 132 | [Vidomina](/de/Items/her_372/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Vidomina für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
-  | 133 | [Völlige Dunkelheit](/de/Items/her_409/){: .btn .btn--era4} | Skill | Token eingesetzt für die Erstellung des Zauberbuchs „Völlige Dunkelheit“ |
-  | 134 | [Wahnsinn](/de/Items/her_403/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Raserei“ |
-  | 135 | [Waldwiderhall](/de/Items/her_465/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Waldwiderhall“ |
-  | 136 | [Wasserelementar](/de/Items/her_427/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Wasserelementar“ |
-  | 137 | [Wassermeisterung](/de/Items/her_481/){: .btn .btn--era4} | Skill | Token eingesetzt für die Erstellung des Zauberbuchs „Sohn der Erde“ |
-  | 138 | [Wilde Todesfalle](/de/Items/her_500/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Wilde Todesfalle“ |
-  | 139 | [Windgeheul](/de/Items/her_498/){: .btn .btn--era4} | Skill |  |
-  | 140 | [Windwand](/de/Items/her_436/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Windwand“ |
-  | 141 | [Wystan](/de/Items/her_395/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Wystan für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 142 | [Xeron](/de/Items/her_383/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Xeron für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 143 | [Yog](/de/Items/her_377/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Yog für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
-  | 144 | [Zaubergedächtnis](/de/Items/her_491/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Zaubergedächtnis“ |
-  | 145 | [Zaubermeisterung](/de/Items/her_489/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meisterhafte Zauberei“ |
-  | 146 | [Zeitstopp](/de/Items/her_441/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Zeitstopp“ |
-  | 147 | [Zertrümmern](/de/Items/her_447/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Zertrümmern“ |
-  | 148 | [Zydar](/de/Items/her_385/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Zydar für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 65 | [Heldin Nymus](/de/Items/her_2131/){: .btn .btn--era5} | Hero Soul | Mit 30 Tokens lässt sich Nymus für die Gruppe beschwören. Ihr Rang kann mit Tokens aufgewertet werden. |
+  | 66 | [Hinderung](/de/Items/her_453/){: .btn .btn--era3} | Skill | Token eingesetzt für die Erstellung des Zauberbuchs „Hinderung“ |
+  | 67 | [Hypnose](/de/Items/her_440/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Hypnose“ |
+  | 68 | [Implosion](/de/Items/her_457/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Implosion“ |
+  | 69 | [Infernoflamme](/de/Items/her_406/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Infernoflamme“ |
+  | 70 | [Jeddite](/de/Items/her_391/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Jeddite für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 71 | [Jenova](/de/Items/her_365/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Jenova für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 72 | [Kassandra](/de/Items/her_399/){: .btn .btn--era5} | Hero Soul | Mit 30 Tokens lässt sich Kassandra für die Gruppe beschwören. Ihr Rang kann mit Tokens aufgewertet werden. |
+  | 73 | [Kendal](/de/Items/her_363/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Kendal für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 74 | [Kilgor](/de/Items/her_374/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Kilgor für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 75 | [Kleine Todeswelle](/de/Items/her_456/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Kleine Todeswelle“ |
+  | 76 | [Klonen](/de/Items/her_428/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Klonen“ |
+  | 77 | [Korbac](/de/Items/her_394/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Korbac für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 78 | [Kreis des Lebens](/de/Items/her_473/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Kreis des Lebens“ |
+  | 79 | [Kristallisierte Erde](/de/Items/her_474/){: .btn .btn--era5} | Skill |  |
+  | 80 | [Königswind](/de/Items/her_434/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Königswind“ |
+  | 81 | [Lavafalle](/de/Items/her_475/){: .btn .btn--era5} | Skill |  |
+  | 82 | [Lebensverbindung](/de/Items/her_429/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Lebensverbindung“ |
+  | 83 | [Lord Haart](/de/Items/her_370/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Lord Haart für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 84 | [Luftelementar](/de/Items/her_448/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftelementar“ |
+  | 85 | [Luftmeisterung](/de/Items/her_492/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftmeisterung“ |
+  | 86 | [Luftpfeil](/de/Items/her_449/){: .btn .btn--era2} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftpfeil“ |
+  | 87 | [Luftschild](/de/Items/her_435/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Luftschild“ |
+  | 88 | [Luna](/de/Items/her_378/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Luna für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 89 | [Mana-Unterdrückung](/de/Items/her_480/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Mana-Unterdrückung“ |
+  | 90 | [Meister der Rüstung](/de/Items/her_502/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meister der Rüstungen“ |
+  | 91 | [Meister der Waffen](/de/Items/her_503/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meister der Waffen“ |
+  | 92 | [Melodia](/de/Items/her_364/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Melodia für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 93 | [Mephala](/de/Items/her_367/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Mephala für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 94 | [Meteorregen](/de/Items/her_455/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meteorregen“ |
+  | 95 | [Monere](/de/Items/her_379/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Monere für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 96 | [Morast](/de/Items/her_476/){: .btn .btn--era5} | Skill |  |
+  | 97 | [Mullich](/de/Items/her_360/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Mullich für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 98 | [Mutare](/de/Items/her_389/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Mutare für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 99 | [Mystikdomäne](/de/Items/her_470/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Mystikdomäne“ |
+  | 100 | [Nekromantie](/de/Items/her_460/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Nekromantie“ |
+  | 101 | [Peter Lee](/de/Items/her_397/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Peter Lee für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 102 | [Präzision](/de/Items/her_439/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Präzision“ |
+  | 103 | [Rashka](/de/Items/her_384/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Rashka für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 104 | [Roland](/de/Items/her_362/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Roland für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 105 | [Ruf der Wildnis](/de/Items/her_462/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Ruf der Wildnis“ |
+  | 106 | [Ruhe](/de/Items/her_487/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Ruhe“ |
+  | 107 | [Ryland](/de/Items/her_368/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Ryland für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 108 | [Sandro](/de/Items/her_371/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Sandro für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 109 | [Schneesturm](/de/Items/her_423/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Schneesturm“ |
+  | 110 | [Schneller Angriff](/de/Items/her_437/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Schneller Angriff“ |
+  | 111 | [Sephinroth](/de/Items/her_392/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Sephinroth für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 112 | [Shiva](/de/Items/her_376/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Shiva für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 113 | [Siebter Sinn](/de/Items/her_495/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Siebter Sinn“ |
+  | 114 | [Sohn der Erde](/de/Items/her_504/){: .btn .btn--era4} | Skill |  |
+  | 115 | [Solmyr](/de/Items/her_386/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Solmyr für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 116 | [Sorge](/de/Items/her_458/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Sorge“ |
+  | 117 | [Steinhaut](/de/Items/her_452/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Steinhaut“ |
+  | 118 | [Steinwand](/de/Items/her_463/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Steinwand“ |
+  | 119 | [Stille Tiefsee](/de/Items/her_484/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Stille Tiefsee“ |
+  | 120 | [Sturm](/de/Items/her_445/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Sturm“ |
+  | 121 | [Tazar](/de/Items/her_393/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Tazar für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 122 | [Teleport](/de/Items/her_426/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Teleport“ |
+  | 123 | [Tor des Feuers](/de/Items/her_412/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tor des Feuers“ |
+  | 124 | [Tote beleben](/de/Items/her_466/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tote beleben“ |
+  | 125 | [Treibsand](/de/Items/her_454/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Treibsand“ |
+  | 126 | [Töter](/de/Items/her_402/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Töter“ |
+  | 127 | [Tötungsbefehl](/de/Items/her_469/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tötungsbefehl“ |
+  | 128 | [Tötungswille](/de/Items/her_414/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Tötungswille“ |
+  | 129 | [Universal-Helden-Tokens](/de/Items/her_358/){: .btn .btn--era5} | Event related | Diese Tokens enthalten wundersame Magie und können den Rang jedes Helden erhöhen. |
+  | 130 | [Untote vernichten](/de/Items/her_444/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Untote vernichten“ |
+  | 131 | [Untotenarmee](/de/Items/her_468/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Untotenarmee“ |
+  | 132 | [Versteinerung](/de/Items/her_471/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Versteinerung“ |
+  | 133 | [Vidomina](/de/Items/her_372/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Vidomina für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
+  | 134 | [Völlige Dunkelheit](/de/Items/her_409/){: .btn .btn--era4} | Skill | Token eingesetzt für die Erstellung des Zauberbuchs „Völlige Dunkelheit“ |
+  | 135 | [Wahnsinn](/de/Items/her_403/){: .btn .btn--era6} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Raserei“ |
+  | 136 | [Waldwiderhall](/de/Items/her_465/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Waldwiderhall“ |
+  | 137 | [Wasserelementar](/de/Items/her_427/){: .btn .btn--era3} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Wasserelementar“ |
+  | 138 | [Wassermeisterung](/de/Items/her_481/){: .btn .btn--era4} | Skill | Token eingesetzt für die Erstellung des Zauberbuchs „Sohn der Erde“ |
+  | 139 | [Wilde Todesfalle](/de/Items/her_500/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Wilde Todesfalle“ |
+  | 140 | [Windgeheul](/de/Items/her_498/){: .btn .btn--era4} | Skill |  |
+  | 141 | [Windwand](/de/Items/her_436/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Windwand“ |
+  | 142 | [Wystan](/de/Items/her_395/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Wystan für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 143 | [Xeron](/de/Items/her_383/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Xeron für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 144 | [Yog](/de/Items/her_377/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Yog für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
+  | 145 | [Zaubergedächtnis](/de/Items/her_491/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Zaubergedächtnis“ |
+  | 146 | [Zaubermeisterung](/de/Items/her_489/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Meisterhafte Zauberei“ |
+  | 147 | [Zeitstopp](/de/Items/her_441/){: .btn .btn--era5} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Zeitstopp“ |
+  | 148 | [Zertrümmern](/de/Items/her_447/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Zertrümmern“ |
+  | 149 | [Zydar](/de/Items/her_385/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Zydar für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |

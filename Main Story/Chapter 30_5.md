@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-5 Pause am Feuer"
 permalink: /Main Story/Chapter 30_5/
-excerpt: " - 5. Era of Chaos  Hauptstory - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 5. Era of Chaos  Hauptstory - Kapitel 30_5. 30-5 Pause am Feuer"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-5 Pause am Feuer
 
- **Beschreibung:** 
+ **Beschreibung:** Eine Geisterstadt der Elfen, um die sich niemand mehr kümmert. In der Stadt gibt es eine große Taverne, an deren Tür ein Schild hängt, auf dem „Pause am Feuer“ steht.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Rashka](/de/heroes/Rashka/) (Score: 200000, Level:116)
 
  **Team:**
 

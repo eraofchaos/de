@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-9 Golddrachen-Königin"
 permalink: /Main Story/Chapter 22_9/
 excerpt: "Kapitel 22 - 9. Era of Chaos  Hauptstory - Kapitel 22_9. 22-9 Golddrachen-Königin"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 22_9.md"
 toc: false

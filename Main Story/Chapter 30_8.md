@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-8 Feueraltar"
 permalink: /Main Story/Chapter 30_8/
-excerpt: " - 8. Era of Chaos  Hauptstory - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 8. Era of Chaos  Hauptstory - Kapitel 30_8. 30-8 Feueraltar"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-8 Feueraltar
 
- **Beschreibung:** 
+ **Beschreibung:** Einer der Wege, über die die Konflux-Ebene mit der Welt verbunden ist, besteht in der gegenseitigen Anziehung der gleichen Elementarten. Daher findet man Feueraltare normalerweise nur in der Nähe von Flammen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

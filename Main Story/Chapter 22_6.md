@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-6 Drache und Wetter"
 permalink: /Main Story/Chapter 22_6/
 excerpt: "Kapitel 22 - 6. Era of Chaos  Hauptstory - Kapitel 22_6. 22-6 Drache und Wetter"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 22_6.md"
 toc: false

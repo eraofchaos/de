@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-7 Der heilige Wald"
 permalink: /Main Story/Chapter 29_7/
-excerpt: " - 7. Era of Chaos  Hauptstory - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 7. Era of Chaos  Hauptstory - Kapitel 29_7. 29-7 Der heilige Wald"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-7 Der heilige Wald
 
- **Beschreibung:** 
+ **Beschreibung:** Die Invasion des Bösen zerstörte das heilige Nest der Einhörner. Dies führte dazu, dass die Einhörner geradezu wahnsinnig wurden und in ihrem Sinnen auf Rache Passanten auf der Straße angriffen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Gorgone"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung der Gorgone wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und zusätzlich um 5 % pro Debuff auf dem Ziel, bis 5 Stapel.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Wilder Fluch
- **Beschreibung:** <span style="color: #645252;font-size:20px">Senkt Kritischer Treffer von benachbarten gegnerischen Einheiten der Gorgone um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihren Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Senkt Krit. Treffer von Zielen innerhalb einer bestimmten Reichweite der Gorgone um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> und den Einheiten-Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> %.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Seuchenangriff
  **Beschreibung:** <span style="color: #645252;font-size:20px">Festung-Einheiten sind gut darin, die Seuche zu verbreiten. Ihr Schaden wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> gegen Einheiten, die unter „Seuche“ leiden.</span><span style="color: black">

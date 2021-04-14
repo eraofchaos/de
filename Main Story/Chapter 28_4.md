@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-4 Der Menschenfresser"
 permalink: /Main Story/Chapter 28_4/
-excerpt: " - 4. Era of Chaos  Hauptstory - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 4. Era of Chaos  Hauptstory - Kapitel 28_4. 28-4 Der Menschenfresser"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-4 Der Menschenfresser
 
- **Beschreibung:** 
+ **Beschreibung:** Die ursprüngliche Bedeutung von „Mantikor“ ist „Menschenfresser“. Dieses schreckenerregende Monster ist eine Mischung aus Fledermaus, Löwe und Skorpion.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

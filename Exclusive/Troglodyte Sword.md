@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Schwert"
+title: "Exklusiv - Schwert (Troglodyte)"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Troglodyt Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Troglodyte Schwert.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Langbogen"
+title: "Exklusiv - Langbogen (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Zyklop Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Cyclops Langbogen.md"
 toc: false

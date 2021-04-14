@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-2 Grab des Lichs"
 permalink: /Main Story/Chapter 29_2/
-excerpt: " - 2. Era of Chaos  Hauptstory - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 2. Era of Chaos  Hauptstory - Kapitel 29_2. 29-2 Grab des Lichs"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-2 Grab des Lichs
 
- **Beschreibung:** 
+ **Beschreibung:** Wenn ein Totenbeschwörer zu einem Lich wird, erbaut er oft sein eigenes Grab, um das Gefäß zu beschützen, in dem seine Seele wohnt.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

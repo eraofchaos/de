@@ -3,7 +3,7 @@ title: "Drachengolem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Drachengolem"
 toc: true
@@ -197,7 +197,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Furchtlose Hinrichtung
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung der Tapferen&gt;</span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Für jeden Heiligtumaufseher auf dem Schlachtfeld wird die ABW des Obersten Paladins um 15 % erhöht. Bei den ersten drei Beschwörungen werden 10 % LP wiederhergestellt.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung der Tapferen&gt;</span><span style="color: #645252;font-size:18px"> Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Für jeden Heiligtumaufseher auf dem Schlachtfeld wird die ABW des Obersten Paladins um 15 % erhöht. Der Oberste Paladin stellt bei den ersten drei Beschwörungen 10 % LP wieder her.</span>
 
 ### 2nd Skill (or 1st): Ruhm des Heiligtums
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verstärkung der Tapferen&gt;</span><span style="color: #645252;font-size:18px">Das Heiligtumgefolge wird befördert zum Heiligtumaufseher. Bei den ersten drei Beschwörungen werden Schaden und Schadensreduzierung deiner Einheiten 30 Sek. lang um 10 % erhöht. Der Oberste Paladin beschwört einen Heiligtumaufseher, wenn er das Schlachtfeld betritt.</span>

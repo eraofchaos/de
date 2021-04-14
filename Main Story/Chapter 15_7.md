@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-7 Verhängnisaltar"
 permalink: /Main Story/Chapter 15_7/
 excerpt: "Kapitel 15 - 7. Era of Chaos  Hauptstory - Kapitel 15_7. 15-7 Verhängnisaltar"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 15_7.md"
 toc: false

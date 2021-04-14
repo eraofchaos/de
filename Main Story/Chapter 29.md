@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  "
+title: "Hauptstory - Kapitel 29 Geschäft mit dem Dämon"
 permalink: /Main Story/Chapter 29/
-excerpt: ". Era of Chaos  Hauptstory - . "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29. Era of Chaos  Hauptstory - Kapitel 29. Geschäft mit dem Dämon"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29.md"
 toc: false
@@ -11,24 +11,24 @@ classes: wide
 
   | Name |  Erstabschlussbelohnung | Beutebelohnung |
   |:------------|:------------|:------------| 
-  | [](/de/Main Story/Chapter 29_1/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_2/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Holz +5](/de/Items/mat_97/){: .btn .btn--era5}, [Sternquecksilber +4](/de/Items/mat_91/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_3/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Quecksilber +5](/de/Items/mat_98/){: .btn .btn--era5}, [Sternschwefel +4](/de/Items/mat_92/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_4/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Schwefel +5](/de/Items/mat_99/){: .btn .btn--era5}, [Sternerz +4](/de/Items/mat_89/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_5/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_6/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Kristall +5](/de/Items/mat_101/){: .btn .btn--era5}, [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_7/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Erz +5](/de/Items/mat_96/){: .btn .btn--era5}, [Sternholz +4](/de/Items/mat_90/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_8/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Holz +5](/de/Items/mat_97/){: .btn .btn--era5}, [Sternquecksilber +4](/de/Items/mat_91/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_9/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Quecksilber +5](/de/Items/mat_98/){: .btn .btn--era5}, [Sternschwefel +4](/de/Items/mat_92/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_10/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Schwefel +5](/de/Items/mat_99/){: .btn .btn--era5}, [Sternerz +4](/de/Items/mat_89/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_11/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_12/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Kristall +5](/de/Items/mat_101/){: .btn .btn--era5}, [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_13/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Schwefel +5](/de/Items/mat_99/){: .btn .btn--era5}, [Sternerz +4](/de/Items/mat_89/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_14/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
-  | [](/de/Main Story/Chapter 29_15/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Kristall +5](/de/Items/mat_101/){: .btn .btn--era5}, [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-1 Geistervilla](/de/Main Story/Chapter 29_1/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-2 Grab des Lichs](/de/Main Story/Chapter 29_2/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Holz +5](/de/Items/mat_97/){: .btn .btn--era5}, [Sternquecksilber +4](/de/Items/mat_91/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-3 Verlassene Bibliothek](/de/Main Story/Chapter 29_3/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Quecksilber +5](/de/Items/mat_98/){: .btn .btn--era5}, [Sternschwefel +4](/de/Items/mat_92/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-4 Blutaltar](/de/Main Story/Chapter 29_4/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Schwefel +5](/de/Items/mat_99/){: .btn .btn--era5}, [Sternerz +4](/de/Items/mat_89/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-5 Kleeblattdorf](/de/Main Story/Chapter 29_5/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-6 Elfen-Hofstatt](/de/Main Story/Chapter 29_6/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Kristall +5](/de/Items/mat_101/){: .btn .btn--era5}, [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-7 Der heilige Wald](/de/Main Story/Chapter 29_7/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Erz +5](/de/Items/mat_96/){: .btn .btn--era5}, [Sternholz +4](/de/Items/mat_90/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-8 Das verwelkte Waldland](/de/Main Story/Chapter 29_8/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Holz +5](/de/Items/mat_97/){: .btn .btn--era5}, [Sternquecksilber +4](/de/Items/mat_91/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-9 Jagdsitz](/de/Main Story/Chapter 29_9/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlendes Quecksilber +5](/de/Items/mat_98/){: .btn .btn--era5}, [Sternschwefel +4](/de/Items/mat_92/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-10 Die Stadt namens Glück](/de/Main Story/Chapter 29_10/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Schwefel +5](/de/Items/mat_99/){: .btn .btn--era5}, [Sternerz +4](/de/Items/mat_89/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-11 Grab des Kriegers](/de/Main Story/Chapter 29_11/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-12 Die Klippe des Grünen Drachen](/de/Main Story/Chapter 29_12/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Kristall +5](/de/Items/mat_101/){: .btn .btn--era5}, [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-13 Söldner-Ausbildungslager](/de/Main Story/Chapter 29_13/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Schwefel +5](/de/Items/mat_99/){: .btn .btn--era5}, [Sternerz +4](/de/Items/mat_89/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-14 Hochrangiger Tempel](/de/Main Story/Chapter 29_14/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}, [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
+  | [29-15 Schwarzsteinschlund](/de/Main Story/Chapter 29_15/) | [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3} | [Strahlender Kristall +5](/de/Items/mat_101/){: .btn .btn--era5}, [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}, [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3} |
 
 
-## Abschließen 
+## Abschließen Kapitel 29
 
  **Reward:**  **100x** <i class="fas fa-gem"/>
 

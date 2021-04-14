@@ -2,7 +2,7 @@
 title: "Adjutant Mephala"
 permalink: /heroes/Adjutant Mephala/
 excerpt: "Era of Chaos  Adjutant Mephala"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Adjutant Mephala.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Adjutant-Fähigkeit:**  Abwehrformation 
 
- **Beschreibung:** Erhöht den Schildwert verbündeter Abwehr-Einheiten um <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+ **Beschreibung:** Erhöht den Blockwert verbündeter Abwehr-Einheiten um <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

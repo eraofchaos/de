@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-8 Große Felsmasse"
 permalink: /Main Story/Chapter 28_8/
-excerpt: " - 8. Era of Chaos  Hauptstory - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 8. Era of Chaos  Hauptstory - Kapitel 28_8. 28-8 Große Felsmasse"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-8 Große Felsmasse
 
- **Beschreibung:** 
+ **Beschreibung:** Ein großer Haufen Steine. In ihrem Versuch, dem Krieg zu entgehen, brachten die Zwergenhandwerker die Höhle zum Einstürzen, um sich vor der bevorstehenden Schlacht zu schützen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

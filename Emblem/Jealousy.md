@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Neid"
 permalink: /Emblem/Jealousy/
 excerpt: "Era of Chaos Neid. Neid. Era of Chaos Heiliges Emblem Neid. Era of Chaos Chaos Neid"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Jealousy.md"
 toc: false

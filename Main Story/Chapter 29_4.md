@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-4 Blutaltar"
 permalink: /Main Story/Chapter 29_4/
-excerpt: " - 4. Era of Chaos  Hauptstory - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 4. Era of Chaos  Hauptstory - Kapitel 29_4. 29-4 Blutaltar"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-4 Blutaltar
 
- **Beschreibung:** 
+ **Beschreibung:** Ihr habt einen Blutaltar zerstört. An so einen Ort kommen Anhänger eines Kults oft, um böse Zauber zu wirken.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

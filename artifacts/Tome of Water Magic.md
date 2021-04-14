@@ -2,7 +2,7 @@
 title: "Artefakt - Zauberhut - Buch der Wassermagie"
 permalink: /artifacts/Tome of Water Magic/
 excerpt: "Era of Chaos  Zauberhut - Buch der Wassermagie. Ein Zauberbuch über höhere Wassermagie. Adelaide gab es Euch. Eine der Komponenten für den Zauberhut."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: de
 ref: "Tome of Water Magic.md"
 toc: false

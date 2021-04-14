@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-14 Hochrangiger Tempel"
 permalink: /Main Story/Chapter 29_14/
-excerpt: " - 14. Era of Chaos  Hauptstory - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 14. Era of Chaos  Hauptstory - Kapitel 29_14. 29-14 Hochrangiger Tempel"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-14 Hochrangiger Tempel
 
- **Beschreibung:** 
+ **Beschreibung:** Was ursprünglich einmal eine Kirche war, wurde in der Aura des bösen Waldes verborgen und die Leichen, die hier einst begraben waren, kamen aus ihren Gräbern gekrochen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

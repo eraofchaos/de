@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-14 Heiligtum"
 permalink: /Main Story/Chapter 28_14/
-excerpt: " - 14. Era of Chaos  Hauptstory - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 14. Era of Chaos  Hauptstory - Kapitel 28_14. 28-14 Heiligtum"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-14 Heiligtum
 
- **Beschreibung:** 
+ **Beschreibung:** Schon seit Ewigkeiten hat das Heiligtum Helden Schutz gewährt und sie vor Verfolgung durch ihre Feinde bewahrt.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

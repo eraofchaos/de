@@ -2,7 +2,7 @@
 title: "Untergrund"
 permalink: /Underground/
 excerpt: "Untergrund. Era of Chaos  Untergrund."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "index.md"
 toc: false
@@ -38,3 +38,6 @@ classes: wide
   | **25** | [Untergrund Kapitel 25 - Land des Schlafs](/de/Underground/Kapitel 25/) | **96** | Der Weg nach Welnin ist voller Hindernisse. Wenn wir unseren Traum von Unabhängigkeit in die Tat umsetzen wollen, müssen wir Erathia vorerst meiden und Welnin erreichen, um ein Basislager zu errichten. | 
   | **26** | [Untergrund Kapitel 26 - Klang des Schicksals](/de/Underground/Kapitel 26/) | **100** | Das Artefakt ist in Welnin eingetroffen, aber Armeen aus Erathia und AvLee ebenfalls. Ein Krieg könnte jederzeit ausbrechen. | 
   | **27** | [Untergrund Kapitel 27 - Der Pilgerweg](/de/Underground/Kapitel 27/) | **104** | - | 
+  | **28** | [Untergrund Kapitel 28 - Tunnel und Troglodyten](/de/Underground/Kapitel 28/) | **106** | - | 
+  | **29** | [Untergrund Kapitel 29 - Geschäft mit dem Dämon](/de/Underground/Kapitel 29/) | **108** | - | 
+  | **30** | [Untergrund Kapitel 30 - Die Rettung des Königs](/de/Underground/Kapitel 30/) | **110** | - | 

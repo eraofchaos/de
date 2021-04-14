@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-10 Schwefelstadt"
 permalink: /Main Story/Chapter 30_10/
-excerpt: " - 10. Era of Chaos  Hauptstory - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 10. Era of Chaos  Hauptstory - Kapitel 30_10. 30-10 Schwefelstadt"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-10 Schwefelstadt
 
- **Beschreibung:** 
+ **Beschreibung:** Horden von Dämonen sind durch das Zerberustor gegangen und haben sich in dieser Festung versammelt. Eine wilde Schlacht ist unausweichlich.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Rashka](/de/heroes/Rashka/) (Score: 200000, Level:116)
 
  **Team:**
 

@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-1 Geistervilla"
 permalink: /Main Story/Chapter 29_1/
-excerpt: " - 1. Era of Chaos  Hauptstory - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 1. Era of Chaos  Hauptstory - Kapitel 29_1. 29-1 Geistervilla"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-1 Geistervilla
 
- **Beschreibung:** 
+ **Beschreibung:** Ein abgelegenes Spukhaus, durch dessen Fenster das rote Leuchten der Lampen schimmert. Dies ist das Haus des berüchtigten blutsaugenden Lords in der Nähe.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

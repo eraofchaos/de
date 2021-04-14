@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Mephala genoss eine Ausbildung in der Armee Erathias und war ein Naturtalent, wenn es darum ging, das Gelände zu ihren Gunsten auszunutzen. Obwohl sie den Frieden und die Ruhe ihres Dorfs bevorzugt, bleibt sie für ihr Land beim Militär."
 heroID: 60302
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Mephala"
 toc: true
@@ -54,7 +54,7 @@ toc: true
 
  **Adjutant-Fähigkeit:**  Abwehrformation 
 
- **Beschreibung:** Erhöht den Schildwert verbündeter Abwehr-Einheiten um <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+ **Beschreibung:** Erhöht den Blockwert verbündeter Abwehr-Einheiten um <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
 
 ## Kombinationsinfo
 

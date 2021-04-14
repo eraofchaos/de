@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Langbogen"
+title: "Exklusiv - Langbogen (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Echsenmensch Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Lizardman Langbogen.md"
 toc: false

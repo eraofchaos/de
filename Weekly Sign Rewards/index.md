@@ -2,11 +2,37 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 17  Buchtwoche
+
+  |  Date  |      Reward    |    Reward Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **26 Apr** | **3x [Meerelementar](/de/Items/unt_275/)**  | Ein Trupp von Meerelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **27 Apr** | **3x [Regnanpirat](/de/Items/unt_273/)**  | Ein Trupp von Regnanpiraten schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **28 Apr** | **100x <i class="fas fa-gem"/>**  | Die Kreaturen des Piratenhafens überreichen Euch einen kleinen Haufen Diamanten! |
+  | **29 Apr** | **3x [Bucht-Fraktion-Truhe](/de/Items/con_1278/)**  | Eure Hafentruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
+  | **30 Apr** | **3x [Bucht-Kaderrunen](/de/Items/con_868/)**  | Eure Hafentruppe überreicht Euch eine Reihe wertvoller Schatzrunen! |
+  | **1 May** | **1x [Drachenschildkröte](/de/Items/unt_278/)**  | Ein Trupp von Drachenschildkröten schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **2 May** | **1x [Universal-Helden-Tokens](/de/Items/her_358/)**  | Die Kreaturen der Piratenbucht überreichen dir ein Universal-(Helden-)Token! |
+
+
+#### 2021 Week 16  Burgwoche
+
+  |  Date  |      Reward    |    Reward Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Apr** | **5x [Goblin](/de/Items/unt_217/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **20 Apr** | **5x [Wolfsreiter](/de/Items/unt_218/)**  | Ein Trupp von Wolfsreitern schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **21 Apr** | **100x <i class="fas fa-gem"/>**  | Die Orks unter deinem Befehl haben einen Haufen Diamanten für dich geplündert! |
+  | **22 Apr** | **5x [Ork](/de/Items/unt_219/)**  | Ein Trupp von Orks schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **23 Apr** | **3x [Oger](/de/Items/unt_220/)**  | Ein Trupp von Ogern schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **24 Apr** | **3x [Zyklop](/de/Items/unt_222/)**  | Ein Trupp von Zyklopen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **25 Apr** | **5x [Crag Hack](/de/Items/her_375/)**  | Eure andauernde Expedition brachten den Helden Crag Hack dazu, sich Eurer Armee anzuschließen! |
+
 
 #### 2021 Week 15  Konfluxwoche
 

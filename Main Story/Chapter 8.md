@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 Grenzländer"
 permalink: /Main Story/Chapter 8/
 excerpt: "Kapitel 8. Era of Chaos  Hauptstory - Kapitel 8. Grenzländer"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 8.md"
 toc: false

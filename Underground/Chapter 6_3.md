@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 6 - 6-3 Ein rascher Vorstoß"
 permalink: /Underground/Chapter 6_3/
 excerpt: "Kapitel 6 - 3. Era of Chaos  Untergrund - Kapitel 6_3. 6-3 Ein rascher Vorstoß"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 6_3.md"
 toc: false

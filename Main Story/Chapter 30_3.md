@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-3 Pegasusquelle"
 permalink: /Main Story/Chapter 30_3/
-excerpt: " - 3. Era of Chaos  Hauptstory - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 3. Era of Chaos  Hauptstory - Kapitel 30_3. 30-3 Pegasusquelle"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-3 Pegasusquelle
 
- **Beschreibung:** 
+ **Beschreibung:** Jeder weiß, dass der geflügelte Pegasus ein Symbol der Heiligkeit ist, aber hier sieht man den weiblichen Elfenritter nicht heldenhaft auf dem Schlachtfeld stehen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

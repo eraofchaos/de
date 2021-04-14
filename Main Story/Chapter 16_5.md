@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-5 Gremlinhügel"
 permalink: /Main Story/Chapter 16_5/
 excerpt: "Kapitel 16 - 5. Era of Chaos  Hauptstory - Kapitel 16_5. 16-5 Gremlinhügel"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 16_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-14 Das Alchemistenlabor"
 permalink: /Main Story/Chapter 3_14/
 excerpt: "Kapitel 3 - 14. Era of Chaos  Hauptstory - Kapitel 3_14. 3-14 Das Alchemistenlabor"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 3_14.md"
 toc: false

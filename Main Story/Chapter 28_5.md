@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-5 Misert"
 permalink: /Main Story/Chapter 28_5/
-excerpt: " - 5. Era of Chaos  Hauptstory - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 5. Era of Chaos  Hauptstory - Kapitel 28_5. 28-5 Misert"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-5 Misert
 
- **Beschreibung:** 
+ **Beschreibung:** Diese Burg der Menschen am Waldrand wurde von den Dungeon-Overlords besetzt und dient ihnen jetzt als Front-Kommandozentrale.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/de/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

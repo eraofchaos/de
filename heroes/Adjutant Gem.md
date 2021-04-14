@@ -2,7 +2,7 @@
 title: "Adjutant Gem"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Era of Chaos  Adjutant Gem"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Adjutant Gem.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Adjutant-Fähigkeit:**  Zuflucht der Natur 
 
- **Beschreibung:** Wenn verbündete Schutzwall-Einheiten einen <span style="color: #48b946;font-size:20px">Schild</span><span style="color: black"> erhalten, erhöht sich ihr Schildwert um <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Beschreibung:** Wenn verbündete Schutzwall-Einheiten einen <span style="color: #48b946;font-size:20px">Schild</span><span style="color: black"> erhalten, erhöht sich ihr Blockwert um <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

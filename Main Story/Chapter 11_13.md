@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-13 Abzeichen der Courage"
 permalink: /Main Story/Chapter 11_13/
 excerpt: "Kapitel 11 - 13. Era of Chaos  Hauptstory - Kapitel 11_13. 11-13 Abzeichen der Courage"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 11_13.md"
 toc: false

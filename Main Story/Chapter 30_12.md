@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-12 Feuerball-Zielübungen"
 permalink: /Main Story/Chapter 30_12/
-excerpt: " - 12. Era of Chaos  Hauptstory - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 12. Era of Chaos  Hauptstory - Kapitel 30_12. 30-12 Feuerball-Zielübungen"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-12 Feuerball-Zielübungen
 
- **Beschreibung:** 
+ **Beschreibung:** Gogs sind von Haus aus Meister der Flammen. Sie benutzen Gefangene als Ziele, um das Werfen mit Feuerbällen zu üben.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

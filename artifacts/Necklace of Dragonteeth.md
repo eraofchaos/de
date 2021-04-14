@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters - Drachenzahnkette"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "Era of Chaos  Macht des Drachenvaters - Drachenzahnkette. Eine vom heiligen Drachen gesegnete Halskette. Eine der Komponenten für die Macht des Drachenvaters."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: de
 ref: "Necklace of Dragonteeth.md"
 toc: false

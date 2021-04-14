@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Auslöschung"
+title: "Exklusiv - Auslöschung (Red Dragon)"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Auslöschung. Auslöschung. Era of Chaos Exklusiv Auslöschung. Roter Drache Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Red Dragon Auslöschung.md"
 toc: false

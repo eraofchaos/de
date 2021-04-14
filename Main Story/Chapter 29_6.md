@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-6 Elfen-Hofstatt"
 permalink: /Main Story/Chapter 29_6/
-excerpt: " - 6. Era of Chaos  Hauptstory - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 6. Era of Chaos  Hauptstory - Kapitel 29_6. 29-6 Elfen-Hofstatt"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-6 Elfen-Hofstatt
 
- **Beschreibung:** 
+ **Beschreibung:** Die Elfen sind von Natur aus talentierte Bogenschützen. Ihre Hofstatt ist ihre Lieblingsunterkunft und die Elfen darin haben für unerwartete Besucher nichts als Feindseligkeit übrig.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

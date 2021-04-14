@@ -3,7 +3,7 @@ title: "Dämon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
 unitID: 504
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Dämon"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 ### Heldenbonus
 * [Mephala](/de/heroes/Mephala/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/de/heroes/Xeron/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/de/heroes/Nymus/)  ->   Spezialität:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

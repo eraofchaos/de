@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechter Kristall"
 permalink: /Items/mat_5/
 excerpt: "Era of Chaos  Schlechter Kristall"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "mat_5.md"
 toc: false

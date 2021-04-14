@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Irisschild"
+title: "Exklusiv - Irisschild (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Zwerg Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Dwarf Irisschild.md"
 toc: false

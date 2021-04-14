@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "index.md"
 toc: false
@@ -37,17 +37,18 @@ classes: wide
   | 25 | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | **SR** |  Psy-Elementar | R |
   | 26 | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | **R** |  Sturmangriff | R+ |
   | 27 | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | **R** |  Dungeon-Flut | R |
-  | 28 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | **SR+** |  Segel setzen | R+ |
-  | 29 | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | **SR** |  Feuer-Lord | R |
-  | 30 | [Roland](/de/heroes/Roland/) | Schloss | Ritter | **SSR** |  Erhöhte Moral | SR+ |
-  | 31 | [Ryland](/de/heroes/Ryland/) | Schutzwall | Waldläufer | **SR** |  Dendroidenwache | R |
-  | 32 | [Sandro](/de/heroes/Sandro/) | Nekropolis | Totenbeschwörer | **SSR** |  Dunkelheit | SSR |
-  | 33 | [Sephinroth](/de/heroes/Sephinroth/) | Dungeon | Hexer | **R** |  Kristallblick | R |
-  | 34 | [Shiva](/de/heroes/Shiva/) | Burg | Barbar | **R** |  Sturmbringer | R |
-  | 35 | [Solmyr](/de/heroes/Solmyr/) | Turm | Zauberer | **SR+** |  Blitzstrahl-Salve | SR |
-  | 36 | [Tazar](/de/heroes/Tazar/) | Festung | Bestienmeister | **SSR** |  Blutiger Zorn | SR |
-  | 37 | [Vidomina](/de/heroes/Vidomina/) | Nekropolis | Totenbeschwörer | **SR+** |  Totenbeschwörer | R |
-  | 38 | [Wystan](/de/heroes/Wystan/) | Festung | Bestienmeister | **R** |  Moorjäger | R |
-  | 39 | [Xeron](/de/heroes/Xeron/) | Inferno | Dämoniker | **SSR** |  Erzteufel | SSR |
-  | 40 | [Yog](/de/heroes/Yog/) | Burg | Barbar | **SR** |  Rasender Zyklop | SR |
-  | 41 | [Zydar](/de/heroes/Zydar/) | Inferno | Ketzer | **R** |  Inferno beschwören | R |
+  | 28 | [Nymus](/de/heroes/Nymus/) | Inferno | Dämoniker | **SR** |  Inferno-Phantoms | R |
+  | 29 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | **SR+** |  Segel setzen | R+ |
+  | 30 | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | **SR** |  Feuer-Lord | R |
+  | 31 | [Roland](/de/heroes/Roland/) | Schloss | Ritter | **SSR** |  Erhöhte Moral | SR+ |
+  | 32 | [Ryland](/de/heroes/Ryland/) | Schutzwall | Waldläufer | **SR** |  Dendroidenwache | R |
+  | 33 | [Sandro](/de/heroes/Sandro/) | Nekropolis | Totenbeschwörer | **SSR** |  Dunkelheit | SSR |
+  | 34 | [Sephinroth](/de/heroes/Sephinroth/) | Dungeon | Hexer | **R** |  Kristallblick | R |
+  | 35 | [Shiva](/de/heroes/Shiva/) | Burg | Barbar | **R** |  Sturmbringer | R |
+  | 36 | [Solmyr](/de/heroes/Solmyr/) | Turm | Zauberer | **SR+** |  Blitzstrahl-Salve | SR |
+  | 37 | [Tazar](/de/heroes/Tazar/) | Festung | Bestienmeister | **SSR** |  Blutiger Zorn | SR |
+  | 38 | [Vidomina](/de/heroes/Vidomina/) | Nekropolis | Totenbeschwörer | **SR+** |  Totenbeschwörer | R |
+  | 39 | [Wystan](/de/heroes/Wystan/) | Festung | Bestienmeister | **R** |  Moorjäger | R |
+  | 40 | [Xeron](/de/heroes/Xeron/) | Inferno | Dämoniker | **SSR** |  Erzteufel | SSR |
+  | 41 | [Yog](/de/heroes/Yog/) | Burg | Barbar | **SR** |  Rasender Zyklop | SR |
+  | 42 | [Zydar](/de/heroes/Zydar/) | Inferno | Ketzer | **R** |  Inferno beschwören | R |

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 16 - 16-4 Echo des Krieges"
 permalink: /Underground/Chapter 16_4/
 excerpt: "Kapitel 16 - 4. Era of Chaos  Untergrund - Kapitel 16_4. 16-4 Echo des Krieges"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 16_4.md"
 toc: false

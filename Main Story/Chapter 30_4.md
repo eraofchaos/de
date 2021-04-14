@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-4 Baum des Wissens"
 permalink: /Main Story/Chapter 30_4/
-excerpt: " - 4. Era of Chaos  Hauptstory - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 4. Era of Chaos  Hauptstory - Kapitel 30_4. 30-4 Baum des Wissens"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-4 Baum des Wissens
 
- **Beschreibung:** 
+ **Beschreibung:** Für nur ein paar wenige Edelsteine kann man am Baum des Wissens eine Unmenge an Weisheit erhalten. Die Dämonen bilden da keine Ausnahme.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

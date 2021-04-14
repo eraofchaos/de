@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 23 - 23-1 Meisterschütze"
 permalink: /Underground/Chapter 23_1/
 excerpt: "Kapitel 23 - 1. Era of Chaos  Untergrund - Kapitel 23_1. 23-1 Meisterschütze"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 23_1.md"
 toc: false

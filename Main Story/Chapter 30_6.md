@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-6 Toter Baum und Steintafel"
 permalink: /Main Story/Chapter 30_6/
-excerpt: " - 6. Era of Chaos  Hauptstory - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 6. Era of Chaos  Hauptstory - Kapitel 30_6. 30-6 Toter Baum und Steintafel"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-6 Toter Baum und Steintafel
 
- **Beschreibung:** 
+ **Beschreibung:** Eine lange Dürre hat dafür gesorgt, dass die Flora in der Nähe des Vulkans verwelkt ist. Diese Steintafel, die mit verdorrten Pflanzen bedeckt ist, sieht besonders seltsam aus.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

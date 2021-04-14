@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-1 Tief hinab"
 permalink: /Main Story/Chapter 28_1/
-excerpt: " - 1. Era of Chaos  Hauptstory - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 1. Era of Chaos  Hauptstory - Kapitel 28_1. 28-1 Tief hinab"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-1 Tief hinab
 
- **Beschreibung:** 
+ **Beschreibung:** Die Dungeon-Overlords haben ein riesiges unterirdisches Tunnelnetz errichtet, in das sich der Feind zurückziehen und in dem er seine Vorräte auffüllen kann. Es wird ziemlich schwer werden, ihn zu vertreiben.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

@@ -2,7 +2,7 @@
 title: "Artefakt - Spiegel der Rache"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Spiegel der Rache. Spiegel der Rache Ein schwacher Magier hat dieses böse Artefakt mit verbotenen Zaubern erschaffen, um seinen Rachedurst zu stillen. Dieses Artefakt kann die Kampfkraft deiner Truppen stärken."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: de
 ref: "Mirror of Revenge.md"
 toc: false
@@ -52,5 +52,5 @@ classes: wide
   | **8** | Erhöht SCHD-Reduzierung (Einheit) aller verbündeten Einheiten um 1,5 %. | 
   | **11** | Erhöht Lebensentzug aller verbündeten Einheiten um 1 %. | 
   | **14** | Erhöht SCHD-Reduzierung (Einheit) aller verbündeten Einheiten um 2,5 %. | 
-  | **17** | Erhöht Schildwert aller verbündeten Einheiten um 50. | 
+  | **17** | Erhöht Blockwert aller verbündeten Einheiten um 50. | 
   | **20** | Erhöht ABW-Durchdringung aller verbündeten Einheiten um 100. | 

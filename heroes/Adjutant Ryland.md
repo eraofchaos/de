@@ -2,7 +2,7 @@
 title: "Adjutant Ryland"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Era of Chaos  Adjutant Ryland"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Adjutant Ryland.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | Adjutanten-Stufe | Extra effect | Adjutanten-Kraft  |
   |:---|:-------|:------------|
   | **10** | Erhöht die ABW des verbündeten Helden um 20 (alle Helden). | **+1500** |
-  | **20** | <Verbesserter Schutzwall> Erhöht den Schildwert zusätzlich um 100 Punkte. | - |
+  | **20** | <Verbesserter Schutzwall> Erhöht den Blockwert zusätzlich um 100 Punkte. | - |
   | **30** | Erhöht den ANG des verbündeten Helden um 40 (alle Helden). | **+1500** |
   | **40** | <Verbesserter Schutzwall> Erhöht erhaltene Heilung um zusätzliche 10 %. Dieser Effekt wird für Dendroidenwachen verdoppelt. | - |
 

@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-9 Quecksilber-Raffinerie"
 permalink: /Main Story/Chapter 30_9/
-excerpt: " - 9. Era of Chaos  Hauptstory - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 9. Era of Chaos  Hauptstory - Kapitel 30_9. 30-9 Quecksilber-Raffinerie"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-9 Quecksilber-Raffinerie
 
- **Beschreibung:** 
+ **Beschreibung:** Quecksilber ist eine der grundlegenden Zutaten in der Alchemie. Daher besitzen viele Alchemisten ihre eigene Quecksilber-Raffinerie, einschließlich der bösen Zauberer, die die Alchemie erforschen wollen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

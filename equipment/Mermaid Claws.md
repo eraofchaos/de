@@ -2,7 +2,7 @@
 title: "Krallen der Meerjungfrau"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Era of Chaos Krallen der Meerjungfrau. Krallen der Meerjungfrau"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Mermaid Claws.md"
 toc: false
@@ -40,16 +40,16 @@ classes: wide
   | Grün | **+3.5315** | **+1.05** | 1x [Schlechtes Quecksilber](/de/Items/mat_2/) | 1 |
   | Blau | **+4.036** | **+1.2** | 3x [Normales Quecksilber](/de/Items/mat_8/) | 1 |
   | Blau +1 | **+4.5405** | **+1.35** | 1x [Buch der Waffen](/de/Items/mat_18/), 5x [Gutes Quecksilber](/de/Items/mat_14/) | 1 |
-  | Blau +2 | **+5.045** | **+1.5** | 2x [Buch der Waffen](/de/Items/mat_25/), 8x [Überlegenes Quecksilber](/de/Items/mat_21/) | 1 |
-  | Lila | **+5.5495** | **+1.65** | 3x [Buch der Waffen](/de/Items/mat_32/), 10x [Wertvolles Quecksilber](/de/Items/mat_28/), 3x [Überlegener Schwefel](/de/Items/mat_22/) | 34 |
-  | Lila +1 | **+6.054** | **+1.8** | 5x [Buch der Essenzen](/de/Items/mat_39/), 15x [Überragendes Quecksilber](/de/Items/mat_35/), 5x [Wertvoller Schwefel](/de/Items/mat_29/) | 39 |
-  | Lila +2 | **+6.5585** | **+1.95** | 8x [Buch der Essenzen](/de/Items/mat_46/), 10x [Seltenes Quecksilber](/de/Items/mat_42/), 10x [Seltener Schwefel](/de/Items/mat_43/), 5x [Überragendes Erz](/de/Items/mat_33/) | 46 |
-  | Lila +3 | **+7.063** | **+2.1** | 10x [Buch der Essenzen](/de/Items/mat_53/), 15x [Episches Quecksilber](/de/Items/mat_49/), 15x [Epischer Schwefel](/de/Items/mat_50/), 8x [Seltenes Erz](/de/Items/mat_40/) | 55 |
-  | Orange | **+7.5675** | **+2.25** | 12x [Buch der Essenzen](/de/Items/mat_60/), 18x [Legendäres Quecksilber](/de/Items/mat_56/), 18x [Legendärer Schwefel](/de/Items/mat_57/), 10x [Episches Erz](/de/Items/mat_47/) | 61 |
-  | Orange +1 | **+8.072** | **+2.4** | 15x [Legendenzertifikat](/de/Items/mat_67/), 25x [Mythisches Quecksilber](/de/Items/mat_63/), 25x [Mythischer Schwefel](/de/Items/mat_64/), 12x [Legendäres Erz](/de/Items/mat_54/) | 70 |
-  | Orange +2 | **+8.5765** | **+2.55** | 18x [Legendenzertifikat](/de/Items/mat_74/), 30x [Ewiges Quecksilber](/de/Items/mat_70/), 30x [Ewiger Schwefel](/de/Items/mat_71/), 15x [Mythisches Erz](/de/Items/mat_61/) | 76 |
-  | Orange +3 | **+9.081** | **+2.7** | 21x [Legendenzertifikat](/de/Items/mat_81/), 35x [Geheimes Quecksilber](/de/Items/mat_77/), 35x [Geheimer Schwefel](/de/Items/mat_78/), 18x [Ewiges Erz](/de/Items/mat_68/) | 85 |
-  | Orange +4 | **+9.5855** | **+2.85** | 24x [Legendenzertifikat](/de/Items/mat_88/), 40x [Seelenquecksilber](/de/Items/mat_84/), 40x [Seelenschwefel](/de/Items/mat_85/), 25x [Geheimes Erz](/de/Items/mat_75/) | 94 |
-  | Orange +5 | **+10.34225** | **+3.075** | 50x [Legendenzertifikat](/de/Items/mat_95/), 80x [Sternquecksilber](/de/Items/mat_91/), 80x [Sternschwefel](/de/Items/mat_92/), 50x [Seelenerz](/de/Items/mat_82/) | 102 |
-  | Rot | **+11.6035** | **+3.45** | 100x [Legendäres Zertifikat](/de/Items/mat_102/), 150x [Strahlendes Quecksilber](/de/Items/mat_98/), 150x [Strahlender Schwefel](/de/Items/mat_99/), 100x [Sternerz](/de/Items/mat_89/) | 108 |
+  | Blau +2 | **+5.045** | **+1.5** | 2x [Buch der Waffen +1](/de/Items/mat_25/), 8x [Überlegenes Quecksilber +1](/de/Items/mat_21/) | 1 |
+  | Lila | **+5.5495** | **+1.65** | 3x [Buch der Waffen +2](/de/Items/mat_32/), 10x [Wertvolles Quecksilber +2](/de/Items/mat_28/), 3x [Überlegener Schwefel +1](/de/Items/mat_22/) | 34 |
+  | Lila +1 | **+6.054** | **+1.8** | 5x [Buch der Essenzen](/de/Items/mat_39/), 15x [Überragendes Quecksilber](/de/Items/mat_35/), 5x [Wertvoller Schwefel +2](/de/Items/mat_29/) | 39 |
+  | Lila +2 | **+6.5585** | **+1.95** | 8x [Buch der Essenzen +1](/de/Items/mat_46/), 10x [Seltenes Quecksilber +1](/de/Items/mat_42/), 10x [Seltener Schwefel +1](/de/Items/mat_43/), 5x [Überragendes Erz](/de/Items/mat_33/) | 46 |
+  | Lila +3 | **+7.063** | **+2.1** | 10x [Buch der Essenzen +2](/de/Items/mat_53/), 15x [Episches Quecksilber +2](/de/Items/mat_49/), 15x [Epischer Schwefel +2](/de/Items/mat_50/), 8x [Seltenes Erz +1](/de/Items/mat_40/) | 55 |
+  | Orange | **+7.5675** | **+2.25** | 12x [Buch der Essenzen +3](/de/Items/mat_60/), 18x [Legendäres Quecksilber +3](/de/Items/mat_56/), 18x [Legendärer Schwefel +3](/de/Items/mat_57/), 10x [Episches Erz +2](/de/Items/mat_47/) | 61 |
+  | Orange +1 | **+8.072** | **+2.4** | 15x [Legendenzertifikat](/de/Items/mat_67/), 25x [Mythisches Quecksilber](/de/Items/mat_63/), 25x [Mythischer Schwefel](/de/Items/mat_64/), 12x [Legendäres Erz +3](/de/Items/mat_54/) | 70 |
+  | Orange +2 | **+8.5765** | **+2.55** | 18x [Legendenzertifikat +1](/de/Items/mat_74/), 30x [Ewiges Quecksilber +1](/de/Items/mat_70/), 30x [Ewiger Schwefel +1](/de/Items/mat_71/), 15x [Mythisches Erz](/de/Items/mat_61/) | 76 |
+  | Orange +3 | **+9.081** | **+2.7** | 21x [Legendenzertifikat +2](/de/Items/mat_81/), 35x [Geheimes Quecksilber +2](/de/Items/mat_77/), 35x [Geheimer Schwefel +2](/de/Items/mat_78/), 18x [Ewiges Erz +1](/de/Items/mat_68/) | 85 |
+  | Orange +4 | **+9.5855** | **+2.85** | 24x [Legendenzertifikat +3](/de/Items/mat_88/), 40x [Seelenquecksilber +3](/de/Items/mat_84/), 40x [Seelenschwefel +3](/de/Items/mat_85/), 25x [Geheimes Erz +2](/de/Items/mat_75/) | 94 |
+  | Orange +5 | **+10.34225** | **+3.075** | 50x [Legendenzertifikat +4](/de/Items/mat_95/), 80x [Sternquecksilber +4](/de/Items/mat_91/), 80x [Sternschwefel +4](/de/Items/mat_92/), 50x [Seelenerz +3](/de/Items/mat_82/) | 102 |
+  | Rot | **+11.6035** | **+3.45** | 100x [Legendäres Zertifikat +5](/de/Items/mat_102/), 150x [Strahlendes Quecksilber +5](/de/Items/mat_98/), 150x [Strahlender Schwefel +5](/de/Items/mat_99/), 100x [Sternerz +4](/de/Items/mat_89/) | 108 |
 

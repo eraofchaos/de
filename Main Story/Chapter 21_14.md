@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-14 Ein uralter Brauch"
 permalink: /Main Story/Chapter 21_14/
 excerpt: "Kapitel 21 - 14. Era of Chaos  Hauptstory - Kapitel 21_14. 21-14 Ein uralter Brauch"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 21_14.md"
 toc: false

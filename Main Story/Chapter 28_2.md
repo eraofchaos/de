@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-2 Die Macht des Waldes"
 permalink: /Main Story/Chapter 28_2/
-excerpt: " - 2. Era of Chaos  Hauptstory - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 2. Era of Chaos  Hauptstory - Kapitel 28_2. 28-2 Die Macht des Waldes"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-2 Die Macht des Waldes
 
- **Beschreibung:** 
+ **Beschreibung:** Wenn es um Schlachten im Wald geht, sollte jede Fraktion die mächtigen Schutzwall-Einheiten fürchten, denn sie bewegen sich so flink zwischen den Bäumen, dass dies selbst Dämonen verängstigt.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

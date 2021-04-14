@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-7 Die Götter anbeten"
 permalink: /Main Story/Chapter 28_7/
-excerpt: " - 7. Era of Chaos  Hauptstory - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 7. Era of Chaos  Hauptstory - Kapitel 28_7. 28-7 Die Götter anbeten"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-7 Die Götter anbeten
 
- **Beschreibung:** 
+ **Beschreibung:** Ein hochrangiger Altar wurde entdeckt, doch er hat seine Macht verloren. Es bleibt nur noch die Möglichkeit, voller Bedauern umzukehren.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

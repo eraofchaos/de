@@ -2,7 +2,7 @@
 title: "Hauptstory"
 permalink: /Main Story/
 excerpt: "Hauptstory. Era of Chaos  Hauptstory."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "index.md"
 toc: false
@@ -172,8 +172,8 @@ classes: wide
 
   | Name |  Beschreibung | 
   |:------------|:------------| 
-  | [](/de/Main Story/Chapter 28/) | Tunnel und Troglodyten | 
-  | [](/de/Main Story/Chapter 29/) |  | 
-  | [](/de/Main Story/Chapter 30/) |  | 
+  | [Kapitel 28](/de/Main Story/Chapter 28/) | Tunnel und Troglodyten | 
+  | [Kapitel 29](/de/Main Story/Chapter 29/) | Geschäft mit dem Dämon | 
+  | [Kapitel 30](/de/Main Story/Chapter 30/) | Die Rettung des Königs | 
 
 

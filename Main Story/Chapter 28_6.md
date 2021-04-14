@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-6 Verlassene Goldmine"
 permalink: /Main Story/Chapter 28_6/
-excerpt: " - 6. Era of Chaos  Hauptstory - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 6. Era of Chaos  Hauptstory - Kapitel 28_6. 28-6 Verlassene Goldmine"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-6 Verlassene Goldmine
 
- **Beschreibung:** 
+ **Beschreibung:** Golderz ist eine wichtige Ressource im Krieg, doch diese Goldmine scheint verlassen zu sein. Nur ein paar herumliegende Werkzeuge sind übrig geblieben.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

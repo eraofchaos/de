@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Dornen"
+title: "Exklusiv - Dornen (Leprechaun)"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Dornen. Dornen. Era of Chaos Exklusiv Dornen. Leprechaun Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Leprechaun Dornen.md"
 toc: false
@@ -29,12 +29,12 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | ? | <Glücksgöttin> Alle 20 Sek. erhält der Leprechaun zufällig 1 – 4 vierblättrige Kleeblätter. Der Leprechaun erhält je nach Anzahl der vierblättrigen Kleeblätter zufällige Effekte der folgenden Buffs: „Erhöht Schildwert um 200“, „Erhöht ABW um 400“, „Jede Sekunde wird 1 % der max. LP wiederhergestellt“ und „Erhöht Ausweichen um 400“. Die Buffs halten für 12 Sek. an. |
+  |  Erwachen  | ? | <Glücksgöttin> Alle 20 Sek. erhält der Leprechaun zufällig 1 - 4 vierblättrige Kleeblätter. Der Leprechaun erhält je nach Anzahl der vierblättrigen Kleeblätter zufällige Effekte der folgenden Buffs: „Erhöht Blockwert um 200“, „Erhöht ABW um 400“, „Jede Sekunde wird 1 % der max. LP wiederhergestellt“ und „Erhöht Ausweichen um 400“. Die Buffs halten für 12 Sek. an. |
   | **1x** <i class="fas fa-star"/> | ? | Erhöht die eigenen LP um 20 % und die ABW um 15 %. |
   | **2x** <i class="fas fa-star"/> | ? | Wenn sich der Leprechaun auf dem Schlachtfeld befindet, erhöht er den SCHD (Einheit) von Konflux-Einheiten um 10 % und Krit. Treffer um 100. |
   | **3x** <i class="fas fa-star"/> | ? | <Schnellkombo> Alle 26 Sek. hat der Leprechaun eine Chance von 60 %/30 %/10 %, das Angriffstempo 9 Sek. lang um 50 %/100 %/200 % zu erhöhen. Während dieses Zeitraums verringern normale Angriffe die SCHD-Reduzierung (Einheit) des Ziels um 2 %. Bis zu 20 Mal stapelbar. Hält 5 Sek. lang an. |
   | **4x** <i class="fas fa-star"/> | ? | Erhöht die SCHD-Reduzierung (Einheit) um 20 %. Nachdem ein Held einen Erdzauber gewirkt hat, erhöht dies die SCHD-Reduzierung (Einheit) für 8 Sek. zusätzlich um 20 %. |
-  | **5x** <i class="fas fa-star"/> | ? | Wenn der Leprechaun zum ersten Mal auf 50 % LP fällt, erhöht sich sein Schildwert um 200 und er erhält einen Schild in Höhe von 50 % der max. LP. Hält den gesamten Kampf über an. |
+  | **5x** <i class="fas fa-star"/> | ? | Wenn der Leprechaun zum ersten Mal auf 50 % LP fällt, erhöht sich sein Blockwert um 200 und er erhält einen Schild in Höhe von 50 % der max. LP. Hält den gesamten Kampf über an. |
   | **6x** <i class="fas fa-star"/> | ? | <Dornenkrone> Der Leprechaun verwendet eine Dornenkrone, um sich selbst zu schützen, wodurch die SCHD-Reflexion um 40 % erhöht wird. Beschwört alle 30 Sek. 1 Dornenkrone herauf, wodurch die SCHD-Reduzierung (Einheit) um 40 % oder die ABW für 10 Sek. um 40 % erhöht wird. Wenn dieser Buff verschwindet, zerbricht die Dornenkrone und fügt gegnerischen Einheiten in großer Reichweite Schaden in Höhe von 15 % der max. LP zu. Wenn der Leprechaun 8 oder mehr <Glück>-Stapel erhält, beschwört er eine Zerbrochene Krone herauf, welche den SCHD (Einheit) und den Krit. Gesamt-SCHD von verbündeten Konflux-Einheiten für 10 Sek. jeweils um 20 % erhöht. |
 
 

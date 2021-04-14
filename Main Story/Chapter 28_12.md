@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-12 Verlassener Tempel"
 permalink: /Main Story/Chapter 28_12/
-excerpt: " - 12. Era of Chaos  Hauptstory - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 12. Era of Chaos  Hauptstory - Kapitel 28_12. 28-12 Verlassener Tempel"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-12 Verlassener Tempel
 
- **Beschreibung:** 
+ **Beschreibung:** Eine verlassene Kirche. Nachdem ein Totenbeschwörer dieses Gebiet besetzte und verdorbene Magie wirkte, wurde sie zu einem Tempel für die Rekrutierung von Skeletten.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

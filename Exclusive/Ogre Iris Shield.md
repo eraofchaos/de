@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Irisschild"
+title: "Exklusiv - Irisschild (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Oger Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Ogre Irisschild.md"
 toc: false

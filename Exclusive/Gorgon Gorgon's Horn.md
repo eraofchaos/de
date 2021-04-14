@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Gorgonenhorn"
+title: "Exklusiv - Gorgonenhorn (Gorgon)"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Gorgonenhorn. Gorgonenhorn. Era of Chaos Exklusiv Gorgonenhorn. Gorgone Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Gorgon Gorgonenhorn.md"
 toc: false

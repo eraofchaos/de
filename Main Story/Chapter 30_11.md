@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-11 Langbeiniges Zelt"
 permalink: /Main Story/Chapter 30_11/
-excerpt: " - 11. Era of Chaos  Hauptstory - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 11. Era of Chaos  Hauptstory - Kapitel 30_11. 30-11 Langbeiniges Zelt"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-11 Langbeiniges Zelt
 
- **Beschreibung:** 
+ **Beschreibung:** Dämonen bilden das Rückgrat der Inferno-Truppen. Mit ihren dicken Häuten und den scharfen Hörnern, die aus ihren Köpfen wachsen, sind sie am besten dafür geeignet, durch feindliche Linien vorzustoßen.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

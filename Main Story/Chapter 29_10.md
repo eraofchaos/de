@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-10 Die Stadt namens Glück"
 permalink: /Main Story/Chapter 29_10/
-excerpt: " - 10. Era of Chaos  Hauptstory - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 10. Era of Chaos  Hauptstory - Kapitel 29_10. 29-10 Die Stadt namens Glück"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-10 Die Stadt namens Glück
 
- **Beschreibung:** 
+ **Beschreibung:** Diese Schutzwall-Stadt namens Glück scheint genug Glück gehabt zu haben, um den Schatten des Krieges unbeschadet entkommen zu können.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/de/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

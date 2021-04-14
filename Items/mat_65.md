@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythische Edelsteine"
 permalink: /Items/mat_65/
 excerpt: "Era of Chaos  Mythische Edelsteine"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "mat_65.md"
 toc: false

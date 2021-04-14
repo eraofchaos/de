@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Hydrakopf"
+title: "Exklusiv - Hydrakopf (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Hydrakopf. Hydrakopf. Era of Chaos Exklusiv Hydrakopf. Hydra Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Hydra Hydrakopf.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-13 Söldner-Ausbildungslager"
 permalink: /Main Story/Chapter 29_13/
-excerpt: " - 13. Era of Chaos  Hauptstory - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 13. Era of Chaos  Hauptstory - Kapitel 29_13. 29-13 Söldner-Ausbildungslager"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-13 Söldner-Ausbildungslager
 
- **Beschreibung:** 
+ **Beschreibung:** Ihr seid an ein Söldner-Ausbildungslager gekommen, doch die Lehrmeisterin ist verschwunden. Das bedeutet natürlich, dass Ihr keine neuen Kampffähigkeiten erlernen könnt.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

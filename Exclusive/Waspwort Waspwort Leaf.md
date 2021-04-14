@@ -1,8 +1,8 @@
 ---
-title: "Exklusiv - Wespenwurzblatt"
+title: "Exklusiv - Wespenwurzblatt (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Wespenwurzblatt. Wespenwurzblatt. Era of Chaos Exklusiv Wespenwurzblatt. Wespenwurz Exklusiv."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "Waspwort Wespenwurzblatt.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | ? | <Giftiges Blatt> Wenn verbündete beschworene Kreaturen sterben, benutzt Wespenwurz Wespenwurzblätter, um feindlichen Einheiten Gift zu injizieren und sie 5 Sek. lang zu lähmen. Gleichzeitig reinigt es auch, um 1 Stapel Buffs zu entfernen. |
   | **4x** <i class="fas fa-star"/> | ? | Erhöht für jede Festungseinheit auf dem Schlachtfeld den eigenen SCHD (Einheit) um 6 %. |
   | **5x** <i class="fas fa-star"/> | ? | Sobald die LP von Wespenwurz unter 33 % fallen, erhöht sich die SCHD-Reduzierung (Einheit) für 7 Sek. um 40 %. Kann nicht gebannt werden. Betäubt zudem gegnerische Einheiten in einem kleinen Radius für 5 Sek. |
-  | **6x** <i class="fas fa-star"/> | ? | <Giftige Korrosion> Wenn Wespenwurz einen Krit. Treffer landet, besteht eine Chance von 20 %, zusätzlich 40 % Schaden zu verursachen und die SCHD-Reduzierung (Einheit) um 7 % und den Schildwert für 8 Sek. um 70 zu verringern. Bis zu 3 Mal stapelbar. |
+  | **6x** <i class="fas fa-star"/> | ? | <Giftige Korrosion> Wenn Wespenwurz einen Krit. Treffer landet, besteht eine Chance von 20 %, zusätzlich 40 % Schaden zu verursachen und die SCHD-Reduzierung (Einheit) um 7 % und den Blockwert für 8 Sek. um 70 zu verringern. Bis zu 3 Mal stapelbar. |
 
 
 ## Stufenaufst.

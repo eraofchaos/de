@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-9 Zentaurenherausforderung"
 permalink: /Main Story/Chapter 17_9/
 excerpt: "Kapitel 17 - 9. Era of Chaos  Hauptstory - Kapitel 17_9. 17-9 Zentaurenherausforderung"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 17_9.md"
 toc: false

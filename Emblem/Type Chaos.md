@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Chaos"
 permalink: /Emblem/Type Chaos/
 excerpt: "Era of Chaos Heiliges Emblem. Heiliges Emblem. Era of Chaos Heiliges Emblem Chaos. Era of Chaos Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: de
 ref: "typeChaos.md"
 toc: false

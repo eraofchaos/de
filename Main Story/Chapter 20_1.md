@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-1 Unsterblichkeit"
 permalink: /Main Story/Chapter 20_1/
 excerpt: "Kapitel 20 - 1. Era of Chaos  Hauptstory - Kapitel 20_1. 20-1 Unsterblichkeit"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 20_1.md"
 toc: false

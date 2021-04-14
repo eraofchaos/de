@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-3 Speisen der Wandelnden Toten"
 permalink: /Main Story/Chapter 17_3/
 excerpt: "Kapitel 17 - 3. Era of Chaos  Hauptstory - Kapitel 17_3. 17-3 Speisen der Wandelnden Toten"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 17_3.md"
 toc: false

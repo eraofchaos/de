@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-12 Absoluter Krieg"
 permalink: /Main Story/Chapter 5_12/
 excerpt: "Kapitel 5 - 12. Era of Chaos  Hauptstory - Kapitel 5_12. 5-12 Absoluter Krieg"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 5_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-11 Grüne Haut"
 permalink: /Main Story/Chapter 21_11/
 excerpt: "Kapitel 21 - 11. Era of Chaos  Hauptstory - Kapitel 21_11. 21-11 Grüne Haut"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 21_11.md"
 toc: false

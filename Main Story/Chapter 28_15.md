@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-15 Sonnenuntergangsstadt"
 permalink: /Main Story/Chapter 28_15/
-excerpt: " - 15. Era of Chaos  Hauptstory - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 15. Era of Chaos  Hauptstory - Kapitel 28_15. 28-15 Sonnenuntergangsstadt"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-15 Sonnenuntergangsstadt
 
- **Beschreibung:** 
+ **Beschreibung:** Die Grautöne erinnern an einen Drachen in hohem Alter – mächtig, aber zugleich dem Abstieg geweiht.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/de/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-11 Massengrab"
 permalink: /Main Story/Chapter 28_11/
-excerpt: " - 11. Era of Chaos  Hauptstory - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 11. Era of Chaos  Hauptstory - Kapitel 28_11. 28-11 Massengrab"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-11 Massengrab
 
- **Beschreibung:** 
+ **Beschreibung:** Die Reise führt an einem Massengrab vorbei, in dem die Leichen mit einem bösen Zauber belegt sind. Wenn die Lebenden vorbeilaufen, steigen die Skelette aus ihrer Ruhestätte.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

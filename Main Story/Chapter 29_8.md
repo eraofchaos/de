@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 29 - 29-8 Das verwelkte Waldland"
 permalink: /Main Story/Chapter 29_8/
-excerpt: " - 8. Era of Chaos  Hauptstory - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 29 - 8. Era of Chaos  Hauptstory - Kapitel 29_8. 29-8 Das verwelkte Waldland"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 29_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 29-8 Das verwelkte Waldland
 
- **Beschreibung:** 
+ **Beschreibung:** Einige Bäume ziehen ihre Wurzeln aus der Erde heraus, um laufen zu können, und greifen mit ihren riesigen, schwingenden Ästen an.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 29/)
+ **Related to:** [Hauptstory Kapitel 29](/de/Main Story/Chapter 29/)
 
 ## Beutebelohnung
 

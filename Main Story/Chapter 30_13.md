@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-13 Von der Lava versengte Erde"
 permalink: /Main Story/Chapter 30_13/
-excerpt: " - 13. Era of Chaos  Hauptstory - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 13. Era of Chaos  Hauptstory - Kapitel 30_13. 30-13 Von der Lava versengte Erde"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-13 Von der Lava versengte Erde
 
- **Beschreibung:** 
+ **Beschreibung:** Ein strenger Schwefelgestank dringt aus der versengten Erde in der Nähe der Lava. Der verbrennende Schwefel lässt eine grünliche Flamme entstehen und verbreitet einen stechenden Geruch.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

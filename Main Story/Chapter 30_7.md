@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-7 Schwefelminen"
 permalink: /Main Story/Chapter 30_7/
-excerpt: " - 7. Era of Chaos  Hauptstory - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 7. Era of Chaos  Hauptstory - Kapitel 30_7. 30-7 Schwefelminen"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-7 Schwefelminen
 
- **Beschreibung:** 
+ **Beschreibung:** Schwefel ist in der Nähe des Magmas eher im Überfluss vorhanden, doch dieser Ort wird im Moment von den Inferno-Truppen bewacht.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

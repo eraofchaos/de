@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-9 Jagd auf die Mantikore"
 permalink: /Main Story/Chapter 28_9/
-excerpt: " - 9. Era of Chaos  Hauptstory - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 9. Era of Chaos  Hauptstory - Kapitel 28_9. 28-9 Jagd auf die Mantikore"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-9 Jagd auf die Mantikore
 
- **Beschreibung:** 
+ **Beschreibung:** Brandpfeile erweisen sich als auf wundersame Weise wirksam gegen Mantikore, besonders was ihre mit Stroh gefüllten Nester angeht.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

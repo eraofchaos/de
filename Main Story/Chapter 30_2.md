@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-2 Verfallene Hütte"
 permalink: /Main Story/Chapter 30_2/
-excerpt: " - 2. Era of Chaos  Hauptstory - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 2. Era of Chaos  Hauptstory - Kapitel 30_2. 30-2 Verfallene Hütte"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-2 Verfallene Hütte
 
- **Beschreibung:** 
+ **Beschreibung:** Eine Gruppe von Dämonen plündert die Heimat der glücklichen Elfen. Diese einst gemütliche Hütte ist nur noch eine Ruine.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 

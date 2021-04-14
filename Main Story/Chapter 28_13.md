@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 28 - 28-13 Werkstatt"
 permalink: /Main Story/Chapter 28_13/
-excerpt: " - 13. Era of Chaos  Hauptstory - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 28 - 13. Era of Chaos  Hauptstory - Kapitel 28_13. 28-13 Werkstatt"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 28_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 28-13 Werkstatt
 
- **Beschreibung:** 
+ **Beschreibung:** Die Zwerge sind als Handwerker bekannt. Die Magier aus dem Magierturm kamen oft hierher, um Eisengolem-Marionetten zu bestellen. Einige Eisengolems sind noch hier und wachen über ihr Territorium.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 28/)
+ **Related to:** [Hauptstory Kapitel 28](/de/Main Story/Chapter 28/)
 
 ## Beutebelohnung
 

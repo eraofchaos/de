@@ -1,8 +1,8 @@
 ---
-title: "Hauptstory -  - "
+title: "Hauptstory - Kapitel 30 - 30-1 Magische Quelle"
 permalink: /Main Story/Chapter 30_1/
-excerpt: " - 1. Era of Chaos  Hauptstory - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Kapitel 30 - 1. Era of Chaos  Hauptstory - Kapitel 30_1. 30-1 Magische Quelle"
+last_modified_at: 2021-04-14
 locale: de
 ref: "Chapter 30_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Details
 
- **Name:** 
+ **Name:** 30-1 Magische Quelle
 
- **Beschreibung:** 
+ **Beschreibung:** Als sie die Quelle sehen, überkommt die Truppen der Durst, doch jetzt müssen sie sich um die Höllenhunde kümmern, die in dem Gebiet patrouillieren.
 
- **Related to:** [Hauptstory ](/de/Main Story/Chapter 30/)
+ **Related to:** [Hauptstory Kapitel 30](/de/Main Story/Chapter 30/)
 
 ## Beutebelohnung
 
