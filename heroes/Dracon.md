@@ -3,6 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon wird von vielen seiner Ältesten als magisches Wunderkind betrachtet. Sein Lebensziel ist es, der mächtigste Drachentöter der Welt zu werden."
 heroID: 61202
+QR: hero_61202
 last_modified_at: 2021-04-14
 locale: de
 ref: "Dracon"

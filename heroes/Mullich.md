@@ -3,6 +3,7 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Sir Mullichs Truppen sind bekannt für ihre Geschwindigkeit, und Mullich selbst für seine Selbstkontrolle und Disziplin. Er unterzieht seine Truppen einer Spezialausbildung, um sie schneller zu machen."
 heroID: 60101
+QR: hero_60101
 last_modified_at: 2021-04-14
 locale: de
 ref: "Mullich"

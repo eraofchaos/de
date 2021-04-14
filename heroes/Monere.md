@@ -3,6 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere wurde mit der Fähigkeit geboren, Psy- und Magie-Elementare zu kontrollieren. Er ist ein bedeutender General der Elementare."
 heroID: 60702
+QR: hero_60702
 last_modified_at: 2021-04-14
 locale: de
 ref: "Monere"

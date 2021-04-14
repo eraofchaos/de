@@ -6,6 +6,7 @@ last_modified_at: 2021-04-14
 locale: de
 ref: "Adjutants.md"
 toc: false
+QR: adheroes
 classes: wide
 ---
  Zum Freischalten Held auf 4 Sterne aufwerten.

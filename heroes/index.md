@@ -5,6 +5,7 @@ excerpt: "List of ALL Heroes in Era of Chaos"
 last_modified_at: 2021-04-14
 locale: de
 ref: "index.md"
+QR: heroes
 toc: false
 classes: wide
 ---
@@ -37,7 +38,7 @@ classes: wide
   | 25 | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | **SR** |  Psy-Elementar | R |
   | 26 | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | **R** |  Sturmangriff | R+ |
   | 27 | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | **R** |  Dungeon-Flut | R |
-  | 28 | [Nymus](/de/heroes/Nymus/) | Inferno | Dämoniker | **SR** |  Inferno-Phantoms | R |
+  | 28 | [Nymus](/de/heroes/Nymus/) | Inferno | Dämoniker | **SR** |  Inferno-Phantoms | R+ |
   | 29 | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | **SR+** |  Segel setzen | R+ |
   | 30 | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | **SR** |  Feuer-Lord | R |
   | 31 | [Roland](/de/heroes/Roland/) | Schloss | Ritter | **SSR** |  Erhöhte Moral | SR+ |
