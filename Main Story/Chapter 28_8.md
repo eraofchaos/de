@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-8 Große Felsmasse"
 permalink: /Main Story/Chapter 28_8/
 excerpt: "Kapitel 28 - 8. Era of Chaos  Hauptstory - Kapitel 28_8. 28-8 Große Felsmasse"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 28_8.md"
 toc: false

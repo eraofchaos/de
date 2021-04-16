@@ -4,11 +4,13 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Drache Mutare. Drache Mutare. Nachdem sie aus der Drachenblutphiole getrunken hatte, wurde Mutare zu einem Drachen mit einem menschlichen Bewusstsein. Manche glauben, dass ihre Verwandlung die Ankunft des Drachenvaters ankündigt."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Dragon Mutare"
 toc: true
 ---
+  ![Drache Mutare](/images/h/h_MutareDrake.jpg)
+
  **Beschreibung:** Nachdem sie aus der Drachenblutphiole getrunken hatte, wurde Mutare zu einem Drachen mit einem menschlichen Bewusstsein. Manche glauben, dass ihre Verwandlung die Ankunft des Drachenvaters ankündigt.
 ## Details
  **Profession:** Overlord

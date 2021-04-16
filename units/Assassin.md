@@ -3,11 +3,13 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Assassine"
 toc: true
 ---
+  ![Assassine](/images/u/ti_cishazhe.jpg)
+
 ## General information
  **Beschreibung:** Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt.
 
@@ -169,6 +171,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

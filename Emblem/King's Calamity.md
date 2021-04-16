@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Misere des Königs"
 permalink: /Emblem/King's Calamity/
 excerpt: "Era of Chaos Misere des Königs. Misere des Königs. Era of Chaos Heiliges Emblem Misere des Königs. Era of Chaos Böse Misere des Königs"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "King's Calamity.md"
 toc: false
+QR: rune_502
 classes: wide
 ---
+
+  ![Misere des Königs](/images/r/rune_icon_502.png)
 
  **Name:** Misere des Königs
 

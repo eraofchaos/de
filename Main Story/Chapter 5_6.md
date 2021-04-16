@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-6 Beidseitig flankiert"
 permalink: /Main Story/Chapter 5_6/
 excerpt: "Kapitel 5 - 6. Era of Chaos  Hauptstory - Kapitel 5_6. 5-6 Beidseitig flankiert"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 5_6.md"
 toc: false

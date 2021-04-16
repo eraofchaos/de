@@ -3,11 +3,13 @@ title: "Nachtmahr"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Nachtmahr"
 toc: true
 ---
+  ![Nachtmahr](/images/u/ti_mengyanshou.jpg)
+
 ## General information
  **Beschreibung:** Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Nachtmahr-König](/images/u/tia_mengyanshou.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

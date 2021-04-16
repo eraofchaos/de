@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-7 Siegeshaltung"
 permalink: /Main Story/Chapter 9_7/
 excerpt: "Kapitel 9 - 7. Era of Chaos  Hauptstory - Kapitel 9_7. 9-7 Siegeshaltung"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 9_7.md"
 toc: false

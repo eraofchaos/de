@@ -2,7 +2,7 @@
 title: "Kampfformation Schutzwall"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "Kampfformation Schutzwall"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "BattleFormationFactionRampart"
 toc: false

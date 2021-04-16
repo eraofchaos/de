@@ -4,11 +4,13 @@ permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar widmete den Großteil seines Lebens der Verbesserung seiner Zauber und wurde ein mächtiger Zauberer, bevor er die Anführerrolle auf dem Schlachtfeld ergriff. Er ist verlässlicher als seine dämonischen Verwandten."
 heroID: 60901
 QR: hero_60901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Zydar"
 toc: true
 ---
+  ![Zydar](/images/h/h_Zydar.jpg)
+
  **Beschreibung:** Zydar widmete den Großteil seines Lebens der Verbesserung seiner Zauber und wurde ein mächtiger Zauberer, bevor er die Anführerrolle auf dem Schlachtfeld ergriff. Er ist verlässlicher als seine dämonischen Verwandten.
 ## Details
  **Profession:** Ketzer

@@ -3,11 +3,13 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Gog"
 toc: true
 ---
+  ![Gog](/images/u/ti_touhuoguai.jpg)
+
 ## General information
  **Beschreibung:** Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Magog](/images/u/tia_touhuoguai.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

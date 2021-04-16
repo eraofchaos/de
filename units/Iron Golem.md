@@ -3,11 +3,13 @@ title: "Eisengolem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Eisengolem"
 toc: true
 ---
+  ![Eisengolem](/images/u/ti_tieren.jpg)
+
 ## General information
  **Beschreibung:** Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Goldgolem](/images/u/tia_tieren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

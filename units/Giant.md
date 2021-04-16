@@ -3,11 +3,13 @@ title: "Gigant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Gigant"
 toc: true
 ---
+  ![Gigant](/images/u/ti_taitan.jpg)
+
 ## General information
  **Beschreibung:** Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Titan](/images/u/tia_taitan.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

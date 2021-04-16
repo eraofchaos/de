@@ -2,13 +2,15 @@
 title: "Adjutant Drache Mutare"
 permalink: /heroes/Adjutant Dragon Mutare/
 excerpt: "Era of Chaos  Adjutant Drache Mutare"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Adjutant Dragon Mutare.md"
 QR: adhero_61302
 toc: false
 classes: wide
 ---
+  ![Drache Mutare](/images/h/h_MutareDrake.jpg)
+
  [List of ALL Adjutants](/de/heroes/Adjutants/) 
 
 ## Details

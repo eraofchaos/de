@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 8 Wilde Gedanken"
 permalink: /Underground/Chapter 8/
 excerpt: "Kapitel 8 Wilde Gedanken. Era of Chaos  Untergrund - Kapitel 8. Wilde Gedanken"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 8.md"
 toc: false

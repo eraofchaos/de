@@ -2,13 +2,15 @@
 title: "Adjutant Zydar"
 permalink: /heroes/Adjutant Zydar/
 excerpt: "Era of Chaos  Adjutant Zydar"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Adjutant Zydar.md"
 QR: adhero_60901
 toc: false
 classes: wide
 ---
+  ![Zydar](/images/h/h_Zydar.jpg)
+
  [List of ALL Adjutants](/de/heroes/Adjutants/) 
 
 ## Details

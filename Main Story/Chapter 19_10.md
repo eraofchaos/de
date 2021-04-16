@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-10 Erinnerungsmagie"
 permalink: /Main Story/Chapter 19_10/
 excerpt: "Kapitel 19 - 10. Era of Chaos  Hauptstory - Kapitel 19_10. 19-10 Erinnerungsmagie"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 19_10.md"
 toc: false

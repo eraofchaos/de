@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-14 Spuren der Untoten"
 permalink: /Main Story/Chapter 12_14/
 excerpt: "Kapitel 12 - 14. Era of Chaos  Hauptstory - Kapitel 12_14. 12-14 Spuren der Untoten"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 12_14.md"
 toc: false

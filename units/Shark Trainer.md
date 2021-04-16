@@ -3,13 +3,15 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Hai-Ausbilder](/images/u/ti_xunshashi.jpg)
 
 ## General information
  **Beschreibung:** Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht.
@@ -216,6 +218,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Hai-Reiter](/images/u/tia_xunshashi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

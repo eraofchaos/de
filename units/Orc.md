@@ -3,11 +3,13 @@ title: "Ork"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Ork"
 toc: true
 ---
+  ![Ork](/images/u/ti_shourentoufushou.jpg)
+
 ## General information
  **Beschreibung:** Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ork-Kommandant](/images/u/tia_banshouren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

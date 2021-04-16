@@ -2,7 +2,7 @@
 title: "Rankenrüstung"
 permalink: /equipment/Vine's Armor/
 excerpt: "Era of Chaos Rankenrüstung. Rankenrüstung"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Vine's Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-4 Traumvision"
 permalink: /Main Story/Chapter 24_4/
 excerpt: "Kapitel 24 - 4. Era of Chaos  Hauptstory - Kapitel 24_4. 24-4 Traumvision"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 24_4.md"
 toc: false

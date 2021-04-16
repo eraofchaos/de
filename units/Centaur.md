@@ -3,11 +3,13 @@ title: "Zentaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Zentaur"
 toc: true
 ---
+  ![Zentaur](/images/u/ti_banrenma.jpg)
+
 ## General information
  **Beschreibung:** Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zentaurenführer](/images/u/tia_banrenma.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 27 - 27-1 Makrobe"
 permalink: /Underground/Chapter 27_1/
 excerpt: "Kapitel 27 - 1. Era of Chaos  Untergrund - Kapitel 27_1. 27-1 Makrobe"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 27_1.md"
 toc: false

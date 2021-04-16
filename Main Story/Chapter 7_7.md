@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-7 Erheben"
 permalink: /Main Story/Chapter 7_7/
 excerpt: "Kapitel 7 - 7. Era of Chaos  Hauptstory - Kapitel 7_7. 7-7 Erheben"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 7_7.md"
 toc: false

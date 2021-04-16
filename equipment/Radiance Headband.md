@@ -2,7 +2,7 @@
 title: "Strahlendes Stirnband"
 permalink: /equipment/Radiance Headband/
 excerpt: "Era of Chaos Strahlendes Stirnband. Strahlendes Stirnband"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Radiance Headband.md"
 toc: false

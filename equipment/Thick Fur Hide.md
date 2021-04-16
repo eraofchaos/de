@@ -2,7 +2,7 @@
 title: "Dichter Fellbewuchs"
 permalink: /equipment/Thick Fur Hide/
 excerpt: "Era of Chaos Dichter Fellbewuchs. Dichter Fellbewuchs"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Thick Fur Hide.md"
 toc: false

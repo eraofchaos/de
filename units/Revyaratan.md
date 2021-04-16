@@ -3,11 +3,13 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Revyaratan"
 toc: true
 ---
+  ![Revyaratan](/images/u/ti_haiguai.jpg)
+
 ## General information
  **Beschreibung:** Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen.
 
@@ -184,6 +186,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Uraltes Seemonster](/images/u/tia_haiguai.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

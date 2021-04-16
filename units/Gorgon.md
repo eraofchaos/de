@@ -3,11 +3,13 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Gorgone"
 toc: true
 ---
+  ![Gorgone](/images/u/ti_manniu.jpg)
+
 ## General information
  **Beschreibung:** Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr.
 
@@ -188,6 +190,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Mächtige Gorgone](/images/u/tia_manniu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Rechtsprinzip der Erben"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Era of Chaos Rechtsprinzip der Erben. Rechtsprinzip der Erben. Era of Chaos Heiliges Emblem Rechtsprinzip der Erben. Era of Chaos Neutral Rechtsprinzip der Erben"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Successors' Legal Principles.md"
 toc: false
+QR: rune_306
 classes: wide
 ---
+
+  ![Rechtsprinzip der Erben](/images/r/rune_icon_306.png)
 
  **Name:** Rechtsprinzip der Erben
 

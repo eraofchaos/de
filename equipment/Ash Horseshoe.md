@@ -2,7 +2,7 @@
 title: "Asche-Hufeisen"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Era of Chaos Asche-Hufeisen. Asche-Hufeisen"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Ash Horseshoe.md"
 toc: false

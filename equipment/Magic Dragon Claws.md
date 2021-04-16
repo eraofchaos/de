@@ -2,7 +2,7 @@
 title: "Magische Drachenklauen"
 permalink: /equipment/Magic Dragon Claws/
 excerpt: "Era of Chaos Magische Drachenklauen. Magische Drachenklauen"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Magic Dragon Claws.md"
 toc: false

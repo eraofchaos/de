@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-8 Der Magierturm"
 permalink: /Main Story/Chapter 19_8/
 excerpt: "Kapitel 19 - 8. Era of Chaos  Hauptstory - Kapitel 19_8. 19-8 Der Magierturm"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 19_8.md"
 toc: false

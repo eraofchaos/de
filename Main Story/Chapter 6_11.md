@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-11 Für die Stadt kämpfen"
 permalink: /Main Story/Chapter 6_11/
 excerpt: "Kapitel 6 - 11. Era of Chaos  Hauptstory - Kapitel 6_11. 6-11 Für die Stadt kämpfen"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 6_11.md"
 toc: false

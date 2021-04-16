@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-3 Im Sinkflug"
 permalink: /Main Story/Chapter 28_3/
 excerpt: "Kapitel 28 - 3. Era of Chaos  Hauptstory - Kapitel 28_3. 28-3 Im Sinkflug"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 28_3.md"
 toc: false

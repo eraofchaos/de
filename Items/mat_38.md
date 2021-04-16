@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragender Kristall"
 permalink: /Items/mat_38/
 excerpt: "Era of Chaos  Überragender Kristall"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "mat_38.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Magisches Luftschiff"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Magisches Luftschiff"
 toc: true
 ---
+  ![Magisches Luftschiff](/images/u/ti_reqiqiu.jpg)
+
 ## General information
  **Beschreibung:** Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen.
 
@@ -176,6 +178,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

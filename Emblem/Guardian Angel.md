@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Schutzengel"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Era of Chaos Schutzengel. Schutzengel. Era of Chaos Heiliges Emblem Schutzengel. Era of Chaos Gut Schutzengel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Guardian Angel.md"
 toc: false
+QR: rune_203
 classes: wide
 ---
+
+  ![Schutzengel](/images/r/rune_icon_203.png)
 
  **Name:** Schutzengel
 

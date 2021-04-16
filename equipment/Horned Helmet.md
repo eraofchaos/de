@@ -2,7 +2,7 @@
 title: "Hörnerhelm"
 permalink: /equipment/Horned Helmet/
 excerpt: "Era of Chaos Hörnerhelm. Hörnerhelm"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Horned Helmet.md"
 toc: false

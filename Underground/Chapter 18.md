@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 18 Geschäft mit dem Teufel"
 permalink: /Underground/Chapter 18/
 excerpt: "Kapitel 18 Geschäft mit dem Teufel. Era of Chaos  Untergrund - Kapitel 18. Geschäft mit dem Teufel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 18.md"
 toc: false

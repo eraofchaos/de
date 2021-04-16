@@ -2,7 +2,7 @@
 title: "Schulterblatt des Hades"
 permalink: /equipment/Hades' Scapula/
 excerpt: "Era of Chaos Schulterblatt des Hades. Schulterblatt des Hades"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Hades' Scapula.md"
 toc: false

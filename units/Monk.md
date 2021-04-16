@@ -3,11 +3,13 @@ title: "Mönch"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Mönch"
 toc: true
 ---
+  ![Mönch](/images/u/ti_senglv.jpg)
+
 ## General information
  **Beschreibung:** Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht.
 
@@ -167,6 +169,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zelot](/images/u/tia_senglv.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

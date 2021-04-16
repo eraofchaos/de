@@ -3,11 +3,13 @@ title: "Drachenschildkröte"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Drachenschildkröte"
 toc: true
 ---
+  ![Drachenschildkröte](/images/u/ti_longgui.jpg)
+
 ## General information
  **Beschreibung:** Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Urzeit-Drachenschildkröte](/images/u/tia_longgui.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

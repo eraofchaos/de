@@ -3,11 +3,13 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern."
 unitID: 506
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Efreet"
 toc: true
 ---
+  ![Efreet](/images/u/ti_liehuojingling.jpg)
+
 ## General information
  **Beschreibung:** Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Efreetsultan](/images/u/tia_liehuojingling.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

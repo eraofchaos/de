@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Segen der Königin"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Era of Chaos Segen der Königin. Segen der Königin. Era of Chaos Heiliges Emblem Segen der Königin. Era of Chaos Rechtschaffen Segen der Königin"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Queen's Blessing.md"
 toc: false
+QR: rune_105
 classes: wide
 ---
+
+  ![Segen der Königin](/images/r/rune_icon_105.png)
 
  **Name:** Segen der Königin
 

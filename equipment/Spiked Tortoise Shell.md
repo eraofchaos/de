@@ -2,7 +2,7 @@
 title: "Stachliger Schildkrötenpanzer"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Era of Chaos Stachliger Schildkrötenpanzer. Stachliger Schildkrötenpanzer"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Spiked Tortoise Shell.md"
 toc: false

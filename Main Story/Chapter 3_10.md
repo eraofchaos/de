@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-10 Fair Feather"
 permalink: /Main Story/Chapter 3_10/
 excerpt: "Kapitel 3 - 10. Era of Chaos  Hauptstory - Kapitel 3_10. 3-10 Fair Feather"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 3_10.md"
 toc: false

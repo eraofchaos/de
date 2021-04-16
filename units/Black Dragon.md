@@ -3,11 +3,13 @@ title: "Schwarzer Drache"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Schwarzer Drache"
 toc: true
 ---
+  ![Schwarzer Drache](/images/u/ti_heilong.jpg)
+
 ## General information
  **Beschreibung:** Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Schwarzer Drachenkönig](/images/u/tia_heilong.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

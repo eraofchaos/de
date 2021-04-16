@@ -3,11 +3,13 @@ title: "Troglodyt"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Troglodyt"
 toc: true
 ---
+  ![Troglodyt](/images/u/ti_dongxueren.jpg)
+
 ## General information
  **Beschreibung:** Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Dunkler Troglodyt](/images/u/tia_dongxueren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

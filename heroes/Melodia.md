@@ -4,11 +4,13 @@ permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Melodia. Melodia. Melodia ist eine glückliche Druidin. Sie kann selbst dann noch Wunder wirken, wenn die Lage aussichtslos erscheint. Jede Truppe kann sich glücklich schätzen, sie zur Anführerin zu haben."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Melodia"
 toc: true
 ---
+  ![Melodia](/images/h/h_Melodia.jpg)
+
  **Beschreibung:** Melodia ist eine glückliche Druidin. Sie kann selbst dann noch Wunder wirken, wenn die Lage aussichtslos erscheint. Jede Truppe kann sich glücklich schätzen, sie zur Anführerin zu haben.
 ## Details
  **Profession:** Druidin

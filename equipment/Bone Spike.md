@@ -2,7 +2,7 @@
 title: "Knochenstachel"
 permalink: /equipment/Bone Spike/
 excerpt: "Era of Chaos Knochenstachel. Knochenstachel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Bone Spike.md"
 toc: false

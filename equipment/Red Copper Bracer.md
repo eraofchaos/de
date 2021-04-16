@@ -2,7 +2,7 @@
 title: "Roter Kupferarmschutz"
 permalink: /equipment/Red Copper Bracer/
 excerpt: "Era of Chaos Roter Kupferarmschutz. Roter Kupferarmschutz"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Red Copper Bracer.md"
 toc: false

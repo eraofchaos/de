@@ -3,11 +3,13 @@ title: "Psy-Elementar"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Psy-Elementar"
 toc: true
 ---
+  ![Psy-Elementar](/images/u/ti_jingshenyuansu.jpg)
+
 ## General information
  **Beschreibung:** Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Magie-Elementar](/images/u/tia_jingshenyuansu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

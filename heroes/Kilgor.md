@@ -4,11 +4,13 @@ permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. Kilgor besiegte in jungem Alter seinen Vater, um Klanhäuptling zu werden. Sein Ruhm hat sich seither in ganz Krewlod verbreitet. Viele glauben, dass er der einzige Krieger ist, der das Fest des Lebens dieser Generation gewinnen kann."
 heroID: 60601
 QR: hero_60601
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Kilgor"
 toc: true
 ---
+  ![Kilgor](/images/h/h_Kilgor.jpg)
+
  **Beschreibung:** Kilgor besiegte in jungem Alter seinen Vater, um Klanhäuptling zu werden. Sein Ruhm hat sich seither in ganz Krewlod verbreitet. Viele glauben, dass er der einzige Krieger ist, der das Fest des Lebens dieser Generation gewinnen kann.
 ## Details
  **Profession:** Barbar

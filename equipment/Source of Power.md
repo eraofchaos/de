@@ -2,7 +2,7 @@
 title: "Quelle der Kraft"
 permalink: /equipment/Source of Power/
 excerpt: "Era of Chaos Quelle der Kraft. Quelle der Kraft"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Source of Power.md"
 toc: false

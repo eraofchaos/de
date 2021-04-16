@@ -2,7 +2,7 @@
 title: "Dämonische Flügel"
 permalink: /equipment/Demonic Wings/
 excerpt: "Era of Chaos Dämonische Flügel. Dämonische Flügel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Demonic Wings.md"
 toc: false

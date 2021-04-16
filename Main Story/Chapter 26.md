@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 Die Führung ausbauen"
 permalink: /Main Story/Chapter 26/
 excerpt: "Kapitel 26. Era of Chaos  Hauptstory - Kapitel 26. Die Führung ausbauen"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 26.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** Einheiten-ERF
+ Reward 4:  **50000x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **80000x** Einheiten-ERF
+ Reward 4:  **80000x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **500000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** Einheiten-ERF
+ Reward 4:  **100000x** [Einheiten-ERF](/de/Items/con_902/)
 

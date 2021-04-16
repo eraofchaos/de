@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Habgier"
 permalink: /Emblem/Greed/
 excerpt: "Era of Chaos Habgier. Habgier. Era of Chaos Heiliges Emblem Habgier. Era of Chaos Chaos Habgier"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Greed.md"
 toc: false
+QR: rune_404
 classes: wide
 ---
+
+  ![Habgier](/images/r/rune_icon_404.png)
 
  **Name:** Habgier
 

@@ -4,11 +4,13 @@ permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Ciele gehörte zu den ersten Helden, die sich den Elementaren anschlossen, und ist eine stets siegreiche Generalin auf dem Schlachtfeld. Sie entdeckte die Verbindung unter den Magie-Elementaren mit ihren magischen Pfeilen."
 heroID: 60705
 QR: hero_60705
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Ciele"
 toc: true
 ---
+  ![Ciele](/images/h/h_Ciele.jpg)
+
  **Beschreibung:** Ciele gehörte zu den ersten Helden, die sich den Elementaren anschlossen, und ist eine stets siegreiche Generalin auf dem Schlachtfeld. Sie entdeckte die Verbindung unter den Magie-Elementaren mit ihren magischen Pfeilen.
 ## Details
  **Profession:** Elementarist

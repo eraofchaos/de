@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Kern des weltweiten Netzwerks"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "Era of Chaos Kern des weltweiten Netzwerks. Kern des weltweiten Netzwerks. Era of Chaos Heiliges Emblem Kern des weltweiten Netzwerks. Era of Chaos Neutral Kern des weltweiten Netzwerks"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Core of the Global Network.md"
 toc: false
+QR: rune_304
 classes: wide
 ---
+
+  ![Kern des weltweiten Netzwerks](/images/r/rune_icon_304.png)
 
  **Name:** Kern des weltweiten Netzwerks
 

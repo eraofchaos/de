@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-2 Entkommen beim Drachentor"
 permalink: /Main Story/Chapter 17_2/
 excerpt: "Kapitel 17 - 2. Era of Chaos  Hauptstory - Kapitel 17_2. 17-2 Entkommen beim Drachentor"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 17_2.md"
 toc: false

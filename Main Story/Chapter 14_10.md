@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-10 Der unsichtbare Drahtzieher"
 permalink: /Main Story/Chapter 14_10/
 excerpt: "Kapitel 14 - 10. Era of Chaos  Hauptstory - Kapitel 14_10. 14-10 Der unsichtbare Drahtzieher"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 14_10.md"
 toc: false

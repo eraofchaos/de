@@ -3,11 +3,13 @@ title: "Sturmelementar"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Sturmelementar"
 toc: true
 ---
+  ![Sturmelementar](/images/u/ti_leiyuansu2.jpg)
+
 ## General information
  **Beschreibung:** Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Blitzgewitter](/images/u/tia_leiyuansu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

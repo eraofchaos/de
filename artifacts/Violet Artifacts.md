@@ -2,7 +2,7 @@
 title: "Violet Artifacts"
 permalink: /artifacts/Violet Artifacts/
 excerpt: "Era of Chaos  List of all Violet Artifacts . Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Violet Artifacts.md"
 toc: false

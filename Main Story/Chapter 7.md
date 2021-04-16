@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 Erathia"
 permalink: /Main Story/Chapter 7/
 excerpt: "Kapitel 7. Era of Chaos  Hauptstory - Kapitel 7. Erathia"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 7.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** Einheiten-ERF
+ Reward 4:  **1500x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** Einheiten-ERF
+ Reward 4:  **2000x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_204
+ Reward 1:  **1x** [Pegasus](/de/units/Pegasus/)
 
  Reward 2: **10 x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **25000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2500x** Einheiten-ERF
+ Reward 4:  **2500x** [Einheiten-ERF](/de/Items/con_902/)
 

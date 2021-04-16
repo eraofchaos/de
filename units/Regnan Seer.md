@@ -3,13 +3,15 @@ title: "Regnanseherin"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen."
 unitID: 9907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Regnanseherin"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Regnanseherin](/images/u/ti_haihou.jpg)
 
 ## General information
  **Beschreibung:** Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen.
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Gezeitenelementar](/images/u/tia_shenv.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

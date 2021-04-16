@@ -3,11 +3,13 @@ title: "Waldelfe"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
 unitID: 203
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Waldelfe"
 toc: true
 ---
+  ![Waldelfe](/images/u/ti_mujingling.jpg)
+
 ## General information
  **Beschreibung:** Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Großelf](/images/u/tia_mujingling.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

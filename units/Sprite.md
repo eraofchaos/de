@@ -3,11 +3,13 @@ title: "Pixie"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Pixie"
 toc: true
 ---
+  ![Pixie](/images/u/ti_mofaxianling.jpg)
+
 ## General information
  **Beschreibung:** Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen.
 
@@ -172,6 +174,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

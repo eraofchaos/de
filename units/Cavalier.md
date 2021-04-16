@@ -3,11 +3,13 @@ title: "Kavallerist"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Kavallerist"
 toc: true
 ---
+  ![Kavallerist](/images/u/ti_qishi.jpg)
+
 ## General information
  **Beschreibung:** Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Heldenhafte Ritter](/images/u/tia_qishi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

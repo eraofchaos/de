@@ -3,11 +3,13 @@ title: "Dschinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Dschinn"
 toc: true
 ---
+  ![Dschinn](/images/u/ti_shenguai.jpg)
+
 ## General information
  **Beschreibung:** Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Meisterdschinn](/images/u/tia_shendeng.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

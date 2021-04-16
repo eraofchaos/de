@@ -3,11 +3,13 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Naga"
 toc: true
 ---
+  ![Naga](/images/u/ti_shenv.jpg)
+
 ## General information
  **Beschreibung:** Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Nagakönigin](/images/u/ti_najia.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

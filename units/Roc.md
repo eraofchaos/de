@@ -3,11 +3,13 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter."
 unitID: 405
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Roc"
 toc: true
 ---
+  ![Roc](/images/u/ti_leiniao.jpg)
+
 ## General information
  **Beschreibung:** Einen Roc sieht man häufig in stürmischen Nächten, wo sie Blitz und Donner begleiten. Viele betrachten ihn als Boten der Götter.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Donnervogel](/images/u/tia_leiniao.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

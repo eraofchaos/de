@@ -3,11 +3,13 @@ title: "Vampir"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Vampir"
 toc: true
 ---
+  ![Vampir](/images/u/ti_xixuegui.jpg)
+
 ## General information
  **Beschreibung:** Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Vampirlord](/images/u/tia_xixuegui.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

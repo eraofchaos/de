@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Hochmut"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Hochmut. Hochmut. Era of Chaos Heiliges Emblem Hochmut. Era of Chaos Chaos Hochmut"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Arrogance.md"
 toc: false
+QR: rune_402
 classes: wide
 ---
+
+  ![Hochmut](/images/r/rune_icon_402.png)
 
  **Name:** Hochmut
 

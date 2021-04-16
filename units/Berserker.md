@@ -3,11 +3,13 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Berserker"
 toc: true
 ---
+  ![Berserker](/images/u/ti_kuangzhanshi.jpg)
+
 ## General information
  **Beschreibung:** Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken.
 
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Todesheuler](/images/u/tia_kuangzhanshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

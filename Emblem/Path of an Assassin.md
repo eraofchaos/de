@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Assassinenweg"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos Assassinenweg. Assassinenweg. Era of Chaos Heiliges Emblem Assassinenweg. Era of Chaos Neutral Assassinenweg"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Path of an Assassin.md"
 toc: false
+QR: rune_307
 classes: wide
 ---
+
+  ![Assassinenweg](/images/r/rune_icon_107.png)
 
  **Name:** Assassinenweg
 

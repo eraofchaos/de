@@ -3,11 +3,13 @@ title: "Eiselementar"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Eiselementar"
 toc: true
 ---
+  ![Eiselementar](/images/u/ti_bingyuansu2.jpg)
+
 ## General information
  **Beschreibung:** Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Stiller Schneegeist](/images/u/tia_bingyuansu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

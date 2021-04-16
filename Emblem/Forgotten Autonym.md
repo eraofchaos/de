@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Vergessenes Autonym"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Era of Chaos Vergessenes Autonym. Vergessenes Autonym. Era of Chaos Heiliges Emblem Vergessenes Autonym. Era of Chaos Böse Vergessenes Autonym"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Forgotten Autonym.md"
 toc: false
+QR: rune_501
 classes: wide
 ---
+
+  ![Vergessenes Autonym](/images/r/rune_icon_501.png)
 
  **Name:** Vergessenes Autonym
 

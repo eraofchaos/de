@@ -3,11 +3,13 @@ title: "Zyklop"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Zyklop"
 toc: true
 ---
+  ![Zyklop](/images/u/ti_duyanjuren.jpg)
+
 ## General information
  **Beschreibung:** Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab.
 
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zyklopenkönig](/images/u/tia_duyanjuren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

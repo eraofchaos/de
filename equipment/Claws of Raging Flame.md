@@ -2,7 +2,7 @@
 title: "Krallen der tosenden Flamme"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "Era of Chaos Krallen der tosenden Flamme. Krallen der tosenden Flamme"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Claws of Raging Flame.md"
 toc: false

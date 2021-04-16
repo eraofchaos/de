@@ -2,7 +2,7 @@
 title: "Artefakt - Armageddonklinge"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Era of Chaos  Armageddonklinge. Armageddonklinge Das kuppelförmige Feuer wird Eure Seele verzehren."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Armageddon's Blade.md"
 toc: false

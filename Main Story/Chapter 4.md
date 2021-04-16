@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 Die Greifenklippe"
 permalink: /Main Story/Chapter 4/
 excerpt: "Kapitel 4. Era of Chaos  Hauptstory - Kapitel 4. Die Greifenklippe"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 4.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** Einheiten-ERF
+ Reward 4:  **1000x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
@@ -48,7 +48,7 @@ classes: wide
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** Einheiten-ERF
+ Reward 4:  **1500x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
@@ -60,5 +60,5 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** Einheiten-ERF
+ Reward 4:  **2000x** [Einheiten-ERF](/de/Items/con_902/)
 

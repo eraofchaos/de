@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltener Kristall +1"
 permalink: /Items/mat_45/
 excerpt: "Era of Chaos  Seltener Kristall +1"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "mat_45.md"
 toc: false

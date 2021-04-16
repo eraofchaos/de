@@ -3,11 +3,13 @@ title: "Schwertkämpfer"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Schwertkämpfer"
 toc: true
 ---
+  ![Schwertkämpfer](/images/u/ti_shizijun.jpg)
+
 ## General information
  **Beschreibung:** Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Kreuzritter](/images/u/tia_shizijun.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

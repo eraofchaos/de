@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Steinschlüssel zu den Toren"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Era of Chaos Steinschlüssel zu den Toren. Steinschlüssel zu den Toren. Era of Chaos Heiliges Emblem Steinschlüssel zu den Toren. Era of Chaos Neutral Steinschlüssel zu den Toren"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Stone Key to the Gates.md"
 toc: false
+QR: rune_302
 classes: wide
 ---
+
+  ![Steinschlüssel zu den Toren](/images/r/rune_icon_302.png)
 
  **Name:** Steinschlüssel zu den Toren
 

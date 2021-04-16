@@ -3,11 +3,13 @@ title: "Wolfsreiter"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
 unitID: 402
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Wolfsreiter"
 toc: true
 ---
+  ![Wolfsreiter](/images/u/ti_langqibing.jpg)
+
 ## General information
  **Beschreibung:** Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen.
 
@@ -183,6 +185,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Wolfskrieger](/images/u/tia_langqibing.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

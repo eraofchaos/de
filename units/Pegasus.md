@@ -3,11 +3,13 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Pegasus"
 toc: true
 ---
+  ![Pegasus](/images/u/ti_feima.jpg)
+
 ## General information
  **Beschreibung:** Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Silberpegasus](/images/u/tia_yinyifeima.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

@@ -3,11 +3,13 @@ title: "Regnanpirat"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Regnanpirat"
 toc: true
 ---
+  ![Regnanpirat](/images/u/ti_haidao.jpg)
+
 ## General information
  **Beschreibung:** Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![König der Piraten](/images/u/tia_haidao.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

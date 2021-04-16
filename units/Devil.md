@@ -3,11 +3,13 @@ title: "Teufel"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
 unitID: 507
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Teufel"
 toc: true
 ---
+  ![Teufel](/images/u/ti_daemo.jpg)
+
 ## General information
  **Beschreibung:** Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Erzteufel](/images/u/tia_daemo.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

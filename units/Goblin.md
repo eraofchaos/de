@@ -3,11 +3,13 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Goblin"
 toc: true
 ---
+  ![Goblin](/images/u/ti_shourenzhanshi.jpg)
+
 ## General information
  **Beschreibung:** Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Hobgoblin](/images/u/tia_shourenzhanshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

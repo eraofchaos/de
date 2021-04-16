@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 12 - 12-5 Der letzte Kampf"
 permalink: /Underground/Chapter 12_5/
 excerpt: "Kapitel 12 - 5. Era of Chaos  Untergrund - Kapitel 12_5. 12-5 Der letzte Kampf"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 12_5.md"
 toc: false

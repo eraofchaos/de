@@ -2,7 +2,7 @@
 title: "Artefakt - Titanendonner - Titanengladius"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Era of Chaos  Titanendonner - Titanengladius. Das Schwert eines uralten Giganten. Eine der Komponenten für den Titanendonner."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Titan's Gladius.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wunderschöne Frauen mit Schlangenkörpern und Schlangenhaaren. Wer in ihre Augen schaut, wird zu Stein."
 unitID: 704
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Medusa"
 toc: true
 ---
+  ![Medusa](/images/u/ti_meidusha.jpg)
+
 ## General information
  **Beschreibung:** Wunderschöne Frauen mit Schlangenkörpern und Schlangenhaaren. Wer in ihre Augen schaut, wird zu Stein.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Medusenkönigin](/images/u/tia_meidusha.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

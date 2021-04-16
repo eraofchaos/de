@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Zeuge"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Zeuge. Zeuge. Era of Chaos Heiliges Emblem Zeuge. Era of Chaos Gut Zeuge"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Witness.md"
 toc: false
+QR: rune_201
 classes: wide
 ---
+
+  ![Zeuge](/images/r/rune_icon_201.png)
 
  **Name:** Zeuge
 

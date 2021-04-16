@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Grüner Prophet"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Grüner Prophet. Grüner Prophet. Era of Chaos Heiliges Emblem Grüner Prophet. Era of Chaos Gut Grüner Prophet"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Green Prophet.md"
 toc: false
+QR: rune_204
 classes: wide
 ---
+
+  ![Grüner Prophet](/images/r/rune_icon_204.png)
 
  **Name:** Grüner Prophet
 

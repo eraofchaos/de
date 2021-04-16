@@ -2,7 +2,7 @@
 title: "Seuchen-Drachenschwanz"
 permalink: /equipment/Plague Dragon Tail/
 excerpt: "Era of Chaos Seuchen-Drachenschwanz. Seuchen-Drachenschwanz"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Plague Dragon Tail.md"
 toc: false

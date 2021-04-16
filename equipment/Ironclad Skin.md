@@ -2,7 +2,7 @@
 title: "Eisenhaut"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Era of Chaos Eisenhaut. Eisenhaut"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Ironclad Skin.md"
 toc: false

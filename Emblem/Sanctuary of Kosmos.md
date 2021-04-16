@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Kosmos-Heiligtum"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Era of Chaos Kosmos-Heiligtum. Kosmos-Heiligtum. Era of Chaos Heiliges Emblem Kosmos-Heiligtum. Era of Chaos Rechtschaffen Kosmos-Heiligtum"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Sanctuary of Kosmos.md"
 toc: false
+QR: rune_107
 classes: wide
 ---
+
+  ![Kosmos-Heiligtum](/images/r/rune_icon_307.png)
 
  **Name:** Kosmos-Heiligtum
 

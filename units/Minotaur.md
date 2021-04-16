@@ -3,11 +3,13 @@ title: "Minotaurus"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Minotaurus"
 toc: true
 ---
+  ![Minotaurus](/images/u/ti_niutouguai.jpg)
+
 ## General information
  **Beschreibung:** Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Minotaurenkönig](/images/u/tia_niutouguai.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

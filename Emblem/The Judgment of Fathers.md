@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Das Urteil der Väter"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Era of Chaos Das Urteil der Väter. Das Urteil der Väter. Era of Chaos Heiliges Emblem Das Urteil der Väter. Era of Chaos Neutral Das Urteil der Väter"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "The Judgment of Fathers.md"
 toc: false
+QR: rune_301
 classes: wide
 ---
+
+  ![Das Urteil der Väter](/images/r/rune_icon_301.png)
 
  **Name:** Das Urteil der Väter
 

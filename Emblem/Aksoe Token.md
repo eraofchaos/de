@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Aksoe-Token"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Era of Chaos Aksoe-Token. Aksoe-Token. Era of Chaos Heiliges Emblem Aksoe-Token. Era of Chaos Neutral Aksoe-Token"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Aksoe Token.md"
 toc: false
+QR: rune_303
 classes: wide
 ---
+
+  ![Aksoe-Token](/images/r/rune_icon_303.png)
 
  **Name:** Aksoe-Token
 

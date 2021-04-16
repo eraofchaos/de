@@ -3,11 +3,13 @@ title: "Druidin"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Druidin"
 toc: true
 ---
+  ![Druidin](/images/u/ti_deluyi.jpg)
+
 ## General information
  **Beschreibung:** Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Erzdruide](/images/u/tia_deluyi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

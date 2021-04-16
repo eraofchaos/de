@@ -3,11 +3,13 @@ title: "Scharfschütze"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Scharfschütze"
 toc: true
 ---
+  ![Scharfschütze](/images/u/ti_nushou.jpg)
+
 ## General information
  **Beschreibung:** Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Meisterbogenschütze](/images/u/tia_nushou.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

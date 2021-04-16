@@ -4,11 +4,13 @@ permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, die einzige bekannte Zauberin Antagarichs soll angeblich die uneheliche Tochter von König Greifenherz sein."
 heroID: 61402
 QR: hero_61402
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Sephinroth"
 toc: true
 ---
+  ![Sephinroth](/images/h/h_Sephinroth.jpg)
+
  **Beschreibung:** Sephinroth, die einzige bekannte Zauberin Antagarichs soll angeblich die uneheliche Tochter von König Greifenherz sein.
 ## Details
  **Profession:** Hexer

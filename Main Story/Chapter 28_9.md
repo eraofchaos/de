@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-9 Jagd auf die Mantikore"
 permalink: /Main Story/Chapter 28_9/
 excerpt: "Kapitel 28 - 9. Era of Chaos  Hauptstory - Kapitel 28_9. 28-9 Jagd auf die Mantikore"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 28_9.md"
 toc: false

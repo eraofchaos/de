@@ -3,13 +3,15 @@ title: "Böse Zauberin"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie war einst die heilige Jungfrau des Tempels Baa. Ihre Haut ist von Natur aus mit Runen bedeckt, die ihr furchterregende Kräfte ähnlich jener von Dämonen verleihen."
 unitID: 709
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Böse Zauberin"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Böse Zauberin](/images/u/ti_xiemonv.jpg)
 
 ## General information
  **Beschreibung:** Sie war einst die heilige Jungfrau des Tempels Baa. Ihre Haut ist von Natur aus mit Runen bedeckt, die ihr furchterregende Kräfte ähnlich jener von Dämonen verleihen.
@@ -186,6 +188,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shixie.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

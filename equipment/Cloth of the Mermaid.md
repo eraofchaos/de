@@ -2,7 +2,7 @@
 title: "Gewand der Meerjungfrau"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "Era of Chaos Gewand der Meerjungfrau. Gewand der Meerjungfrau"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Cloth of the Mermaid.md"
 toc: false

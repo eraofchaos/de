@@ -3,11 +3,13 @@ title: "Spartaner"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Spartaner"
 toc: true
 ---
+  ![Spartaner](/images/u/ti_sibada.jpg)
+
 ## General information
  **Beschreibung:** Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!
 
@@ -167,6 +169,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

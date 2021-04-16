@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Zahnrad der Zeit"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Zahnrad der Zeit. Zahnrad der Zeit. Era of Chaos Heiliges Emblem Zahnrad der Zeit. Era of Chaos Gut Zahnrad der Zeit"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Gear of Time.md"
 toc: false
+QR: rune_205
 classes: wide
 ---
+
+  ![Zahnrad der Zeit](/images/r/rune_icon_205.png)
 
  **Name:** Zahnrad der Zeit
 

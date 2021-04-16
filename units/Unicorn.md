@@ -3,11 +3,13 @@ title: "Einhorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Einhorn"
 toc: true
 ---
+  ![Einhorn](/images/u/ti_dujiaoshou.jpg)
+
 ## General information
  **Beschreibung:** Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Kriegseinhorn](/images/u/tia_dujiaoshou.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

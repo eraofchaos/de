@@ -2,7 +2,7 @@
 title: "Schulterschutz des Imperiums"
 permalink: /equipment/Empire's Pauldrons/
 excerpt: "Era of Chaos Schulterschutz des Imperiums. Schulterschutz des Imperiums"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Empire's Pauldrons.md"
 toc: false

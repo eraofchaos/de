@@ -3,11 +3,13 @@ title: "Geist"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Geist"
 toc: true
 ---
+  ![Geist](/images/u/ti_youling.jpg)
+
 ## General information
  **Beschreibung:** Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Gespenst](/images/u/tia_youling.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Zeitplan"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Zeitplan. Schedule for all near events and shop sales."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "index.md"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 1   | 12 Apr | 15 Apr | Kampagnenfeier | 20 % Rabatt auf das Öffnen von Elfen-Schatztruhen in Kampagnen |  | 
   | 2   | 14 Apr | 16 Apr | Prüfung der Courage | Doppelte ERF in der Krypta. |  | 
   | 3   | 14 Apr | 18 Apr | Anmeldebelohnung | Du kannst spannende Belohnungen gewinnen, wenn du dich während des Ereignisses täglich anmeldest! | [Leprechaun](/de/Items/unt_270/), [Konflux-Kaderrunen](/de/Items/con_791/), [Riesiger ERF-Trank](/de/Items/con_703/),  | 
-  | 4   | 14 Apr | 18 Apr | Anwerbungsbelohnung | Für die Rekrutierung und das Sammeln bestimmter Einheiten während des Ereignisses gibt es zusätzliche Belohnungen. | [Eisdämon](/de/Items/unt_269/), AVATARFRAME1091,  | 
+  | 4   | 14 Apr | 18 Apr | Anwerbungsbelohnung | Für die Rekrutierung und das Sammeln bestimmter Einheiten während des Ereignisses gibt es zusätzliche Belohnungen. | [Eisdämon](/de/Items/unt_269/),  AVATAR_FRAME_1091,  | 
   | 5   | 14 Apr | 18 Apr | Einzelkauf | Wähle eine Belohnung, sobald du die Kaufbedingungen erfüllt hast. | [Void Mithril](/de/Items/con_817/), [„Heiliges Emblem“-Einlöseticket](/de/Items/con_513/), [Elite-Heldenpaket](/de/Items/con_1883/), [Premiumartefakt-​Komponententruhe](/de/Items/con_1874/),  | 
   | 6   | 14 Apr | 18 Apr | Emblemtausch | Tausche während des Ereignisses gegen seltene Heilige Embleme ein! | [Assassinenweg](/de/Emblem/Path of an Assassin/), [Kosmos-Heiligtum](/de/Emblem/Sanctuary of Kosmos/), [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/), [Erleuchtung der Dunkelheit](/de/Emblem/Darkness Enlightenment/), [Zorn](/de/Emblem/Anger/),  | 
   | 7   | 14 Apr | 18 Apr | Exklusive Einlösung | Verbrauche Leeremithril, um während des Ereignisses exklusive Einheitenwaffen einzutauschen! | [Unheilssäbel-Token](/de/Items/con_979/), [Nagaschwert-Token](/de/Items/con_987/), [Skorpionschwanz-Token](/de/Items/con_992/),  | 
@@ -36,7 +36,7 @@ classes: wide
   | 21   | 21 Apr | 25 Apr | Exklusive Einlösung | Verbrauche Leeremithril, um während des Ereignisses exklusive Einheitenwaffen einzutauschen! | [Unheilssäbel-Token](/de/Items/con_979/), [Nagaschwert-Token](/de/Items/con_987/), [Skorpionschwanz-Token](/de/Items/con_992/),  | 
   | 22   | 21 Apr | 25 Apr | Glücksgriff | Beliebte Heilige Embleme sind da. Versuche dein Glück! |  | 
   | 23   | 21 Apr | 25 Apr | Lebensfeier | Tägliche Untergrund-Herausforderungen +1 |  | 
-  | 24   | 22 Apr | 26 Apr | Gildenparty | Mach während des Ereignisses mit bei Gildenaktivitäten, um aufregende Belohnungen zu erhalten! | Gildenmünze, Drachenstahl, [Mittlere energiebindende Phiole](/de/Items/con_725/),  | 
+  | 24   | 22 Apr | 26 Apr | Gildenparty | Mach während des Ereignisses mit bei Gildenaktivitäten, um aufregende Belohnungen zu erhalten! | [Gildenmünze](/de/Items/con_896/), [Drachenstahl](/de/Items/con_880/), [Mittlere energiebindende Phiole](/de/Items/con_725/),  | 
   | 25   | 23 Apr | 25 Apr | Elementarfeier | Verfügbare Herausforderungen der Konflux-Ebene +1 |  | 
   | 26   | 25 Apr | 28 Apr | Goldtausch | Erhalte die doppelte Menge Gold beim Kauf im Handelsposten. |  | 
   | 27   | 25 Apr | 28 Apr | Kompass-Einlösung | Zeitbegrenzte Einlösung exklusiver Gegenstände für Bucht-Einheiten. Verpass nicht diese tollen Belohnungen! | [Zauberhut-Komponententruhe](/de/Items/con_1359/), [Astrosilber](/de/Items/con_969/), [SSR-Einheitenseele](/de/Items/con_535/),  | 
@@ -45,7 +45,7 @@ classes: wide
   | 30   | 26 Apr | 28 Apr | Trainingsfeier | Kasernen-Anfangsproduktion einer R-Einheit +5 |  | 
   | 31   | 26 Apr | 29 Apr | Kampagnenfeier | 20 % Rabatt auf das Öffnen von Elfen-Schatztruhen in Kampagnen |  | 
   | 32   | 28 Apr | 2 May | Anmeldebelohnung | Du kannst spannende Belohnungen gewinnen, wenn du dich während des Ereignisses täglich anmeldest! | [Bucht-Fraktion-Truhe](/de/Items/con_1278/), [Bucht-Kaderrunen](/de/Items/con_868/), [Riesiger ERF-Trank](/de/Items/con_703/),  | 
-  | 33   | 28 Apr | 2 May | Anwerbungsbelohnung | Für die Rekrutierung und das Sammeln bestimmter Einheiten während des Ereignisses gibt es zusätzliche Belohnungen. | [Regnanseherin](/de/Items/unt_279/), AVATARFRAME1082,  | 
+  | 33   | 28 Apr | 2 May | Anwerbungsbelohnung | Für die Rekrutierung und das Sammeln bestimmter Einheiten während des Ereignisses gibt es zusätzliche Belohnungen. | [Regnanseherin](/de/Items/unt_279/),  AVATAR_FRAME_1082,  | 
   | 34   | 28 Apr | 2 May | Einzelkauf | Wähle eine Belohnung, sobald du die Kaufbedingungen erfüllt hast. | [Void Mithril](/de/Items/con_817/), [„Heiliges Emblem“-Einlöseticket](/de/Items/con_513/), [Elite-Heldenpaket](/de/Items/con_1883/), [Premiumartefakt-​Komponententruhe](/de/Items/con_1874/),  | 
   | 35   | 28 Apr | 2 May | Emblemtausch | Tausche während des Ereignisses gegen seltene Heilige Embleme ein! | [Assassinenweg](/de/Emblem/Path of an Assassin/), [Kosmos-Heiligtum](/de/Emblem/Sanctuary of Kosmos/), [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/), [Erleuchtung der Dunkelheit](/de/Emblem/Darkness Enlightenment/), [Zorn](/de/Emblem/Anger/),  | 
   | 36   | 28 Apr | 2 May | Exklusive Einlösung | Verbrauche Leeremithril, um während des Ereignisses exklusive Einheitenwaffen einzutauschen! | [Unheilssäbel-Token](/de/Items/con_979/), [Nagaschwert-Token](/de/Items/con_987/), [Skorpionschwanz-Token](/de/Items/con_992/),  | 

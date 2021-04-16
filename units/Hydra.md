@@ -3,11 +3,13 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Hydra"
 toc: true
 ---
+  ![Hydra](/images/u/ti_duotoulong.jpg)
+
 ## General information
  **Beschreibung:** Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Chaoshydra](/images/u/tia_duotoulong.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

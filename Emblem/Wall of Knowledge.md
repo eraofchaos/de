@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Wall der Weisheit"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Wall der Weisheit. Wall der Weisheit. Era of Chaos Heiliges Emblem Wall der Weisheit. Era of Chaos Gut Wall der Weisheit"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Wall of Knowledge.md"
 toc: false
+QR: rune_202
 classes: wide
 ---
+
+  ![Wall der Weisheit](/images/r/rune_icon_202.png)
 
  **Name:** Wall der Weisheit
 

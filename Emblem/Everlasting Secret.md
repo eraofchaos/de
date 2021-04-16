@@ -2,12 +2,15 @@
 title: "Heiliges Emblem - Immerwährendes Geheimnis"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "Era of Chaos Immerwährendes Geheimnis. Immerwährendes Geheimnis. Era of Chaos Heiliges Emblem Immerwährendes Geheimnis. Era of Chaos Rechtschaffen Immerwährendes Geheimnis"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Everlasting Secret.md"
 toc: false
+QR: rune_104
 classes: wide
 ---
+
+  ![Immerwährendes Geheimnis](/images/r/rune_icon_104.png)
 
  **Name:** Immerwährendes Geheimnis
 

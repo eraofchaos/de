@@ -2,7 +2,7 @@
 title: "Haizügel"
 permalink: /equipment/Shark Reins/
 excerpt: "Era of Chaos Haizügel. Haizügel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Shark Reins.md"
 toc: false

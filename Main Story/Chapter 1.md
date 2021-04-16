@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 Abendgraminsel"
 permalink: /Main Story/Chapter 1/
 excerpt: "Kapitel 1. Era of Chaos  Hauptstory - Kapitel 1. Abendgraminsel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 1.md"
 toc: false
@@ -26,5 +26,5 @@ classes: wide
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** Einheiten-ERF
+ Reward 4:  **1000x** [Einheiten-ERF](/de/Items/con_902/)
 

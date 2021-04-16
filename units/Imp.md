@@ -3,11 +3,13 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Imp"
 toc: true
 ---
+  ![Imp](/images/u/ti_xiaoemo.jpg)
+
 ## General information
  **Beschreibung:** Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Intimus](/images/u/tia_xiaoemo.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

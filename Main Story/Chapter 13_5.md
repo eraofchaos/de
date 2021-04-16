@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-5 Das Nachspiel"
 permalink: /Main Story/Chapter 13_5/
 excerpt: "Kapitel 13 - 5. Era of Chaos  Hauptstory - Kapitel 13_5. 13-5 Das Nachspiel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 13_5.md"
 toc: false

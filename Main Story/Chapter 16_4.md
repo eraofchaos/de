@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-4 Riesenmantel"
 permalink: /Main Story/Chapter 16_4/
 excerpt: "Kapitel 16 - 4. Era of Chaos  Hauptstory - Kapitel 16_4. 16-4 Riesenmantel"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 16_4.md"
 toc: false

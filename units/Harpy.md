@@ -3,11 +3,13 @@ title: "Harpyie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Harpyie"
 toc: true
 ---
+  ![Harpyie](/images/u/ti_yingshenren.jpg)
+
 ## General information
  **Beschreibung:** Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Harpyienhexe](/images/u/tia_yingshenren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

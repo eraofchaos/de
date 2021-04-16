@@ -3,11 +3,13 @@ title: "Echsenmensch"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Echsenmensch"
 toc: true
 ---
+  ![Echsenmensch](/images/u/ti_xiyiren.jpg)
+
 ## General information
  **Beschreibung:** Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen.
 
@@ -177,6 +179,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

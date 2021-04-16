@@ -2,7 +2,7 @@
 title: "Giftdorn"
 permalink: /equipment/Toxic Thorn/
 excerpt: "Era of Chaos Giftdorn. Giftdorn"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Toxic Thorn.md"
 toc: false

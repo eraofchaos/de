@@ -2,7 +2,7 @@
 title: "Seltsames Kristallornament"
 permalink: /equipment/Strange Crystal Ornament/
 excerpt: "Era of Chaos Seltsames Kristallornament. Seltsames Kristallornament"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Strange Crystal Ornament.md"
 toc: false

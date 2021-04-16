@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 Rostdrache"
 permalink: /Main Story/Chapter 23/
 excerpt: "Kapitel 23. Era of Chaos  Hauptstory - Kapitel 23. Rostdrache"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Chapter 23.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** Einheiten-ERF
+ Reward 4:  **5000x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** Einheiten-ERF
+ Reward 4:  **8000x** [Einheiten-ERF](/de/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** Einheiten-ERF
+ Reward 4:  **10000x** [Einheiten-ERF](/de/Items/con_902/)
 

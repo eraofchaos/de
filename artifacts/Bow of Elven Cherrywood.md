@@ -2,7 +2,7 @@
 title: "Artefakt - Bogen des Meisterschützen - Bogen aus Elfenkirschholz"
 permalink: /artifacts/Bow of Elven Cherrywood/
 excerpt: "Era of Chaos  Bogen des Meisterschützen - Bogen aus Elfenkirschholz. Ein von Elfen aus Holz geschnitzter Langbogen. Eine der Komponenten für den Bogen des Meisterschützen."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Bow of Elven Cherrywood.md"
 toc: false

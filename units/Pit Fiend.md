@@ -3,11 +3,13 @@ title: "Grottenteufel"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
 unitID: 505
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: de
 ref: "Grottenteufel"
 toc: true
 ---
+  ![Grottenteufel](/images/u/ti_diyulingzhu.jpg)
+
 ## General information
  **Beschreibung:** Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Foltermeister](/images/u/tia_diyulingzhu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 
