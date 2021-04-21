@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-1 Rote Mühlen"
 permalink: /Main Story/Chapter 2_1/
 excerpt: "Kapitel 2 - 1. Era of Chaos  Hauptstory - Kapitel 2_1. 2-1 Rote Mühlen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 2_1.md"
 toc: false

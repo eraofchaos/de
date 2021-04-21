@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike (Sprite)"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Pixie Exklusiv."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Sprite Ritterpike.md"
 toc: false

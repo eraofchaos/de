@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-6 Vernichtung"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Kapitel 6 - 6. Era of Chaos  Hauptstory - Kapitel 6_6. 6-6 Vernichtung"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 6_6.md"
 toc: false

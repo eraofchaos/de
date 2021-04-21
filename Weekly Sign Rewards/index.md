@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 18  Infernowoche
+
+  |  Date  |      Reward    |    Reward Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **3 May** | **5x [Imp](/de/Items/unt_226/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **4 May** | **5x [Gog](/de/Items/unt_227/)**  | Ein Trupp von Gogs schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **5 May** | **3x [Höllenhund](/de/Items/unt_228/)**  | Ein Trupp von Höllenhunden schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **6 May** | **5x [Einheitentruhe (Inferno)](/de/Items/con_1273/)**  | Eure Infernotruppe präsentiert Euch eine Reihe wertvoller Schatztruhen! |
+  | **7 May** | **3x [Dämon](/de/Items/unt_229/)**  | Ein Trupp von Dämonen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **8 May** | **3x [Grottenteufel](/de/Items/unt_230/)**  | Ein Trupp von Grottenteufeln schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **9 May** | **5x [Rashka](/de/Items/her_384/)**  | Der Held Rashka zeigt Interesse an deiner Expansion und möchte sich deiner Fraktion anschließen! |
+
 
 #### 2021 Week 17  Buchtwoche
 

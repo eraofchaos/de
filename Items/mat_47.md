@@ -2,7 +2,7 @@
 title: "Item - Materials - Episches Erz +2"
 permalink: /Items/mat_47/
 excerpt: "Era of Chaos  Episches Erz +2"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "mat_47.md"
 toc: false

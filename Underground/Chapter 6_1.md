@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 6 - 6-1 Dämonenplage"
 permalink: /Underground/Chapter 6_1/
 excerpt: "Kapitel 6 - 1. Era of Chaos  Untergrund - Kapitel 6_1. 6-1 Dämonenplage"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 6_1.md"
 toc: false

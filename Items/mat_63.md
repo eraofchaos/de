@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythisches Quecksilber"
 permalink: /Items/mat_63/
 excerpt: "Era of Chaos  Mythisches Quecksilber"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "mat_63.md"
 toc: false

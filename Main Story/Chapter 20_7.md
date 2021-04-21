@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-7 Das magische Mädchen"
 permalink: /Main Story/Chapter 20_7/
 excerpt: "Kapitel 20 - 7. Era of Chaos  Hauptstory - Kapitel 20_7. 20-7 Das magische Mädchen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 20_7.md"
 toc: false

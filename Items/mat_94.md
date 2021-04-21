@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternkristall +4"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Sternkristall +4"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "mat_94.md"
 toc: false

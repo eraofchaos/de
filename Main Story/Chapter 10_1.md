@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-1 Land der Untoten"
 permalink: /Main Story/Chapter 10_1/
 excerpt: "Kapitel 10 - 1. Era of Chaos  Hauptstory - Kapitel 10_1. 10-1 Land der Untoten"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 10_1.md"
 toc: false

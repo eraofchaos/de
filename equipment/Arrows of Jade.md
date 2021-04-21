@@ -2,7 +2,7 @@
 title: "Pfeile der Jade"
 permalink: /equipment/Arrows of Jade/
 excerpt: "Era of Chaos Pfeile der Jade. Pfeile der Jade"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Arrows of Jade.md"
 toc: false

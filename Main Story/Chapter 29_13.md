@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-13 Söldner-Ausbildungslager"
 permalink: /Main Story/Chapter 29_13/
 excerpt: "Kapitel 29 - 13. Era of Chaos  Hauptstory - Kapitel 29_13. 29-13 Söldner-Ausbildungslager"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 29_13.md"
 toc: false

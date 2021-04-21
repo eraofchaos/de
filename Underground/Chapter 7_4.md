@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 7 - 7-4 Goldwahn"
 permalink: /Underground/Chapter 7_4/
 excerpt: "Kapitel 7 - 4. Era of Chaos  Untergrund - Kapitel 7_4. 7-4 Goldwahn"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 7_4.md"
 toc: false

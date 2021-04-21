@@ -2,7 +2,7 @@
 title: "Avatar - Richter des Heiligen Lichts"
 permalink: /Avatars/Holy Light Judge/
 excerpt: "Era of Chaos  Richter des Heiligen Lichts"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: de
 ref: "Holy Light Judge.md"
 toc: false

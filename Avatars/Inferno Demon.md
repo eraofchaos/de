@@ -2,7 +2,7 @@
 title: "Avatar - Infernodämon"
 permalink: /Avatars/Inferno Demon/
 excerpt: "Era of Chaos  Infernodämon"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: de
 ref: "Inferno Demon.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Schädelplatte des Wirts"
 permalink: /equipment/Host Cranium/
 excerpt: "Era of Chaos Schädelplatte des Wirts. Schädelplatte des Wirts"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Host Cranium.md"
 toc: false

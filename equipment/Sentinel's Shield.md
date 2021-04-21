@@ -2,7 +2,7 @@
 title: "Schild der Wache"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Era of Chaos Schild der Wache. Schild der Wache"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Sentinel's Shield.md"
 toc: false

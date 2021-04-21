@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Zorn"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Zorn. Zorn. Era of Chaos Heiliges Emblem Zorn. Era of Chaos Chaos Zorn"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Anger.md"
 toc: false

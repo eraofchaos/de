@@ -2,7 +2,7 @@
 title: "Stab des Zauberbrechers"
 permalink: /equipment/Spell Breaker's Staff/
 excerpt: "Era of Chaos Stab des Zauberbrechers. Stab des Zauberbrechers"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Spell Breaker's Staff.md"
 toc: false

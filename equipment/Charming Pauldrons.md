@@ -2,7 +2,7 @@
 title: "Bezauberter Schulterschutz"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "Era of Chaos Bezauberter Schulterschutz. Bezauberter Schulterschutz"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Charming Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Tagesgezeiten (Regnan Serpent)"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Tagesgezeiten. Tagesgezeiten. Era of Chaos Exklusiv Tagesgezeiten. Regnanschlange Exklusiv."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Regnan Serpent Tagesgezeiten.md"
 toc: false

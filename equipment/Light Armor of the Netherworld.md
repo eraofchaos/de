@@ -2,7 +2,7 @@
 title: "Leichte Rüstung der Unterwelt"
 permalink: /equipment/Light Armor of the Netherworld/
 excerpt: "Era of Chaos Leichte Rüstung der Unterwelt. Leichte Rüstung der Unterwelt"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Light Armor of the Netherworld.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimes Erz +2"
 permalink: /Items/mat_75/
 excerpt: "Era of Chaos  Geheimes Erz +2"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "mat_75.md"
 toc: false

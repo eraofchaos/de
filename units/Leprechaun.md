@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mithilfe von Zaubersprüchen, die einen geheimnisvollen Schild erschaffen, benutzen Leprechauns, die der Beschwörung folgen, den Monolithen des Weltenbaums, um auf das grausame und mörderische Schlachtfeld zu reisen, wo sie zum stärksten Schild der Natur werden!"
 unitID: 909
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Leprechaun"
 toc: true

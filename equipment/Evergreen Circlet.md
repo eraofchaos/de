@@ -2,7 +2,7 @@
 title: "Immergrün-Reif"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "Era of Chaos Immergrün-Reif. Immergrün-Reif"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Evergreen Circlet.md"
 toc: false

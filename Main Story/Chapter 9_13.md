@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-13 Die Armee des Königreichs"
 permalink: /Main Story/Chapter 9_13/
 excerpt: "Kapitel 9 - 13. Era of Chaos  Hauptstory - Kapitel 9_13. 9-13 Die Armee des Königreichs"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 9_13.md"
 toc: false

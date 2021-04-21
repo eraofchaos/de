@@ -2,7 +2,7 @@
 title: "Artefakt - Ring des Magiers - Ring der Beschwörung"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "Era of Chaos  Ring des Magiers - Ring der Beschwörung. Ein geheimnisvoller Ring mit starker Magie. Eine der Komponenten für den Ring des Magiers."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Ring of Conjuring.md"
 toc: false

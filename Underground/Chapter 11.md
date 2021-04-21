@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 11 Erntezeit"
 permalink: /Underground/Chapter 11/
 excerpt: "Kapitel 11 Erntezeit. Era of Chaos  Untergrund - Kapitel 11. Erntezeit"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 11.md"
 toc: false

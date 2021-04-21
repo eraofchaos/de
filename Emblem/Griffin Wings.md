@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Greifenflügel"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Era of Chaos Greifenflügel. Greifenflügel. Era of Chaos Heiliges Emblem Greifenflügel. Era of Chaos Rechtschaffen Greifenflügel"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Griffin Wings.md"
 toc: false

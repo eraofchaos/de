@@ -2,7 +2,7 @@
 title: "Avatar - Zorn des Donners"
 permalink: /Avatars/Thunder Rage/
 excerpt: "Era of Chaos  Zorn des Donners"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: de
 ref: "Thunder Rage.md"
 toc: false

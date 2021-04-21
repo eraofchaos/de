@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-7 Den Feind vertreiben"
 permalink: /Main Story/Chapter 12_7/
 excerpt: "Kapitel 12 - 7. Era of Chaos  Hauptstory - Kapitel 12_7. 12-7 Den Feind vertreiben"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 12_7.md"
 toc: false

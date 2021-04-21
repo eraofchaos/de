@@ -2,7 +2,7 @@
 title: "Durchschussbolzen"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Era of Chaos Durchschussbolzen. Durchschussbolzen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Piercing Bolts.md"
 toc: false

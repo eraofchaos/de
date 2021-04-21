@@ -2,7 +2,7 @@
 title: "Horn des Brandes"
 permalink: /equipment/Horn of Scorching/
 excerpt: "Era of Chaos Horn des Brandes. Horn des Brandes"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Horn of Scorching.md"
 toc: false

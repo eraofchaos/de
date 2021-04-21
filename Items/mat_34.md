@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragendes Holz"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Überragendes Holz"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "mat_34.md"
 toc: false

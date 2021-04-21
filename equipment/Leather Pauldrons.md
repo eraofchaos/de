@@ -2,7 +2,7 @@
 title: "Lederner Schulterschutz"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Era of Chaos Lederner Schulterschutz. Lederner Schulterschutz"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Leather Pauldrons.md"
 toc: false

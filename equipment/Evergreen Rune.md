@@ -2,7 +2,7 @@
 title: "Immergrün-Rune"
 permalink: /equipment/Evergreen Rune/
 excerpt: "Era of Chaos Immergrün-Rune. Immergrün-Rune"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Evergreen Rune.md"
 toc: false

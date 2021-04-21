@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Wandelnde Tote Exklusiv."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Walking Dead Irisschild.md"
 toc: false

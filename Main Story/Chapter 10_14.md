@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-14 Kleine Todeswelle"
 permalink: /Main Story/Chapter 10_14/
 excerpt: "Kapitel 10 - 14. Era of Chaos  Hauptstory - Kapitel 10_14. 10-14 Kleine Todeswelle"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 10_14.md"
 toc: false

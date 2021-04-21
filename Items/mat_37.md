@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragende Edelsteine"
 permalink: /Items/mat_37/
 excerpt: "Era of Chaos  Überragende Edelsteine"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "mat_37.md"
 toc: false

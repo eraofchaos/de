@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-9 Für die Heimat"
 permalink: /Main Story/Chapter 7_9/
 excerpt: "Kapitel 7 - 9. Era of Chaos  Hauptstory - Kapitel 7_9. 7-9 Für die Heimat"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 7_9.md"
 toc: false

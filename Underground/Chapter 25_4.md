@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 25 - 25-4 Erholung"
 permalink: /Underground/Chapter 25_4/
 excerpt: "Kapitel 25 - 4. Era of Chaos  Untergrund - Kapitel 25_4. 25-4 Erholung"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 25_4.md"
 toc: false

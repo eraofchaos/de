@@ -2,7 +2,7 @@
 title: "Düstere Schwingen"
 permalink: /equipment/Sinister Wings/
 excerpt: "Era of Chaos Düstere Schwingen. Düstere Schwingen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Sinister Wings.md"
 toc: false

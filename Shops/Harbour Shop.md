@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "index.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 |  **12x** [Inbrunst](/de/Items/con_954/)(Ein Gegenstand, der zum Herausfordern von Bossen im Bucht-Angriff verwendet werden kann.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** [Schwingen des Triumphes: Catherine](/de/Items/con_1032/)(Damit erhältst du Catherines „Schwingen des Triumphes“-Skin.) |  **2500x** [Schekel](/de/Items/con_950/)  | **1** |
   | 3 |  **10x** [Peter Lee](/de/Items/her_397/)(Mit 30 Seelensplittern lässt sich Peter Lee für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden.) |  **2500x** [Schekel](/de/Items/con_950/)  | **3** |
-  | 4 |  **10x** [SSR-Einheitenseele](/de/Items/con_535/)(Sammle 80 Stück und erhalte eine zufällige Einheit mit Macht SSR (außer Schwarzer Ritter, Assassine und Spartaner).) |  **3800x** [Schekel](/de/Items/con_950/)  | **4** |
+  | 4 |  **10x** [SSR-Einheitenseele](/de/Items/con_535/)(Sammle 80 Stück und erhalte eine zufällige Einheit mit Macht SSR (außer Assassine und Spartaner).) |  **3800x** [Schekel](/de/Items/con_950/)  | **4** |
   | 5 |  **10x** [SR-Einheitenseele](/de/Items/con_534/)(Sammle 30, um eine zufällig ausgewählte der folgenden 2-Sterne-Einheiten zu erhalten: Greif, Schwertkämpfer, Mönch, Kavallerist, Zwerg, Waldelfe, Pegasus, Dendroidenwache, Einhorn, Ork, Oger, Roc, Zyklop, Geist, Vampir, Höllenhund, Dämon, Grottenteufel, Efreet, Stein-Wasserspeier, Regnanpiraten,Eisengolem, Magier, Sturmelementar, Eiselementar, Harpyie, Minotaurus oder Echsenmensch.) |  **1000x** [Schekel](/de/Items/con_950/)  | **3** |
   | 6 |  **1x** [Premiumartefakt- Komponententruhe](/de/Items/con_1740/)(Gewährt eines der folgenden zur Auswahl: 1 Drachenkönig-Komponententruhe, 1 Frost-Komponententruhe oder 1 Himmlische Komponententruhe.) |  **13500x** [Schekel](/de/Items/con_950/)  | **1** |
   | 7 |  **1x** [Premiumartefakt- Komponenten-Paket](/de/Items/con_1433/)(Gewährt eines der folgenden zur Auswahl: Falkenauge-Komponententruhe ×1 oder Titan-Komponententruhe ×1.) |  **3800x** [Schekel](/de/Items/con_950/)  | **1** |

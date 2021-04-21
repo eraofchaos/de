@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-9 Vermessungsturm"
 permalink: /Main Story/Chapter 4_9/
 excerpt: "Kapitel 4 - 9. Era of Chaos  Hauptstory - Kapitel 4_9. 4-9 Vermessungsturm"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 4_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Monolithen-Omen"
 permalink: /Avatars/Monolith Omen/
 excerpt: "Era of Chaos  Monolithen-Omen"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: de
 ref: "Monolith Omen.md"
 toc: false

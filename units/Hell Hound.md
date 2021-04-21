@@ -3,7 +3,7 @@ title: "Höllenhund"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Höllenhunde greifen den Feind mit drei Köpfen an. Ihr Körper ist von glühend heißer Lava überzogen, und ihre Spuren hinterlassen Flammen."
 unitID: 503
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Höllenhund"
 toc: true
@@ -179,6 +179,8 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/unknown.png)
 
 ### Awaking Details
  **Is it possible right now?** NO

@@ -3,7 +3,7 @@ title: "Feuervogel"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Feuervogel ist die mächtigste aller Elementarkreaturen. Er haust im Feuer, das ihm ewiges Leben schenkt. Die tosende Flamme um ihn herum wird von der Luft zu böser Feuersbrunst angefacht."
 unitID: 907
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Feuervogel"
 toc: true

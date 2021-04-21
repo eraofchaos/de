@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-14 Mit gebrochenem Herzen"
 permalink: /Main Story/Chapter 7_14/
 excerpt: "Kapitel 7 - 14. Era of Chaos  Hauptstory - Kapitel 7_14. 7-14 Mit gebrochenem Herzen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 7_14.md"
 toc: false

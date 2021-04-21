@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-15 Das Ende eines Helden"
 permalink: /Main Story/Chapter 7_15/
 excerpt: "Kapitel 7 - 15. Era of Chaos  Hauptstory - Kapitel 7_15. 7-15 Das Ende eines Helden"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 7_15.md"
 toc: false

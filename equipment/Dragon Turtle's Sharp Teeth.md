@@ -2,7 +2,7 @@
 title: "Scharfe Zähne der Drachenschildkröte"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Era of Chaos Scharfe Zähne der Drachenschildkröte. Scharfe Zähne der Drachenschildkröte"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

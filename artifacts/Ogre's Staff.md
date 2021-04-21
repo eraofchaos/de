@@ -2,7 +2,7 @@
 title: "Artefakt - Schwert des Frostes - Ogerstab"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "Era of Chaos  Schwert des Frostes - Ogerstab. Ein von den Ogern verehrter Stab. Eine der Komponenten für das Schwert des Frostes."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Ogre's Staff.md"
 toc: false

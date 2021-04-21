@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-7 Verfolgung"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "Kapitel 13 - 7. Era of Chaos  Hauptstory - Kapitel 13_7. 13-7 Verfolgung"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 13_7.md"
 toc: false

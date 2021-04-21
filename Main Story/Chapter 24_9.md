@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-9 Ein seltsames Hobby"
 permalink: /Main Story/Chapter 24_9/
 excerpt: "Kapitel 24 - 9. Era of Chaos  Hauptstory - Kapitel 24_9. 24-9 Ein seltsames Hobby"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 24_9.md"
 toc: false

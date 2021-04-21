@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 Überleben des Stärkeren"
 permalink: /Main Story/Chapter 25/
 excerpt: "Kapitel 25. Era of Chaos  Hauptstory - Kapitel 25. Überleben des Stärkeren"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 25.md"
 toc: false

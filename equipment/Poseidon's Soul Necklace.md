@@ -2,7 +2,7 @@
 title: "Halskette von Poseidons Seele"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "Era of Chaos Halskette von Poseidons Seele. Halskette von Poseidons Seele"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Poseidon's Soul Necklace.md"
 toc: false

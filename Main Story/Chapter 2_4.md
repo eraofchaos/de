@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-4 Der magische Brunnen"
 permalink: /Main Story/Chapter 2_4/
 excerpt: "Kapitel 2 - 4. Era of Chaos  Hauptstory - Kapitel 2_4. 2-4 Der magische Brunnen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 2_4.md"
 toc: false

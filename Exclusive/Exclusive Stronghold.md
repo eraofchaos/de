@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Exklusiv Stronghold. Exklusiv Stronghold. List of Exklusiv Stronghold in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Exclusive Stronghold"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 1  | [Goblin](/de/units/Goblin/) | [Schwert](/de/Exclusive/Goblin Sword/) | - | Aufladung | [Schwert-Token](/de/Items/con_912/) | - |
   | 2  | [Wolfsreiter](/de/units/Wolf Rider/) | [Ritterpike](/de/Exclusive/Wolf Rider Knight Pike/) | - | Aufladung | [Ritterpike-Token](/de/Items/con_916/) | - |
   | 3  | [Ork](/de/units/Orc/) | [Langbogen](/de/Exclusive/Orc Long Bow/) | - | Aufladung | [Langbogen-Token](/de/Items/con_914/) | - |
-  | 4  | [Oger](/de/units/Ogre/) | [Irisschild](/de/Exclusive/Ogre Iris Shield/) | - | Aufladung | [Irisschild-Token](/de/Items/con_913/) | - |
+  | 4  | [Oger](/de/units/Ogre/) | [Irisschild](/de/Exclusive/Ogre Iris Shield/) | + | Aufladung | [Irisschild-Token](/de/Items/con_913/) | - |
   | 5  | [Roc](/de/units/Roc/) | [Arkangesang](/de/Exclusive/Roc Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/de/Items/con_915/) | - |
   | 6  | [Zyklop](/de/units/Cyclops/) | [Langbogen](/de/Exclusive/Cyclops Long Bow/) | + | Aufladung | [Langbogen-Token](/de/Items/con_914/) | - |
   | 7  | [Behemoth](/de/units/Behemoth/) | [Blutrünstiger Geist](/de/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Unterstützung | [Blutrünstiger-Geist-Token](/de/Items/con_982/) | [Blutrünstiger-Geist-Spezialskin](/de/Items/con_650/) |

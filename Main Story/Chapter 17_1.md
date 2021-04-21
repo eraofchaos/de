@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-1 Handwerkskunst der Elfen"
 permalink: /Main Story/Chapter 17_1/
 excerpt: "Kapitel 17 - 1. Era of Chaos  Hauptstory - Kapitel 17_1. 17-1 Handwerkskunst der Elfen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Chapter 17_1.md"
 toc: false

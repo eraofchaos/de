@@ -2,7 +2,7 @@
 title: "Artefakt - Elixier des Lebens - Ring des Lebens"
 permalink: /artifacts/Ring of Life/
 excerpt: "Era of Chaos  Elixier des Lebens - Ring des Lebens. Ein Ring, der seinem Träger enorme Gesundheit liefert. Eine der Komponenten für das Elixier des Lebens."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Ring of Life.md"
 toc: false

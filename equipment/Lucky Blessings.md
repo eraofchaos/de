@@ -2,7 +2,7 @@
 title: "Glückliche Segen"
 permalink: /equipment/Lucky Blessings/
 excerpt: "Era of Chaos Glückliche Segen. Glückliche Segen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: de
 ref: "Lucky Blessings.md"
 toc: false
