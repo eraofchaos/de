@@ -33,7 +33,7 @@ Aufgrund technischer Einschränkungen bei Github (wir haben ungefähr 4000 Seite
 Dieses Informationsportal enthält Informationen zum Handyspiel "Era Of Chaos".
 
 Sie finden hier:
-* <i class="fas fa-gavel"/> [Gegenstands](/de/Items/)
+* <i class="fas fa-gavel"/> [Gegenstands](/ItemsDE/)
 * <i class="fas fa-chess-king"/>  [Held](/de/heroes/)
 * <i class="fas fa-mask"/>  [Adjutant](/de/heroes/Adjutants/)
 * <i class="fab fa-optin-monster"/>  [Einheiten](/de/units/)
