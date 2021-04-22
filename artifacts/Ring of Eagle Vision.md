@@ -2,7 +2,7 @@
 title: "Artefakt - Lebendiges Falkenauge - Ring des Adlerblicks"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Era of Chaos  Lebendiges Falkenauge - Ring des Adlerblicks. Ein Geheimring mit Augäpfeln. Eine der Komponenten für das Lebendige Falkenauge."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ring of Eagle Vision.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Ring des Adlerblicks](/de/Items/art_135/)
+ **Related Item**: [Ring des Adlerblicks](/ItemsDE/art_135/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

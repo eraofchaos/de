@@ -2,7 +2,7 @@
 title: "Schlachtfeldreserve"
 permalink: /Backup/
 excerpt: "Era of Chaos  Schlachtfeldreserve - Magierinnen können ein Raumportal auf dem Schlachtfeld öffnen und 3 Hilfseinheiten dorthin holen, während sie eine starke Zauber-Aura erzeugen. Die Gegner werden erzittern."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "index.md"
 toc: false
@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Schlachtfeldfähigkeit | Globale Fähigkeit | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Energierolle](/de/Items/con_830/) | **5x** [Energierolle](/de/Items/con_830/) | 
-  | 2 | **2x** [Energierolle](/de/Items/con_830/) | **10x** [Energierolle](/de/Items/con_830/) | 
-  | 3 | **3x** [Energierolle](/de/Items/con_830/) | **15x** [Energierolle](/de/Items/con_830/) | 
-  | 4 | **4x** [Energierolle](/de/Items/con_830/) | **20x** [Energierolle](/de/Items/con_830/) | 
-  | 5 | **5x** [Energierolle](/de/Items/con_830/) | **25x** [Energierolle](/de/Items/con_830/) | 
-  | 6 | **9x** [Energierolle](/de/Items/con_830/) | **45x** [Energierolle](/de/Items/con_830/) | 
-  | 7 | **12x** [Energierolle](/de/Items/con_830/) | **60x** [Energierolle](/de/Items/con_830/) | 
-  | 8 | **20x** [Energierolle](/de/Items/con_830/) | **100x** [Energierolle](/de/Items/con_830/) | 
-  | 9 | **30x** [Energierolle](/de/Items/con_830/) | **150x** [Energierolle](/de/Items/con_830/) | 
-  | 10 | **40x** [Energierolle](/de/Items/con_830/) | **200x** [Energierolle](/de/Items/con_830/) | 
-  | 11 | **50x** [Energierolle](/de/Items/con_830/) | **250x** [Energierolle](/de/Items/con_830/) | 
-  | 12 | **60x** [Energierolle](/de/Items/con_830/) | **300x** [Energierolle](/de/Items/con_830/) | 
-  | 13 | **100x** [Energierolle](/de/Items/con_830/) | **500x** [Energierolle](/de/Items/con_830/) | 
-  | 14 | **160x** [Energierolle](/de/Items/con_830/) | **800x** [Energierolle](/de/Items/con_830/) | 
-  | 15 | **200x** [Energierolle](/de/Items/con_830/) | **1000x** [Energierolle](/de/Items/con_830/) | 
+  | 1 | **1x** [Energierolle](/ItemsDE/con_830/) | **5x** [Energierolle](/ItemsDE/con_830/) | 
+  | 2 | **2x** [Energierolle](/ItemsDE/con_830/) | **10x** [Energierolle](/ItemsDE/con_830/) | 
+  | 3 | **3x** [Energierolle](/ItemsDE/con_830/) | **15x** [Energierolle](/ItemsDE/con_830/) | 
+  | 4 | **4x** [Energierolle](/ItemsDE/con_830/) | **20x** [Energierolle](/ItemsDE/con_830/) | 
+  | 5 | **5x** [Energierolle](/ItemsDE/con_830/) | **25x** [Energierolle](/ItemsDE/con_830/) | 
+  | 6 | **9x** [Energierolle](/ItemsDE/con_830/) | **45x** [Energierolle](/ItemsDE/con_830/) | 
+  | 7 | **12x** [Energierolle](/ItemsDE/con_830/) | **60x** [Energierolle](/ItemsDE/con_830/) | 
+  | 8 | **20x** [Energierolle](/ItemsDE/con_830/) | **100x** [Energierolle](/ItemsDE/con_830/) | 
+  | 9 | **30x** [Energierolle](/ItemsDE/con_830/) | **150x** [Energierolle](/ItemsDE/con_830/) | 
+  | 10 | **40x** [Energierolle](/ItemsDE/con_830/) | **200x** [Energierolle](/ItemsDE/con_830/) | 
+  | 11 | **50x** [Energierolle](/ItemsDE/con_830/) | **250x** [Energierolle](/ItemsDE/con_830/) | 
+  | 12 | **60x** [Energierolle](/ItemsDE/con_830/) | **300x** [Energierolle](/ItemsDE/con_830/) | 
+  | 13 | **100x** [Energierolle](/ItemsDE/con_830/) | **500x** [Energierolle](/ItemsDE/con_830/) | 
+  | 14 | **160x** [Energierolle](/ItemsDE/con_830/) | **800x** [Energierolle](/ItemsDE/con_830/) | 
+  | 15 | **200x** [Energierolle](/ItemsDE/con_830/) | **1000x** [Energierolle](/ItemsDE/con_830/) | 
 
 
 ## Regeln

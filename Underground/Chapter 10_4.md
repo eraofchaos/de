@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 10 - 10-4 Körper und Seele vereint"
 permalink: /Underground/Chapter 10_4/
 excerpt: "Kapitel 10 - 4. Era of Chaos  Untergrund - Kapitel 10_4. 10-4 Körper und Seele vereint"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 10_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Buch der Essenzen +1](/de/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Buch der Essenzen +1](/ItemsDE/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Buch der Essenzen](/de/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen](/de/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Buch der Essenzen](/ItemsDE/mat_39/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen](/ItemsDE/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

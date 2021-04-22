@@ -2,7 +2,7 @@
 title: "Artefakt - Glückshufeisen - Kleeblatt des Glücks"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Era of Chaos  Glückshufeisen - Kleeblatt des Glücks. Ein Kleeblatt, das Glück bringt. Eine der Komponenten für das Glückshufeisen."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Clover of Fortune.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Glückshufeisen](/de/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 1x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Kleeblatt des Glücks](/de/Items/art_109/)
+ **Related Item**: [Kleeblatt des Glücks](/ItemsDE/art_109/)
 
  **Quality:** [Green Artifact Components](/de/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

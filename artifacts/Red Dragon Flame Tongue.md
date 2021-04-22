@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters - Feuerzunge des Roten Drachen"
 permalink: /artifacts/Red Dragon Flame Tongue/
 excerpt: "Era of Chaos  Macht des Drachenvaters - Feuerzunge des Roten Drachen. Ein Schwert, geschmiedet aus Flammendrachenkristallen. Eine der Komponenten für die Macht des Drachenvaters."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Red Dragon Flame Tongue.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Macht des Drachenvaters](/de/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Feuerzunge des Roten Drachen](/de/Items/art_146/)
+ **Related Item**: [Feuerzunge des Roten Drachen](/ItemsDE/art_146/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

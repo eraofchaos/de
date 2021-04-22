@@ -2,7 +2,7 @@
 title: "Faction Altar for Bucht"
 permalink: /FactionAltar/DROP_112/
 excerpt: "Era of Chaos  Faction Altar for Bucht. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "DROP_112.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Limitiertes Bucht-Paket](/de/Items/con_2112/)
+  **Drop by Luck (10x spin): 30x** [Limitiertes Bucht-Paket](/ItemsDE/con_2112/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Limitiertes Bucht-Paket](/de/Items/con_2112/) |
-  | 2 | **12%** | **2x** | [Limitiertes Bucht-Paket](/de/Items/con_2112/) |
-  | 3 | **12%** | **3x** | [Limitiertes Bucht-Paket](/de/Items/con_2112/) |
-  | 4 | **12%** | **5x** |  **100%** [Regnanpirat](/de/Items/unt_273/),  |
-  | 5 | **12%** | **3x** |  **100%** [Regnanpirat](/de/Items/unt_273/),  |
-  | 6 | **12%** | **5x** |  **100%** [Meerelementar](/de/Items/unt_275/),  |
+  | 1 | **25%** | **1x** | [Limitiertes Bucht-Paket](/ItemsDE/con_2112/) |
+  | 2 | **12%** | **2x** | [Limitiertes Bucht-Paket](/ItemsDE/con_2112/) |
+  | 3 | **12%** | **3x** | [Limitiertes Bucht-Paket](/ItemsDE/con_2112/) |
+  | 4 | **12%** | **5x** |  **100%** [Regnanpirat](/ItemsDE/unt_273/),  |
+  | 5 | **12%** | **3x** |  **100%** [Regnanpirat](/ItemsDE/unt_273/),  |
+  | 6 | **12%** | **5x** |  **100%** [Meerelementar](/ItemsDE/unt_275/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Limitiertes Bucht-Paket](/de/Items/con_2112/) |
-  | 2 | **11%** | **5x** |  **100%** [Regnanpirat](/de/Items/unt_273/),  |
-  | 3 | **11%** | **3x** |  **100%** [Regnanpirat](/de/Items/unt_273/),  |
-  | 4 | **11%** | **5x** |  **100%** [Meerelementar](/de/Items/unt_275/),  |
+  | 1 | **55%** | **1x** | [Limitiertes Bucht-Paket](/ItemsDE/con_2112/) |
+  | 2 | **11%** | **5x** |  **100%** [Regnanpirat](/ItemsDE/unt_273/),  |
+  | 3 | **11%** | **3x** |  **100%** [Regnanpirat](/ItemsDE/unt_273/),  |
+  | 4 | **11%** | **5x** |  **100%** [Meerelementar](/ItemsDE/unt_275/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Limitiertes Bucht-Paket](/de/Items/con_2112/)
+  **Drop by 10x spin: X** [Limitiertes Bucht-Paket](/ItemsDE/con_2112/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  |  - | [Regnanpirat](/de/Items/unt_273/), [Regnanbogenschützin](/de/Items/unt_274/), [Meerelementar](/de/Items/unt_275/), [Drachenschildkröte](/de/Items/unt_278/), [Hai-Ausbilder](/de/Items/unt_281/) |
+  |  - | [Regnanpirat](/ItemsDE/unt_273/), [Regnanbogenschützin](/ItemsDE/unt_274/), [Meerelementar](/ItemsDE/unt_275/), [Drachenschildkröte](/ItemsDE/unt_278/), [Hai-Ausbilder](/ItemsDE/unt_281/) |
 
 
 

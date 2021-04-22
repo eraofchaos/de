@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-7 Das magische Mädchen"
 permalink: /Main Story/Chapter 20_7/
 excerpt: "Kapitel 20 - 7. Era of Chaos  Hauptstory - Kapitel 20_7. 20-7 Das magische Mädchen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 20_7.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Ewiges Erz +1](/de/Items/mat_68/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Ewiges Erz +1](/ItemsDE/mat_68/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Mythisches Holz](/de/Items/mat_62/){: .btn .btn--era5}, **40% 1x** [Mythisches Holz](/de/Items/mat_62/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Mythisches Holz](/ItemsDE/mat_62/){: .btn .btn--era5}, **40% 1x** [Mythisches Holz](/ItemsDE/mat_62/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

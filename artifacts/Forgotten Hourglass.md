@@ -2,7 +2,7 @@
 title: "Artefakt - Spiegel der Rache - Vergessenes Stundenglas"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "Era of Chaos  Spiegel der Rache - Vergessenes Stundenglas. Wenn man verbotene Zauber wirkt, beschützt es den Zauberer vor Gegenangriffen von bösen Mächten. Eine der Komponenten für den Spiegel der Rache."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Forgotten Hourglass.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spiegel der Rache](/de/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Vergessenes Stundenglas](/de/Items/art_143/)
+ **Related Item**: [Vergessenes Stundenglas](/ItemsDE/art_143/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

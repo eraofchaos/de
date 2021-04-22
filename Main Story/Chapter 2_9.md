@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-9 Der Prophet des Grals"
 permalink: /Main Story/Chapter 2_9/
 excerpt: "Kapitel 2 - 9. Era of Chaos  Hauptstory - Kapitel 2_9. 2-9 Der Prophet des Grals"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 2_9.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}, **20% 2x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}
+ **Drop 1:** **80% 1x** [Normaler Schwefel](/ItemsDE/mat_9/){: .btn .btn--era2}, **20% 2x** [Normaler Schwefel](/ItemsDE/mat_9/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}, **60% 1x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Erz](/de/Items/mat_1/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Schlechtes Erz](/ItemsDE/mat_1/){: .btn .btn--era1}, **60% 1x** [Schlechtes Erz](/ItemsDE/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Erz](/ItemsDE/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

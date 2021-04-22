@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund - Sandalen des Heiligen"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "Era of Chaos  Engelsbund - Sandalen des Heiligen. Eine heilige Reliquie zur Feier der Vereinigung von Erathia. Eine der Komponenten für den Engelsbund."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Sandals of the Saint.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Engelsbund](/de/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Sandalen des Heiligen](/de/Items/art_154/)
+ **Related Item**: [Sandalen des Heiligen](/ItemsDE/art_154/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 13 - 13-1 Kriegsfluten"
 permalink: /Underground/Chapter 13_1/
 excerpt: "Kapitel 13 - 1. Era of Chaos  Untergrund - Kapitel 13_1. 13-1 Kriegsfluten"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 13_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Dämon](/de/Items/unt_229/){: .btn .btn--era4}, **67% 1x** [Dämon](/de/Items/unt_229/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Dämon](/ItemsDE/unt_229/){: .btn .btn--era4}, **67% 1x** [Dämon](/ItemsDE/unt_229/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Buch der Essenzen +2](/de/Items/mat_53/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Buch der Essenzen +2](/ItemsDE/mat_53/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Buch der Essenzen +1](/de/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen +1](/de/Items/mat_46/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Buch der Essenzen +1](/ItemsDE/mat_46/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen +1](/ItemsDE/mat_46/){: .btn .btn--era4}
 
 
 ## Fight against Team

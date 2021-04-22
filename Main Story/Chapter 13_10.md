@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-10 Verstärkungen"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Kapitel 13 - 10. Era of Chaos  Hauptstory - Kapitel 13_10. 13-10 Verstärkungen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 13_10.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Seltener Schwefel +1](/de/Items/mat_43/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Seltener Schwefel +1](/ItemsDE/mat_43/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Überragendes Erz](/de/Items/mat_33/){: .btn .btn--era4}, **40% 1x** [Überragendes Erz](/de/Items/mat_33/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Überragendes Erz](/ItemsDE/mat_33/){: .btn .btn--era4}, **40% 1x** [Überragendes Erz](/ItemsDE/mat_33/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Artefakt - Titanendonner - Schild der Wache"
 permalink: /artifacts/Sentinel's Shield/
 excerpt: "Era of Chaos  Titanendonner - Schild der Wache. Ein mit heiliger Kraft gesegneter Schild. Eine der Komponenten für den Titanendonner."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Sentinel's Shield.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Titanendonner](/de/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Schild der Wache](/de/Items/art_157/)
+ **Related Item**: [Schild der Wache](/ItemsDE/art_157/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

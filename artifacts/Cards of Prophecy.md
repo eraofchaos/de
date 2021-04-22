@@ -2,7 +2,7 @@
 title: "Artefakt - Glückshufeisen - Karten der Prophezeiung"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Era of Chaos  Glückshufeisen - Karten der Prophezeiung. Wahrsagerei-Karten mit starker Magie. Eine der Komponenten für das Glückshufeisen."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Cards of Prophecy.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Glückshufeisen](/de/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 1x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Karten der Prophezeiung](/de/Items/art_110/)
+ **Related Item**: [Karten der Prophezeiung](/ItemsDE/art_110/)
 
  **Quality:** [Green Artifact Components](/de/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

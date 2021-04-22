@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-6 Banditenlager"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Kapitel 3 - 6. Era of Chaos  Hauptstory - Kapitel 3_6. 3-6 Banditenlager"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 3_6.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}
+ **Drop 1:** **100% 1x** [Normaler Kristall](/ItemsDE/mat_11/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Schlechte Edelsteine](/de/Items/mat_4/){: .btn .btn--era1}, **60% 1x** [Schlechte Edelsteine](/de/Items/mat_4/){: .btn .btn--era1}, **20% 2x** [Schlechte Edelsteine](/de/Items/mat_4/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Schlechte Edelsteine](/ItemsDE/mat_4/){: .btn .btn--era1}, **60% 1x** [Schlechte Edelsteine](/ItemsDE/mat_4/){: .btn .btn--era1}, **20% 2x** [Schlechte Edelsteine](/ItemsDE/mat_4/){: .btn .btn--era1}
 
 
 ## Fight against Team

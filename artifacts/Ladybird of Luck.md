@@ -2,7 +2,7 @@
 title: "Artefakt - Glückshufeisen - Silberner Glücksvogel"
 permalink: /artifacts/Ladybird of Luck/
 excerpt: "Era of Chaos  Glückshufeisen - Silberner Glücksvogel. Eine leuchtende Vogelstatue. Eine der Komponenten für das Glückshufeisen."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ladybird of Luck.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Glückshufeisen](/de/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 1x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Silberner Glücksvogel](/de/Items/art_111/)
+ **Related Item**: [Silberner Glücksvogel](/ItemsDE/art_111/)
 
  **Quality:** [Green Artifact Components](/de/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

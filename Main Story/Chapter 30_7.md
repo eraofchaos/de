@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-7 Schwefelminen"
 permalink: /Main Story/Chapter 30_7/
 excerpt: "Kapitel 30 - 7. Era of Chaos  Hauptstory - Kapitel 30_7. 30-7 Schwefelminen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 30_7.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Strahlendes Erz +5](/de/Items/mat_96/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Strahlendes Erz +5](/ItemsDE/mat_96/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Sternholz +4](/de/Items/mat_90/){: .btn .btn--era5}, **40% 1x** [Sternholz +4](/de/Items/mat_90/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Sternholz +4](/ItemsDE/mat_90/){: .btn .btn--era5}, **40% 1x** [Sternholz +4](/ItemsDE/mat_90/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

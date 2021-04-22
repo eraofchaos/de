@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 29 - 29-4  Grill-Gourmet"
 permalink: /Underground/Chapter 29_4/
 excerpt: "Kapitel 29 - 4. Era of Chaos  Untergrund - Kapitel 29_4. 29-4  Grill-Gourmet"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 29_4.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Sorge](/de/Items/her_458/){: .btn .btn--era3}, **50% 1x** [Sorge](/de/Items/her_458/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Sorge](/ItemsDE/her_458/){: .btn .btn--era3}, **50% 1x** [Sorge](/ItemsDE/her_458/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}, **50% 1x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

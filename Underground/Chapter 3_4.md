@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 3 - 3-4 Besuch beim Weisen"
 permalink: /Underground/Chapter 3_4/
 excerpt: "Kapitel 3 - 4. Era of Chaos  Untergrund - Kapitel 3_4. 3-4 Besuch beim Weisen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 3_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Buch der Waffen](/de/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Buch der Waffen](/ItemsDE/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}, **70% 1x** [Normaler Schwefel](/de/Items/mat_9/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Normaler Schwefel](/ItemsDE/mat_9/){: .btn .btn--era2}, **70% 1x** [Normaler Schwefel](/ItemsDE/mat_9/){: .btn .btn--era2}
 
 
 ## Fight against Team

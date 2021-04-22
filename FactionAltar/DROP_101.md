@@ -2,7 +2,7 @@
 title: "Faction Altar for Schloss"
 permalink: /FactionAltar/DROP_101/
 excerpt: "Era of Chaos  Faction Altar for Schloss. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "DROP_101.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Limitiertes Schloss-Paket](/de/Items/con_2139/)
+  **Drop by Luck (10x spin): 30x** [Limitiertes Schloss-Paket](/ItemsDE/con_2139/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Limitiertes Schloss-Paket](/de/Items/con_2139/) |
-  | 2 | **12%** | **2x** | [Limitiertes Schloss-Paket](/de/Items/con_2139/) |
-  | 3 | **12%** | **3x** | [Limitiertes Schloss-Paket](/de/Items/con_2139/) |
-  | 4 | **12%** | **5x** |  **19%** [Greif](/de/Items/unt_192/),  **5%** [Schwertkämpfer](/de/Items/unt_193/),  **19%** [Mönch](/de/Items/unt_194/),  **19%** [Kavallerist](/de/Items/unt_195/),  **5%** [Seelenstein des Kreuzritters](/de/Items/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/de/Items/unt_287/),  **5%** [Seelenstein des Zeloten](/de/Items/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/de/Items/unt_284/),  |
-  | 5 | **12%** | **3x** |  **19%** [Greif](/de/Items/unt_192/),  **5%** [Schwertkämpfer](/de/Items/unt_193/),  **19%** [Mönch](/de/Items/unt_194/),  **19%** [Kavallerist](/de/Items/unt_195/),  **5%** [Seelenstein des Kreuzritters](/de/Items/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/de/Items/unt_287/),  **5%** [Seelenstein des Zeloten](/de/Items/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/de/Items/unt_284/),  |
-  | 6 | **12%** | **5x** |  **25%** [Pikenier](/de/Items/unt_190/),  **25%** [Scharfschütze](/de/Items/unt_191/),  **25%** [Seelenstein des Hellenbardenträgers](/de/Items/unt_282/),  **25%** [Seelenstein des Meisterbogenschützen](/de/Items/unt_283/),  |
+  | 1 | **25%** | **1x** | [Limitiertes Schloss-Paket](/ItemsDE/con_2139/) |
+  | 2 | **12%** | **2x** | [Limitiertes Schloss-Paket](/ItemsDE/con_2139/) |
+  | 3 | **12%** | **3x** | [Limitiertes Schloss-Paket](/ItemsDE/con_2139/) |
+  | 4 | **12%** | **5x** |  **19%** [Greif](/ItemsDE/unt_192/),  **5%** [Schwertkämpfer](/ItemsDE/unt_193/),  **19%** [Mönch](/ItemsDE/unt_194/),  **19%** [Kavallerist](/ItemsDE/unt_195/),  **5%** [Seelenstein des Kreuzritters](/ItemsDE/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/ItemsDE/unt_287/),  **5%** [Seelenstein des Zeloten](/ItemsDE/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/ItemsDE/unt_284/),  |
+  | 5 | **12%** | **3x** |  **19%** [Greif](/ItemsDE/unt_192/),  **5%** [Schwertkämpfer](/ItemsDE/unt_193/),  **19%** [Mönch](/ItemsDE/unt_194/),  **19%** [Kavallerist](/ItemsDE/unt_195/),  **5%** [Seelenstein des Kreuzritters](/ItemsDE/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/ItemsDE/unt_287/),  **5%** [Seelenstein des Zeloten](/ItemsDE/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/ItemsDE/unt_284/),  |
+  | 6 | **12%** | **5x** |  **25%** [Pikenier](/ItemsDE/unt_190/),  **25%** [Scharfschütze](/ItemsDE/unt_191/),  **25%** [Seelenstein des Hellenbardenträgers](/ItemsDE/unt_282/),  **25%** [Seelenstein des Meisterbogenschützen](/ItemsDE/unt_283/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Limitiertes Schloss-Paket](/de/Items/con_2139/) |
-  | 2 | **11%** | **5x** |  **19%** [Greif](/de/Items/unt_192/),  **5%** [Schwertkämpfer](/de/Items/unt_193/),  **19%** [Mönch](/de/Items/unt_194/),  **19%** [Kavallerist](/de/Items/unt_195/),  **5%** [Seelenstein des Kreuzritters](/de/Items/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/de/Items/unt_287/),  **5%** [Seelenstein des Zeloten](/de/Items/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/de/Items/unt_284/),  |
-  | 3 | **11%** | **3x** |  **19%** [Greif](/de/Items/unt_192/),  **5%** [Schwertkämpfer](/de/Items/unt_193/),  **19%** [Mönch](/de/Items/unt_194/),  **19%** [Kavallerist](/de/Items/unt_195/),  **5%** [Seelenstein des Kreuzritters](/de/Items/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/de/Items/unt_287/),  **5%** [Seelenstein des Zeloten](/de/Items/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/de/Items/unt_284/),  |
-  | 4 | **11%** | **5x** |  **25%** [Pikenier](/de/Items/unt_190/),  **25%** [Scharfschütze](/de/Items/unt_191/),  **25%** [Seelenstein des Hellenbardenträgers](/de/Items/unt_282/),  **25%** [Seelenstein des Meisterbogenschützen](/de/Items/unt_283/),  |
+  | 1 | **55%** | **1x** | [Limitiertes Schloss-Paket](/ItemsDE/con_2139/) |
+  | 2 | **11%** | **5x** |  **19%** [Greif](/ItemsDE/unt_192/),  **5%** [Schwertkämpfer](/ItemsDE/unt_193/),  **19%** [Mönch](/ItemsDE/unt_194/),  **19%** [Kavallerist](/ItemsDE/unt_195/),  **5%** [Seelenstein des Kreuzritters](/ItemsDE/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/ItemsDE/unt_287/),  **5%** [Seelenstein des Zeloten](/ItemsDE/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/ItemsDE/unt_284/),  |
+  | 3 | **11%** | **3x** |  **19%** [Greif](/ItemsDE/unt_192/),  **5%** [Schwertkämpfer](/ItemsDE/unt_193/),  **19%** [Mönch](/ItemsDE/unt_194/),  **19%** [Kavallerist](/ItemsDE/unt_195/),  **5%** [Seelenstein des Kreuzritters](/ItemsDE/unt_285/),  **19%** [Seelenstein des Heldenhaften Ritters](/ItemsDE/unt_287/),  **5%** [Seelenstein des Zeloten](/ItemsDE/unt_286/),  **5%** [Seelenstein des Heiligen Greifen](/ItemsDE/unt_284/),  |
+  | 4 | **11%** | **5x** |  **25%** [Pikenier](/ItemsDE/unt_190/),  **25%** [Scharfschütze](/ItemsDE/unt_191/),  **25%** [Seelenstein des Hellenbardenträgers](/ItemsDE/unt_282/),  **25%** [Seelenstein des Meisterbogenschützen](/ItemsDE/unt_283/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Limitiertes Schloss-Paket](/de/Items/con_2139/)
+  **Drop by 10x spin: X** [Limitiertes Schloss-Paket](/ItemsDE/con_2139/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Seelenstein des Hellenbardenträgers](/de/Items/unt_282/), [Seelenstein des Meisterbogenschützen](/de/Items/unt_283/), [Seelenstein des Heiligen Greifen](/de/Items/unt_284/), [Seelenstein des Kreuzritters](/de/Items/unt_285/), [Seelenstein des Zeloten](/de/Items/unt_286/), [Seelenstein des Heldenhaften Ritters](/de/Items/unt_287/), [Seelenstein des Erzengels](/de/Items/unt_288/), [Seelenstein des Obersten Paladins](/de/Items/unt_289/) | [Pikenier](/de/Items/unt_190/), [Scharfschütze](/de/Items/unt_191/), [Greif](/de/Items/unt_192/), [Schwertkämpfer](/de/Items/unt_193/), [Mönch](/de/Items/unt_194/), [Kavallerist](/de/Items/unt_195/), [Engel](/de/Items/unt_196/), [Paladin](/de/Items/unt_197/) |
+  | [Seelenstein des Hellenbardenträgers](/ItemsDE/unt_282/), [Seelenstein des Meisterbogenschützen](/ItemsDE/unt_283/), [Seelenstein des Heiligen Greifen](/ItemsDE/unt_284/), [Seelenstein des Kreuzritters](/ItemsDE/unt_285/), [Seelenstein des Zeloten](/ItemsDE/unt_286/), [Seelenstein des Heldenhaften Ritters](/ItemsDE/unt_287/), [Seelenstein des Erzengels](/ItemsDE/unt_288/), [Seelenstein des Obersten Paladins](/ItemsDE/unt_289/) | [Pikenier](/ItemsDE/unt_190/), [Scharfschütze](/ItemsDE/unt_191/), [Greif](/ItemsDE/unt_192/), [Schwertkämpfer](/ItemsDE/unt_193/), [Mönch](/ItemsDE/unt_194/), [Kavallerist](/ItemsDE/unt_195/), [Engel](/ItemsDE/unt_196/), [Paladin](/ItemsDE/unt_197/) |
 
 
 

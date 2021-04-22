@@ -2,7 +2,7 @@
 title: "Artefakt - Antimagie-Runenstein - Schutzrock"
 permalink: /artifacts/Surcoat of Counterpoise/
 excerpt: "Era of Chaos  Antimagie-Runenstein - Schutzrock. Ein Umhang mit Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Surcoat of Counterpoise.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Antimagie-Runenstein](/de/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 3x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Schutzrock](/de/Items/art_119/)
+ **Related Item**: [Schutzrock](/ItemsDE/art_119/)
 
  **Quality:** [Blue Artifact Components](/de/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

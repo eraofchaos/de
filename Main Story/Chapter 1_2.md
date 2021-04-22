@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-2 Schlossruine"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Kapitel 1 - 2. Era of Chaos  Hauptstory - Kapitel 1_2. 1-2 Schlossruine"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 1_2.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Beutebelohnung
 
- **Drop 1:** **80% 1x** [Schlechtes Holz](/de/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Holz](/de/Items/mat_1/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Schlechtes Holz](/ItemsDE/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Holz](/ItemsDE/mat_1/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}, **20% 2x** [Schlechter Schwefel](/de/Items/mat_3/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Schlechter Schwefel](/ItemsDE/mat_3/){: .btn .btn--era1}, **20% 2x** [Schlechter Schwefel](/ItemsDE/mat_3/){: .btn .btn--era1}
 
 
 ## Fight against Team

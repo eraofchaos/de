@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-1 Eroberer"
 permalink: /Main Story/Chapter 21_1/
 excerpt: "Kapitel 21 - 1. Era of Chaos  Hauptstory - Kapitel 21_1. 21-1 Eroberer"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 21_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Ewige Edelsteine +1](/de/Items/mat_72/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Ewige Edelsteine +1](/ItemsDE/mat_72/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Mythischer Kristall](/de/Items/mat_66/){: .btn .btn--era5}, **40% 1x** [Mythischer Kristall](/de/Items/mat_66/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Mythischer Kristall](/ItemsDE/mat_66/){: .btn .btn--era5}, **40% 1x** [Mythischer Kristall](/ItemsDE/mat_66/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

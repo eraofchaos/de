@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-1 Geistervilla"
 permalink: /Main Story/Chapter 29_1/
 excerpt: "Kapitel 29 - 1. Era of Chaos  Hauptstory - Kapitel 29_1. 29-1 Geistervilla"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 29_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Strahlende Edelsteine +5](/de/Items/mat_100/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Strahlende Edelsteine +5](/ItemsDE/mat_100/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}, **40% 1x** [Sternkristall +4](/de/Items/mat_94/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Sternkristall +4](/ItemsDE/mat_94/){: .btn .btn--era5}, **40% 1x** [Sternkristall +4](/ItemsDE/mat_94/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

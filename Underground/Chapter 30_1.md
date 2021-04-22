@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 30 - 30-1  Regungslos"
 permalink: /Underground/Chapter 30_1/
 excerpt: "Kapitel 30 - 1. Era of Chaos  Untergrund - Kapitel 30_1. 30-1  Regungslos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 30_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Stein-Wasserspeier](/de/Items/unt_236/){: .btn .btn--era4}, **67% 1x** [Stein-Wasserspeier](/de/Items/unt_236/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Stein-Wasserspeier](/ItemsDE/unt_236/){: .btn .btn--era4}, **67% 1x** [Stein-Wasserspeier](/ItemsDE/unt_236/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}, **50% 1x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

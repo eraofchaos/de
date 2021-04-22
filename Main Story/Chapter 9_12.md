@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-12 Erfolgreicher Vorstoß"
 permalink: /Main Story/Chapter 9_12/
 excerpt: "Kapitel 9 - 12. Era of Chaos  Hauptstory - Kapitel 9_12. 9-12 Erfolgreicher Vorstoß"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 9_12.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Wertvoller Kristall +2](/de/Items/mat_31/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Wertvoller Kristall +2](/ItemsDE/mat_31/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Überlegene Edelsteine +1](/de/Items/mat_23/){: .btn .btn--era3}, **40% 1x** [Überlegene Edelsteine +1](/de/Items/mat_23/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Überlegene Edelsteine +1](/ItemsDE/mat_23/){: .btn .btn--era3}, **40% 1x** [Überlegene Edelsteine +1](/ItemsDE/mat_23/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 1 - 1-4 Wettlauf mit dem Tod"
 permalink: /Underground/Chapter 1_4/
 excerpt: "Kapitel 1 - 4. Era of Chaos  Untergrund - Kapitel 1_4. 1-4 Wettlauf mit dem Tod"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 1_4.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **80% 1x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Normales Holz](/ItemsDE/mat_7/){: .btn .btn--era2}, **20% 2x** [Normales Holz](/ItemsDE/mat_7/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Schlechtes Quecksilber](/ItemsDE/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

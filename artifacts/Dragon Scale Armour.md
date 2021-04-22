@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters - Drachenschuppen-Rüstung"
 permalink: /artifacts/Dragon Scale Armour/
 excerpt: "Era of Chaos  Macht des Drachenvaters - Drachenschuppen-Rüstung. Eine vom heiligen Drachen gesegnete Rüstung. Eine der Komponenten für die Macht des Drachenvaters."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Dragon Scale Armour.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Macht des Drachenvaters](/de/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Drachenschuppen-Rüstung](/de/Items/art_148/)
+ **Related Item**: [Drachenschuppen-Rüstung](/ItemsDE/art_148/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

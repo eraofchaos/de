@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-6 Beidseitig flankiert"
 permalink: /Main Story/Chapter 5_6/
 excerpt: "Kapitel 5 - 6. Era of Chaos  Hauptstory - Kapitel 5_6. 5-6 Beidseitig flankiert"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 5_6.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Guter Kristall](/de/Items/mat_17/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Guter Kristall](/ItemsDE/mat_17/){: .btn .btn--era3}
 
- **Drop 2:** **50% 0x** [Normale Edelsteine](/de/Items/mat_10/){: .btn .btn--era2}, **50% 1x** [Normale Edelsteine](/de/Items/mat_10/){: .btn .btn--era2}
+ **Drop 2:** **50% 0x** [Normale Edelsteine](/ItemsDE/mat_10/){: .btn .btn--era2}, **50% 1x** [Normale Edelsteine](/ItemsDE/mat_10/){: .btn .btn--era2}
 
- **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 22 - 22-5 Essenz des Lebens"
 permalink: /Underground/Chapter 22_5/
 excerpt: "Kapitel 22 - 5. Era of Chaos  Untergrund - Kapitel 22_5. 22-5 Essenz des Lebens"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 22_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Dendroidenwache](/de/Items/unt_203/){: .btn .btn--era4}, **67% 1x** [Dendroidenwache](/de/Items/unt_203/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Dendroidenwache](/ItemsDE/unt_203/){: .btn .btn--era4}, **67% 1x** [Dendroidenwache](/ItemsDE/unt_203/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Legendenzertifikat +3](/de/Items/mat_88/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Legendenzertifikat +3](/ItemsDE/mat_88/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Legendenzertifikat +2](/de/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Legendenzertifikat +2](/de/Items/mat_81/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Legendenzertifikat +2](/ItemsDE/mat_81/){: .btn .btn--era5}, **50% 1x** [Legendenzertifikat +2](/ItemsDE/mat_81/){: .btn .btn--era5}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-3 Jungbrunnen"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Kapitel 1 - 3. Era of Chaos  Hauptstory - Kapitel 1_3. 1-3 Jungbrunnen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Schlechtes Quecksilber](/de/Items/mat_2/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Schlechtes Quecksilber](/ItemsDE/mat_2/){: .btn .btn--era1}, **20% 2x** [Schlechtes Quecksilber](/ItemsDE/mat_2/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Schlechtes Holz](/de/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Holz](/de/Items/mat_1/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Schlechtes Holz](/ItemsDE/mat_1/){: .btn .btn--era1}, **20% 2x** [Schlechtes Holz](/ItemsDE/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

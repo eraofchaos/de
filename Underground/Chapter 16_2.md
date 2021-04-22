@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 16 - 16-2 Erinnerung des Himmels"
 permalink: /Underground/Chapter 16_2/
 excerpt: "Kapitel 16 - 2. Era of Chaos  Untergrund - Kapitel 16_2. 16-2 Erinnerung des Himmels"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 16_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Legendenzertifikat](/de/Items/mat_67/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Legendenzertifikat](/ItemsDE/mat_67/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Buch der Essenzen +3](/de/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen +3](/de/Items/mat_60/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Buch der Essenzen +3](/ItemsDE/mat_60/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen +3](/ItemsDE/mat_60/){: .btn .btn--era4}
 
 
 ## Fight against Team

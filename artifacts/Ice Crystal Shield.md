@@ -2,7 +2,7 @@
 title: "Artefakt - Schwert des Frostes - Eiskristallschild"
 permalink: /artifacts/Ice Crystal Shield/
 excerpt: "Era of Chaos  Schwert des Frostes - Eiskristallschild. Ein heiliger Schild, versiegelt in der Hochebene von Bracada. Eine der Komponenten für das Schwert des Frostes."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ice Crystal Shield.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Schwert des Frostes](/de/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Eiskristallschild](/de/Items/art_164/)
+ **Related Item**: [Eiskristallschild](/ItemsDE/art_164/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

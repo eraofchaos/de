@@ -2,14 +2,14 @@
 title: "Artefakt Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
 excerpt: "Era of Chaos Artifact component upgrade cost. Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Artifact Component Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Himmlischer Formstein](/de/Items/art_188/)
+  First upgrade ingredient:[Himmlischer Formstein](/ItemsDE/art_188/)
 
   Second upgrade ingredient: Artifact Components pieces 
 

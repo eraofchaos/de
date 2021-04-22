@@ -2,7 +2,7 @@
 title: "Artefakt - Armageddonklinge - Kriegerhammer"
 permalink: /artifacts/Warrior Hammer/
 excerpt: "Era of Chaos  Armageddonklinge - Kriegerhammer. Ein auf dem Grat der Giganten verborgener Kriegshammer. Eine der Komponenten für die Armageddonklinge."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Warrior Hammer.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Kriegerhammer](/de/Items/art_170/)
+ **Related Item**: [Kriegerhammer](/ItemsDE/art_170/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Artefakt - Spiegel der Rache - Chaosleuchtfeuer"
 permalink: /artifacts/Chaos Brazier/
 excerpt: "Era of Chaos  Spiegel der Rache - Chaosleuchtfeuer. In diesem Gegenstand kann mächtige Feuermagie gespeichert werden. Eine der Komponenten für den Spiegel der Rache."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chaos Brazier.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spiegel der Rache](/de/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Chaosleuchtfeuer](/de/Items/art_140/)
+ **Related Item**: [Chaosleuchtfeuer](/ItemsDE/art_140/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Faction Altar for Turm"
 permalink: /FactionAltar/DROP_106/
 excerpt: "Era of Chaos  Faction Altar for Turm. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "DROP_106.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Limitiertes Turm-Paket](/de/Items/con_2110/)
+  **Drop by Luck (10x spin): 30x** [Limitiertes Turm-Paket](/ItemsDE/con_2110/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Limitiertes Turm-Paket](/de/Items/con_2110/) |
-  | 2 | **12%** | **2x** | [Limitiertes Turm-Paket](/de/Items/con_2110/) |
-  | 3 | **12%** | **3x** | [Limitiertes Turm-Paket](/de/Items/con_2110/) |
-  | 4 | **12%** | **5x** |  **23%** [Stein-Wasserspeier](/de/Items/unt_236/),  **23%** [Eisengolem](/de/Items/unt_237/),  **23%** [Magierin](/de/Items/unt_238/),  **23%** [Seelenstein des Goldgolems](/de/Items/unt_322/),  **6%** [Seelenstein des Erzmagiers](/de/Items/unt_323/),  |
-  | 5 | **12%** | **3x** |  **23%** [Stein-Wasserspeier](/de/Items/unt_236/),  **23%** [Eisengolem](/de/Items/unt_237/),  **23%** [Magierin](/de/Items/unt_238/),  **23%** [Seelenstein des Goldgolems](/de/Items/unt_322/),  **6%** [Seelenstein des Erzmagiers](/de/Items/unt_323/),  |
-  | 6 | **12%** | **5x** |  **100%** [Gremlin](/de/Items/unt_235/),  |
+  | 1 | **25%** | **1x** | [Limitiertes Turm-Paket](/ItemsDE/con_2110/) |
+  | 2 | **12%** | **2x** | [Limitiertes Turm-Paket](/ItemsDE/con_2110/) |
+  | 3 | **12%** | **3x** | [Limitiertes Turm-Paket](/ItemsDE/con_2110/) |
+  | 4 | **12%** | **5x** |  **23%** [Stein-Wasserspeier](/ItemsDE/unt_236/),  **23%** [Eisengolem](/ItemsDE/unt_237/),  **23%** [Magierin](/ItemsDE/unt_238/),  **23%** [Seelenstein des Goldgolems](/ItemsDE/unt_322/),  **6%** [Seelenstein des Erzmagiers](/ItemsDE/unt_323/),  |
+  | 5 | **12%** | **3x** |  **23%** [Stein-Wasserspeier](/ItemsDE/unt_236/),  **23%** [Eisengolem](/ItemsDE/unt_237/),  **23%** [Magierin](/ItemsDE/unt_238/),  **23%** [Seelenstein des Goldgolems](/ItemsDE/unt_322/),  **6%** [Seelenstein des Erzmagiers](/ItemsDE/unt_323/),  |
+  | 6 | **12%** | **5x** |  **100%** [Gremlin](/ItemsDE/unt_235/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Limitiertes Turm-Paket](/de/Items/con_2110/) |
-  | 2 | **11%** | **5x** |  **23%** [Stein-Wasserspeier](/de/Items/unt_236/),  **23%** [Eisengolem](/de/Items/unt_237/),  **23%** [Magierin](/de/Items/unt_238/),  **23%** [Seelenstein des Goldgolems](/de/Items/unt_322/),  **6%** [Seelenstein des Erzmagiers](/de/Items/unt_323/),  |
-  | 3 | **11%** | **3x** |  **23%** [Stein-Wasserspeier](/de/Items/unt_236/),  **23%** [Eisengolem](/de/Items/unt_237/),  **23%** [Magierin](/de/Items/unt_238/),  **23%** [Seelenstein des Goldgolems](/de/Items/unt_322/),  **6%** [Seelenstein des Erzmagiers](/de/Items/unt_323/),  |
-  | 4 | **11%** | **5x** |  **100%** [Gremlin](/de/Items/unt_235/),  |
+  | 1 | **55%** | **1x** | [Limitiertes Turm-Paket](/ItemsDE/con_2110/) |
+  | 2 | **11%** | **5x** |  **23%** [Stein-Wasserspeier](/ItemsDE/unt_236/),  **23%** [Eisengolem](/ItemsDE/unt_237/),  **23%** [Magierin](/ItemsDE/unt_238/),  **23%** [Seelenstein des Goldgolems](/ItemsDE/unt_322/),  **6%** [Seelenstein des Erzmagiers](/ItemsDE/unt_323/),  |
+  | 3 | **11%** | **3x** |  **23%** [Stein-Wasserspeier](/ItemsDE/unt_236/),  **23%** [Eisengolem](/ItemsDE/unt_237/),  **23%** [Magierin](/ItemsDE/unt_238/),  **23%** [Seelenstein des Goldgolems](/ItemsDE/unt_322/),  **6%** [Seelenstein des Erzmagiers](/ItemsDE/unt_323/),  |
+  | 4 | **11%** | **5x** |  **100%** [Gremlin](/ItemsDE/unt_235/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Limitiertes Turm-Paket](/de/Items/con_2110/)
+  **Drop by 10x spin: X** [Limitiertes Turm-Paket](/ItemsDE/con_2110/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Seelenstein des Goldgolems](/de/Items/unt_322/), [Seelenstein des Erzmagiers](/de/Items/unt_323/), [Seelenstein der Nagakönigin](/de/Items/unt_325/), [Titan-Seelenstein](/de/Items/unt_326/) | [Gremlin](/de/Items/unt_235/), [Stein-Wasserspeier](/de/Items/unt_236/), [Eisengolem](/de/Items/unt_237/), [Magierin](/de/Items/unt_238/), [Naga](/de/Items/unt_240/), [Gigant](/de/Items/unt_241/) |
+  | [Seelenstein des Goldgolems](/ItemsDE/unt_322/), [Seelenstein des Erzmagiers](/ItemsDE/unt_323/), [Seelenstein der Nagakönigin](/ItemsDE/unt_325/), [Titan-Seelenstein](/ItemsDE/unt_326/) | [Gremlin](/ItemsDE/unt_235/), [Stein-Wasserspeier](/ItemsDE/unt_236/), [Eisengolem](/ItemsDE/unt_237/), [Magierin](/ItemsDE/unt_238/), [Naga](/ItemsDE/unt_240/), [Gigant](/ItemsDE/unt_241/) |
 
 
 

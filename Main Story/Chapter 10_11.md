@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-11 Geist durchtränken"
 permalink: /Main Story/Chapter 10_11/
 excerpt: "Kapitel 10 - 11. Era of Chaos  Hauptstory - Kapitel 10_11. 10-11 Geist durchtränken"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 10_11.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Überragendes Erz](/de/Items/mat_33/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Überragendes Erz](/ItemsDE/mat_33/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Wertvolles Holz +2](/de/Items/mat_27/){: .btn .btn--era3}, **40% 1x** [Wertvolles Holz +2](/de/Items/mat_27/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Wertvolles Holz +2](/ItemsDE/mat_27/){: .btn .btn--era3}, **40% 1x** [Wertvolles Holz +2](/ItemsDE/mat_27/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

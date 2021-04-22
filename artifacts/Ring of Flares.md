@@ -2,7 +2,7 @@
 title: "Artefakt - Codex des Erzmagiers - Ring der Aufhellung"
 permalink: /artifacts/Ring of Flares/
 excerpt: "Era of Chaos  Codex des Erzmagiers - Ring der Aufhellung. Ein Ring, dessen Oberfläche mit Magie überzogen ist. Ein Codex des Erzmagiers."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ring of Flares.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Codex des Erzmagiers](/de/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Ring der Aufhellung](/de/Items/art_138/)
+ **Related Item**: [Ring der Aufhellung](/ItemsDE/art_138/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

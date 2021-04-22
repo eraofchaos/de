@@ -2,7 +2,7 @@
 title: "Faction Altar for Burg"
 permalink: /FactionAltar/DROP_103/
 excerpt: "Era of Chaos  Faction Altar for Burg. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "DROP_103.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Limitiertes Burg-Paket](/de/Items/con_2140/)
+  **Drop by Luck (10x spin): 30x** [Limitiertes Burg-Paket](/ItemsDE/con_2140/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Limitiertes Burg-Paket](/de/Items/con_2140/) |
-  | 2 | **12%** | **2x** | [Limitiertes Burg-Paket](/de/Items/con_2140/) |
-  | 3 | **12%** | **3x** | [Limitiertes Burg-Paket](/de/Items/con_2140/) |
-  | 4 | **12%** | **5x** |  **22%** [Oger](/de/Items/unt_220/),  **22%** [Ork](/de/Items/unt_219/),  **6%** [Roc](/de/Items/unt_221/),  **22%** [Zyklop](/de/Items/unt_222/),  **6%** [Seelenstein des Ogermagiers](/de/Items/unt_308/),  **6%** [Seelenstein des Donnervogels](/de/Items/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/de/Items/unt_310/),  |
-  | 5 | **12%** | **3x** |  **22%** [Oger](/de/Items/unt_220/),  **22%** [Ork](/de/Items/unt_219/),  **6%** [Roc](/de/Items/unt_221/),  **22%** [Zyklop](/de/Items/unt_222/),  **6%** [Seelenstein des Ogermagiers](/de/Items/unt_308/),  **6%** [Seelenstein des Donnervogels](/de/Items/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/de/Items/unt_310/),  |
-  | 6 | **12%** | **5x** |  **25%** [Goblin](/de/Items/unt_217/),  **25%** [Wolfsreiter](/de/Items/unt_218/),  **25%** [Seelenstein des Hobgoblins](/de/Items/unt_305/),  **25%** [Seelenstein des Wolfskriegers](/de/Items/unt_306/),  |
+  | 1 | **25%** | **1x** | [Limitiertes Burg-Paket](/ItemsDE/con_2140/) |
+  | 2 | **12%** | **2x** | [Limitiertes Burg-Paket](/ItemsDE/con_2140/) |
+  | 3 | **12%** | **3x** | [Limitiertes Burg-Paket](/ItemsDE/con_2140/) |
+  | 4 | **12%** | **5x** |  **22%** [Oger](/ItemsDE/unt_220/),  **22%** [Ork](/ItemsDE/unt_219/),  **6%** [Roc](/ItemsDE/unt_221/),  **22%** [Zyklop](/ItemsDE/unt_222/),  **6%** [Seelenstein des Ogermagiers](/ItemsDE/unt_308/),  **6%** [Seelenstein des Donnervogels](/ItemsDE/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/ItemsDE/unt_310/),  |
+  | 5 | **12%** | **3x** |  **22%** [Oger](/ItemsDE/unt_220/),  **22%** [Ork](/ItemsDE/unt_219/),  **6%** [Roc](/ItemsDE/unt_221/),  **22%** [Zyklop](/ItemsDE/unt_222/),  **6%** [Seelenstein des Ogermagiers](/ItemsDE/unt_308/),  **6%** [Seelenstein des Donnervogels](/ItemsDE/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/ItemsDE/unt_310/),  |
+  | 6 | **12%** | **5x** |  **25%** [Goblin](/ItemsDE/unt_217/),  **25%** [Wolfsreiter](/ItemsDE/unt_218/),  **25%** [Seelenstein des Hobgoblins](/ItemsDE/unt_305/),  **25%** [Seelenstein des Wolfskriegers](/ItemsDE/unt_306/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Limitiertes Burg-Paket](/de/Items/con_2140/) |
-  | 2 | **11%** | **5x** |  **22%** [Oger](/de/Items/unt_220/),  **22%** [Ork](/de/Items/unt_219/),  **6%** [Roc](/de/Items/unt_221/),  **22%** [Zyklop](/de/Items/unt_222/),  **6%** [Seelenstein des Ogermagiers](/de/Items/unt_308/),  **6%** [Seelenstein des Donnervogels](/de/Items/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/de/Items/unt_310/),  |
-  | 3 | **11%** | **3x** |  **22%** [Oger](/de/Items/unt_220/),  **22%** [Ork](/de/Items/unt_219/),  **6%** [Roc](/de/Items/unt_221/),  **22%** [Zyklop](/de/Items/unt_222/),  **6%** [Seelenstein des Ogermagiers](/de/Items/unt_308/),  **6%** [Seelenstein des Donnervogels](/de/Items/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/de/Items/unt_310/),  |
-  | 4 | **11%** | **5x** |  **25%** [Goblin](/de/Items/unt_217/),  **25%** [Wolfsreiter](/de/Items/unt_218/),  **25%** [Seelenstein des Hobgoblins](/de/Items/unt_305/),  **25%** [Seelenstein des Wolfskriegers](/de/Items/unt_306/),  |
+  | 1 | **55%** | **1x** | [Limitiertes Burg-Paket](/ItemsDE/con_2140/) |
+  | 2 | **11%** | **5x** |  **22%** [Oger](/ItemsDE/unt_220/),  **22%** [Ork](/ItemsDE/unt_219/),  **6%** [Roc](/ItemsDE/unt_221/),  **22%** [Zyklop](/ItemsDE/unt_222/),  **6%** [Seelenstein des Ogermagiers](/ItemsDE/unt_308/),  **6%** [Seelenstein des Donnervogels](/ItemsDE/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/ItemsDE/unt_310/),  |
+  | 3 | **11%** | **3x** |  **22%** [Oger](/ItemsDE/unt_220/),  **22%** [Ork](/ItemsDE/unt_219/),  **6%** [Roc](/ItemsDE/unt_221/),  **22%** [Zyklop](/ItemsDE/unt_222/),  **6%** [Seelenstein des Ogermagiers](/ItemsDE/unt_308/),  **6%** [Seelenstein des Donnervogels](/ItemsDE/unt_309/),  **13%** [Seelenstein des Zyklopenkönigs](/ItemsDE/unt_310/),  |
+  | 4 | **11%** | **5x** |  **25%** [Goblin](/ItemsDE/unt_217/),  **25%** [Wolfsreiter](/ItemsDE/unt_218/),  **25%** [Seelenstein des Hobgoblins](/ItemsDE/unt_305/),  **25%** [Seelenstein des Wolfskriegers](/ItemsDE/unt_306/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Limitiertes Burg-Paket](/de/Items/con_2140/)
+  **Drop by 10x spin: X** [Limitiertes Burg-Paket](/ItemsDE/con_2140/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Seelenstein des Hobgoblins](/de/Items/unt_305/), [Seelenstein des Wolfskriegers](/de/Items/unt_306/), [Seelenstein des Ork-Kommandanten](/de/Items/unt_307/), [Seelenstein des Ogermagiers](/de/Items/unt_308/), [Seelenstein des Donnervogels](/de/Items/unt_309/), [Seelenstein des Zyklopenkönigs](/de/Items/unt_310/), [Seelenstein des Ur-Behemoth](/de/Items/unt_311/), [Seelenstein des Todesheulers](/de/Items/unt_312/) | [Goblin](/de/Items/unt_217/), [Wolfsreiter](/de/Items/unt_218/), [Ork](/de/Items/unt_219/), [Oger](/de/Items/unt_220/), [Roc](/de/Items/unt_221/), [Zyklop](/de/Items/unt_222/), [Behemoth](/de/Items/unt_223/), [Berserker](/de/Items/unt_224/) |
+  | [Seelenstein des Hobgoblins](/ItemsDE/unt_305/), [Seelenstein des Wolfskriegers](/ItemsDE/unt_306/), [Seelenstein des Ork-Kommandanten](/ItemsDE/unt_307/), [Seelenstein des Ogermagiers](/ItemsDE/unt_308/), [Seelenstein des Donnervogels](/ItemsDE/unt_309/), [Seelenstein des Zyklopenkönigs](/ItemsDE/unt_310/), [Seelenstein des Ur-Behemoth](/ItemsDE/unt_311/), [Seelenstein des Todesheulers](/ItemsDE/unt_312/) | [Goblin](/ItemsDE/unt_217/), [Wolfsreiter](/ItemsDE/unt_218/), [Ork](/ItemsDE/unt_219/), [Oger](/ItemsDE/unt_220/), [Roc](/ItemsDE/unt_221/), [Zyklop](/ItemsDE/unt_222/), [Behemoth](/ItemsDE/unt_223/), [Berserker](/ItemsDE/unt_224/) |
 
 
 

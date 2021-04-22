@@ -2,7 +2,7 @@
 title: "Faction Altar for Dungeon"
 permalink: /FactionAltar/DROP_107/
 excerpt: "Era of Chaos  Faction Altar for Dungeon. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "DROP_107.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Limitiertes Dungeon-Paket](/de/Items/con_2107/)
+  **Drop by Luck (10x spin): 30x** [Limitiertes Dungeon-Paket](/ItemsDE/con_2107/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Limitiertes Dungeon-Paket](/de/Items/con_2107/) |
-  | 2 | **12%** | **2x** | [Limitiertes Dungeon-Paket](/de/Items/con_2107/) |
-  | 3 | **12%** | **3x** | [Limitiertes Dungeon-Paket](/de/Items/con_2107/) |
-  | 4 | **12%** | **5x** |  **30%** [Harpyie](/de/Items/unt_245/),  **9%** [Minotaurus](/de/Items/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/de/Items/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/de/Items/unt_329/),  |
-  | 5 | **12%** | **3x** |  **30%** [Harpyie](/de/Items/unt_245/),  **9%** [Minotaurus](/de/Items/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/de/Items/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/de/Items/unt_329/),  |
-  | 6 | **12%** | **5x** |  **50%** [Troglodyt](/de/Items/unt_244/),  **50%** [Seelenstein des Dunklen Troglodyten](/de/Items/unt_328/),  |
+  | 1 | **25%** | **1x** | [Limitiertes Dungeon-Paket](/ItemsDE/con_2107/) |
+  | 2 | **12%** | **2x** | [Limitiertes Dungeon-Paket](/ItemsDE/con_2107/) |
+  | 3 | **12%** | **3x** | [Limitiertes Dungeon-Paket](/ItemsDE/con_2107/) |
+  | 4 | **12%** | **5x** |  **30%** [Harpyie](/ItemsDE/unt_245/),  **9%** [Minotaurus](/ItemsDE/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/ItemsDE/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/ItemsDE/unt_329/),  |
+  | 5 | **12%** | **3x** |  **30%** [Harpyie](/ItemsDE/unt_245/),  **9%** [Minotaurus](/ItemsDE/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/ItemsDE/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/ItemsDE/unt_329/),  |
+  | 6 | **12%** | **5x** |  **50%** [Troglodyt](/ItemsDE/unt_244/),  **50%** [Seelenstein des Dunklen Troglodyten](/ItemsDE/unt_328/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Limitiertes Dungeon-Paket](/de/Items/con_2107/) |
-  | 2 | **11%** | **5x** |  **30%** [Harpyie](/de/Items/unt_245/),  **9%** [Minotaurus](/de/Items/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/de/Items/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/de/Items/unt_329/),  |
-  | 3 | **11%** | **3x** |  **30%** [Harpyie](/de/Items/unt_245/),  **9%** [Minotaurus](/de/Items/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/de/Items/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/de/Items/unt_329/),  |
-  | 4 | **11%** | **5x** |  **50%** [Troglodyt](/de/Items/unt_244/),  **50%** [Seelenstein des Dunklen Troglodyten](/de/Items/unt_328/),  |
+  | 1 | **55%** | **1x** | [Limitiertes Dungeon-Paket](/ItemsDE/con_2107/) |
+  | 2 | **11%** | **5x** |  **30%** [Harpyie](/ItemsDE/unt_245/),  **9%** [Minotaurus](/ItemsDE/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/ItemsDE/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/ItemsDE/unt_329/),  |
+  | 3 | **11%** | **3x** |  **30%** [Harpyie](/ItemsDE/unt_245/),  **9%** [Minotaurus](/ItemsDE/unt_248/),  **30%** [Seelenstein des Minotaurenkönigs](/ItemsDE/unt_332/),  **30%** [Seelenstein der Harpyienhexe](/ItemsDE/unt_329/),  |
+  | 4 | **11%** | **5x** |  **50%** [Troglodyt](/ItemsDE/unt_244/),  **50%** [Seelenstein des Dunklen Troglodyten](/ItemsDE/unt_328/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Limitiertes Dungeon-Paket](/de/Items/con_2107/)
+  **Drop by 10x spin: X** [Limitiertes Dungeon-Paket](/ItemsDE/con_2107/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Seelenstein des Dunklen Troglodyten](/de/Items/unt_328/), [Seelenstein des Minotaurenkönigs](/de/Items/unt_332/), [Seelenstein des Schwarzen Drachenkönigs](/de/Items/unt_334/), [Seelenstein der Harpyienhexe](/de/Items/unt_329/) | [Troglodyt](/de/Items/unt_244/), [Harpyie](/de/Items/unt_245/), [Minotaurus](/de/Items/unt_248/), [Schwarzer Drache](/de/Items/unt_250/), [Roter Drache](/de/Items/unt_251/) |
+  | [Seelenstein des Dunklen Troglodyten](/ItemsDE/unt_328/), [Seelenstein des Minotaurenkönigs](/ItemsDE/unt_332/), [Seelenstein des Schwarzen Drachenkönigs](/ItemsDE/unt_334/), [Seelenstein der Harpyienhexe](/ItemsDE/unt_329/) | [Troglodyt](/ItemsDE/unt_244/), [Harpyie](/ItemsDE/unt_245/), [Minotaurus](/ItemsDE/unt_248/), [Schwarzer Drache](/ItemsDE/unt_250/), [Roter Drache](/ItemsDE/unt_251/) |
 
 
 

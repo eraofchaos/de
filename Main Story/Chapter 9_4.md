@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-4 Unterströmung"
 permalink: /Main Story/Chapter 9_4/
 excerpt: "Kapitel 9 - 4. Era of Chaos  Hauptstory - Kapitel 9_4. 9-4 Unterströmung"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 9_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Wertvoller Schwefel +2](/de/Items/mat_29/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Wertvoller Schwefel +2](/ItemsDE/mat_29/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Überlegenes Erz +1](/de/Items/mat_19/){: .btn .btn--era3}, **40% 1x** [Überlegenes Erz +1](/de/Items/mat_19/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Überlegenes Erz +1](/ItemsDE/mat_19/){: .btn .btn--era3}, **40% 1x** [Überlegenes Erz +1](/ItemsDE/mat_19/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

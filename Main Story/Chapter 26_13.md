@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-13 Vermehrung der Todesfeen"
 permalink: /Main Story/Chapter 26_13/
 excerpt: "Kapitel 26 - 13. Era of Chaos  Hauptstory - Kapitel 26_13. 26-13 Vermehrung der Todesfeen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 26_13.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Sternschwefel +4](/de/Items/mat_92/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Sternschwefel +4](/ItemsDE/mat_92/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Seelenerz +3](/de/Items/mat_82/){: .btn .btn--era5}, **40% 1x** [Seelenerz +3](/de/Items/mat_82/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Seelenerz +3](/ItemsDE/mat_82/){: .btn .btn--era5}, **40% 1x** [Seelenerz +3](/ItemsDE/mat_82/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

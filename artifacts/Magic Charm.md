@@ -2,7 +2,7 @@
 title: "Artefakt - Zaubererbrunnen - Magischer Glücksbringer"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Zaubererbrunnen - Magischer Glücksbringer. Ein Glücksbringer mit magischen Kräften. Eine der Komponenten für den Zaubererbrunnen."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Magic Charm.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Zaubererbrunnen](/de/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 3x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Magischer Glücksbringer](/de/Items/art_113/)
+ **Related Item**: [Magischer Glücksbringer](/ItemsDE/art_113/)
 
  **Quality:** [Blue Artifact Components](/de/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

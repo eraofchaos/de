@@ -2,7 +2,7 @@
 title: "Artefakt - Armageddonklinge - Stab der Weisheit"
 permalink: /artifacts/Staff of Wisdom/
 excerpt: "Era of Chaos  Armageddonklinge - Stab der Weisheit. Eine Reliquie zum Schutz des Eisschilds. Eine der Komponenten für die Armageddonklinge."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Staff of Wisdom.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Stab der Weisheit](/de/Items/art_168/)
+ **Related Item**: [Stab der Weisheit](/ItemsDE/art_168/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

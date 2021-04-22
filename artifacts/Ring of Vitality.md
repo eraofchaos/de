@@ -2,7 +2,7 @@
 title: "Artefakt - Elixier des Lebens - Ring der Vitalität"
 permalink: /artifacts/Ring of Vitality/
 excerpt: "Era of Chaos  Elixier des Lebens - Ring der Vitalität. Ein Ring, der Energie liefert. Eine der Komponenten für das Elixier des Lebens."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ring of Vitality.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Elixier des Lebens](/de/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 1x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Ring der Vitalität](/de/Items/art_106/)
+ **Related Item**: [Ring der Vitalität](/ItemsDE/art_106/)
 
  **Quality:** [Green Artifact Components](/de/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

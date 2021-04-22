@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 2 - 2-1 Geburt eines neuen Tages"
 permalink: /Underground/Chapter 2_1/
 excerpt: "Kapitel 2 - 1. Era of Chaos  Untergrund - Kapitel 2_1. 2-1 Geburt eines neuen Tages"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 2_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Scharfschütze](/de/Items/unt_191/){: .btn .btn--era3}, **50% 1x** [Scharfschütze](/de/Items/unt_191/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Scharfschütze](/ItemsDE/unt_191/){: .btn .btn--era3}, **50% 1x** [Scharfschütze](/ItemsDE/unt_191/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Buch der Waffen](/de/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Buch der Waffen](/ItemsDE/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **100% 1x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}
+ **Drop 4:** **100% 1x** [Normaler Kristall](/ItemsDE/mat_11/){: .btn .btn--era2}
 
 
 ## Fight against Team

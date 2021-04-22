@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund - Helm der Himmlischen Erleuchtung"
 permalink: /artifacts/Helm of Heavenly Enlightenment/
 excerpt: "Era of Chaos  Engelsbund - Helm der Himmlischen Erleuchtung. Eine von den Göttern gesegnete Krone. Eine der Komponenten für den Engelsbund."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Helm of Heavenly Enlightenment.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Engelsbund](/de/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Helm der Himmlischen Erleuchtung](/de/Items/art_152/)
+ **Related Item**: [Helm der Himmlischen Erleuchtung](/ItemsDE/art_152/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

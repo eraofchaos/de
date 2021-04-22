@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-9 Bergwerke von Nighon"
 permalink: /Main Story/Chapter 27_9/
 excerpt: "Kapitel 27 - 9. Era of Chaos  Hauptstory - Kapitel 27_9. 27-9 Bergwerke von Nighon"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 27_9.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Strahlendes Quecksilber +5](/de/Items/mat_98/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Strahlendes Quecksilber +5](/ItemsDE/mat_98/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Sternschwefel +4](/de/Items/mat_92/){: .btn .btn--era5}, **40% 1x** [Sternschwefel +4](/de/Items/mat_92/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Sternschwefel +4](/ItemsDE/mat_92/){: .btn .btn--era5}, **40% 1x** [Sternschwefel +4](/ItemsDE/mat_92/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

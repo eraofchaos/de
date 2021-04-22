@@ -2,7 +2,7 @@
 title: "Artefakt - Ring des Magiers - Ring der Beschwörung"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "Era of Chaos  Ring des Magiers - Ring der Beschwörung. Ein geheimnisvoller Ring mit starker Magie. Eine der Komponenten für den Ring des Magiers."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ring of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ring des Magiers](/de/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 3x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Ring der Beschwörung](/de/Items/art_116/)
+ **Related Item**: [Ring der Beschwörung](/ItemsDE/art_116/)
 
  **Quality:** [Blue Artifact Components](/de/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

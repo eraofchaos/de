@@ -2,7 +2,7 @@
 title: "Artefakt - Titanendonner - Titanenharnisch"
 permalink: /artifacts/Titan's Cuirass/
 excerpt: "Era of Chaos  Titanendonner - Titanenharnisch. Eine aus einem Meteor gefertigte Rüstung. Eine der Komponenten für den Titanendonner."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Titan's Cuirass.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Titanendonner](/de/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Titanenharnisch](/de/Items/art_159/)
+ **Related Item**: [Titanenharnisch](/ItemsDE/art_159/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

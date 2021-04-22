@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 2 - 2-4 Wiedervereinigung und Wiedergeburt"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Kapitel 2 - 4. Era of Chaos  Untergrund - Kapitel 2_4. 2-4 Wiedervereinigung und Wiedergeburt"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 2_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Buch der Waffen](/de/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Buch der Waffen](/ItemsDE/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}, **70% 1x** [Normales Holz](/de/Items/mat_7/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Normales Holz](/ItemsDE/mat_7/){: .btn .btn--era2}, **70% 1x** [Normales Holz](/ItemsDE/mat_7/){: .btn .btn--era2}
 
 
 ## Fight against Team

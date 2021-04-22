@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-12 Eine Stadt ohne Drachen"
 permalink: /Main Story/Chapter 24_12/
 excerpt: "Kapitel 24 - 12. Era of Chaos  Hauptstory - Kapitel 24_12. 24-12 Eine Stadt ohne Drachen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 24_12.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Seelenkristall +3](/de/Items/mat_87/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Seelenkristall +3](/ItemsDE/mat_87/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Geheime Edelsteine +2](/de/Items/mat_79/){: .btn .btn--era5}, **40% 1x** [Geheime Edelsteine +2](/de/Items/mat_79/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Geheime Edelsteine +2](/ItemsDE/mat_79/){: .btn .btn--era5}, **40% 1x** [Geheime Edelsteine +2](/ItemsDE/mat_79/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

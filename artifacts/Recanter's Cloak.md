@@ -2,7 +2,7 @@
 title: "Artefakt - Codex des Erzmagiers - Widerrufermantel"
 permalink: /artifacts/Recanter's Cloak/
 excerpt: "Era of Chaos  Codex des Erzmagiers - Widerrufermantel. Wer dies trägt, kann magische Angriffe schwächen. Ein Codex des Erzmagiers."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Recanter's Cloak.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Codex des Erzmagiers](/de/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Widerrufermantel](/de/Items/art_137/)
+ **Related Item**: [Widerrufermantel](/ItemsDE/art_137/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

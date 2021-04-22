@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 3 - 3-2 Das Mal des Drachen"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Kapitel 3 - 2. Era of Chaos  Untergrund - Kapitel 3_2. 3-2 Das Mal des Drachen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 3_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Buch der Waffen](/de/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Buch der Waffen](/ItemsDE/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}, **70% 1x** [Normales Quecksilber](/de/Items/mat_8/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Normales Quecksilber](/ItemsDE/mat_8/){: .btn .btn--era2}, **70% 1x** [Normales Quecksilber](/ItemsDE/mat_8/){: .btn .btn--era2}
 
 
 ## Fight against Team

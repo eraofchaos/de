@@ -2,7 +2,7 @@
 title: "Artefakt - Axt der Wildheit - Krone der höchsten Magier"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Era of Chaos  Axt der Wildheit - Krone der höchsten Magier. Eine Krone, Dankesgeschenk für die Rettung eines verrückten Zauberers. Eine der Komponenten für die Axt der Wildheit."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Crown of the Supreme Magi.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Krone der höchsten Magier](/de/Items/art_127/)
+ **Related Item**: [Krone der höchsten Magier](/ItemsDE/art_127/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

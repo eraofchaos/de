@@ -2,7 +2,7 @@
 title: "VIP - VIP 1"
 permalink: /VIP/VIP 1/
 excerpt: "Era of Chaos  VIP-System. VIP 1"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "VIP 1.md"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
 
 ## Details
 
- **Reward:** **1x** [Premiumpaket V1](/de/Items/con_1297/)
+ **Reward:** **1x** [Premiumpaket V1](/ItemsDE/con_1297/)
 
  **EXP:** 60
 

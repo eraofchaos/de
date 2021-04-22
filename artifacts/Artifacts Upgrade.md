@@ -2,16 +2,16 @@
 title: "Artefakt Upgrade Costs"
 permalink: /artifacts/Artifacts Upgrade/
 excerpt: "Era of Chaos  Artifacts upgrade cost. Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Artifacts Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Himmlischer Formstein](/de/Items/art_188/)
+  First upgrade ingredient:[Himmlischer Formstein](/ItemsDE/art_188/)
 
-  Second upgrade ingredient:[Wirkkristall](/de/Items/art_189/)
+  Second upgrade ingredient:[Wirkkristall](/ItemsDE/art_189/)
 
   |  Level  | [Green Artifacts](/de/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Artifacts](/de/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Artifacts](/de/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Artifacts](/de/artifacts/Orange Artifacts/){: .btn .btn--era5} |
   |:--------|:-------|:-------|:-------|:-------|

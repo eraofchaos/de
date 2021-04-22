@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-2 Magie ersehnen"
 permalink: /Main Story/Chapter 20_2/
 excerpt: "Kapitel 20 - 2. Era of Chaos  Hauptstory - Kapitel 20_2. 20-2 Magie ersehnen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 20_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Ewiges Holz +1](/de/Items/mat_69/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Ewiges Holz +1](/ItemsDE/mat_69/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Mythisches Quecksilber](/de/Items/mat_63/){: .btn .btn--era5}, **40% 1x** [Mythisches Quecksilber](/de/Items/mat_63/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Mythisches Quecksilber](/ItemsDE/mat_63/){: .btn .btn--era5}, **40% 1x** [Mythisches Quecksilber](/ItemsDE/mat_63/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

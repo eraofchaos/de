@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund - Schwert des Urteils"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Era of Chaos  Engelsbund - Schwert des Urteils. Ein Schwert, Geschenk der Götter an die Menschen. Eine der Komponenten für den Engelsbund."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Sword of Judgement.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Engelsbund](/de/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Schwert des Urteils](/de/Items/art_150/)
+ **Related Item**: [Schwert des Urteils](/ItemsDE/art_150/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 1 - 1-1 In den Untergrund"
 permalink: /Underground/Chapter 1_1/
 excerpt: "Kapitel 1 - 1. Era of Chaos  Untergrund - Kapitel 1_1. 1-1 In den Untergrund"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 1_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Pikenier](/de/Items/unt_190/){: .btn .btn--era3}, **50% 1x** [Pikenier](/de/Items/unt_190/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Pikenier](/ItemsDE/unt_190/){: .btn .btn--era3}, **50% 1x** [Pikenier](/ItemsDE/unt_190/){: .btn .btn--era3}
 
- **Drop 2:** **80% 1x** [Normale Edelsteine](/de/Items/mat_10/){: .btn .btn--era2}, **20% 2x** [Normale Edelsteine](/de/Items/mat_10/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Normale Edelsteine](/ItemsDE/mat_10/){: .btn .btn--era2}, **20% 2x** [Normale Edelsteine](/ItemsDE/mat_10/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Schlechter Kristall](/de/Items/mat_5/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Schlechter Kristall](/ItemsDE/mat_5/){: .btn .btn--era1}
 
 
 ## Fight against Team

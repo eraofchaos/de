@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 8 - 8-4 Erweckung der Toten"
 permalink: /Underground/Chapter 8_4/
 excerpt: "Kapitel 8 - 4. Era of Chaos  Untergrund - Kapitel 8_4. 8-4 Erweckung der Toten"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 8_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Buch der Essenzen](/de/Items/mat_39/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Buch der Essenzen](/ItemsDE/mat_39/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Buch der Waffen +2](/de/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Buch der Waffen +2](/de/Items/mat_32/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Buch der Waffen +2](/ItemsDE/mat_32/){: .btn .btn--era3}, **50% 1x** [Buch der Waffen +2](/ItemsDE/mat_32/){: .btn .btn--era3}
 
 
 ## Fight against Team

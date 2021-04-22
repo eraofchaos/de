@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 11 - 11-3 In Deckung!"
 permalink: /Underground/Chapter 11_3/
 excerpt: "Kapitel 11 - 3. Era of Chaos  Untergrund - Kapitel 11_3. 11-3 In Deckung!"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 11_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Gremlin](/de/Items/unt_235/){: .btn .btn--era3}, **67% 1x** [Gremlin](/de/Items/unt_235/){: .btn .btn--era3}
+ **Drop 1:** **33% 0x** [Gremlin](/ItemsDE/unt_235/){: .btn .btn--era3}, **67% 1x** [Gremlin](/ItemsDE/unt_235/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Buch der Essenzen +1](/de/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Buch der Essenzen +1](/ItemsDE/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Buch der Essenzen](/de/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen](/de/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Buch der Essenzen](/ItemsDE/mat_39/){: .btn .btn--era4}, **50% 1x** [Buch der Essenzen](/ItemsDE/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

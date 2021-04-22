@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 3 - 3-5 Erleuchtung"
 permalink: /Underground/Chapter 3_5/
 excerpt: "Kapitel 3 - 5. Era of Chaos  Untergrund - Kapitel 3_5. 3-5 Erleuchtung"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 3_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Kavallerist](/de/Items/unt_195/){: .btn .btn--era4}, **33% 1x** [Kavallerist](/de/Items/unt_195/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Kavallerist](/ItemsDE/unt_195/){: .btn .btn--era4}, **33% 1x** [Kavallerist](/ItemsDE/unt_195/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Buch der Waffen](/de/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Buch der Waffen](/ItemsDE/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}, **70% 1x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Normaler Kristall](/ItemsDE/mat_11/){: .btn .btn--era2}, **70% 1x** [Normaler Kristall](/ItemsDE/mat_11/){: .btn .btn--era2}
 
 
 ## Fight against Team

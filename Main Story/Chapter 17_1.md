@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-1 Handwerkskunst der Elfen"
 permalink: /Main Story/Chapter 17_1/
 excerpt: "Kapitel 17 - 1. Era of Chaos  Hauptstory - Kapitel 17_1. 17-1 Handwerkskunst der Elfen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 17_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Legendäre Edelsteine +3](/de/Items/mat_58/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Legendäre Edelsteine +3](/ItemsDE/mat_58/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Epischer Kristall +2](/de/Items/mat_52/){: .btn .btn--era4}, **40% 1x** [Epischer Kristall +2](/de/Items/mat_52/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Epischer Kristall +2](/ItemsDE/mat_52/){: .btn .btn--era4}, **40% 1x** [Epischer Kristall +2](/ItemsDE/mat_52/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

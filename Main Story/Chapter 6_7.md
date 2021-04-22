@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-7 Der Blutsumpf"
 permalink: /Main Story/Chapter 6_7/
 excerpt: "Kapitel 6 - 7. Era of Chaos  Hauptstory - Kapitel 6_7. 6-7 Der Blutsumpf"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 6_7.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Überlegenes Erz +1](/de/Items/mat_19/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Überlegenes Erz +1](/ItemsDE/mat_19/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Gutes Holz](/de/Items/mat_13/){: .btn .btn--era3}, **40% 1x** [Gutes Holz](/de/Items/mat_13/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Gutes Holz](/ItemsDE/mat_13/){: .btn .btn--era3}, **40% 1x** [Gutes Holz](/ItemsDE/mat_13/){: .btn .btn--era3}
 
- **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

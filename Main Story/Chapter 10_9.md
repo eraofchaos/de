@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-9 Sanduhr der bösen Stunde"
 permalink: /Main Story/Chapter 10_9/
 excerpt: "Kapitel 10 - 9. Era of Chaos  Hauptstory - Kapitel 10_9. 10-9 Sanduhr der bösen Stunde"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 10_9.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Überragendes Quecksilber](/de/Items/mat_35/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Überragendes Quecksilber](/ItemsDE/mat_35/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Wertvoller Schwefel +2](/de/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Wertvoller Schwefel +2](/de/Items/mat_29/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Wertvoller Schwefel +2](/ItemsDE/mat_29/){: .btn .btn--era3}, **40% 1x** [Wertvoller Schwefel +2](/ItemsDE/mat_29/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

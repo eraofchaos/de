@@ -2,7 +2,7 @@
 title: "Artefakt - Edenapfel - Ankh"
 permalink: /artifacts/Ankh/
 excerpt: "Era of Chaos  Edenapfel - Ankh. Ein Kreuz, das dem Träger Unsterblichkeit verleiht. Niemand weiß, was mit dem letzten Besitzer passiert ist."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ankh.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Ankh](/de/Items/art_184/)
+ **Related Item**: [Ankh](/ItemsDE/art_184/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

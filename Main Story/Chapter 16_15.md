@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-15 Zwergenwache"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Kapitel 16 - 15. Era of Chaos  Hauptstory - Kapitel 16_15. 16-15 Zwergenwache"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 16_15.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Legendäres Erz +3](/de/Items/mat_54/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Legendäres Erz +3](/ItemsDE/mat_54/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Episches Holz +2](/de/Items/mat_48/){: .btn .btn--era4}, **40% 1x** [Episches Holz +2](/de/Items/mat_48/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Episches Holz +2](/ItemsDE/mat_48/){: .btn .btn--era4}, **40% 1x** [Episches Holz +2](/ItemsDE/mat_48/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

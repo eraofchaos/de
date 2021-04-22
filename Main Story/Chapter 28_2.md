@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-2 Die Macht des Waldes"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Kapitel 28 - 2. Era of Chaos  Hauptstory - Kapitel 28_2. 28-2 Die Macht des Waldes"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 28_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Strahlendes Holz +5](/de/Items/mat_97/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Strahlendes Holz +5](/ItemsDE/mat_97/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Sternquecksilber +4](/de/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Sternquecksilber +4](/de/Items/mat_91/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Sternquecksilber +4](/ItemsDE/mat_91/){: .btn .btn--era5}, **40% 1x** [Sternquecksilber +4](/ItemsDE/mat_91/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

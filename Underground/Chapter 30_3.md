@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 30 - 30-3 Meisterschützin"
 permalink: /Underground/Chapter 30_3/
 excerpt: "Kapitel 30 - 3. Era of Chaos  Untergrund - Kapitel 30_3. 30-3 Meisterschützin"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 30_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Waldelfe](/de/Items/unt_201/){: .btn .btn--era4}, **67% 1x** [Waldelfe](/de/Items/unt_201/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Waldelfe](/ItemsDE/unt_201/){: .btn .btn--era4}, **67% 1x** [Waldelfe](/ItemsDE/unt_201/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Legendäres Zertifikat +5](/de/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}, **50% 1x** [Legendäres Zertifikat +5](/ItemsDE/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

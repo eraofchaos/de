@@ -2,7 +2,7 @@
 title: "Artefakt - Axt der Wildheit - Tunika des Zyklopenkönigs"
 permalink: /artifacts/Tunic of the Cyclops King/
 excerpt: "Era of Chaos  Axt der Wildheit - Tunika des Zyklopenkönigs. Ein Mantel, den ein schwimmender Zyklop fallen ließ. Eine der Komponenten für die Axt der Wildheit."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Tunic of the Cyclops King.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Tunika des Zyklopenkönigs](/de/Items/art_128/)
+ **Related Item**: [Tunika des Zyklopenkönigs](/ItemsDE/art_128/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

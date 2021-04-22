@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-6 Vernichtung"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Kapitel 6 - 6. Era of Chaos  Hauptstory - Kapitel 6_6. 6-6 Vernichtung"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 6_6.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Überlegenes Quecksilber +1](/de/Items/mat_21/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Überlegenes Quecksilber +1](/ItemsDE/mat_21/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Guter Schwefel](/de/Items/mat_15/){: .btn .btn--era3}, **40% 1x** [Guter Schwefel](/de/Items/mat_15/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Guter Schwefel](/ItemsDE/mat_15/){: .btn .btn--era3}, **40% 1x** [Guter Schwefel](/ItemsDE/mat_15/){: .btn .btn--era3}
 
- **Drop 3:** **50% 0x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}, **50% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

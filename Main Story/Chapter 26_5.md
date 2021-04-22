@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-5 Düsteres Labyrinth"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Kapitel 26 - 5. Era of Chaos  Hauptstory - Kapitel 26_5. 26-5 Düsteres Labyrinth"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 26_5.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Sternedelsteine +4](/de/Items/mat_93/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Sternedelsteine +4](/ItemsDE/mat_93/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Seelenkristall +3](/de/Items/mat_87/){: .btn .btn--era5}, **40% 1x** [Seelenkristall +3](/de/Items/mat_87/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Seelenkristall +3](/ItemsDE/mat_87/){: .btn .btn--era5}, **40% 1x** [Seelenkristall +3](/ItemsDE/mat_87/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

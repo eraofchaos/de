@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-5 Belagertes Schloss"
 permalink: /Main Story/Chapter 11_5/
 excerpt: "Kapitel 11 - 5. Era of Chaos  Hauptstory - Kapitel 11_5. 11-5 Belagertes Schloss"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 11_5.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Überragende Edelsteine](/de/Items/mat_37/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Überragende Edelsteine](/ItemsDE/mat_37/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Wertvoller Kristall +2](/de/Items/mat_31/){: .btn .btn--era3}, **40% 1x** [Wertvoller Kristall +2](/de/Items/mat_31/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Wertvoller Kristall +2](/ItemsDE/mat_31/){: .btn .btn--era3}, **40% 1x** [Wertvoller Kristall +2](/ItemsDE/mat_31/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

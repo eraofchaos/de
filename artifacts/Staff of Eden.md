@@ -2,7 +2,7 @@
 title: "Artefakt - Edenapfel - Der Stab"
 permalink: /artifacts/Staff of Eden/
 excerpt: "Era of Chaos  Edenapfel - Der Stab. Ein Stab der Ersten Zivilisation. Er kann dem Träger unbegrenzte Zeit und grenzenloses Wissen gewähren."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Staff of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Der Stab](/de/Items/art_186/)
+ **Related Item**: [Der Stab](/ItemsDE/art_186/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

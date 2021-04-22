@@ -2,7 +2,7 @@
 title: "Artefakt - Codex des Erzmagiers - Stab der Spaltung"
 permalink: /artifacts/Staff of Disruption/
 excerpt: "Era of Chaos  Codex des Erzmagiers - Stab der Spaltung. Ein Stab, der große Kraft in sich trägt. Ein Codex des Erzmagiers."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Staff of Disruption.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Codex des Erzmagiers](/de/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Stab der Spaltung](/de/Items/art_139/)
+ **Related Item**: [Stab der Spaltung](/ItemsDE/art_139/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-11 Der Höhlenpalast"
 permalink: /Main Story/Chapter 18_11/
 excerpt: "Kapitel 18 - 11. Era of Chaos  Hauptstory - Kapitel 18_11. 18-11 Der Höhlenpalast"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 18_11.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Mythisches Erz](/de/Items/mat_61/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Mythisches Erz](/ItemsDE/mat_61/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Legendäres Holz +3](/de/Items/mat_55/){: .btn .btn--era4}, **40% 1x** [Legendäres Holz +3](/de/Items/mat_55/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Legendäres Holz +3](/ItemsDE/mat_55/){: .btn .btn--era4}, **40% 1x** [Legendäres Holz +3](/ItemsDE/mat_55/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

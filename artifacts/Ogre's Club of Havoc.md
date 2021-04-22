@@ -2,7 +2,7 @@
 title: "Artefakt - Axt der Wildheit - Ogerknüppel der Verwüstung"
 permalink: /artifacts/Ogre's Club of Havoc/
 excerpt: "Era of Chaos  Axt der Wildheit - Ogerknüppel der Verwüstung. Eine Keule, die einem Oger-Hauptmann in einer Straßentaverne abgenommen wurde. Eine der Komponenten für die Axt der Wildheit."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Ogre's Club of Havoc.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Ogerknüppel der Verwüstung](/de/Items/art_125/)
+ **Related Item**: [Ogerknüppel der Verwüstung](/ItemsDE/art_125/)
 
  **Quality:** [Violet Artifact Components](/de/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

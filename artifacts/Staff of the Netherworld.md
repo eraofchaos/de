@@ -2,7 +2,7 @@
 title: "Artefakt - Schwert des Frostes - Stab der Unterwelt"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "Era of Chaos  Schwert des Frostes - Stab der Unterwelt. Ein ultimativer Stab, versiegelt in Deyja. Eine der Komponenten für das Schwert des Frostes."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Staff of the Netherworld.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Schwert des Frostes](/de/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Stab der Unterwelt](/de/Items/art_165/)
+ **Related Item**: [Stab der Unterwelt](/ItemsDE/art_165/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

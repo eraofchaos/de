@@ -2,7 +2,7 @@
 title: "Artefakt - Armageddonklinge - Berg-Streitaxt"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "Era of Chaos  Armageddonklinge - Berg-Streitaxt. Eine Reliquie, die der Zwergenkönig nach der Schlacht von Enroth zurückließ. Eine der Komponenten für die Armageddonklinge."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Mountain Battleaxe.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Berg-Streitaxt](/de/Items/art_169/)
+ **Related Item**: [Berg-Streitaxt](/ItemsDE/art_169/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

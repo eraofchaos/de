@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-1 Letzte Worte eines Dämons"
 permalink: /Main Story/Chapter 15_1/
 excerpt: "Kapitel 15 - 1. Era of Chaos  Hauptstory - Kapitel 15_1. 15-1 Letzte Worte eines Dämons"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 15_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Epische Edelsteine +2](/de/Items/mat_51/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Epische Edelsteine +2](/ItemsDE/mat_51/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Seltener Kristall +1](/de/Items/mat_45/){: .btn .btn--era4}, **40% 1x** [Seltener Kristall +1](/de/Items/mat_45/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Seltener Kristall +1](/ItemsDE/mat_45/){: .btn .btn--era4}, **40% 1x** [Seltener Kristall +1](/ItemsDE/mat_45/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

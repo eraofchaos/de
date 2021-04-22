@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 1 - 1-3 Unerwartete Gefahr"
 permalink: /Underground/Chapter 1_3/
 excerpt: "Kapitel 1 - 3. Era of Chaos  Untergrund - Kapitel 1_3. 1-3 Unerwartete Gefahr"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Greif](/de/Items/unt_192/){: .btn .btn--era4}, **33% 1x** [Greif](/de/Items/unt_192/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Greif](/ItemsDE/unt_192/){: .btn .btn--era4}, **33% 1x** [Greif](/ItemsDE/unt_192/){: .btn .btn--era4}
 
- **Drop 2:** **80% 1x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}, **20% 2x** [Normaler Kristall](/de/Items/mat_11/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Normaler Kristall](/ItemsDE/mat_11/){: .btn .btn--era2}, **20% 2x** [Normaler Kristall](/ItemsDE/mat_11/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Schlechtes Holz](/de/Items/mat_1/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Schlechtes Holz](/ItemsDE/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

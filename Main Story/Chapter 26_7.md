@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-7 Geschenk eines Weisen"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "Kapitel 26 - 7. Era of Chaos  Hauptstory - Kapitel 26_7. 26-7 Geschenk eines Weisen"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 26_7.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Sternerz +4](/de/Items/mat_89/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Sternerz +4](/ItemsDE/mat_89/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Seelenholz +3](/de/Items/mat_83/){: .btn .btn--era5}, **40% 1x** [Seelenholz +3](/de/Items/mat_83/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Seelenholz +3](/ItemsDE/mat_83/){: .btn .btn--era5}, **40% 1x** [Seelenholz +3](/ItemsDE/mat_83/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

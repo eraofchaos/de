@@ -2,7 +2,7 @@
 title: "Faction Altar for Nekropolis"
 permalink: /FactionAltar/DROP_104/
 excerpt: "Era of Chaos  Faction Altar for Nekropolis. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "DROP_104.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Limitiertes Nekropolis-Paket](/de/Items/con_2138/)
+  **Drop by Luck (10x spin): 30x** [Limitiertes Nekropolis-Paket](/ItemsDE/con_2138/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Limitiertes Nekropolis-Paket](/de/Items/con_2138/) |
-  | 2 | **12%** | **2x** | [Limitiertes Nekropolis-Paket](/de/Items/con_2138/) |
-  | 3 | **12%** | **3x** | [Limitiertes Nekropolis-Paket](/de/Items/con_2138/) |
-  | 4 | **12%** | **5x** |  **15%** [Geist](/de/Items/unt_210/),  **52%** [Vampir](/de/Items/unt_211/),  **15%** [Seelenstein des Vampirlords](/de/Items/unt_300/),  **15%** [Seelenstein des Gespensts](/de/Items/unt_299/),  |
-  | 5 | **12%** | **3x** |  **15%** [Geist](/de/Items/unt_210/),  **52%** [Vampir](/de/Items/unt_211/),  **15%** [Seelenstein des Vampirlords](/de/Items/unt_300/),  **15%** [Seelenstein des Gespensts](/de/Items/unt_299/),  |
-  | 6 | **12%** | **5x** |  **25%** [Skelett](/de/Items/unt_208/),  **25%** [Wandelnde Tote](/de/Items/unt_209/),  **25%** [Seelenstein des Skelettkriegers](/de/Items/unt_297/),  **25%** [Seelenstein des Zombies](/de/Items/unt_298/),  |
+  | 1 | **25%** | **1x** | [Limitiertes Nekropolis-Paket](/ItemsDE/con_2138/) |
+  | 2 | **12%** | **2x** | [Limitiertes Nekropolis-Paket](/ItemsDE/con_2138/) |
+  | 3 | **12%** | **3x** | [Limitiertes Nekropolis-Paket](/ItemsDE/con_2138/) |
+  | 4 | **12%** | **5x** |  **15%** [Geist](/ItemsDE/unt_210/),  **52%** [Vampir](/ItemsDE/unt_211/),  **15%** [Seelenstein des Vampirlords](/ItemsDE/unt_300/),  **15%** [Seelenstein des Gespensts](/ItemsDE/unt_299/),  |
+  | 5 | **12%** | **3x** |  **15%** [Geist](/ItemsDE/unt_210/),  **52%** [Vampir](/ItemsDE/unt_211/),  **15%** [Seelenstein des Vampirlords](/ItemsDE/unt_300/),  **15%** [Seelenstein des Gespensts](/ItemsDE/unt_299/),  |
+  | 6 | **12%** | **5x** |  **25%** [Skelett](/ItemsDE/unt_208/),  **25%** [Wandelnde Tote](/ItemsDE/unt_209/),  **25%** [Seelenstein des Skelettkriegers](/ItemsDE/unt_297/),  **25%** [Seelenstein des Zombies](/ItemsDE/unt_298/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Limitiertes Nekropolis-Paket](/de/Items/con_2138/) |
-  | 2 | **11%** | **5x** |  **15%** [Geist](/de/Items/unt_210/),  **52%** [Vampir](/de/Items/unt_211/),  **15%** [Seelenstein des Vampirlords](/de/Items/unt_300/),  **15%** [Seelenstein des Gespensts](/de/Items/unt_299/),  |
-  | 3 | **11%** | **3x** |  **15%** [Geist](/de/Items/unt_210/),  **52%** [Vampir](/de/Items/unt_211/),  **15%** [Seelenstein des Vampirlords](/de/Items/unt_300/),  **15%** [Seelenstein des Gespensts](/de/Items/unt_299/),  |
-  | 4 | **11%** | **5x** |  **25%** [Skelett](/de/Items/unt_208/),  **25%** [Wandelnde Tote](/de/Items/unt_209/),  **25%** [Seelenstein des Skelettkriegers](/de/Items/unt_297/),  **25%** [Seelenstein des Zombies](/de/Items/unt_298/),  |
+  | 1 | **55%** | **1x** | [Limitiertes Nekropolis-Paket](/ItemsDE/con_2138/) |
+  | 2 | **11%** | **5x** |  **15%** [Geist](/ItemsDE/unt_210/),  **52%** [Vampir](/ItemsDE/unt_211/),  **15%** [Seelenstein des Vampirlords](/ItemsDE/unt_300/),  **15%** [Seelenstein des Gespensts](/ItemsDE/unt_299/),  |
+  | 3 | **11%** | **3x** |  **15%** [Geist](/ItemsDE/unt_210/),  **52%** [Vampir](/ItemsDE/unt_211/),  **15%** [Seelenstein des Vampirlords](/ItemsDE/unt_300/),  **15%** [Seelenstein des Gespensts](/ItemsDE/unt_299/),  |
+  | 4 | **11%** | **5x** |  **25%** [Skelett](/ItemsDE/unt_208/),  **25%** [Wandelnde Tote](/ItemsDE/unt_209/),  **25%** [Seelenstein des Skelettkriegers](/ItemsDE/unt_297/),  **25%** [Seelenstein des Zombies](/ItemsDE/unt_298/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Limitiertes Nekropolis-Paket](/de/Items/con_2138/)
+  **Drop by 10x spin: X** [Limitiertes Nekropolis-Paket](/ItemsDE/con_2138/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Seelenstein des Skelettkriegers](/de/Items/unt_297/), [Seelenstein des Zombies](/de/Items/unt_298/), [Seelenstein des Gespensts](/de/Items/unt_299/), [Seelenstein des Vampirlords](/de/Items/unt_300/), [Seelenstein des Geisterdrachen](/de/Items/unt_303/), [Seelenstein des Schattenritters](/de/Items/unt_302/) | [Skelett](/de/Items/unt_208/), [Wandelnde Tote](/de/Items/unt_209/), [Geist](/de/Items/unt_210/), [Vampir](/de/Items/unt_211/), [Knochendrache](/de/Items/unt_214/), [Schwarzer Ritter](/de/Items/unt_213/) |
+  | [Seelenstein des Skelettkriegers](/ItemsDE/unt_297/), [Seelenstein des Zombies](/ItemsDE/unt_298/), [Seelenstein des Gespensts](/ItemsDE/unt_299/), [Seelenstein des Vampirlords](/ItemsDE/unt_300/), [Seelenstein des Geisterdrachen](/ItemsDE/unt_303/), [Seelenstein des Schattenritters](/ItemsDE/unt_302/) | [Skelett](/ItemsDE/unt_208/), [Wandelnde Tote](/ItemsDE/unt_209/), [Geist](/ItemsDE/unt_210/), [Vampir](/ItemsDE/unt_211/), [Knochendrache](/ItemsDE/unt_214/), [Schwarzer Ritter](/ItemsDE/unt_213/) |
 
 
 

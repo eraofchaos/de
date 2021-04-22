@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-10 Die Stadt im See"
 permalink: /Main Story/Chapter 8_10/
 excerpt: "Kapitel 8 - 10. Era of Chaos  Hauptstory - Kapitel 8_10. 8-10 Die Stadt im See"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 8_10.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Wertvoller Schwefel +2](/de/Items/mat_29/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Wertvoller Schwefel +2](/ItemsDE/mat_29/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Überlegenes Erz +1](/de/Items/mat_19/){: .btn .btn--era3}, **40% 1x** [Überlegenes Erz +1](/de/Items/mat_19/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Überlegenes Erz +1](/ItemsDE/mat_19/){: .btn .btn--era3}, **40% 1x** [Überlegenes Erz +1](/ItemsDE/mat_19/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Artefakt - Zauberhut - Buch der Luftmagie"
 permalink: /artifacts/Tome of Air Magic/
 excerpt: "Era of Chaos  Zauberhut - Buch der Luftmagie. Ein Zauberbuch über höhere Luftmagie. Beim Lesen werdet Ihr den Luftelementar spüren. Eine der Komponenten für den Zauberhut."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Tome of Air Magic.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Zauberhut](/de/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Buch der Luftmagie](/de/Items/art_180/)
+ **Related Item**: [Buch der Luftmagie](/ItemsDE/art_180/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

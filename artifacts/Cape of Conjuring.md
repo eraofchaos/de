@@ -2,7 +2,7 @@
 title: "Artefakt - Ring des Magiers - Umhang der Beschwörung"
 permalink: /artifacts/Cape of Conjuring/
 excerpt: "Era of Chaos  Ring des Magiers - Umhang der Beschwörung. Ein Umhang, der vor magischer Kraft nur so knistert. Eine der Komponenten für den Ring des Magiers."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Cape of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ring des Magiers](/de/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 3x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Umhang der Beschwörung](/de/Items/art_117/)
+ **Related Item**: [Umhang der Beschwörung](/ItemsDE/art_117/)
 
  **Quality:** [Blue Artifact Components](/de/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

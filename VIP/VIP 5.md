@@ -2,7 +2,7 @@
 title: "VIP - VIP 5"
 permalink: /VIP/VIP 5/
 excerpt: "Era of Chaos  VIP-System. VIP 5"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "VIP 5.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
 ## Details
 
- **Reward:** **1x** [Premiumpaket V5](/de/Items/con_1301/)
+ **Reward:** **1x** [Premiumpaket V5](/ItemsDE/con_1301/)
 
  **EXP:** 2000
 

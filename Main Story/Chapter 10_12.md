@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-12 Bürgerkrieg in der Burg"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Kapitel 10 - 12. Era of Chaos  Hauptstory - Kapitel 10_12. 10-12 Bürgerkrieg in der Burg"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Chapter 10_12.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Beutebelohnung
 
- **Erstabschlussbelohnung:** [Silberschlüssel](/de/Items/con_693/){: .btn .btn--era3}
+ **Erstabschlussbelohnung:** [Silberschlüssel](/ItemsDE/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Überragendes Holz](/de/Items/mat_34/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Überragendes Holz](/ItemsDE/mat_34/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Wertvolles Quecksilber +2](/de/Items/mat_28/){: .btn .btn--era3}, **40% 1x** [Wertvolles Quecksilber +2](/de/Items/mat_28/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Wertvolles Quecksilber +2](/ItemsDE/mat_28/){: .btn .btn--era3}, **40% 1x** [Wertvolles Quecksilber +2](/ItemsDE/mat_28/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Zauberspruchrollen](/de/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

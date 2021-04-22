@@ -2,7 +2,7 @@
 title: "Artefakt - Edenapfel - Edenschwert"
 permalink: /artifacts/Sword of Eden/
 excerpt: "Era of Chaos  Edenapfel - Edenschwert. Ein Schwert der Ersten Zivilisation. Mit ihm kann man Blitze auf seine Feinde herabrufen."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Sword of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Edenschwert](/de/Items/art_185/)
+ **Related Item**: [Edenschwert](/ItemsDE/art_185/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

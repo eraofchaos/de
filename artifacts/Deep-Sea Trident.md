@@ -2,7 +2,7 @@
 title: "Artefakt - Schwert des Frostes - Tiefseedreizack"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "Era of Chaos  Schwert des Frostes - Tiefseedreizack. Eine Waffe Poseidons. Eine der Komponenten für das Schwert des Frostes."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: de
 ref: "Deep-Sea Trident.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Schwert des Frostes](/de/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artefaktessenz](/de/Items/con_905/)
+ **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 
- **Related Item**: [Tiefseedreizack](/de/Items/art_160/)
+ **Related Item**: [Tiefseedreizack](/ItemsDE/art_160/)
 
  **Quality:** [Orange Artifact Components](/de/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 
