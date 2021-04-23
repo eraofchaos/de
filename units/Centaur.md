@@ -3,7 +3,7 @@ title: "Zentaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Zentaur"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Zentaur](/de/Items/unt_199/)
+ **Unit Soul:** [Zentaur](/ItemsDE/unt_199/)
 
  **Unit description:** Kampfstampfer: Fügt den nächsten Einheiten Schaden zu und verlangsamt sie.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

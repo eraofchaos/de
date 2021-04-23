@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-11 Grab des Kriegers"
 permalink: /Main Story/Chapter 29_11/
 excerpt: "Kapitel 29 - 11. Era of Chaos  Hauptstory - Kapitel 29_11. 29-11 Grab des Kriegers"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 29_11.md"
 toc: false

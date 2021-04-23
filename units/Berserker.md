@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Berserker"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Berserker](/de/Items/unt_224/)
+ **Unit Soul:** [Berserker](/ItemsDE/unt_224/)
 
  **Unit description:** Kriegssturm: Fügt 3 gegnerischen Einheiten in der Nähe Schaden zu.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Berserkeraxt-Token](/de/Items/con_983/)
+ **Item to Rangaufstieg:** [Berserkeraxt-Token](/ItemsDE/con_983/)
 
- **Skin:** [Berserkeraxt-Spezialskin](/de/Items/con_651/)
+ **Skin:** [Berserkeraxt-Spezialskin](/ItemsDE/con_651/)
 
 
 ## Empfohlene Heilige Embleme
@@ -183,7 +183,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

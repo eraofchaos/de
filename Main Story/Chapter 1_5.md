@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-5 Katastrophe"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "Kapitel 1 - 5. Era of Chaos  Hauptstory - Kapitel 1_5. 1-5 Katastrophe"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 1_5.md"
 toc: false

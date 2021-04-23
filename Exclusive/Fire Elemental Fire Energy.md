@@ -2,7 +2,7 @@
 title: "Exklusiv - Feuerenergie (Fire Elemental)"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Feuerenergie. Feuerenergie. Era of Chaos Exklusiv Feuerenergie. Feuerelementar Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Fire Elemental Feuerenergie.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Feuerelementar](/de/units/Fire Elemental/) 
 
- **Item to Rangaufstieg:** [Feuerenergie-Token](/de/Items/con_998/)
+ **Item to Rangaufstieg:** [Feuerenergie-Token](/ItemsDE/con_998/)
 
- **Skin:** [„Feuerenergie“-Spezialskin](/de/Items/con_666/)
+ **Skin:** [„Feuerenergie“-Spezialskin](/ItemsDE/con_666/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Feuerenergie-Token](/de/Items/con_998/) | <Flammentrio> Der Feuerelementar erschafft Feuerbälle, die alle 20 Sek. Zieleinheiten in 3 Phasen Flächenschaden zufügen. Der Wirkungsbereich ist erst klein, dann kleiner und dann groß, und der Schaden beträgt 90 %, 120 % bzw. 150 % des ANG. Der Verbrennung-Effekt auf dem Ziel hält 5 Sek. lang. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Feuerenergie-Token](/de/Items/con_998/) | Die Durchdringung des Feuerelementars wird um 150 erhöht. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Feuerenergie-Token](/de/Items/con_998/) | Erhöht den ANG des Feuerelementars um 20 % und seinen Schaden um 12 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Feuerenergie-Token](/de/Items/con_998/) | Zu Beginn der Schlacht erhält das Feuerelementar einen Schild in Höhe von 100 % seiner max. LP. Der Schild erhöht auch die SCHD-Reduzierung (Einheit) des Feuerelementars um 30 % und fügt gegnerischen Einheiten in einem kleinen Radius jede Sekunde Schaden in Höhe von 10 % des ANG zu. Dieser Effekt kann nicht gebannt werden. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Feuerenergie-Token](/de/Items/con_998/) | Kritischer Schaden des Feuerelementars wird um 20 % erhöht, die ABW um 15 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Feuerenergie-Token](/de/Items/con_998/) | Das Feuerelementar ist immun gegen Schaden durch Feuerzauber. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Feuerenergie-Token](/de/Items/con_998/) | <Elementar-Resonanz> Wenn sich ein Feuerelementar auf dem Schlachtfeld befindet, wird das Angriffstempo aller Konflux-Einheiten um 30 % erhöht und ein Lebensentzug-Buff von 10 % gewährt. Wenn <Flammentrio> gewirkt wird, steigen SCHD (Einheit) und SCHD-Reduzierung (Einheit) aller Konflux-Einheiten um 10 %. Der Effekt ist die gesamte Schlacht über aktiv und bis zu 5 Mal stapelbar. |
+  |  Erwachen  | **100x** [Feuerenergie-Token](/ItemsDE/con_998/) | <Flammentrio> Der Feuerelementar erschafft Feuerbälle, die alle 20 Sek. Zieleinheiten in 3 Phasen Flächenschaden zufügen. Der Wirkungsbereich ist erst klein, dann kleiner und dann groß, und der Schaden beträgt 90 %, 120 % bzw. 150 % des ANG. Der Verbrennung-Effekt auf dem Ziel hält 5 Sek. lang. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Feuerenergie-Token](/ItemsDE/con_998/) | Die Durchdringung des Feuerelementars wird um 150 erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Feuerenergie-Token](/ItemsDE/con_998/) | Erhöht den ANG des Feuerelementars um 20 % und seinen Schaden um 12 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Feuerenergie-Token](/ItemsDE/con_998/) | Zu Beginn der Schlacht erhält das Feuerelementar einen Schild in Höhe von 100 % seiner max. LP. Der Schild erhöht auch die SCHD-Reduzierung (Einheit) des Feuerelementars um 30 % und fügt gegnerischen Einheiten in einem kleinen Radius jede Sekunde Schaden in Höhe von 10 % des ANG zu. Dieser Effekt kann nicht gebannt werden. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Feuerenergie-Token](/ItemsDE/con_998/) | Kritischer Schaden des Feuerelementars wird um 20 % erhöht, die ABW um 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Feuerenergie-Token](/ItemsDE/con_998/) | Das Feuerelementar ist immun gegen Schaden durch Feuerzauber. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Feuerenergie-Token](/ItemsDE/con_998/) | <Elementar-Resonanz> Wenn sich ein Feuerelementar auf dem Schlachtfeld befindet, wird das Angriffstempo aller Konflux-Einheiten um 30 % erhöht und ein Lebensentzug-Buff von 10 % gewährt. Wenn <Flammentrio> gewirkt wird, steigen SCHD (Einheit) und SCHD-Reduzierung (Einheit) aller Konflux-Einheiten um 10 %. Der Effekt ist die gesamte Schlacht über aktiv und bis zu 5 Mal stapelbar. |
 
 
 ## Stufenaufst.

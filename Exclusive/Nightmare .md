@@ -2,7 +2,7 @@
 title: "Exklusiv -  (Nightmare)"
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Nachtmahr Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Nightmare .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Nachtmahr](/de/units/Nightmare/) 
 
- **Item to Rangaufstieg:** [Nachtmahrauge-Token](/de/Items/con_985/)
+ **Item to Rangaufstieg:** [Nachtmahrauge-Token](/ItemsDE/con_985/)
 
- **Skin:** [Tool_250809](/de/Items/con_653/)
+ **Skin:** [Tool_250809](/ItemsDE/con_653/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Nachtmahrauge-Token](/de/Items/con_985/) | <Spurlos> Jedes Mal, wenn ein Nachtmahr angegriffen wird, besteht eine Chance von 25 %, für die Dauer eines Angriffs das eigene Angriffstempo um 500 % und den Lebensentzug um 50 % zu erhöhen. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Nachtmahrauge-Token](/de/Items/con_985/) | Erhöht die SCHD-Reduzierung (Einheit) des Nachtmahrs um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Nachtmahrauge-Token](/de/Items/con_985/) | Erhöht für jede eingesetzte Inferno-Einheit die LP des Nachtmahrs um 8 % und seine ABW um 5 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Nachtmahrauge-Token](/de/Items/con_985/) | <Traumkur> Wenn <Spurlos> aktiviert ist, heilt der Nachtmahr die Einheit mit den niedrigsten LP für 200 % LP. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Nachtmahrauge-Token](/de/Items/con_985/) | Erhöht die Zähigkeit des Nachtmahrs um 400. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Nachtmahrauge-Token](/de/Items/con_985/) | <Traumverschlingen> Wenn <Spurlos> ausgelöst wird, verringert der Nachtmahr die SCHD-Reduzierung (Einheit), die ABW und die Magieresistenz seines aktuellen Ziels für 6 Sek. jeweils um 2 %. Bis zu 10 Mal stapelbar. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Nachtmahrauge-Token](/de/Items/con_985/) | <Schreckensort> <Traumverschlingen> wirkt auf eine Kolonne von Feinden vor ihm. |
+  |  Erwachen  | **100x** [Nachtmahrauge-Token](/ItemsDE/con_985/) | <Spurlos> Jedes Mal, wenn ein Nachtmahr angegriffen wird, besteht eine Chance von 25 %, für die Dauer eines Angriffs das eigene Angriffstempo um 500 % und den Lebensentzug um 50 % zu erhöhen. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Nachtmahrauge-Token](/ItemsDE/con_985/) | Erhöht die SCHD-Reduzierung (Einheit) des Nachtmahrs um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Nachtmahrauge-Token](/ItemsDE/con_985/) | Erhöht für jede eingesetzte Inferno-Einheit die LP des Nachtmahrs um 8 % und seine ABW um 5 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Nachtmahrauge-Token](/ItemsDE/con_985/) | <Traumkur> Wenn <Spurlos> aktiviert ist, heilt der Nachtmahr die Einheit mit den niedrigsten LP für 200 % LP. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Nachtmahrauge-Token](/ItemsDE/con_985/) | Erhöht die Zähigkeit des Nachtmahrs um 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Nachtmahrauge-Token](/ItemsDE/con_985/) | <Traumverschlingen> Wenn <Spurlos> ausgelöst wird, verringert der Nachtmahr die SCHD-Reduzierung (Einheit), die ABW und die Magieresistenz seines aktuellen Ziels für 6 Sek. jeweils um 2 %. Bis zu 10 Mal stapelbar. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Nachtmahrauge-Token](/ItemsDE/con_985/) | <Schreckensort> <Traumverschlingen> wirkt auf eine Kolonne von Feinden vor ihm. |
 
 
 ## Stufenaufst.

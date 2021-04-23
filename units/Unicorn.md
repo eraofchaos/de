@@ -3,7 +3,7 @@ title: "Einhorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Einhorn"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Einhorn](/de/Items/unt_204/)
+ **Unit Soul:** [Einhorn](/ItemsDE/unt_204/)
 
  **Unit description:** Blenden: Reduziert die Präzision einer Reihe gegnerischer Einheiten.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Ausweichen (Einheit)
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

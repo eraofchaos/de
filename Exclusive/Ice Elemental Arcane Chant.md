@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Ice Elemental)"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Eiselementar Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Ice Elemental Arkangesang.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Eiselementar](/de/units/Ice Elemental/) 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | <Gefrorener Bruch> Streckt den Gegner mit extremer Kälte nieder, fügt der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG zu und belegt sie für 5 Sek. mit „Erstarren“. Die AKZ beträgt 20 Sek. Die Start-AKZ beträgt 11 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht den SCHD (Einheit) des Eiselementars um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | <Eisschild> Erzeugt einen Eisschild für eine zufällige verbündete Einheit in der ersten Reihe. Wenn diese Einheit angegriffen wird, wirkt sie 3 Sek. lang „Verlangsamung“. Der Eisschild hält für 10 Sek. Die AKZ beträgt 15 Sek. Diese Fähigkeit wird zu Beginn des Kampfes gewirkt. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht den Krit. Treffer des Eiselementars um 200. Wenn die Zieleinheit mit „Erstarren“ belegt wird, verdoppelt sich dieser Effekt. Wenn beim Wirken von <Gefrorener Bruch> die Zieleinheit von dem exklusiven 3-Sterne-SCHD-Reduzierung-(Einheit)-Debuff des Steinelementars betroffen ist, wird die Magieresistenz der Zieleinheit zusätzlich um 50 % gesenkt. Dieser Effekt dauert 8 Sek. an. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht die SCHD-Reduzierung (Einheit) des Eiselementars um 25 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Der Eiselementar ist immun gegen Schaden durch Wasserzauber. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | <Elementar-Resonanz> Wenn der Eiselementar auf dem Schlachtfeld ist, erhöht dies die Magieresistenz aller befreundeten Konflux-Einheiten um 50 %. Immer wenn <Gefrorener Bruch> gewirkt wird, erhöht dies die Magieresistenz der Konflux-Einheiten um weitere 50 %. Dieser Effekt hält die gesamte Schlacht über an und kann nicht gestapelt werden. |
+  |  Erwachen  | **100x** [Arkangesang-Token](/ItemsDE/con_915/) | <Gefrorener Bruch> Streckt den Gegner mit extremer Kälte nieder, fügt der Zieleinheit Schaden in Höhe von 200 % des eigenen ANG zu und belegt sie für 5 Sek. mit „Erstarren“. Die AKZ beträgt 20 Sek. Die Start-AKZ beträgt 11 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht den SCHD (Einheit) des Eiselementars um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/ItemsDE/con_915/) | <Eisschild> Erzeugt einen Eisschild für eine zufällige verbündete Einheit in der ersten Reihe. Wenn diese Einheit angegriffen wird, wirkt sie 3 Sek. lang „Verlangsamung“. Der Eisschild hält für 10 Sek. Die AKZ beträgt 15 Sek. Diese Fähigkeit wird zu Beginn des Kampfes gewirkt. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht den Krit. Treffer des Eiselementars um 200. Wenn die Zieleinheit mit „Erstarren“ belegt wird, verdoppelt sich dieser Effekt. Wenn beim Wirken von <Gefrorener Bruch> die Zieleinheit von dem exklusiven 3-Sterne-SCHD-Reduzierung-(Einheit)-Debuff des Steinelementars betroffen ist, wird die Magieresistenz der Zieleinheit zusätzlich um 50 % gesenkt. Dieser Effekt dauert 8 Sek. an. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht die SCHD-Reduzierung (Einheit) des Eiselementars um 25 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/ItemsDE/con_915/) | Der Eiselementar ist immun gegen Schaden durch Wasserzauber. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/ItemsDE/con_915/) | <Elementar-Resonanz> Wenn der Eiselementar auf dem Schlachtfeld ist, erhöht dies die Magieresistenz aller befreundeten Konflux-Einheiten um 50 %. Immer wenn <Gefrorener Bruch> gewirkt wird, erhöht dies die Magieresistenz der Konflux-Einheiten um weitere 50 %. Dieser Effekt hält die gesamte Schlacht über an und kann nicht gestapelt werden. |
 
 
 ## Stufenaufst.

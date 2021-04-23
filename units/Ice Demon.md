@@ -3,7 +3,7 @@ title: "Eisdämon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Eisdämon ist selbst auf der Konflux-Ebene eine seltsame Existenz. Er ist wie ein Stück Eis, das niemals schmilzt. Er blendet deine Augen und raubt dir den Atem. Er ist wie die Leichen, die in Gletschergräbern ruhen."
 unitID: 908
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Eisdämon"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Eisdämon](/de/Items/unt_269/)
+ **Unit Soul:** [Eisdämon](/ItemsDE/unt_269/)
 
  **Short description:** Kontrollbogenschütze. Verbündeten-Buffs.
 
@@ -190,7 +190,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Kampfformation Festung"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Kampfformation Festung"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "BattleFormationFactionFortress"
 toc: false

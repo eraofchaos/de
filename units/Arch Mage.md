@@ -3,7 +3,7 @@ title: "Erzmagier"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Erzmagier"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Magierin](/de/Items/unt_238/)
+ **Unit Soul:** [Magierin](/ItemsDE/unt_238/)
 
  **Unit description:** Zauberdurchdringung: Der Schaden gegen Einzelziele steigt mit der Zeit.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

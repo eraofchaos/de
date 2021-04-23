@@ -3,7 +3,7 @@ title: "Dämon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gehörnte Dämonen sind bekannt für ihre namensgebenden Hörner, die rasiermesserscharf sind und sich durch die Rüstung ihrer Feinde in deren Fleisch bohren."
 unitID: 504
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Dämon"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Dämon](/de/Items/unt_229/)
+ **Unit Soul:** [Dämon](/ItemsDE/unt_229/)
 
  **Unit description:** Versengender Schlag: Fügt gegnerischen Truppen kolossalen Schaden zu.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Abwehr
 * Ausweichen (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

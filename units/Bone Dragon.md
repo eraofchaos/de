@@ -3,7 +3,7 @@ title: "Knochendrache"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Knochendrachen sind die stärksten Kämpfer der Nekropolis. Sie sind mächtig, vielleicht sogar so mächtig wie ihre Erzfeinde, die lebenden Drachen."
 unitID: 307
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Knochendrache"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Knochendrache](/de/Items/unt_214/)
+ **Unit Soul:** [Knochendrache](/ItemsDE/unt_214/)
 
  **Unit description:** Angst: Reduziert die gegnerische Abwehr enorm und verursacht Niedrige Moral.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/)
+ **Item to Rangaufstieg:** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/)
 
- **Skin:** [„Knochen des unsterblichen Drachen“-Spezialskin](/de/Items/con_648/)
+ **Skin:** [„Knochen des unsterblichen Drachen“-Spezialskin](/ItemsDE/con_648/)
 
 
 ## Empfohlene Heilige Embleme
@@ -176,7 +176,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

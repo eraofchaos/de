@@ -3,7 +3,7 @@ title: "Psy-Elementar"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Psy-Elementar"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Psy-Elementar](/de/Items/unt_267/)
+ **Unit Soul:** [Psy-Elementar](/ItemsDE/unt_267/)
 
  **Short description:** Hohe Energieschadensspitze, verbrennt.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Geistkern-Token](/de/Items/con_1000/)
+ **Item to Rangaufstieg:** [Geistkern-Token](/ItemsDE/con_1000/)
 
- **Skin:** [Geistkern-Spezialskin](/de/Items/con_668/)
+ **Skin:** [Geistkern-Spezialskin](/ItemsDE/con_668/)
 
 
 ## Empfohlene Heilige Embleme
@@ -171,7 +171,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

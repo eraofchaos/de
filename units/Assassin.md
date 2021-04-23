@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Assassine"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Assassine](/de/Items/unt_271/)
+ **Unit Soul:** [Assassine](/ItemsDE/unt_271/)
 
  **Short description:** Attentat-Schaden. Schwächt Heilung.
 
@@ -167,7 +167,7 @@ toc: true
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

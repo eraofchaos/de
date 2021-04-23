@@ -3,7 +3,7 @@ title: "Ork"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Ork"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Ork](/de/Items/unt_219/)
+ **Unit Soul:** [Ork](/ItemsDE/unt_219/)
 
  **Unit description:** Hinrichtung: Fügt Feinden mit weniger als 30 % Gesundheit zusätzlichen Schaden zu.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

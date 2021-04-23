@@ -2,7 +2,7 @@
 title: "Exklusiv - Gaze (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Gaze. Gaze. Era of Chaos Exklusiv Gaze. Mumie Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Mummy Gaze.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Mumie](/de/units/Mummy/) 
 
- **Item to Rangaufstieg:** [Gaze-Token](/de/Items/con_981/)
+ **Item to Rangaufstieg:** [Gaze-Token](/ItemsDE/con_981/)
 
- **Skin:** [Gaze-Spezialskin](/de/Items/con_649/)
+ **Skin:** [Gaze-Spezialskin](/ItemsDE/con_649/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Gaze-Token](/de/Items/con_981/) | Die Mumie fügt allen Einheiten in einem großen Radius alle 8 Sek. Niedrige Moral zu und verringert den SCHD (Einheit) gegnerischer Einheiten im Radius um 15 %, während sie sie gleichzeitig 3 Sek. lang mit Seuche belegt. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Gaze-Token](/de/Items/con_981/) | Erhöht die SCHD-Reduzierung (Einheit) der Mumie um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Gaze-Token](/de/Items/con_981/) | Die Mumie erhöht die eigene ABW für 5 Sek. um 15 %, wenn sie Niedrige Moral hat, und erhält 8 % ihrer max. LP zurück. Die AKZ beträgt 15 Sek. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Gaze-Token](/de/Items/con_981/) | <Mumifizierung> Die Mumie wickelt Nahkampfeinheiten in der Nähe mit Bandagen ein, sodass sie sich nicht mehr bewegen, angreifen oder Fähigkeiten wirken können. Gleichzeitig wird die SCHD-Reduzierung (Einheit) für 3 Sek. um 15 % verringert. Die AKZ beträgt 25 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Gaze-Token](/de/Items/con_981/) | Erhöht für jede Nekropolis-Einheit auf dem Schlachtfeld die eigene SCHD-Reduzierung (Einheit) um 6 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Gaze-Token](/de/Items/con_981/) | Wenn ein verbündeter Held einen Erdzauber wirkt, erhöht die Mumie 6 Sek. lang den SCHD (Einheit) von Nekropolis-Einheiten in einem großen Radius um 5 % und die SCHD-Reduzierung (Einheit) um 10 %. Bis zu 3 Mal stapelbar. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Gaze-Token](/de/Items/con_981/) | Erhöht die SCHD-Reduzierung (Einheit) um 40 %, wenn die Mumie von Fernkampf-/Zauberer-Einheiten angegriffen wird. <Mumifizierung> wird erneut ausgelöst, wenn die LP auf 75 %, 50 % und 25 % sinken. Während dieser Zeit stellt die Mumie jede Sekunde LP in Höhe von 3 % ihrer max. LP wieder her. |
+  |  Erwachen  | **100x** [Gaze-Token](/ItemsDE/con_981/) | Die Mumie fügt allen Einheiten in einem großen Radius alle 8 Sek. Niedrige Moral zu und verringert den SCHD (Einheit) gegnerischer Einheiten im Radius um 15 %, während sie sie gleichzeitig 3 Sek. lang mit Seuche belegt. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Gaze-Token](/ItemsDE/con_981/) | Erhöht die SCHD-Reduzierung (Einheit) der Mumie um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Gaze-Token](/ItemsDE/con_981/) | Die Mumie erhöht die eigene ABW für 5 Sek. um 15 %, wenn sie Niedrige Moral hat, und erhält 8 % ihrer max. LP zurück. Die AKZ beträgt 15 Sek. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Gaze-Token](/ItemsDE/con_981/) | <Mumifizierung> Die Mumie wickelt Nahkampfeinheiten in der Nähe mit Bandagen ein, sodass sie sich nicht mehr bewegen, angreifen oder Fähigkeiten wirken können. Gleichzeitig wird die SCHD-Reduzierung (Einheit) für 3 Sek. um 15 % verringert. Die AKZ beträgt 25 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Gaze-Token](/ItemsDE/con_981/) | Erhöht für jede Nekropolis-Einheit auf dem Schlachtfeld die eigene SCHD-Reduzierung (Einheit) um 6 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Gaze-Token](/ItemsDE/con_981/) | Wenn ein verbündeter Held einen Erdzauber wirkt, erhöht die Mumie 6 Sek. lang den SCHD (Einheit) von Nekropolis-Einheiten in einem großen Radius um 5 % und die SCHD-Reduzierung (Einheit) um 10 %. Bis zu 3 Mal stapelbar. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Gaze-Token](/ItemsDE/con_981/) | Erhöht die SCHD-Reduzierung (Einheit) um 40 %, wenn die Mumie von Fernkampf-/Zauberer-Einheiten angegriffen wird. <Mumifizierung> wird erneut ausgelöst, wenn die LP auf 75 %, 50 % und 25 % sinken. Während dieser Zeit stellt die Mumie jede Sekunde LP in Höhe von 3 % ihrer max. LP wieder her. |
 
 
 ## Stufenaufst.

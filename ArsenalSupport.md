@@ -2,7 +2,7 @@
 title: "Unterstützung"
 permalink: /ArsenalSupport.html
 excerpt: "Era of Chaos  Unterstützung. <span style="color: #8a5c1d;font-size:18px">Da der Platz für den Kampf auf dem Schlachtfeld begrenzt ist, hat die Schule des Krieges eine Art der Unterstützungsmagie erforscht, um die Kampfleistung von Einheiten weiter zu verbessern. Diese Magie ermöglicht die Übertragung von Fertigkeiten von einer Unterstützungseinheit auf eine Kampfeinheit und verbessert so die Kampfleistung einer Kampfeinheit.</span><br/><span style="color: #ffffff">　</span><br/>"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "ArsenalSupport.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Regnanpirat"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Regnanpirat](/de/Items/unt_273/)
+ **Unit Soul:** [Regnanpirat](/ItemsDE/unt_273/)
 
  **Short description:** Massiver Schaden steigernde Moral.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

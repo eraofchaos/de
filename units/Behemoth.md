@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Behemoths gehören zu den wenigen urtümlichen Kreaturen, die noch aus der Zeit vor den Drachen stammen. Ihre gewaltigen Leiber sind immun gegen die Angriffe ihrer Feinde."
 unitID: 407
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Behemoth"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Behemoth](/de/Items/unt_223/)
+ **Unit Soul:** [Behemoth](/ItemsDE/unt_223/)
 
  **Unit description:** Wildes Brüllen: Reduziert den gegnerischen Angriff enorm und verursacht Betäubung.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Blutrünstiger-Geist-Token](/de/Items/con_982/)
+ **Item to Rangaufstieg:** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/)
 
- **Skin:** [Blutrünstiger-Geist-Spezialskin](/de/Items/con_650/)
+ **Skin:** [Blutrünstiger-Geist-Spezialskin](/ItemsDE/con_650/)
 
 
 ## Empfohlene Heilige Embleme
@@ -180,7 +180,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

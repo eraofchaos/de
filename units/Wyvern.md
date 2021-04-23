@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein verzerrtes, hochgiftiges Ding aus dem Sumpf. Der Legende nach hat es den bösartigen Nebel ausgespien, der den Sumpf durchzieht."
 unitID: 806
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Wyvern"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Wyvern](/de/Items/unt_258/)
+ **Unit Soul:** [Wyvern](/ItemsDE/unt_258/)
 
  **Short description:** Mächtiger Nahkämpfer, giftig.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Wyvernschwanz-Token](/de/Items/con_996/)
+ **Item to Rangaufstieg:** [Wyvernschwanz-Token](/ItemsDE/con_996/)
 
- **Skin:** [Wyvernschwanz-Spezialskin](/de/Items/con_664/)
+ **Skin:** [Wyvernschwanz-Spezialskin](/ItemsDE/con_664/)
 
 
 ## Empfohlene Heilige Embleme
@@ -172,7 +172,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

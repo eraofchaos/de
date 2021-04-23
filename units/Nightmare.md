@@ -3,7 +3,7 @@ title: "Nachtmahr"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nachtmahre zeigen dir die Macht des Infernos. Sie kämpfen unerbittlich und schwächen ihre Feinde, bis man sie zurück in den Abgrund schickt."
 unitID: 508
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Nachtmahr"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Nachtmahr](/de/Items/unt_233/)
+ **Unit Soul:** [Nachtmahr](/ItemsDE/unt_233/)
 
  **Short description:** Unterstützung. Frühe Schadensspitzen.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Nachtmahrauge-Token](/de/Items/con_985/)
+ **Item to Rangaufstieg:** [Nachtmahrauge-Token](/ItemsDE/con_985/)
 
- **Skin:** [Tool_250809](/de/Items/con_653/)
+ **Skin:** [Tool_250809](/ItemsDE/con_653/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,7 +169,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

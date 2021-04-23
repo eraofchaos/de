@@ -3,7 +3,7 @@ title: "Magisches Luftschiff"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses robuste Schiff mit seinem gewaltigen Rundsegel kann über den Wolken reisen."
 unitID: 608
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Magisches Luftschiff"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Magisches Luftschiff](/de/Items/unt_242/)
+ **Unit Soul:** [Magisches Luftschiff](/ItemsDE/unt_242/)
 
  **Short description:** Bufft den DPS der hinteren Reihe.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Polaris-Token](/de/Items/con_989/)
+ **Item to Rangaufstieg:** [Polaris-Token](/ItemsDE/con_989/)
 
- **Skin:** [Polaris-Spezialskin](/de/Items/con_657/)
+ **Skin:** [Polaris-Spezialskin](/ItemsDE/con_657/)
 
 
 ## Empfohlene Heilige Embleme
@@ -174,7 +174,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

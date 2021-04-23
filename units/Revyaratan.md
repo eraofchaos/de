@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Revyaratan"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Revyaratan](/de/Items/unt_280/)
+ **Unit Soul:** [Revyaratan](/ItemsDE/unt_280/)
 
  **Short description:** Tiefseekraken. Kann nicht wiederbelebt werden.
 
@@ -182,7 +182,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

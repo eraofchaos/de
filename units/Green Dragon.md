@@ -3,7 +3,7 @@ title: "Grüner Drache"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Grüner Drache"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Grüner Drache](/de/Items/unt_205/)
+ **Unit Soul:** [Grüner Drache](/ItemsDE/unt_205/)
 
  **Unit description:** Verstärkung aus der Luft: Fügt 3 gegnerischen Truppen in der hinteren Reihe gewaltigen Schaden zu.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/)
+ **Item to Rangaufstieg:** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/)
 
- **Skin:** [Prächtiger-Drachenflügel-Spezialskin](/de/Items/con_644/)
+ **Skin:** [Prächtiger-Drachenflügel-Spezialskin](/ItemsDE/con_644/)
 
 
 ## Empfohlene Heilige Embleme
@@ -177,7 +177,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

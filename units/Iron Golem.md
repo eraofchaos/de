@@ -3,7 +3,7 @@ title: "Eisengolem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eisengolems werden von Magiern durch die Kombination präziser Handwerkskunst und komplizierter Magie geboren, weshalb sie außergewöhnlich resistent gegen Magie sind."
 unitID: 603
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Eisengolem"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Eisengolem](/de/Items/unt_237/)
+ **Unit Soul:** [Eisengolem](/ItemsDE/unt_237/)
 
  **Unit description:** Metallresonanz: Aktiviert einen Schutzschild, der verbündete Einheiten beschützt.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * SCHD-Reduzierung (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

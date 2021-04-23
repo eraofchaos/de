@@ -3,7 +3,7 @@ title: "Richterin"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Richterin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Richterin](/de/Items/unt_198/)
+ **Unit Soul:** [Richterin](/ItemsDE/unt_198/)
 
  **Short description:** Aura-Unterstützung, höhere Reichweite.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/)
+ **Item to Rangaufstieg:** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/)
 
- **Skin:** [Tool_210909](/de/Items/con_643/)
+ **Skin:** [Tool_210909](/ItemsDE/con_643/)
 
 
 ## Empfohlene Heilige Embleme
@@ -175,7 +175,7 @@ toc: true
 * Heilung
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

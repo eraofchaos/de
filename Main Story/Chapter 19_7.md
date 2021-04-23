@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-7 Magisches Netz"
 permalink: /Main Story/Chapter 19_7/
 excerpt: "Kapitel 19 - 7. Era of Chaos  Hauptstory - Kapitel 19_7. 19-7 Magisches Netz"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 19_7.md"
 toc: false

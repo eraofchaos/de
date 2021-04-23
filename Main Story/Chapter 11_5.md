@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-5 Belagertes Schloss"
 permalink: /Main Story/Chapter 11_5/
 excerpt: "Kapitel 11 - 5. Era of Chaos  Hauptstory - Kapitel 11_5. 11-5 Belagertes Schloss"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 11_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Gorgonenhorn (Gorgon)"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Gorgonenhorn. Gorgonenhorn. Era of Chaos Exklusiv Gorgonenhorn. Gorgone Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Gorgon Gorgonenhorn.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Gorgone](/de/units/Gorgon/) 
 
- **Item to Rangaufstieg:** [Gorgonenhorn-Token](/de/Items/con_995/)
+ **Item to Rangaufstieg:** [Gorgonenhorn-Token](/ItemsDE/con_995/)
 
- **Skin:** [Gorgonenhorn-Spezialskin](/de/Items/con_663/)
+ **Skin:** [Gorgonenhorn-Spezialskin](/ItemsDE/con_663/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Gorgonenhorn-Token](/de/Items/con_995/) | <Steinrüstung> Der Gorgone bedeckt seinen gesamten Körper mit einer versteinerten Rüstung und erhöht dadurch 6 Sek. lang seine ABW um 24 % und die SCHD-Reduzierung (Einheit) um 20 %. Wenn alle Boni abgebaut sind, fügt der Gorgone gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 150 % des eigenen ANG zu und hat eine Chance von 30 %, 3 Sek. lang „Versteinerung“ zu verursachen. Die AKZ beträgt 18 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Gorgonenhorn-Token](/de/Items/con_995/) | Erhöht die SCHD-Reduzierung (Einheit) und die LP des Gorgonen jeweils um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Gorgonenhorn-Token](/de/Items/con_995/) | Beim Wirken von <Steinrüstung> stellt der Gorgone für 5 Sek. LP in Höhe von 10 % der eigenen max. LP wieder her. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Gorgonenhorn-Token](/de/Items/con_995/) | <Tektonische Spaltung> Wenn der Gorgone seinen <Steinrüstung>-Bonus verliert, fügt er gegnerischen Einheiten in einem großen Radius jede Sekunde „Verlangsamung“ oder „Verbrennung“ zu und verursacht außerdem 6 Sek. lang Schaden in Höhe von 3 % der max. LP. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Gorgonenhorn-Token](/de/Items/con_995/) | Wenn der Gorgone einen Krit. Treffer erleidet, wird seine Zähigkeit für den Rest des Kampfes um 30 erhöht. Die AKZ beträgt 2 Sek. Bis zu 20 Mal stapelbar. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Gorgonenhorn-Token](/de/Items/con_995/) | Nachdem der Gorgone <Steinrüstung> gewirkt hat, gewährt er einer zufälligen verbündeten Festungseinheit einen Schild in Höhe von 10 % der max. LP und der Gorgone hat eine Chance von 50 %, 6 Sek. lang einen Schild in Höhe von 10 % der max. LP zu erhalten. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Gorgonenhorn-Token](/de/Items/con_995/) | Jedes Mal, wenn der Gorgone stirbt, erhöht sich für 10 Sek. die SCHD-Reduzierung (Einheit) aller verbündeten Festungseinheiten um 10 % und das Angriffstempo um 10 %. Bis zu 4 Mal stapelbar. Hat eine Chance von 7 %, 3 zufälligen gegnerischen Einheiten Schaden in Höhe von 77 % der max. LP zuzufügen. |
+  |  Erwachen  | **100x** [Gorgonenhorn-Token](/ItemsDE/con_995/) | <Steinrüstung> Der Gorgone bedeckt seinen gesamten Körper mit einer versteinerten Rüstung und erhöht dadurch 6 Sek. lang seine ABW um 24 % und die SCHD-Reduzierung (Einheit) um 20 %. Wenn alle Boni abgebaut sind, fügt der Gorgone gegnerischen Einheiten in einem großen Radius Schaden in Höhe von 150 % des eigenen ANG zu und hat eine Chance von 30 %, 3 Sek. lang „Versteinerung“ zu verursachen. Die AKZ beträgt 18 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Gorgonenhorn-Token](/ItemsDE/con_995/) | Erhöht die SCHD-Reduzierung (Einheit) und die LP des Gorgonen jeweils um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Gorgonenhorn-Token](/ItemsDE/con_995/) | Beim Wirken von <Steinrüstung> stellt der Gorgone für 5 Sek. LP in Höhe von 10 % der eigenen max. LP wieder her. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Gorgonenhorn-Token](/ItemsDE/con_995/) | <Tektonische Spaltung> Wenn der Gorgone seinen <Steinrüstung>-Bonus verliert, fügt er gegnerischen Einheiten in einem großen Radius jede Sekunde „Verlangsamung“ oder „Verbrennung“ zu und verursacht außerdem 6 Sek. lang Schaden in Höhe von 3 % der max. LP. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Gorgonenhorn-Token](/ItemsDE/con_995/) | Wenn der Gorgone einen Krit. Treffer erleidet, wird seine Zähigkeit für den Rest des Kampfes um 30 erhöht. Die AKZ beträgt 2 Sek. Bis zu 20 Mal stapelbar. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Gorgonenhorn-Token](/ItemsDE/con_995/) | Nachdem der Gorgone <Steinrüstung> gewirkt hat, gewährt er einer zufälligen verbündeten Festungseinheit einen Schild in Höhe von 10 % der max. LP und der Gorgone hat eine Chance von 50 %, 6 Sek. lang einen Schild in Höhe von 10 % der max. LP zu erhalten. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Gorgonenhorn-Token](/ItemsDE/con_995/) | Jedes Mal, wenn der Gorgone stirbt, erhöht sich für 10 Sek. die SCHD-Reduzierung (Einheit) aller verbündeten Festungseinheiten um 10 % und das Angriffstempo um 10 %. Bis zu 4 Mal stapelbar. Hat eine Chance von 7 %, 3 zufälligen gegnerischen Einheiten Schaden in Höhe von 77 % der max. LP zuzufügen. |
 
 
 ## Stufenaufst.

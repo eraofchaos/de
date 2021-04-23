@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 4 - 4-4 Vollständige Verheerung"
 permalink: /Underground/Chapter 4_4/
 excerpt: "Kapitel 4 - 4. Era of Chaos  Untergrund - Kapitel 4_4. 4-4 Vollständige Verheerung"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 4_4.md"
 toc: false

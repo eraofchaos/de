@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-8 Zwergenbergwerk"
 permalink: /Main Story/Chapter 17_8/
 excerpt: "Kapitel 17 - 8. Era of Chaos  Hauptstory - Kapitel 17_8. 17-8 Zwergenbergwerk"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 17_8.md"
 toc: false

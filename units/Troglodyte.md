@@ -3,7 +3,7 @@ title: "Troglodyt"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Kreatur, die im Untergrund haust. Sie ist zwar fast blind, spürt aber jede Beute mit ihrem hervorragenden Geruchssinn auf."
 unitID: 701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Troglodyt"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Troglodyt](/de/Items/unt_244/)
+ **Unit Soul:** [Troglodyt](/ItemsDE/unt_244/)
 
  **Unit description:** Speerformation: Flächenschaden, Betäubung.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

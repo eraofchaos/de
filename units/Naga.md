@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Naga"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Naga](/de/Items/unt_240/)
+ **Unit Soul:** [Naga](/ItemsDE/unt_240/)
 
  **Unit description:** Klingentanz: Flächenschaden, Flächenreduzierung der Abwehr.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Nagaschwert-Token](/de/Items/con_987/)
+ **Item to Rangaufstieg:** [Nagaschwert-Token](/ItemsDE/con_987/)
 
- **Skin:** [Nagaschwert-Spezialskin](/de/Items/con_655/)
+ **Skin:** [Nagaschwert-Spezialskin](/ItemsDE/con_655/)
 
 
 ## Empfohlene Heilige Embleme
@@ -177,7 +177,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

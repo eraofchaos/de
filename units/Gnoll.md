@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
 unitID: 801
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Gnoll"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Gnoll](/de/Items/unt_253/)
+ **Unit Soul:** [Gnoll](/ItemsDE/unt_253/)
 
  **Short description:** Nahkampf-DPS. Betäubt.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Schaden (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

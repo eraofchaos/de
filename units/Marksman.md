@@ -3,7 +3,7 @@ title: "Scharfschütze"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Scharfschütze"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Scharfschütze](/de/Items/unt_191/)
+ **Unit Soul:** [Scharfschütze](/ItemsDE/unt_191/)
 
  **Unit description:** Sprengpfeil: Fügt gegnerischen Einheiten erheblichen Schaden zu.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

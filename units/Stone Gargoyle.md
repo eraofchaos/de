@@ -3,7 +3,7 @@ title: "Stein-Wasserspeier"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
 unitID: 602
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Stein-Wasserspeier"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Stein-Wasserspeier](/de/Items/unt_236/)
+ **Unit Soul:** [Stein-Wasserspeier](/ItemsDE/unt_236/)
 
  **Unit description:** Steingestalt: Erhöht ANG und Angriffstempo.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -178,7 +178,7 @@ toc: true
 * Ausweichen (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

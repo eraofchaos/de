@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Druidin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Druidin](/de/Items/unt_206/)
+ **Unit Soul:** [Druidin](/ItemsDE/unt_206/)
 
  **Unit description:** Wald-Chronosphäre: Einheiten im magischen Kreis sind immun gegen Magieschaden.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [„Stab des Nachwachsens“-Token](/de/Items/con_977/)
+ **Item to Rangaufstieg:** [„Stab des Nachwachsens“-Token](/ItemsDE/con_977/)
 
- **Skin:** [„Stab des Nachwachsens“-Spezialskin](/de/Items/con_645/)
+ **Skin:** [„Stab des Nachwachsens“-Spezialskin](/ItemsDE/con_645/)
 
 
 ## Empfohlene Heilige Embleme
@@ -174,7 +174,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Mönch Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Monk Arkangesang.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Mönch](/de/units/Monk/) 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | <Predigt> wird alle 9 Sek. ausgelöst und stellt bei der verbündeten Einheit mit den prozentual niedrigsten LP 125 % des ANG als LP wieder her. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Der Angriff des Mönches wird um 20 % erhöht. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | Wenn <Predigt> gewirkt wird, erhält eine zufällige verbündete Einheit 10 Sek. lang „Hohe Moral“. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | <Hingabe>: Der Mönch bannt alle 10 Sek. einen Debuff einer zufälligen verbündeten Einheit. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | Die Schadensreduzierung des Mönches wird um 25 % erhöht. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Wenn <Predigt> gewirkt wird, senkt die Fähigkeit das Angriffstempo einer zufälligen gegnerischen Einheit 10 Sek. lang um 10 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | Wenn <Hingabe> gewirkt wird, erhält der Mönch einen Schild in Höhe von 20 % seiner max. LP, und er wirkt einen Schild in Höhe von 10 % seiner max. LP auf eine zufällige verbündete Einheit. Der „Schild“-Effekt ist nicht stapelbar (ein Mönch kann zwei „Schilde“ erhalten). |
+  |  Erwachen  | **100x** [Arkangesang-Token](/ItemsDE/con_915/) | <Predigt> wird alle 9 Sek. ausgelöst und stellt bei der verbündeten Einheit mit den prozentual niedrigsten LP 125 % des ANG als LP wieder her. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/ItemsDE/con_915/) | Der Angriff des Mönches wird um 20 % erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn <Predigt> gewirkt wird, erhält eine zufällige verbündete Einheit 10 Sek. lang „Hohe Moral“. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/ItemsDE/con_915/) | <Hingabe>: Der Mönch bannt alle 10 Sek. einen Debuff einer zufälligen verbündeten Einheit. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/ItemsDE/con_915/) | Die Schadensreduzierung des Mönches wird um 25 % erhöht. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn <Predigt> gewirkt wird, senkt die Fähigkeit das Angriffstempo einer zufälligen gegnerischen Einheit 10 Sek. lang um 10 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn <Hingabe> gewirkt wird, erhält der Mönch einen Schild in Höhe von 20 % seiner max. LP, und er wirkt einen Schild in Höhe von 10 % seiner max. LP auf eine zufällige verbündete Einheit. Der „Schild“-Effekt ist nicht stapelbar (ein Mönch kann zwei „Schilde“ erhalten). |
 
 
 ## Stufenaufst.

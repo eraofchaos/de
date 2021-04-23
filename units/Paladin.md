@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
 unitID: 108
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Paladin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Paladin](/de/Items/unt_197/)
+ **Unit Soul:** [Paladin](/ItemsDE/unt_197/)
 
  **Unit description:** Verstärkung der Tapferen: Beschwört ein Heiligtumgefolge, das im Kampf hilft.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Furchtlos-Token](/de/Items/con_974/)
+ **Item to Rangaufstieg:** [Furchtlos-Token](/ItemsDE/con_974/)
 
- **Skin:** [Furchtlos-Spezialskin](/de/Items/con_642/)
+ **Skin:** [Furchtlos-Spezialskin](/ItemsDE/con_642/)
 
 
 ## Empfohlene Heilige Embleme
@@ -170,7 +170,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

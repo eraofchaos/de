@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-5 Die Armee marschiert"
 permalink: /Main Story/Chapter 12_5/
 excerpt: "Kapitel 12 - 5. Era of Chaos  Hauptstory - Kapitel 12_5. 12-5 Die Armee marschiert"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 12_5.md"
 toc: false

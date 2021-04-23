@@ -3,7 +3,7 @@ title: "Spartaner"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Spartaner"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Spartaner](/de/Items/unt_272/)
+ **Unit Soul:** [Spartaner](/ItemsDE/unt_272/)
 
  **Short description:** Schildbetäubung. Tod inspiriert.
 
@@ -165,7 +165,7 @@ toc: true
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

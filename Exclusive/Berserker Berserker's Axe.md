@@ -2,7 +2,7 @@
 title: "Exklusiv - Berserkeraxt (Berserker)"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Berserkeraxt. Berserkeraxt. Era of Chaos Exklusiv Berserkeraxt. Berserker Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Berserker Berserkeraxt.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Berserker](/de/units/Berserker/) 
 
- **Item to Rangaufstieg:** [Berserkeraxt-Token](/de/Items/con_983/)
+ **Item to Rangaufstieg:** [Berserkeraxt-Token](/ItemsDE/con_983/)
 
- **Skin:** [Berserkeraxt-Spezialskin](/de/Items/con_651/)
+ **Skin:** [Berserkeraxt-Spezialskin](/ItemsDE/con_651/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Berserkeraxt-Token](/de/Items/con_983/) | <Wirbelaxt> Der Berserker wirft eine wirbelnde Axt, die gegnerischen Einheiten in einem großen Bereich vor ihm Schaden in Höhe von 150 % des eigenen ANG zufügt und 8 Sek. lang „Blutung“ wirkt. Die AKZ beträgt 18 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Berserkeraxt-Token](/de/Items/con_983/) | Erhöht den SCHD des Berserkers (Einheit) um 15 %. Erhöht den SCHD (Einheit) um weitere 15 %, wenn sie gegen betäubte Einheiten kämpft. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Berserkeraxt-Token](/de/Items/con_983/) | Es besteht eine Chance von 5 %, dass die Angriffe des Berserkers eine Zieleinheit 1,5 Sek. lang betäuben. Wird nur ein Mal alle 5 Sek. ausgelöst. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Berserkeraxt-Token](/de/Items/con_983/) | <Tödlicher Hieb> Der Berserker fügt der Zieleinheit Schaden in Höhe von 225 % des eigenen ANG zu, während die SCHD-Reduzierung (Einheit) des Ziels um 20 % und die ABW um 10 % verringert wird. Blutet die Zieleinheit, verringert sich die SCHD-Reduzierung (Einheit) um 20 % und das Angriffstempo des Ziels 10 Sek. lang um 10 %. Die AKZ beträgt 25 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Berserkeraxt-Token](/de/Items/con_983/) | Nach dem Wirken von <Tödlicher Hieb> erhöht der Berserker 15 Sek. lang den SCHD (Einheit) um 15 % und die SCHD-Reduzierung (Einheit) um 10 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Berserkeraxt-Token](/de/Items/con_983/) | Jeder Angriff des Berserkers erhöht das eigene Angriffstempo um 1 % bis zu einem Maximum von 50 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Berserkeraxt-Token](/de/Items/con_983/) | <Versengen> 15 Sek. nach Beginn des Kampfes opfert der Berserker LP in Höhe von 10 % seiner eigenen max. LP, um der Zieleinheit Schaden in Höhe von 30 % der max. LP zuzufügen. Der Berserker erhöht außerdem für 5 Sek. den eigenen Krit. Treffer um 300 und den Krit. Gesamt-SCHD um 15 %, während er 10 Sek. lang „Blutung“ wirkt. Die AKZ beträgt 30 Sek. |
+  |  Erwachen  | **100x** [Berserkeraxt-Token](/ItemsDE/con_983/) | <Wirbelaxt> Der Berserker wirft eine wirbelnde Axt, die gegnerischen Einheiten in einem großen Bereich vor ihm Schaden in Höhe von 150 % des eigenen ANG zufügt und 8 Sek. lang „Blutung“ wirkt. Die AKZ beträgt 18 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Berserkeraxt-Token](/ItemsDE/con_983/) | Erhöht den SCHD des Berserkers (Einheit) um 15 %. Erhöht den SCHD (Einheit) um weitere 15 %, wenn sie gegen betäubte Einheiten kämpft. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Berserkeraxt-Token](/ItemsDE/con_983/) | Es besteht eine Chance von 5 %, dass die Angriffe des Berserkers eine Zieleinheit 1,5 Sek. lang betäuben. Wird nur ein Mal alle 5 Sek. ausgelöst. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Berserkeraxt-Token](/ItemsDE/con_983/) | <Tödlicher Hieb> Der Berserker fügt der Zieleinheit Schaden in Höhe von 225 % des eigenen ANG zu, während die SCHD-Reduzierung (Einheit) des Ziels um 20 % und die ABW um 10 % verringert wird. Blutet die Zieleinheit, verringert sich die SCHD-Reduzierung (Einheit) um 20 % und das Angriffstempo des Ziels 10 Sek. lang um 10 %. Die AKZ beträgt 25 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Berserkeraxt-Token](/ItemsDE/con_983/) | Nach dem Wirken von <Tödlicher Hieb> erhöht der Berserker 15 Sek. lang den SCHD (Einheit) um 15 % und die SCHD-Reduzierung (Einheit) um 10 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Berserkeraxt-Token](/ItemsDE/con_983/) | Jeder Angriff des Berserkers erhöht das eigene Angriffstempo um 1 % bis zu einem Maximum von 50 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Berserkeraxt-Token](/ItemsDE/con_983/) | <Versengen> 15 Sek. nach Beginn des Kampfes opfert der Berserker LP in Höhe von 10 % seiner eigenen max. LP, um der Zieleinheit Schaden in Höhe von 30 % der max. LP zuzufügen. Der Berserker erhöht außerdem für 5 Sek. den eigenen Krit. Treffer um 300 und den Krit. Gesamt-SCHD um 15 %, während er 10 Sek. lang „Blutung“ wirkt. Die AKZ beträgt 30 Sek. |
 
 
 ## Stufenaufst.

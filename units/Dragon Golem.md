@@ -3,7 +3,7 @@ title: "Drachengolem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Drachengolem"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Drachengolem](/de/Items/unt_243/)
+ **Unit Soul:** [Drachengolem](/ItemsDE/unt_243/)
 
  **Short description:** Ultimative Verteidigung.
 
@@ -176,7 +176,7 @@ toc: true
 * SCHD-Reduzierung (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Steinelementar"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Steinelementar ist das Ergebnis geologischer Verschmelzung mehrerer Mineralien. Teilt sich in kleinere Steinelementare auf, die weiterkämpfen."
 unitID: 905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Steinelementar"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Steinelementar](/de/Items/unt_266/)
+ **Unit Soul:** [Steinelementar](/ItemsDE/unt_266/)
 
  **Short description:** Tödliche Spucke, betäubt.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Energiekern-Token](/de/Items/con_999/)
+ **Item to Rangaufstieg:** [Energiekern-Token](/ItemsDE/con_999/)
 
- **Skin:** [„Energiekern“-Spezialskin](/de/Items/con_667/)
+ **Skin:** [„Energiekern“-Spezialskin](/ItemsDE/con_667/)
 
 
 ## Empfohlene Heilige Embleme
@@ -176,7 +176,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

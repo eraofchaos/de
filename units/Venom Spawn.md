@@ -3,7 +3,7 @@ title: "Giftbrut"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen."
 unitID: 509
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Giftbrut"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/de/Items/unt_234/)
+ **Unit Soul:** [Tool_3509](/ItemsDE/unt_234/)
 
  **Short description:** Seelen-Diebstahl für eine Wende im Match. Zum Sterben geboren.
 
@@ -235,7 +235,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

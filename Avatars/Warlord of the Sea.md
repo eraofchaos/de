@@ -2,7 +2,7 @@
 title: "Avatar - Kriegslord des Meeres"
 permalink: /Avatars/Warlord of the Sea/
 excerpt: "Era of Chaos  Kriegslord des Meeres"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Warlord of the Sea.md"
 toc: false

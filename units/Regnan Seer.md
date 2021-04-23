@@ -3,7 +3,7 @@ title: "Regnanseherin"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen."
 unitID: 9907
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Regnanseherin"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Regnanseherin](/de/Items/unt_279/)
+ **Unit Soul:** [Regnanseherin](/ItemsDE/unt_279/)
 
  **Short description:** Buchtanführer, mächtige Kontrolle.
 
@@ -83,9 +83,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/)
+ **Item to Rangaufstieg:** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/)
 
- **Skin:** [Tool_2990709](/de/Items/con_674/)
+ **Skin:** [Tool_2990709](/ItemsDE/con_674/)
 
 
 ## Empfohlene Heilige Embleme
@@ -180,7 +180,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

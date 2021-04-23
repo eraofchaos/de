@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Körper eines Lich ist uralt, böse und verwest. Ein Lich hasst alles Lebende und ist nur darauf aus, Krankheit und Zerstörung zu verbreiten."
 unitID: 305
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Lich"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Lich](/de/Items/unt_212/)
+ **Unit Soul:** [Lich](/ItemsDE/unt_212/)
 
  **Unit description:** Opfer: Beschwört eine Skeletthorde.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Todestribut-Token](/de/Items/con_978/)
+ **Item to Rangaufstieg:** [Todestribut-Token](/ItemsDE/con_978/)
 
- **Skin:** [Todestribut-Spezialskin](/de/Items/con_646/)
+ **Skin:** [Todestribut-Spezialskin](/ItemsDE/con_646/)
 
 
 ## Empfohlene Heilige Embleme
@@ -175,7 +175,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

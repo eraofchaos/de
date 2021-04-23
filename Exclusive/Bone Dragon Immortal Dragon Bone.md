@@ -2,7 +2,7 @@
 title: "Exklusiv - Knochen des unsterblichen Drachen (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Knochen des unsterblichen Drachen. Knochen des unsterblichen Drachen. Era of Chaos Exklusiv Knochen des unsterblichen Drachen. Knochendrache Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Bone Dragon Knochen des unsterblichen Drachen.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Knochendrache](/de/units/Bone Dragon/) 
 
- **Item to Rangaufstieg:** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/)
+ **Item to Rangaufstieg:** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/)
 
- **Skin:** [„Knochen des unsterblichen Drachen“-Spezialskin](/de/Items/con_648/)
+ **Skin:** [„Knochen des unsterblichen Drachen“-Spezialskin](/ItemsDE/con_648/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | <Drachenkraft> Kann einmal alle 12 Sek. gewirkt werden, um 15 Sek. lang die ABW aller gegnerischen Einheiten um 5 % und ihre Magieresistenz um 30 % zu reduzieren. Außerdem werden alle gegnerischen Einheiten 3 Sek. lang mit <Stille> belegt. Wird garantiert ausgelöst, wenn eine gegnerische Einheit stirbt. |
-  | **1x** <i class="fas fa-star"/> | **50x** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | Solange der Knochendrache auf dem Schlachtfeld ist, wird die Zähigkeit aller verbündeter Nekropolis-Einheiten um 200 erhöht, und ihre ABW um 10 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | Erhöht ANG und Schaden des Knochendrachen um 30 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | Der Knochendrache kann durch einzelne Angriffe nicht mehr als 40 % seiner max. LP verlieren. Wenn ein einzelner Angriff mehr als 28 % seiner max. LP verursacht, wird <Drachenkraft> ausgelöst. AKZ 10 Sek. Zu Beginn der Schlacht wirkt der Knochendrache einen Dornenkranz auf alle verbündeten Einheiten, der die Schadensreflexion um 10 % erhöht. Dieser Effekt wirkt die gesamte Schlacht über. |
-  | **4x** <i class="fas fa-star"/> | **170x** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | Erhöht Angriffstempo und Schaden des Knochendrachen um 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | Der Knochendrache fügt gegnerischen Einheiten in einer bestimmten Reichweite „Blutung“ zu. Kritischer Treffer und Zähigkeit von gegnerischen Einheiten mit „Niedrige Moral“ in diesem Bereich werden um 150 reduziert. |
-  | **6x** <i class="fas fa-star"/> | **250x** [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | Zu Beginn der Schlacht beschwört der Knochendrache 1 Mumie. Für jede gegnerische Einheit, die getötet wird, besteht eine bestimmte Wahrscheinlichkeit, dass eine weitere Mumie beschworen wird. |
+  |  Erwachen  | **100x** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | <Drachenkraft> Kann einmal alle 12 Sek. gewirkt werden, um 15 Sek. lang die ABW aller gegnerischen Einheiten um 5 % und ihre Magieresistenz um 30 % zu reduzieren. Außerdem werden alle gegnerischen Einheiten 3 Sek. lang mit <Stille> belegt. Wird garantiert ausgelöst, wenn eine gegnerische Einheit stirbt. |
+  | **1x** <i class="fas fa-star"/> | **50x** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | Solange der Knochendrache auf dem Schlachtfeld ist, wird die Zähigkeit aller verbündeter Nekropolis-Einheiten um 200 erhöht, und ihre ABW um 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | Erhöht ANG und Schaden des Knochendrachen um 30 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | Der Knochendrache kann durch einzelne Angriffe nicht mehr als 40 % seiner max. LP verlieren. Wenn ein einzelner Angriff mehr als 28 % seiner max. LP verursacht, wird <Drachenkraft> ausgelöst. AKZ 10 Sek. Zu Beginn der Schlacht wirkt der Knochendrache einen Dornenkranz auf alle verbündeten Einheiten, der die Schadensreflexion um 10 % erhöht. Dieser Effekt wirkt die gesamte Schlacht über. |
+  | **4x** <i class="fas fa-star"/> | **170x** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | Erhöht Angriffstempo und Schaden des Knochendrachen um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | Der Knochendrache fügt gegnerischen Einheiten in einer bestimmten Reichweite „Blutung“ zu. Kritischer Treffer und Zähigkeit von gegnerischen Einheiten mit „Niedrige Moral“ in diesem Bereich werden um 150 reduziert. |
+  | **6x** <i class="fas fa-star"/> | **250x** [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | Zu Beginn der Schlacht beschwört der Knochendrache 1 Mumie. Für jede gegnerische Einheit, die getötet wird, besteht eine bestimmte Wahrscheinlichkeit, dass eine weitere Mumie beschworen wird. |
 
 
 ## Stufenaufst.

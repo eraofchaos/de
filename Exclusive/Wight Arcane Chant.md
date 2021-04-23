@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Wight)"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Geist Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Wight Arkangesang.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Geist](/de/units/Wight/) 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | <Verfluchter Nebel> Der Geist entfesselt einen verfluchten Nebel, der die SCHD-Reduzierung (Einheit) gegnerischer Einheiten in einem großen Radius um die Zieleinheit um 15 % verringert und für 6 Sek. jede Sekunde Schaden in Höhe von 50 % des eigenen ANG verursacht. Die AKZ beträgt 18 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht den SCHD (Einheit) des Geistes um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht das Angriffstempo des Geistes um 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | Wenn Geist-Einheiten sterben, werden 3 Einheiten 5 Sek. lang mit „Furcht“ belegt und ein Stapel Furchtzeichen wird ihnen hinzugefügt. (Furcht: Kann nicht angreifen, sich nicht bewegen und keine Fähigkeiten wirken. Verringert die Magieresistenz um 30 %). |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | Nach dem Wirken von <Verfluchter Nebel> erhöht der Geist 10 Sek. lang zufällig Krit. Treffer einer zufälligen verbündeten Einheit um 300 und Krit. Gesamt-SCHD um 30 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Der Geist ist immun gegen Zauber-SCHD durch Erde. Wenn er eine Zieleinheit angreift, besteht eine Chance von 25 %, dass der Geist zusätzlichen Schaden in Höhe von 100 % des eigenen ANG verursacht und LP in Höhe von 30 % des eigenen ANG wiederherstellt. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | <Phantom-Sperre> Der Geist stürzt die Zieleinheit in Verzweiflung und verringert ihren SCHD (Einheit) und ihre SCHD-Reduzierung (Einheit) 8 Sek. lang jeweils um 30 %. Zudem besteht eine Chance von 50 %, das Ziel 5 Sek. lang mit „Furcht“ zu belegen und einen Stapel Furchtzeichen hinzuzufügen. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | **100x** [Arkangesang-Token](/ItemsDE/con_915/) | <Verfluchter Nebel> Der Geist entfesselt einen verfluchten Nebel, der die SCHD-Reduzierung (Einheit) gegnerischer Einheiten in einem großen Radius um die Zieleinheit um 15 % verringert und für 6 Sek. jede Sekunde Schaden in Höhe von 50 % des eigenen ANG verursacht. Die AKZ beträgt 18 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht den SCHD (Einheit) des Geistes um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht das Angriffstempo des Geistes um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn Geist-Einheiten sterben, werden 3 Einheiten 5 Sek. lang mit „Furcht“ belegt und ein Stapel Furchtzeichen wird ihnen hinzugefügt. (Furcht: Kann nicht angreifen, sich nicht bewegen und keine Fähigkeiten wirken. Verringert die Magieresistenz um 30 %). |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/ItemsDE/con_915/) | Nach dem Wirken von <Verfluchter Nebel> erhöht der Geist 10 Sek. lang zufällig Krit. Treffer einer zufälligen verbündeten Einheit um 300 und Krit. Gesamt-SCHD um 30 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/ItemsDE/con_915/) | Der Geist ist immun gegen Zauber-SCHD durch Erde. Wenn er eine Zieleinheit angreift, besteht eine Chance von 25 %, dass der Geist zusätzlichen Schaden in Höhe von 100 % des eigenen ANG verursacht und LP in Höhe von 30 % des eigenen ANG wiederherstellt. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/ItemsDE/con_915/) | <Phantom-Sperre> Der Geist stürzt die Zieleinheit in Verzweiflung und verringert ihren SCHD (Einheit) und ihre SCHD-Reduzierung (Einheit) 8 Sek. lang jeweils um 30 %. Zudem besteht eine Chance von 50 %, das Ziel 5 Sek. lang mit „Furcht“ zu belegen und einen Stapel Furchtzeichen hinzuzufügen. Die AKZ beträgt 15 Sek. |
 
 
 ## Stufenaufst.

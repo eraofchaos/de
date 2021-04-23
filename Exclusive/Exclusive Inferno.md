@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "Era of Chaos Exklusiv Inferno. Exklusiv Inferno. List of Exklusiv Inferno in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Exclusive Inferno"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Imp](/de/units/Imp/) | [Irisschild](/de/Exclusive/Imp Iris Shield/) | - | Aufladung | [Irisschild-Token](/de/Items/con_913/) | - |
-  | 2  | [Gog](/de/units/Gog/) | [Arkangesang](/de/Exclusive/Gog Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/de/Items/con_915/) | - |
-  | 3  | [Höllenhund](/de/units/Hell Hound/) | [Ritterpike](/de/Exclusive/Hell Hound Knight Pike/) | - | Aufladung | [Ritterpike-Token](/de/Items/con_916/) | - |
-  | 4  | [Dämon](/de/units/Demon/) | [Irisschild](/de/Exclusive/Demon Iris Shield/) | + | Aufladung | [Irisschild-Token](/de/Items/con_913/) | - |
-  | 5  | [Grottenteufel](/de/units/Pit Fiend/) | [Schwert](/de/Exclusive/Pit Fiend Sword/) | - | Aufladung | [Schwert-Token](/de/Items/con_912/) | - |
-  | 6  | [Efreet](/de/units/Efreeti/) | [Arkangesang](/de/Exclusive/Efreeti Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/de/Items/con_915/) | - |
-  | 7  | [Teufel](/de/units/Devil/) | [Teufelssense](/de/Exclusive/Devil Devil Scythe/) | - | Unterstützung | [Teufelssense-Token](/de/Items/con_984/) | [Teufelssense-Spezialskin](/de/Items/con_652/) |
-  | 8  | [Nachtmahr](/de/units/Nightmare/) | [](/de/Exclusive/Nightmare /) | - | Fernkampf | [Nachtmahrauge-Token](/de/Items/con_985/) | [Tool_250809](/de/Items/con_653/) |
+  | 1  | [Imp](/de/units/Imp/) | [Irisschild](/de/Exclusive/Imp Iris Shield/) | - | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
+  | 2  | [Gog](/de/units/Gog/) | [Arkangesang](/de/Exclusive/Gog Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
+  | 3  | [Höllenhund](/de/units/Hell Hound/) | [Ritterpike](/de/Exclusive/Hell Hound Knight Pike/) | - | Aufladung | [Ritterpike-Token](/ItemsDE/con_916/) | - |
+  | 4  | [Dämon](/de/units/Demon/) | [Irisschild](/de/Exclusive/Demon Iris Shield/) | + | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
+  | 5  | [Grottenteufel](/de/units/Pit Fiend/) | [Schwert](/de/Exclusive/Pit Fiend Sword/) | - | Aufladung | [Schwert-Token](/ItemsDE/con_912/) | - |
+  | 6  | [Efreet](/de/units/Efreeti/) | [Arkangesang](/de/Exclusive/Efreeti Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
+  | 7  | [Teufel](/de/units/Devil/) | [Teufelssense](/de/Exclusive/Devil Devil Scythe/) | - | Unterstützung | [Teufelssense-Token](/ItemsDE/con_984/) | [Teufelssense-Spezialskin](/ItemsDE/con_652/) |
+  | 8  | [Nachtmahr](/de/units/Nightmare/) | [](/de/Exclusive/Nightmare /) | - | Fernkampf | [Nachtmahrauge-Token](/ItemsDE/con_985/) | [Tool_250809](/ItemsDE/con_653/) |
   | 9  | [Giftbrut](/de/units/Venom Spawn/) | - | - | - | none | none |

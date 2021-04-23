@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-9 Der Prophet des Grals"
 permalink: /Main Story/Chapter 2_9/
 excerpt: "Kapitel 2 - 9. Era of Chaos  Hauptstory - Kapitel 2_9. 2-9 Der Prophet des Grals"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 2_9.md"
 toc: false

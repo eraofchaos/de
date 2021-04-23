@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wunderschöne Frauen mit Schlangenkörpern und Schlangenhaaren. Wer in ihre Augen schaut, wird zu Stein."
 unitID: 704
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Medusa"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Medusa](/de/Items/unt_247/)
+ **Unit Soul:** [Medusa](/ItemsDE/unt_247/)
 
  **Unit description:** Steinblick: Versteinert Feinde und reduziert ihre Schadensreduzierung.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [„Medusas Bogen“-Token](/de/Items/con_991/)
+ **Item to Rangaufstieg:** [„Medusas Bogen“-Token](/ItemsDE/con_991/)
 
- **Skin:** [„Medusas Bogen“-Spezialskin](/de/Items/con_659/)
+ **Skin:** [„Medusas Bogen“-Spezialskin](/ItemsDE/con_659/)
 
 
 ## Empfohlene Heilige Embleme
@@ -172,7 +172,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

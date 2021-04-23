@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Zyklop Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Cyclops Langbogen.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Zyklop](/de/units/Cyclops/) 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Langbogen-Token](/de/Items/con_914/) | <Felswurf> schleudert Felsen, die allen Gegnern im Zielbereich Schaden in Höhe von 200 % der max. LP zufügen. Kann einmal alle 15 Sek. ausgelöst werden. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/de/Items/con_914/) | Beim ersten Angriff des Zyklopen wird <Felswurf> ausgelöst. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/de/Items/con_914/) | ANG und Angriffstempo des Zyklopen werden um 20 % erhöht. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/de/Items/con_914/) | Wenn seine LP das erste Mal unter 30 % fallen, entfesselt der Zyklop einmal Erderschütterer, was sein Angriffstempo dauerhaft um 25 % erhöht. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/de/Items/con_914/) | ABW und Schadensreduzierung des Zyklopen werden um 20 % erhöht. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/de/Items/con_914/) | Der Angriff des Zyklopen reduziert Kritischer Treffer des Ziels um 500. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/de/Items/con_914/) | <Böser Blick> Zu Beginn der Schlacht wird das Angriffstempo aller gegnerischen Einheiten 20 Sek. lang um 10 % reduziert. |
+  |  Erwachen  | **100x** [Langbogen-Token](/ItemsDE/con_914/) | <Felswurf> schleudert Felsen, die allen Gegnern im Zielbereich Schaden in Höhe von 200 % der max. LP zufügen. Kann einmal alle 15 Sek. ausgelöst werden. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/ItemsDE/con_914/) | Beim ersten Angriff des Zyklopen wird <Felswurf> ausgelöst. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/ItemsDE/con_914/) | ANG und Angriffstempo des Zyklopen werden um 20 % erhöht. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/ItemsDE/con_914/) | Wenn seine LP das erste Mal unter 30 % fallen, entfesselt der Zyklop einmal Erderschütterer, was sein Angriffstempo dauerhaft um 25 % erhöht. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/ItemsDE/con_914/) | ABW und Schadensreduzierung des Zyklopen werden um 20 % erhöht. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/ItemsDE/con_914/) | Der Angriff des Zyklopen reduziert Kritischer Treffer des Ziels um 500. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/ItemsDE/con_914/) | <Böser Blick> Zu Beginn der Schlacht wird das Angriffstempo aller gegnerischen Einheiten 20 Sek. lang um 10 % reduziert. |
 
 
 ## Stufenaufst.

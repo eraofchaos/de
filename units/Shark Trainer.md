@@ -3,7 +3,7 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Hai-Ausbilder](/de/Items/unt_281/)
+ **Unit Soul:** [Hai-Ausbilder](/ItemsDE/unt_281/)
 
  **Short description:** Beschwört Haie zum Zerreißen und Zerfleischen.
 
@@ -214,7 +214,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

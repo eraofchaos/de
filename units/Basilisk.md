@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
 unitID: 804
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Basilisk"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Basilisk](/de/Items/unt_256/)
+ **Unit Soul:** [Basilisk](/ItemsDE/unt_256/)
 
  **Short description:** Kontrolliert Tanks, versteinert.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Basiliskenschwanz-Token](/de/Items/con_994/)
+ **Item to Rangaufstieg:** [Basiliskenschwanz-Token](/ItemsDE/con_994/)
 
- **Skin:** [„Feuerenergie“-Spezialskin](/de/Items/con_662/)
+ **Skin:** [„Feuerenergie“-Spezialskin](/ItemsDE/con_662/)
 
 
 ## Empfohlene Heilige Embleme
@@ -174,7 +174,7 @@ toc: true
 * SCHD-Reduzierung (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

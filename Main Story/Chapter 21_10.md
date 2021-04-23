@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-10 Zusammenwachsen"
 permalink: /Main Story/Chapter 21_10/
 excerpt: "Kapitel 21 - 10. Era of Chaos  Hauptstory - Kapitel 21_10. 21-10 Zusammenwachsen"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 21_10.md"
 toc: false

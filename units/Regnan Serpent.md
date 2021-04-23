@@ -3,7 +3,7 @@ title: "Regnanschlange"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Regnanschlange"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Regnanschlange](/de/Items/unt_276/)
+ **Unit Soul:** [Regnanschlange](/ItemsDE/unt_276/)
 
  **Unit description:** Tiefseestampfer: Flächenkontrolle, schreckt Feinde ab und reduziert Kritischer Treffer.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Tagesgezeiten-Token](/de/Items/con_1003/)
+ **Item to Rangaufstieg:** [Tagesgezeiten-Token](/ItemsDE/con_1003/)
 
- **Skin:** [Tagesgezeiten-Spezialskin](/de/Items/con_671/)
+ **Skin:** [Tagesgezeiten-Spezialskin](/ItemsDE/con_671/)
 
 
 ## Empfohlene Heilige Embleme
@@ -187,7 +187,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

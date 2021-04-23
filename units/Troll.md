@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Trolle haben eine hohe Intelligenz und benutzen schwere Felsbrocken als Waffen. Sie stehen oft in der vordersten Kampflinie, um den Gegner mit heftigen und schweren Schlägen anzugreifen."
 unitID: 409
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Troll"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Troll](/de/Items/unt_225/)
+ **Unit Soul:** [Troll](/ItemsDE/unt_225/)
 
  **Short description:** Einzelzielattacke. Schadensspitzen.
 
@@ -191,7 +191,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

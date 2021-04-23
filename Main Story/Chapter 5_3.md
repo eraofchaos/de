@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-3 Allianzarmee"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "Kapitel 5 - 3. Era of Chaos  Hauptstory - Kapitel 5_3. 5-3 Allianzarmee"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 5_3.md"
 toc: false

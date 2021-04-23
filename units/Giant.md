@@ -3,7 +3,7 @@ title: "Gigant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Gigant"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Gigant](/de/Items/unt_241/)
+ **Unit Soul:** [Gigant](/ItemsDE/unt_241/)
 
  **Unit description:** Kriegsgott: Ignoriert Reichweite, verursacht Schaden als Prozentwert der LP.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Tausend-Tonnen-Token](/de/Items/con_988/)
+ **Item to Rangaufstieg:** [Tausend-Tonnen-Token](/ItemsDE/con_988/)
 
- **Skin:** [Tausend-Tonnen-Spezialskin](/de/Items/con_656/)
+ **Skin:** [Tausend-Tonnen-Spezialskin](/ItemsDE/con_656/)
 
 
 ## Empfohlene Heilige Embleme
@@ -171,7 +171,7 @@ toc: true
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

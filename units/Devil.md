@@ -3,7 +3,7 @@ title: "Teufel"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Teufel ist der Anführer des Infernos. Er diktiert das Tempo im Kampf und kann sich sogar teleportieren, um Feinde in den hinteren Reihen anzugreifen."
 unitID: 507
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Teufel"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Teufel](/de/Items/unt_232/)
+ **Unit Soul:** [Teufel](/ItemsDE/unt_232/)
 
  **Unit description:** Schmerzhafter Schnitter: Fügt Feinden katastrophalen Schaden zu und verursacht Betäubung.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Teufelssense-Token](/de/Items/con_984/)
+ **Item to Rangaufstieg:** [Teufelssense-Token](/ItemsDE/con_984/)
 
- **Skin:** [Teufelssense-Spezialskin](/de/Items/con_652/)
+ **Skin:** [Teufelssense-Spezialskin](/ItemsDE/con_652/)
 
 
 ## Empfohlene Heilige Embleme
@@ -177,7 +177,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

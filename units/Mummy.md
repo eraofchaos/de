@@ -3,7 +3,7 @@ title: "Mumie"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Untoten schlafen in ihrem uralten Mausoleum. Auf Eindringlinge wartet ein tödlicher Fluch."
 unitID: 308
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Mumie"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Mumie](/de/Items/unt_215/)
+ **Unit Soul:** [Mumie](/ItemsDE/unt_215/)
 
  **Unit description:** Fluch der Verwesung: Reduziert die gegnerische Heilung enorm.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Gaze-Token](/de/Items/con_981/)
+ **Item to Rangaufstieg:** [Gaze-Token](/ItemsDE/con_981/)
 
- **Skin:** [Gaze-Spezialskin](/de/Items/con_649/)
+ **Skin:** [Gaze-Spezialskin](/ItemsDE/con_649/)
 
 
 ## Empfohlene Heilige Embleme
@@ -175,7 +175,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

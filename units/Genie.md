@@ -3,7 +3,7 @@ title: "Dschinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Dschinn"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Dschinn](/de/Items/unt_239/)
+ **Unit Soul:** [Dschinn](/ItemsDE/unt_239/)
 
  **Unit description:** Geschenk der Energie: Wandelt ANG in Heilung um.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Lyra-Token](/de/Items/con_986/)
+ **Item to Rangaufstieg:** [Lyra-Token](/ItemsDE/con_986/)
 
- **Skin:** [Lyra-Spezialskin](/de/Items/con_654/)
+ **Skin:** [Lyra-Spezialskin](/ItemsDE/con_654/)
 
 
 ## Empfohlene Heilige Embleme
@@ -178,7 +178,7 @@ toc: true
 * Heilung
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Efreet wird geboren im Feuer des Infernos und kann seine Feuermagie in den Himmel schleudern."
 unitID: 506
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Efreet"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Efreet](/de/Items/unt_231/)
+ **Unit Soul:** [Efreet](/ItemsDE/unt_231/)
 
  **Unit description:** Feuerball: Fügt Feinden kolossalen Schaden zu und verursacht Verbrennung.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Betrachter"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese schlauen Monster haben jede Menge Augen und betrachten alle Lebewesen als ihre Diener."
 unitID: 703
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Betrachter"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Betrachter](/de/Items/unt_246/)
+ **Unit Soul:** [Betrachter](/ItemsDE/unt_246/)
 
  **Unit description:** Gedankenkontrolle: Macht Gegner bewegungsunfähig und fügt ihnen Schaden über Zeit zu.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Dunkler-Blick-Token](/de/Items/con_990/)
+ **Item to Rangaufstieg:** [Dunkler-Blick-Token](/ItemsDE/con_990/)
 
- **Skin:** [Dunkler-Blick-Spezialskin](/de/Items/con_658/)
+ **Skin:** [Dunkler-Blick-Spezialskin](/ItemsDE/con_658/)
 
 
 ## Empfohlene Heilige Embleme
@@ -167,7 +167,7 @@ toc: true
 * Schaden (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

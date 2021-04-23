@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Roc)"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Roc Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Roc Arkangesang.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Roc](/de/units/Roc/) 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | <Statischer Puls> Roc setzt die Blitze in seinem Körper ein, um gegnerischen Einheiten in einem großen Radius jede Sekunde Schaden in Höhe von 2 % seiner max. LP zuzufügen und das Angriffstempo 5 Sek. lang um 20 % zu verringern. Die AKZ beträgt 20 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht Rocs ANG um 20 % und den Krit. Gesamt-SCHD um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht Rocs SCHD (Einheit) um 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | Wenn Roc Gegner während <Statischer Puls> angreift, erhöht er das eigene Angriffstempo um 30 % und den Krit. Gesamt-SCHD um 40 %. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | <Blitzschlag> Roc fügt der Zieleinheit Schaden in Höhe von 200 % seines eigenen ANG zu und wirkt 5 Sek. lang „Überanstrengen“. Roc wird zudem 3 Sek. lang mit „Überanstrengen“ belegt. Die AKZ beträgt 15 Sek. Überanstrengen: Einheiten mit diesem Status können keine normalen Angriffe einsetzen. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Verringert die ABW von Gegnern innerhalb von <Statischer Puls> um 10 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | <Sturmverfolgung> Wenn Roc einen Krit. Treffer landet, wirkt er <Statischer Puls> auf gegnerische Einheiten in einem Radius von zufälliger Größe. Außerdem erhöht er für 5 Sek. bei Nahkampfeinheiten der eigenen Burg Ausweichen um 1.000 und bei Fernkampf-/Zauberer-Einheiten der eigenen Burg Krit. Treffer um 500. Die AKZ beträgt 20 Sek. |
+  |  Erwachen  | **100x** [Arkangesang-Token](/ItemsDE/con_915/) | <Statischer Puls> Roc setzt die Blitze in seinem Körper ein, um gegnerischen Einheiten in einem großen Radius jede Sekunde Schaden in Höhe von 2 % seiner max. LP zuzufügen und das Angriffstempo 5 Sek. lang um 20 % zu verringern. Die AKZ beträgt 20 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht Rocs ANG um 20 % und den Krit. Gesamt-SCHD um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht Rocs SCHD (Einheit) um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn Roc Gegner während <Statischer Puls> angreift, erhöht er das eigene Angriffstempo um 30 % und den Krit. Gesamt-SCHD um 40 %. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/ItemsDE/con_915/) | <Blitzschlag> Roc fügt der Zieleinheit Schaden in Höhe von 200 % seines eigenen ANG zu und wirkt 5 Sek. lang „Überanstrengen“. Roc wird zudem 3 Sek. lang mit „Überanstrengen“ belegt. Die AKZ beträgt 15 Sek. Überanstrengen: Einheiten mit diesem Status können keine normalen Angriffe einsetzen. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/ItemsDE/con_915/) | Verringert die ABW von Gegnern innerhalb von <Statischer Puls> um 10 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/ItemsDE/con_915/) | <Sturmverfolgung> Wenn Roc einen Krit. Treffer landet, wirkt er <Statischer Puls> auf gegnerische Einheiten in einem Radius von zufälliger Größe. Außerdem erhöht er für 5 Sek. bei Nahkampfeinheiten der eigenen Burg Ausweichen um 1.000 und bei Fernkampf-/Zauberer-Einheiten der eigenen Burg Krit. Treffer um 500. Die AKZ beträgt 20 Sek. |
 
 
 ## Stufenaufst.

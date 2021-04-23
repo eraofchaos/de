@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-5 Banditengilde"
 permalink: /Main Story/Chapter 18_5/
 excerpt: "Kapitel 18 - 5. Era of Chaos  Hauptstory - Kapitel 18_5. 18-5 Banditengilde"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 18_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Nachtgezeiten (Mermaid)"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Nachtgezeiten. Nachtgezeiten. Era of Chaos Exklusiv Nachtgezeiten. Meerjungfrau Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Mermaid Nachtgezeiten.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Meerjungfrau](/de/units/Mermaid/) 
 
- **Item to Rangaufstieg:** [Nachtgezeiten-Token](/de/Items/con_1004/)
+ **Item to Rangaufstieg:** [Nachtgezeiten-Token](/ItemsDE/con_1004/)
 
- **Skin:** [Nachtgezeiten-Spezialskin](/de/Items/con_672/)
+ **Skin:** [Nachtgezeiten-Spezialskin](/ItemsDE/con_672/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Nachtgezeiten-Token](/de/Items/con_1004/) | <Ode des Wächters> Wenn die Meerjungfrau in einem einzigen Angriff mehr als 30 % der eigenen max. LP Schaden erleidet, erhält sie eine Blase in Höhe von 25 % der eigenen max. LP und erhöht die ABW 15 Sek. lang um 400. Die AKZ beträgt 10 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Nachtgezeiten-Token](/de/Items/con_1004/) | Angriffstempo und ANG der Meerjungfrau werden jeweils um 20 % erhöht. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Nachtgezeiten-Token](/de/Items/con_1004/) | <Lied des Beistands> Die Meerjungfrau erhöht den SCHD (Einheit) einer zufälligen verbündeten Fernkampf-/Zauberer-Einheit um 25 % und gewährt sich selbst 10 Sek. lang eine Blase in Höhe von 20 % der eigenen max. LP. Die AKZ beträgt 20 Sek. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Nachtgezeiten-Token](/de/Items/con_1004/) | <Sirenenlied> Die Meerjungfrau singt das Lied der Sirene und wirkt bei 2 zufälligen gegnerischen Einheiten 5 Sek. lang „Schlaf“. Stellt zudem bei verbündeten Einheiten in der hinteren Reihe 10 Sek. lang pro Sek. LP in Höhe von 60 % des ANG der Meerjungfrau wieder her. Die AKZ beträgt 24 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Nachtgezeiten-Token](/de/Items/con_1004/) | Erhöht die SCHD-Reduzierung (Einheit) der Meerjungfrau um 25 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Nachtgezeiten-Token](/de/Items/con_1004/) | Jedes Mal, wenn die Meerjungfrau eine Blase erhält, wird das Angriffstempo und die SCHD-Reduzierung (Einheit) für 8 Sek. jeweils um 3 % erhöht. Bis zu 10 Mal stapelbar. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Nachtgezeiten-Token](/de/Items/con_1004/) | <Lied der Nachtgezeiten> Die Meerjungfrau bewegt sich mit den Gezeiten und erhöht 9 Sek. lang ihre Heilung um 50 % und ihr Angriffstempo um 30 %. Verleiht zufälligen verbündeten Einheiten die Kraft der Gezeiten und erhöht für 6 Sek. ihren SCHD (Einheit) um 30 %, das Angriffstempo um 20 % und Krit. Treffer um 200 oder die SCHD-Reduzierung (Einheit) um 30 %, die ABW um 20 % und die Zähigkeit um 200. Die AKZ beträgt 35 Sek. |
+  |  Erwachen  | **100x** [Nachtgezeiten-Token](/ItemsDE/con_1004/) | <Ode des Wächters> Wenn die Meerjungfrau in einem einzigen Angriff mehr als 30 % der eigenen max. LP Schaden erleidet, erhält sie eine Blase in Höhe von 25 % der eigenen max. LP und erhöht die ABW 15 Sek. lang um 400. Die AKZ beträgt 10 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Nachtgezeiten-Token](/ItemsDE/con_1004/) | Angriffstempo und ANG der Meerjungfrau werden jeweils um 20 % erhöht. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Nachtgezeiten-Token](/ItemsDE/con_1004/) | <Lied des Beistands> Die Meerjungfrau erhöht den SCHD (Einheit) einer zufälligen verbündeten Fernkampf-/Zauberer-Einheit um 25 % und gewährt sich selbst 10 Sek. lang eine Blase in Höhe von 20 % der eigenen max. LP. Die AKZ beträgt 20 Sek. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Nachtgezeiten-Token](/ItemsDE/con_1004/) | <Sirenenlied> Die Meerjungfrau singt das Lied der Sirene und wirkt bei 2 zufälligen gegnerischen Einheiten 5 Sek. lang „Schlaf“. Stellt zudem bei verbündeten Einheiten in der hinteren Reihe 10 Sek. lang pro Sek. LP in Höhe von 60 % des ANG der Meerjungfrau wieder her. Die AKZ beträgt 24 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Nachtgezeiten-Token](/ItemsDE/con_1004/) | Erhöht die SCHD-Reduzierung (Einheit) der Meerjungfrau um 25 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Nachtgezeiten-Token](/ItemsDE/con_1004/) | Jedes Mal, wenn die Meerjungfrau eine Blase erhält, wird das Angriffstempo und die SCHD-Reduzierung (Einheit) für 8 Sek. jeweils um 3 % erhöht. Bis zu 10 Mal stapelbar. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Nachtgezeiten-Token](/ItemsDE/con_1004/) | <Lied der Nachtgezeiten> Die Meerjungfrau bewegt sich mit den Gezeiten und erhöht 9 Sek. lang ihre Heilung um 50 % und ihr Angriffstempo um 30 %. Verleiht zufälligen verbündeten Einheiten die Kraft der Gezeiten und erhöht für 6 Sek. ihren SCHD (Einheit) um 30 %, das Angriffstempo um 20 % und Krit. Treffer um 200 oder die SCHD-Reduzierung (Einheit) um 30 %, die ABW um 20 % und die Zähigkeit um 200. Die AKZ beträgt 35 Sek. |
 
 
 ## Stufenaufst.

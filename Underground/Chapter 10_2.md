@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 10 - 10-2 Die Suche nach dem Grab"
 permalink: /Underground/Chapter 10_2/
 excerpt: "Kapitel 10 - 2. Era of Chaos  Untergrund - Kapitel 10_2. 10-2 Die Suche nach dem Grab"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 10_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Kavallerist Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Cavalier Ritterpike.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Kavallerist](/de/units/Cavalier/) 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Ritterpike-Token](/de/Items/con_916/) | <Verkrüppelnder Wurfspeer> 2 Sekunden nach Beginn der Schlacht werfen Ritter ihre zusätzlichen Wurfspeere, die einer zufälligen gegnerischen Einheit Schaden in Höhe von 200 % ihres ANG zufügen und die ABW des Ziels 30 Sek. lang um 10 % reduzieren. Ist das Ziel eine Fernkampf-/Zauberer-Einheit, wird ihr SCHD (Einheit) um 20 % reduziert. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ritterpike-Token](/de/Items/con_916/) | Die Schadensreduzierung des Kavalleristen wird um 25 % erhöht, wenn er Fernkampfschaden erleidet. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ritterpike-Token](/de/Items/con_916/) | Erhöht den ANG des Kavalleristen um 20 % und seinen Schaden um 10 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ritterpike-Token](/de/Items/con_916/) | Die ABW des Kavalleristen wird um 10 % erhöht. Zu Beginn der Schlacht wird die Durchdringung aller verbündeten Schloss-Einheiten um 300 erhöht. Dieser Effekt kann nicht gebannt werden. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ritterpike-Token](/de/Items/con_916/) | Angriffe des Kavalleristen reduzieren die ABW des Ziels 1 Sek. lang um 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ritterpike-Token](/de/Items/con_916/) | Der Kavallerist erhält 15 % Lebensentzug. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ritterpike-Token](/de/Items/con_916/) | Der Kavallerist kann 20 % seiner max. LP wiederherstellen, wenn er „Hohe Moral“ hat. Dieser Effekt kann nur einmal alle 3 Sek. ausgelöst werden. |
+  |  Erwachen  | **100x** [Ritterpike-Token](/ItemsDE/con_916/) | <Verkrüppelnder Wurfspeer> 2 Sekunden nach Beginn der Schlacht werfen Ritter ihre zusätzlichen Wurfspeere, die einer zufälligen gegnerischen Einheit Schaden in Höhe von 200 % ihres ANG zufügen und die ABW des Ziels 30 Sek. lang um 10 % reduzieren. Ist das Ziel eine Fernkampf-/Zauberer-Einheit, wird ihr SCHD (Einheit) um 20 % reduziert. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ritterpike-Token](/ItemsDE/con_916/) | Die Schadensreduzierung des Kavalleristen wird um 25 % erhöht, wenn er Fernkampfschaden erleidet. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ritterpike-Token](/ItemsDE/con_916/) | Erhöht den ANG des Kavalleristen um 20 % und seinen Schaden um 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ritterpike-Token](/ItemsDE/con_916/) | Die ABW des Kavalleristen wird um 10 % erhöht. Zu Beginn der Schlacht wird die Durchdringung aller verbündeten Schloss-Einheiten um 300 erhöht. Dieser Effekt kann nicht gebannt werden. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ritterpike-Token](/ItemsDE/con_916/) | Angriffe des Kavalleristen reduzieren die ABW des Ziels 1 Sek. lang um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ritterpike-Token](/ItemsDE/con_916/) | Der Kavallerist erhält 15 % Lebensentzug. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ritterpike-Token](/ItemsDE/con_916/) | Der Kavallerist kann 20 % seiner max. LP wiederherstellen, wenn er „Hohe Moral“ hat. Dieser Effekt kann nur einmal alle 3 Sek. ausgelöst werden. |
 
 
 ## Stufenaufst.

@@ -3,7 +3,7 @@ title: "Roter Drache"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Herrscher aller Drachen. Sein Brüllen wird von allen Drachen erwidert und verkündet die unantastbare Würde dieses edlen Geschlechts."
 unitID: 708
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Roter Drache"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Roter Drache](/de/Items/unt_251/)
+ **Unit Soul:** [Roter Drache](/ItemsDE/unt_251/)
 
  **Short description:** Drachen-Overlord mit starkem Brüllen.
 
@@ -180,7 +180,7 @@ toc: true
 * Schaden (Einheit)
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Zwerg"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Zwerg"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Zwerg](/de/Items/unt_200/)
+ **Unit Soul:** [Zwerg](/ItemsDE/unt_200/)
 
  **Unit description:** Zwergengebrüll: Erhöht die max. Gesundheit deiner Einheiten zu Beginn der Schlacht.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -181,7 +181,7 @@ toc: true
 * Abwehr
 * Magieresistenz
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

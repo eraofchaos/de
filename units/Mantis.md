@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ihre rasiermesserscharfen, riesigen Klingen demonstrieren ihren Stolz als legendäres Geschöpf. Die Elfen von Vori verliehen der Mantis hohe und ausdauernde Vitalität."
 unitID: 209
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Mantis"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Tool_3209](/de/Items/unt_207/)
+ **Unit Soul:** [Tool_3209](/ItemsDE/unt_207/)
 
  **Short description:** Höhere Reichweite bei „Schnelles Schneiden“.
 
@@ -183,7 +183,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

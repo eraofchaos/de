@@ -2,7 +2,7 @@
 title: "Exklusiv -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Richterin Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Judicator .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Richterin](/de/units/Judicator/) 
 
- **Item to Rangaufstieg:** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/)
+ **Item to Rangaufstieg:** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/)
 
- **Skin:** [Tool_210909](/de/Items/con_643/)
+ **Skin:** [Tool_210909](/ItemsDE/con_643/)
 
  **Type:** Hauptstadt
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [„Strahlkraft des Heiligtums“-Bannerseele](/de/Items/con_975/) |  |
+  |  Erwachen  | **100x** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/) |  |
 
 
 ## Stufenaufst.

@@ -3,7 +3,7 @@ title: "Feuerelementar"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Feuerelementar"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Feuerelementar](/de/Items/unt_265/)
+ **Unit Soul:** [Feuerelementar](/ItemsDE/unt_265/)
 
  **Short description:** Verbrennungen, schlachtfeldweite Explosion.
 
@@ -81,9 +81,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Feuerenergie-Token](/de/Items/con_998/)
+ **Item to Rangaufstieg:** [Feuerenergie-Token](/ItemsDE/con_998/)
 
- **Skin:** [„Feuerenergie“-Spezialskin](/de/Items/con_666/)
+ **Skin:** [„Feuerenergie“-Spezialskin](/ItemsDE/con_666/)
 
 
 ## Empfohlene Heilige Embleme
@@ -174,7 +174,7 @@ toc: true
 * Angriffstempo
 * Ausweichen (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

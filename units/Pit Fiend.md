@@ -3,7 +3,7 @@ title: "Grottenteufel"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
 unitID: 505
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Grottenteufel"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Grottenteufel](/de/Items/unt_230/)
+ **Unit Soul:** [Grottenteufel](/ItemsDE/unt_230/)
 
  **Unit description:** Feuerquelle: Heilt regelmäßig verbündete Einheiten vor sich.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Heilung
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

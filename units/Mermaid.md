@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Meerjungfrau"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Meerjungfrau](/de/Items/unt_277/)
+ **Unit Soul:** [Meerjungfrau](/ItemsDE/unt_277/)
 
  **Short description:** Gruppenheilung, starke Buffs.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Nachtgezeiten-Token](/de/Items/con_1004/)
+ **Item to Rangaufstieg:** [Nachtgezeiten-Token](/ItemsDE/con_1004/)
 
- **Skin:** [Nachtgezeiten-Spezialskin](/de/Items/con_672/)
+ **Skin:** [Nachtgezeiten-Spezialskin](/ItemsDE/con_672/)
 
 
 ## Empfohlene Heilige Embleme
@@ -172,7 +172,7 @@ toc: true
 * Angriffstempo
 * Heilung
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

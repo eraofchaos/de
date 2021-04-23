@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Hydra"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Hydra](/de/Items/unt_259/)
+ **Unit Soul:** [Hydra](/ItemsDE/unt_259/)
 
  **Short description:** Hoher Angriff. Hält lange durch. Mächtige Kontrolle.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Hydrakopf-Token](/de/Items/con_997/)
+ **Item to Rangaufstieg:** [Hydrakopf-Token](/ItemsDE/con_997/)
 
- **Skin:** [„Energiekern“-Spezialskin](/de/Items/con_665/)
+ **Skin:** [„Energiekern“-Spezialskin](/ItemsDE/con_665/)
 
 
 ## Empfohlene Heilige Embleme
@@ -171,7 +171,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Adjutant Solmyr"
 permalink: /heroes/Adjutant Solmyr/
 excerpt: "Era of Chaos  Adjutant Solmyr"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Adjutant Solmyr.md"
 QR: adhero_61201
@@ -34,7 +34,7 @@ classes: wide
 
 ## Adjutanten-Stufe Upgrade
 
-  | Adjutanten-Stufe | Adjutanten-Kraft | [Zauberspruchrollen](/de/Items/con_694/) | [Taktik-Handbuch](/de/Items/unk_2115/) | Accumulated [Zauberspruchrollen](/de/Items/con_694/) | Accumulated [Taktik-Handbuch](/de/Items/unk_2115/) |
+  | Adjutanten-Stufe | Adjutanten-Kraft | [Zauberspruchrollen](/ItemsDE/con_694/) | [Taktik-Handbuch](/ItemsDE/unk_2115/) | Accumulated [Zauberspruchrollen](/ItemsDE/con_694/) | Accumulated [Taktik-Handbuch](/ItemsDE/unk_2115/) |
   |:-------|:-------|:------------|:------------|:------------|:------------|
   | **1** | 5000 | 0 | **0** | **0** | **0** |
   | **2** | 6000 | 100 | **0** | **100** | **0** |

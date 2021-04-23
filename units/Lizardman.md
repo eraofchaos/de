@@ -3,7 +3,7 @@ title: "Echsenmensch"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese tödlichen Jäger lauern im Dunkeln; ihre vergifteten Pfeile sind stark genug, um jede Beute zu erlegen."
 unitID: 802
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Echsenmensch"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Echsenmensch](/de/Items/unt_254/)
+ **Unit Soul:** [Echsenmensch](/ItemsDE/unt_254/)
 
  **Short description:** Starker DPS.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

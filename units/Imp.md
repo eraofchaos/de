@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Imps mögen schwache Dämonen sein, aber sie sind dennoch verschlagen und im Kampf furchterregend brutal."
 unitID: 501
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Imp"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Imp](/de/Items/unt_226/)
+ **Unit Soul:** [Imp](/ItemsDE/unt_226/)
 
  **Unit description:** Impuls: Mit einer gewissen Wahrscheinlichkeit wird die Einheit nach dem Tod mit voller Gesundheit wiederbelebt.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Ausweichen (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

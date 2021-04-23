@@ -2,7 +2,7 @@
 title: "Exklusiv - Lyra (Genie)"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyra. Lyra. Era of Chaos Exklusiv Lyra. Dschinn Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Genie Lyra.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Dschinn](/de/units/Genie/) 
 
- **Item to Rangaufstieg:** [Lyra-Token](/de/Items/con_986/)
+ **Item to Rangaufstieg:** [Lyra-Token](/ItemsDE/con_986/)
 
- **Skin:** [Lyra-Spezialskin](/de/Items/con_654/)
+ **Skin:** [Lyra-Spezialskin](/ItemsDE/con_654/)
 
  **Type:** Fernkampf
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Lyra-Token](/de/Items/con_986/) | <Lampenwächter> Der Dschinn erhält alle 5 Sek. einen Stapel Lampenwächter. Jeder Stapel erhöht die SCHD-Reduzierung (Einheit) um 2 % und hält für den gesamten Kampf an. Bis zu 20 Mal stapelbar. Wenn der Dschinn Schaden nimmt, erhält er einen weiteren Stapel Lampenwächter. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Lyra-Token](/de/Items/con_986/) | Erhöht die ABW des Dschinns um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Lyra-Token](/de/Items/con_986/) | Erhöht die Heilung des Dschinns um 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Lyra-Token](/de/Items/con_986/) | Der Dschinn setzt einen Nebel frei, der 10 Sek. lang den SCHD (Einheit) von 2 zufälligen gegnerischen Fernkampf-/Zauberer-Einheiten um 20 % und Krit. Treffer um 400 verringert. Die AKZ beträgt 15 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Lyra-Token](/de/Items/con_986/) | Der Dschinn erhöht für jede Turm-Einheit auf dem Schlachtfeld die eigene SCHD-Reduzierung (Einheit) um 5 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Lyra-Token](/de/Items/con_986/) | Wenn der Dschinn auf dem Schlachtfeld ist, erhöht er die Heilung aller verbündeten Einheiten um 10 % und ihre ABW um 10 %. Der Effekt verdoppelt sich für Einheiten der Turmfraktion. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Lyra-Token](/de/Items/con_986/) | Der Dschinn erhält zu Beginn des Kampfes 10 Stapel von Lampenwächter und die maximale Anzahl von Stapeln wird auf 30 erhöht. Jedes Mal, wenn der Dschinn die Effekte von Lampenwächter erhält, bekommen 2 zufällige verbündete Einheiten den gleichen Effekt und erhalten LP in Höhe von 50 % ihres eigenen ANG zurück. |
+  |  Erwachen  | **100x** [Lyra-Token](/ItemsDE/con_986/) | <Lampenwächter> Der Dschinn erhält alle 5 Sek. einen Stapel Lampenwächter. Jeder Stapel erhöht die SCHD-Reduzierung (Einheit) um 2 % und hält für den gesamten Kampf an. Bis zu 20 Mal stapelbar. Wenn der Dschinn Schaden nimmt, erhält er einen weiteren Stapel Lampenwächter. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Lyra-Token](/ItemsDE/con_986/) | Erhöht die ABW des Dschinns um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Lyra-Token](/ItemsDE/con_986/) | Erhöht die Heilung des Dschinns um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Lyra-Token](/ItemsDE/con_986/) | Der Dschinn setzt einen Nebel frei, der 10 Sek. lang den SCHD (Einheit) von 2 zufälligen gegnerischen Fernkampf-/Zauberer-Einheiten um 20 % und Krit. Treffer um 400 verringert. Die AKZ beträgt 15 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Lyra-Token](/ItemsDE/con_986/) | Der Dschinn erhöht für jede Turm-Einheit auf dem Schlachtfeld die eigene SCHD-Reduzierung (Einheit) um 5 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Lyra-Token](/ItemsDE/con_986/) | Wenn der Dschinn auf dem Schlachtfeld ist, erhöht er die Heilung aller verbündeten Einheiten um 10 % und ihre ABW um 10 %. Der Effekt verdoppelt sich für Einheiten der Turmfraktion. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Lyra-Token](/ItemsDE/con_986/) | Der Dschinn erhält zu Beginn des Kampfes 10 Stapel von Lampenwächter und die maximale Anzahl von Stapeln wird auf 30 erhöht. Jedes Mal, wenn der Dschinn die Effekte von Lampenwächter erhält, bekommen 2 zufällige verbündete Einheiten den gleichen Effekt und erhalten LP in Höhe von 50 % ihres eigenen ANG zurück. |
 
 
 ## Stufenaufst.

@@ -3,7 +3,7 @@ title: "Meerelementar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
 unitID: 9903
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Meerelementar"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Meerelementar](/de/Items/unt_275/)
+ **Unit Soul:** [Meerelementar](/ItemsDE/unt_275/)
 
  **Short description:** Verlangsamungs-Kontrolle.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exklusiv - Hydrakopf (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Hydrakopf. Hydrakopf. Era of Chaos Exklusiv Hydrakopf. Hydra Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Hydra Hydrakopf.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Hydra](/de/units/Hydra/) 
 
- **Item to Rangaufstieg:** [Hydrakopf-Token](/de/Items/con_997/)
+ **Item to Rangaufstieg:** [Hydrakopf-Token](/ItemsDE/con_997/)
 
- **Skin:** [„Energiekern“-Spezialskin](/de/Items/con_665/)
+ **Skin:** [„Energiekern“-Spezialskin](/ItemsDE/con_665/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Hydrakopf-Token](/de/Items/con_997/) | <Essrausch> Beißt den Gegner 1 Mal pro Sekunde, greift insgesamt 5 Mal an und verursacht jedes Mal Schaden in Höhe von 50 % des eigenen ANG. Verringert die Zähigkeit des Gegners um 50 und erhöht den eigenen Krit. Gesamt-SCHD um 4 %. Bis zu 5 Mal stapelbar. Der Effekt hält 3 Sek. lang an. Die AKZ beträgt 20 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Hydrakopf-Token](/de/Items/con_997/) | Erhöht den SCHD (Einheit) und den ANG der Hydra jeweils um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Hydrakopf-Token](/de/Items/con_997/) | Erhöht ABW und SCHD-Reduzierung (Einheit) der Hydra jeweils um 10 %. Wenn die Hydra auf dem Schlachtfeld ist, erhöht sie die ABW aller verbündeten Festungseinheiten um 10 % und die SCHD-Reduzierung (Einheit) um 10 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Hydrakopf-Token](/de/Items/con_997/) | <Wiedergeburt> Wenn ein einzelner Angriff Schaden verursacht, der 10 % der eigenen max. LP übersteigt, aber weniger als 20 % der max. LP beträgt, werden nach 3 Sek. 500.000 LP wiederhergestellt. Wenn der Schaden in einem einzelnen Angriff 20 % der eigenen max. LP übersteigt, wird Immunität gegen Schaden, der diese 20 % übersteigt, gewährt. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Hydrakopf-Token](/de/Items/con_997/) | Erhöht den Lebensentzug der Hydra um 15 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Hydrakopf-Token](/de/Items/con_997/) | Die Hydra ist immun gegen „Versteinerung“ und wenn sie von „Niedrige Moral“ betroffen ist, wird das Angriffstempo 5 Sek. lang um 33 % erhöht. Wenn sie von Abschreckung betroffen ist, wird Krit. Treffer 5 Sek. lang um 300 erhöht. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Hydrakopf-Token](/de/Items/con_997/) | <Chaosodem> Greift gegnerische Einheiten in großer Reichweite davor an und verursacht Schaden in Höhe von 200 % des eigenen ANG an Abwehr-Einheiten und Schaden in Höhe von 23 % der max. LP an anderen Einheiten sowie 1 zufälligen Debuff. Die AKZ beträgt 15 Sek. |
+  |  Erwachen  | **100x** [Hydrakopf-Token](/ItemsDE/con_997/) | <Essrausch> Beißt den Gegner 1 Mal pro Sekunde, greift insgesamt 5 Mal an und verursacht jedes Mal Schaden in Höhe von 50 % des eigenen ANG. Verringert die Zähigkeit des Gegners um 50 und erhöht den eigenen Krit. Gesamt-SCHD um 4 %. Bis zu 5 Mal stapelbar. Der Effekt hält 3 Sek. lang an. Die AKZ beträgt 20 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Hydrakopf-Token](/ItemsDE/con_997/) | Erhöht den SCHD (Einheit) und den ANG der Hydra jeweils um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Hydrakopf-Token](/ItemsDE/con_997/) | Erhöht ABW und SCHD-Reduzierung (Einheit) der Hydra jeweils um 10 %. Wenn die Hydra auf dem Schlachtfeld ist, erhöht sie die ABW aller verbündeten Festungseinheiten um 10 % und die SCHD-Reduzierung (Einheit) um 10 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Hydrakopf-Token](/ItemsDE/con_997/) | <Wiedergeburt> Wenn ein einzelner Angriff Schaden verursacht, der 10 % der eigenen max. LP übersteigt, aber weniger als 20 % der max. LP beträgt, werden nach 3 Sek. 500.000 LP wiederhergestellt. Wenn der Schaden in einem einzelnen Angriff 20 % der eigenen max. LP übersteigt, wird Immunität gegen Schaden, der diese 20 % übersteigt, gewährt. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Hydrakopf-Token](/ItemsDE/con_997/) | Erhöht den Lebensentzug der Hydra um 15 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Hydrakopf-Token](/ItemsDE/con_997/) | Die Hydra ist immun gegen „Versteinerung“ und wenn sie von „Niedrige Moral“ betroffen ist, wird das Angriffstempo 5 Sek. lang um 33 % erhöht. Wenn sie von Abschreckung betroffen ist, wird Krit. Treffer 5 Sek. lang um 300 erhöht. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Hydrakopf-Token](/ItemsDE/con_997/) | <Chaosodem> Greift gegnerische Einheiten in großer Reichweite davor an und verursacht Schaden in Höhe von 200 % des eigenen ANG an Abwehr-Einheiten und Schaden in Höhe von 23 % der max. LP an anderen Einheiten sowie 1 zufälligen Debuff. Die AKZ beträgt 15 Sek. |
 
 
 ## Stufenaufst.

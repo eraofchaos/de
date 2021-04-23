@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Exklusiv Cove. Exklusiv Cove. List of Exklusiv Cove in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Exclusive Cove"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Regnanpirat](/de/units/Regnan Pirates/) | [Schwert](/de/Exclusive/Regnan Pirates Sword/) | + | Aufladung | [Schwert-Token](/de/Items/con_912/) | - |
+  | 1  | [Regnanpirat](/de/units/Regnan Pirates/) | [Schwert](/de/Exclusive/Regnan Pirates Sword/) | + | Aufladung | [Schwert-Token](/ItemsDE/con_912/) | - |
   | 2  | [Regnanbogensch.](/de/units/Regnan Archer/) | [Wunder](/de/Exclusive/Regnan Archer Miracle/) | - | Unterstützung | - | - |
-  | 3  | [Meerelementar](/de/units/Sea Elemental/) | [Arkangesang](/de/Exclusive/Sea Elemental Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/de/Items/con_915/) | - |
-  | 4  | [Regnanschlange](/de/units/Regnan Serpent/) | [Tagesgezeiten](/de/Exclusive/Regnan Serpent Day Tides/) | - | Fernkampf | [Tagesgezeiten-Token](/de/Items/con_1003/) | [Tagesgezeiten-Spezialskin](/de/Items/con_671/) |
-  | 5  | [Meerjungfrau](/de/units/Mermaid/) | [Nachtgezeiten](/de/Exclusive/Mermaid Night Tides/) | - | Fernkampf | [Nachtgezeiten-Token](/de/Items/con_1004/) | [Nachtgezeiten-Spezialskin](/de/Items/con_672/) |
-  | 6  | [Drachenschildkröte](/de/units/Dragon Turtle/) | [Gehorsamkeit](/de/Exclusive/Dragon Turtle Obedience/) | - | Unterstützung | [Gehorsamkeit-Token](/de/Items/con_1005/) | [Gehorsamkeit-Spezialskin](/de/Items/con_673/) |
-  | 7  | [Regnanseherin](/de/units/Regnan Seer/) | [](/de/Exclusive/Regnan Seer /) | - | Hauptstadt | [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) | [Tool_2990709](/de/Items/con_674/) |
+  | 3  | [Meerelementar](/de/units/Sea Elemental/) | [Arkangesang](/de/Exclusive/Sea Elemental Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
+  | 4  | [Regnanschlange](/de/units/Regnan Serpent/) | [Tagesgezeiten](/de/Exclusive/Regnan Serpent Day Tides/) | - | Fernkampf | [Tagesgezeiten-Token](/ItemsDE/con_1003/) | [Tagesgezeiten-Spezialskin](/ItemsDE/con_671/) |
+  | 5  | [Meerjungfrau](/de/units/Mermaid/) | [Nachtgezeiten](/de/Exclusive/Mermaid Night Tides/) | - | Fernkampf | [Nachtgezeiten-Token](/ItemsDE/con_1004/) | [Nachtgezeiten-Spezialskin](/ItemsDE/con_672/) |
+  | 6  | [Drachenschildkröte](/de/units/Dragon Turtle/) | [Gehorsamkeit](/de/Exclusive/Dragon Turtle Obedience/) | - | Unterstützung | [Gehorsamkeit-Token](/ItemsDE/con_1005/) | [Gehorsamkeit-Spezialskin](/ItemsDE/con_673/) |
+  | 7  | [Regnanseherin](/de/units/Regnan Seer/) | [](/de/Exclusive/Regnan Seer /) | - | Hauptstadt | [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) | [Tool_2990709](/ItemsDE/con_674/) |
   | 8  | [Revyaratan](/de/units/Revyaratan/) | [Düstere Gezeiten](/de/Exclusive/Revyaratan Gloom Tides/) | - | Fernkampf | - | - |
   | 9  | [Hai-Ausbilder](/de/units/Shark Trainer/) | [Wellen brechen](/de/Exclusive/Shark Trainer Break Waves/) | - | Unterstützung | - | - |

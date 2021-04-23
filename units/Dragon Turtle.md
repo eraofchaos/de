@@ -3,7 +3,7 @@ title: "Drachenschildkröte"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses im endlosen Wasser geborene Wesen ist unglaublich riesig und herrscht über die Tiefsee."
 unitID: 9906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Drachenschildkröte"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Drachenschildkröte](/de/Items/unt_278/)
+ **Unit Soul:** [Drachenschildkröte](/ItemsDE/unt_278/)
 
  **Short description:** Tank, regeneriert LP.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Gehorsamkeit-Token](/de/Items/con_1005/)
+ **Item to Rangaufstieg:** [Gehorsamkeit-Token](/ItemsDE/con_1005/)
 
- **Skin:** [Gehorsamkeit-Spezialskin](/de/Items/con_673/)
+ **Skin:** [Gehorsamkeit-Spezialskin](/ItemsDE/con_673/)
 
 
 ## Empfohlene Heilige Embleme
@@ -169,7 +169,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

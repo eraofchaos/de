@@ -3,7 +3,7 @@ title: "Wolfsreiter"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
 unitID: 402
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Wolfsreiter"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Wolfsreiter](/de/Items/unt_218/)
+ **Unit Soul:** [Wolfsreiter](/ItemsDE/unt_218/)
 
  **Unit description:** Tiergefährte: Beschwört Wölfe, sobald diese Einheit stirbt.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -181,7 +181,7 @@ toc: true
 * Schaden (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

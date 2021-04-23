@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-3 Heiligtum"
 permalink: /Main Story/Chapter 2_3/
 excerpt: "Kapitel 2 - 3. Era of Chaos  Hauptstory - Kapitel 2_3. 2-3 Heiligtum"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 2_3.md"
 toc: false

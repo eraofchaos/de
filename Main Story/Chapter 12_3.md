@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-3 Neutrale Fraktion"
 permalink: /Main Story/Chapter 12_3/
 excerpt: "Kapitel 12 - 3. Era of Chaos  Hauptstory - Kapitel 12_3. 12-3 Neutrale Fraktion"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 12_3.md"
 toc: false

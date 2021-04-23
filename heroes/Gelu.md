@@ -4,7 +4,7 @@ permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Gelu"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Beschreibung:** Gelu ist ein Halbelf und der berühmteste Krieger in Erathia. Er wurde während seiner Dienstzeit unter Königin Catherine von General Morgan Kendal entdeckt und befördert.
 ## Details
- **Profession:** Waldläufer
+ **Profession:** ![Waldläufer](/images/h/h_prof_3.png) Waldläufer
 
  **Race:** Schutzwall
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SR+
 
- **Specialty:** Meisterschütze
+ **Heldenspezialität:** Meisterschütze
 
  **Specialty Desc:** Unter Gelus Führung werden Bogenschützen und Waldelfen zu Meisterschützen aufgewertet. Ihre Angriffsfähigkeiten und ihre Reichweite verbessern sich stark.
 
@@ -30,25 +30,51 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 14 | 8 | TBD |
-  |    2    | 21 | 12 | TBD |
-  |    3    | 28 | 16 | TBD |
-  |    4    | 35 | 20 | TBD |
+  | Stars | Angriff (Held) | Wissen (Held) | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 14 | 8 | **30x** [Gelu](/ItemsDE/her_366/) | Waldelfen werden zu Meisterschützen aufgewertet. <Doppelschlag> wird zu <Doppelschlag (Experte)> aufgewertet. Angriff und LP erhöhen sich um 20 % und die Angriffsreichweite erhöht sich um 200. |
+  |    2    | 21 | 12 | **50x** [Gelu](/ItemsDE/her_366/) | Scharfschützen werden zu Meisterschützen aufgewertet. <Doppelschlag> wird zu <Doppelschlag (Experte)> aufgewertet. Angriff und LP erhöhen sich um 20 % und die Angriffsreichweite erhöht sich um 200. |
+  |    3    | 28 | 16 | **100x** [Gelu](/ItemsDE/her_366/) | Die kritischen Treffer aller Fernkampfeinheiten erhöhen sich um 200. |
+  |    4    | 35 | 20 | **150x** [Gelu](/ItemsDE/her_366/) | Der krit. Schaden aller verbündeten Fernkampfeinheiten auf dem Schlachtfeld erhöht sich um 100 %. |
 
-## Spells
-### 1 Spell: Luftpfeil
+ **Special Desciption 1:** Allgemeiner Hinweis, muss hinzugefügt werden
+
+## Zauberspruch
+### 1 Zauberspruch: Luftpfeil
  **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
-### 2 Spell: Steinhaut
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$valueadd12}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Fügt gegnerischen Einheiten Luftschaden zu und verringert die Präzision des Ziels um 30 %.
+
+### 2 Zauberspruch: Steinhaut
  **Beschreibung:** Schützt verbündete Einheiten in einem bestimmten Bereich mit einem <span style="color: #e07c44;font-size:20px">Schild</span><span style="color: black">, der <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> Schaden absorbiert. Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.
 
-### 3 Spell: Präzision
+ **Beschreibung 2:** Nächste Stufe: Absorbiert zusätzlichen Schaden in Höhe von <span style="color: #00ff22;font-size:16px">{$buffaddattr13}.</span><span style="color: black">
+
+ **Beschreibung 3:** Verbündete erhalten einen Schild.
+
+ **Beschreibung 4:** Beschützt verbündete Einheit mit einem Schild, der Schaden absorbiert.
+
+### 3 Zauberspruch: Präzision
  **Beschreibung:** Gewährt verbündeten Einheiten in einem großen Bereich 100 % krit. Treffer und Präzision. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek.
 
-### 4 Spell: Wahnsinn
+ **Beschreibung 2:** Nächste Stufe: Dauer erhöht sich um <span style="color: #00ff22;font-size:16px">{$bufflast12/1000} Sekunden.</span><span style="color: black">
+
+ **Beschreibung 3:** Verbündete landen garantiert einen krit. Treffer.
+
+ **Beschreibung 4:** Angriffe verbündeter Einheiten treffen garantiert und fügen Krit. Schaden zu.
+
+### 4 Zauberspruch: Wahnsinn
  **Beschreibung:** Opfert LP verbündeter Einheiten in einem großen Bereich in Höhe von 30 % ihrer max. LP (verursacht keinen tödlichen Schaden) und steigert <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> Sek. lang ihr ANG-Tempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> %.
+
+ **Beschreibung 2:** Nächste Stufe: Dauer erhöht sich um <span style="color: #00ff22;font-size:16px">{$bufflast12/1000} Sekunden.</span><span style="color: black">
+
+ **Beschreibung 3:** Das Angriffstempo von Verbündeten erhöht sich.
+
+ **Beschreibung 4:** Entzieht verbündeter Einheit [][-]Leben (nicht tödlich) und erhöht Angriffstempo.
 
 
 ## Adjutant

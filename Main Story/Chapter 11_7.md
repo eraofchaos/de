@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-7 Engelsflügel"
 permalink: /Main Story/Chapter 11_7/
 excerpt: "Kapitel 11 - 7. Era of Chaos  Hauptstory - Kapitel 11_7. 11-7 Engelsflügel"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 11_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 11 - 11-2 Schlüsselspieler"
 permalink: /Underground/Chapter 11_2/
 excerpt: "Kapitel 11 - 2. Era of Chaos  Untergrund - Kapitel 11_2. 11-2 Schlüsselspieler"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 11_2.md"
 toc: false

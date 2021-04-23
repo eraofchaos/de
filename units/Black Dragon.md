@@ -3,7 +3,7 @@ title: "Schwarzer Drache"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser mörderische Tyrann thront auf der Nahrungskette des Untergrunds. Sterbliche Zauber können ihm nichts anhaben."
 unitID: 707
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Schwarzer Drache"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Schwarzer Drache](/de/Items/unt_250/)
+ **Unit Soul:** [Schwarzer Drache](/ItemsDE/unt_250/)
 
  **Unit description:** Drachenodem: Greift Feinde mit hoher Reichweite an und fügt ihnen „Verbrennung“ zu.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [„Schwarze Drachenschuppe“-Token](/de/Items/con_993/)
+ **Item to Rangaufstieg:** [„Schwarze Drachenschuppe“-Token](/ItemsDE/con_993/)
 
- **Skin:** [„Schwarze Drachenschuppe“-Spezialskin](/de/Items/con_661/)
+ **Skin:** [„Schwarze Drachenschuppe“-Spezialskin](/ItemsDE/con_661/)
 
 
 ## Empfohlene Heilige Embleme
@@ -174,7 +174,7 @@ toc: true
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

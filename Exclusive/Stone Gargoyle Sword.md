@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Stein-Wasserspeier Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Stone Gargoyle Schwert.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Stein-Wasserspeier](/de/units/Stone Gargoyle/) 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Schwert-Token](/de/Items/con_912/) | <Klauenreißen> Fügt einer Zieleinheit Schaden in Höhe von 250 % des eigenen ANG zu und verursacht 6 Sek. lang „Blutung“, während das eigene Angriffstempo 6 Sek. lang um 20 % erhöht wird. Die AKZ beträgt 26 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/de/Items/con_912/) | Erhöht die LP des Stein-Wasserspeiers um 15 % und seine ABW um 10 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/de/Items/con_912/) | Erhöht den SCHD (Einheit) des Stein-Wasserspeier um 20 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/de/Items/con_912/) | <Magisches Erwachen> Wenn ein Stein-Wasserspeier durch den Zauber eines verbündeten Helden verstärkt wird, erhöht er seine eigene Magieresistenz um 15 % und erhält 8 Sek. lang einen Schild in Höhe von 10 % seiner max. LP. Bis zu 2 Mal stapelbar. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/de/Items/con_912/) | Erhöht die SCHD-Reduzierung (Einheit) des Stein-Wasserspeiers um 20 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/de/Items/con_912/) | In Statuenform immun gegen „Betäubung“, „Versteinerung“ und „Kristallisation“. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/de/Items/con_912/) | <Steinmaske> Wenn eine Einheit angegriffen wird, die aufgrund von <Klauenreißen> blutet, fügt jeder Angriff Schaden in Höhe von 1 % der max. LP zu und verringert die SCHD-Reduzierung (Einheit) um 1 %, während sie LP in Höhe von 1 % der eigenen max. LP regeneriert und den eigenen SCHD (Einheit) um 1 % erhöht. Dieser Effekt kann nur 1 Mal pro Sek. ausgelöst werden. Jeder Stapel hält 2 Sek. an. Bis zu 10 Mal stapelbar. |
+  |  Erwachen  | **100x** [Schwert-Token](/ItemsDE/con_912/) | <Klauenreißen> Fügt einer Zieleinheit Schaden in Höhe von 250 % des eigenen ANG zu und verursacht 6 Sek. lang „Blutung“, während das eigene Angriffstempo 6 Sek. lang um 20 % erhöht wird. Die AKZ beträgt 26 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/ItemsDE/con_912/) | Erhöht die LP des Stein-Wasserspeiers um 15 % und seine ABW um 10 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/ItemsDE/con_912/) | Erhöht den SCHD (Einheit) des Stein-Wasserspeier um 20 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/ItemsDE/con_912/) | <Magisches Erwachen> Wenn ein Stein-Wasserspeier durch den Zauber eines verbündeten Helden verstärkt wird, erhöht er seine eigene Magieresistenz um 15 % und erhält 8 Sek. lang einen Schild in Höhe von 10 % seiner max. LP. Bis zu 2 Mal stapelbar. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/ItemsDE/con_912/) | Erhöht die SCHD-Reduzierung (Einheit) des Stein-Wasserspeiers um 20 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/ItemsDE/con_912/) | In Statuenform immun gegen „Betäubung“, „Versteinerung“ und „Kristallisation“. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/ItemsDE/con_912/) | <Steinmaske> Wenn eine Einheit angegriffen wird, die aufgrund von <Klauenreißen> blutet, fügt jeder Angriff Schaden in Höhe von 1 % der max. LP zu und verringert die SCHD-Reduzierung (Einheit) um 1 %, während sie LP in Höhe von 1 % der eigenen max. LP regeneriert und den eigenen SCHD (Einheit) um 1 % erhöht. Dieser Effekt kann nur 1 Mal pro Sek. ausgelöst werden. Jeder Stapel hält 2 Sek. an. Bis zu 10 Mal stapelbar. |
 
 
 ## Stufenaufst.

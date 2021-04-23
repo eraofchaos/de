@@ -3,7 +3,7 @@ title: "Geist"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Geister gieren nur nach einem, nämlich der Lebenskraft anderer. Totenbeschwörer setzen Geister ein, um die Seelen der Lebenden zu zerrütten."
 unitID: 303
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Geist"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Geist](/de/Items/unt_210/)
+ **Unit Soul:** [Geist](/ItemsDE/unt_210/)
 
  **Unit description:** Grauenhaftes Kreischen: Lässt die gegnerischen Truppen vor sich verstummen.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gogs scheinen auf den ersten Blick friedlich zu sein, aber in der Schlacht können sie äußerst aggressiv werden."
 unitID: 502
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Gog"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Gog](/de/Items/unt_227/)
+ **Unit Soul:** [Gog](/ItemsDE/unt_227/)
 
  **Unit description:** Feuerwand: Fügt gegnerischen Einheiten vor sich Schaden zu.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

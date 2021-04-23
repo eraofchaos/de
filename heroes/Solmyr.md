@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr saß über tausend Jahre in einer Dschinnflasche fest und ist seinem Befreier, Gavin Magnus, dem ewigen Herrscher über das Hochland von Bracada, ewig dankbar und hat ihm immerwährende Treue geschworen."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Solmyr"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Beschreibung:** Solmyr saß über tausend Jahre in einer Dschinnflasche fest und ist seinem Befreier, Gavin Magnus, dem ewigen Herrscher über das Hochland von Bracada, ewig dankbar und hat ihm immerwährende Treue geschworen.
 ## Details
- **Profession:** Zauberer
+ **Profession:** ![Zauberer](/images/h/h_prof_15.png) Zauberer
 
  **Race:** Turm
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** Blitzstrahl-Salve
+ **Heldenspezialität:** Blitzstrahl-Salve
 
  **Mana base:** 43
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 18 | TBD |
-  |    2    | 18 | 27 | TBD |
-  |    3    | 24 | 36 | TBD |
-  |    4    | 30 | 45 | TBD |
+  | Stars | Angriff (Held) | Intelligenz (Held) | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 18 | **30x** [Solmyr](/ItemsDE/her_386/) | <Blitzstrahl-Salve> kann 2 weitere Male abprallen und der Schaden sinkt nicht. Solmyrs Zauber haben keine Anfangs-AKZ. |
+  |    2    | 18 | 27 | **50x** [Solmyr](/ItemsDE/her_386/) | Die von Solmyr gewirkten Luftzauber erhalten ein elektrostatisches Feld. Der erlittene Zauberschaden von in elektrostatische Felder gehüllten Zielen steigt um 50 %. Das Ziel erleidet 6 Sek. lang zusätzlichen statischen Schaden entsprechend 15 % seiner max. LP. Schaden ist stapelbar. |
+  |    3    | 24 | 36 | **100x** [Solmyr](/ItemsDE/her_386/) | Die AKZ für alle Zauber von Luft-Helden verringert sich um 15 %. |
+  |    4    | 30 | 45 | **150x** [Solmyr](/ItemsDE/her_386/) | <Blitzstrahl-Salve> fügt gegnerischen Einheiten zusätzlichen Schaden entsprechend 30 % ihrer max. LP zu. |
 
-## Spells
-### 1 Spell: Luftpfeil
+ **Special Desciption 1:** Allgemeiner Hinweis, muss hinzugefügt werden
+
+## Zauberspruch
+### 1 Zauberspruch: Luftpfeil
  **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftzauberschaden zu und verringert die Präzision des Ziels 8 Sek. lang um 30 %.
 
-### 2 Spell: Blitzstrahl
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$valueadd12}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Fügt gegnerischen Einheiten Luftschaden zu und verringert die Präzision des Ziels um 30 %.
+
+### 2 Zauberspruch: Blitzstrahl
  **Beschreibung:** Fügt allen gegnerischen Einheiten im Wirkungsbereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> Luftschaden zu.
 
-### 3 Spell: Windwand
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$valueadd12}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Beschwört einen Blitzstrahl, der gegnerischen Einheiten Luftschaden zufügt.
+
+### 3 Zauberspruch: Windwand
  **Beschreibung:** Beschwört eine Wand aus Wind, die den Ausweichwert von verbündeten Einheiten, die sie durchqueren, {$olast11/1000} Sek. lang um {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20} %</span><span style="color: black"> und ihr Bewegungstempo um {$buffaddattr22+$buffaddattr23*($sklevel-1)} erhöht.
 
-### 4 Spell: Blitzstrahl-Salve
+ **Beschreibung 2:** Nächste Stufe: Ausweichen erhöht sich um weitere <span style="color: #1ca216;font-size:18px">{($buffaddattr13)/20} %.</span><span style="color: black">
+
+ **Beschreibung 3:** Ausweichen und Bewegungstempo von Verbündeten steigen.
+
+ **Beschreibung 4:** Beschwört eine Wand aus Wind, die das Angriffs- und Bewegungstempo verbündeter Einheiten erhöht, die sie durchqueren.
+
+### 4 Zauberspruch: Blitzstrahl-Salve
  **Beschreibung:** Feuert einen Blitzstrahl ab, der 5-mal auf eine andere gegnerische Einheit überspringt. Jeder Sprung fügt <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> Luftzauberschaden zu.
+
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$valueadd12}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Feuert einen Blitzstrahl ab, der 9-mal auf eine andere gegnerische Einheit überspringt. Jeder Sprung fügt Luftschaden zu.
 
 
 ## Adjutant

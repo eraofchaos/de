@@ -3,7 +3,7 @@ title: "Oger"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Oger ähneln zwar Affen, aber sie sind weit gefährlicher. Außerdem können sie in der Schlacht Blutdurst-Zauber wirken."
 unitID: 404
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Oger"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Oger](/de/Items/unt_220/)
+ **Unit Soul:** [Oger](/ItemsDE/unt_220/)
 
  **Unit description:** Blutbecken: Verbessert den Lebensentzug von Einheiten in der Nähe.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -179,7 +179,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Dendroidenwache"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dendroidenwachen sind die Verkörperung ihrer bewaldeten Heimat. Sie sind nicht sonderlich geschickt, aber extrem hart im Nehmen. Mit den Ranken des Waldes erwürgen sie arglose Gegner."
 unitID: 205
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Dendroidenwache"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Dendroidenwache](/de/Items/unt_203/)
+ **Unit Soul:** [Dendroidenwache](/ItemsDE/unt_203/)
 
  **Unit description:** Fessel: Reduziert das Angriffstempo einer gegnerischen Einheit und verlangsamt sie.
 
@@ -87,7 +87,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

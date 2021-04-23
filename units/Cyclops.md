@@ -3,7 +3,7 @@ title: "Zyklop"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zyklopen haben nur ein Auge, dafür aber einen gewaltigen Körper. Sie sind unerbittlich und wild. Man sagt, sie stammen von den Dämonen ab."
 unitID: 406
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Zyklop"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Zyklop](/de/Items/unt_222/)
+ **Unit Soul:** [Zyklop](/ItemsDE/unt_222/)
 
  **Unit description:** Flammenstein: Fügt allen gegnerischen Einheiten vor sich katastrophalen Schaden zu.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -183,7 +183,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

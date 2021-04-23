@@ -3,7 +3,7 @@ title: "Engel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Erzengel werden als Symbol der Stärke und des Lichts im ganzen Königreich bewundert. Sie sind unerbittlich in der Schlacht, wo sie Feinde erschlagen und ihre Verbündeten wiedererwecken."
 unitID: 107
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Engel"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Engel](/de/Items/unt_196/)
+ **Unit Soul:** [Engel](/ItemsDE/unt_196/)
 
  **Unit description:** Verurteilung: Fügt 3 Einheiten brutalen Schaden zu und betäubt sie.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Durendal-Token](/de/Items/con_973/)
+ **Item to Rangaufstieg:** [Durendal-Token](/ItemsDE/con_973/)
 
- **Skin:** [Durendal-Spezialskin](/de/Items/con_641/)
+ **Skin:** [Durendal-Spezialskin](/ItemsDE/con_641/)
 
 
 ## Empfohlene Heilige Embleme
@@ -173,7 +173,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Waldelfe"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Elfen von AvLee sind geborene Bogenschützen. Sie bewachen ihre Wälder und lassen Pfeilhagel auf Eindringlinge herunterprasseln."
 unitID: 203
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Waldelfe"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Waldelfe](/de/Items/unt_201/)
+ **Unit Soul:** [Waldelfe](/ItemsDE/unt_201/)
 
  **Unit description:** Pfeilhagel: Erhöht das Angriffstempo kurze Zeit um 500 %.
 
@@ -87,7 +87,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

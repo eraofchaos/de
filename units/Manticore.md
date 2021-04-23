@@ -3,7 +3,7 @@ title: "Mantikor"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine monströse Kreatur mit dem Körper eines Löwen, den Schwingen einer Fledermaus und dem Schwanz eines Skorpions. Wer von ihr gestochen wird, erlebt kein Morgen mehr."
 unitID: 706
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Mantikor"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Mantikor](/de/Items/unt_249/)
+ **Unit Soul:** [Mantikor](/ItemsDE/unt_249/)
 
  **Short description:** Starker DPS, hält lange durch.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Skorpionschwanz-Token](/de/Items/con_992/)
+ **Item to Rangaufstieg:** [Skorpionschwanz-Token](/ItemsDE/con_992/)
 
- **Skin:** [Skorpionschwanz-Spezialskin](/de/Items/con_660/)
+ **Skin:** [Skorpionschwanz-Spezialskin](/ItemsDE/con_660/)
 
 
 ## Empfohlene Heilige Embleme
@@ -166,7 +166,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

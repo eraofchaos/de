@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert (Goblin)"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Goblin Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Goblin Schwert.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Goblin](/de/units/Goblin/) 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Schwert-Token](/de/Items/con_912/) | <Steinzertrümmern> Der Goblin fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 300 % des eigenen ANG zu und belegt sie 7 Sek. lang mit „Blutung“. Wenn die Zieleinheit überanstrengt ist, wird die ABW für 5 Sek. um 15 % reduziert. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/de/Items/con_912/) | Erhöht die LP des Goblins um 20 % und Ausweichen um 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/de/Items/con_912/) | Erhöht den Krit. Treffer des Goblins um 150, wenn er gegen Einheiten kämpft, deren LP weniger als 70 % betragen. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/de/Items/con_912/) | <Schnellangriff> Wenn dem Angriff des Goblins ausgewichen wird, fügt der Kobold der Zieleinheit Schaden in Höhe von 100 % des eigenen ANG zu und verringert die ABW des Ziels 8 Sek. lang um 4 %. Die AKZ beträgt ist 2 Sek. Bis zu 4 Mal stapelbar. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/de/Items/con_912/) | Das Angriffstempo des Goblins wird um 15 % erhöht. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/de/Items/con_912/) | Erhöht für jede Burg-Einheit auf dem Schlachtfeld den eigenen SCHD (Einheit) um 4 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/de/Items/con_912/) | <Steinzertrümmernkette> Es gibt eine Chance von 5 %, <Steinzertrümmern> auszulösen, wenn der Goblin einen Krit. Treffer landet. Die AKZ beträgt 4 Sek. |
+  |  Erwachen  | **100x** [Schwert-Token](/ItemsDE/con_912/) | <Steinzertrümmern> Der Goblin fügt der Zieleinheit alle 15 Sek. Schaden in Höhe von 300 % des eigenen ANG zu und belegt sie 7 Sek. lang mit „Blutung“. Wenn die Zieleinheit überanstrengt ist, wird die ABW für 5 Sek. um 15 % reduziert. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Schwert-Token](/ItemsDE/con_912/) | Erhöht die LP des Goblins um 20 % und Ausweichen um 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Schwert-Token](/ItemsDE/con_912/) | Erhöht den Krit. Treffer des Goblins um 150, wenn er gegen Einheiten kämpft, deren LP weniger als 70 % betragen. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Schwert-Token](/ItemsDE/con_912/) | <Schnellangriff> Wenn dem Angriff des Goblins ausgewichen wird, fügt der Kobold der Zieleinheit Schaden in Höhe von 100 % des eigenen ANG zu und verringert die ABW des Ziels 8 Sek. lang um 4 %. Die AKZ beträgt ist 2 Sek. Bis zu 4 Mal stapelbar. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Schwert-Token](/ItemsDE/con_912/) | Das Angriffstempo des Goblins wird um 15 % erhöht. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Schwert-Token](/ItemsDE/con_912/) | Erhöht für jede Burg-Einheit auf dem Schlachtfeld den eigenen SCHD (Einheit) um 4 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Schwert-Token](/ItemsDE/con_912/) | <Steinzertrümmernkette> Es gibt eine Chance von 5 %, <Steinzertrümmern> auszulösen, wenn der Goblin einen Krit. Treffer landet. Die AKZ beträgt 4 Sek. |
 
 
 ## Stufenaufst.

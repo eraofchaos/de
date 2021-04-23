@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Gorgone"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Gorgone](/de/Items/unt_257/)
+ **Unit Soul:** [Gorgone](/ItemsDE/unt_257/)
 
  **Short description:** Hoher Angriff. Hält lange durch. Mächtige Kontrolle.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Gorgonenhorn-Token](/de/Items/con_995/)
+ **Item to Rangaufstieg:** [Gorgonenhorn-Token](/ItemsDE/con_995/)
 
- **Skin:** [Gorgonenhorn-Spezialskin](/de/Items/con_663/)
+ **Skin:** [Gorgonenhorn-Spezialskin](/ItemsDE/con_663/)
 
 
 ## Empfohlene Heilige Embleme
@@ -186,7 +186,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

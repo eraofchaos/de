@@ -3,7 +3,7 @@ title: "Kavallerist"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Kavalleristen preschen von ihrer Rüstung geschützt auf edlen Rössern in die Schlacht. Sie sind beinahe unverwüstlich und haben schon viele Schlachten gewonnen."
 unitID: 106
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Kavallerist"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Kavallerist](/de/Items/unt_195/)
+ **Unit Soul:** [Kavallerist](/ItemsDE/unt_195/)
 
  **Unit description:** Lanzengang: Verursacht erheblichen Schaden und betäubt beim ersten Angriff.
 
@@ -88,7 +88,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 
 * ?!? 
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

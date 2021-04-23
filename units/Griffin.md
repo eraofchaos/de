@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Greif"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Greif](/de/Items/unt_192/)
+ **Unit Soul:** [Greif](/ItemsDE/unt_192/)
 
  **Unit description:** Sturzflug: Fügt beim Angriff 3 gegnerischen Einheiten Schaden zu.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

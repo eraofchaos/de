@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Schlangenfliege Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Serpent Fly Arkangesang.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Schlangenfliege](/de/units/Serpent Fly/) 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Arkangesang-Token](/de/Items/con_915/) | Wenn das Ziel stirbt, verfällt die Schlangenfliege in Raserei, und ihr Angriffstempo wird 20 Sek. lang um 100 % erhöht. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/de/Items/con_915/) | Wenn die Schlangenfliege angreift, besteht eine Wahrscheinlichkeit von 30 %, dass das Ziel „Blutung“ erleidet. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/de/Items/con_915/) | Der Lebensentzug der Schlangenfliege wird um 15 % erhöht. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/de/Items/con_915/) | Wenn das Ziel getötet wird, erhält die Einheit ein [Seuchen-Miasma], das 20 Sek. lang Schaden in Höhe von 30 % ihrer LP absorbiert. Dieser Effekt ist nicht stapelbar. Wenn die LP der Einheit zum ersten Mal unter 30 % sinken, wird ebenfalls ein [Seuchen-Miasma] gewirkt. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/de/Items/con_915/) | Der ANG der Drachenfliege wird um 20 % erhöht, das Angriffstempo um 10 %. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/de/Items/con_915/) | Erhöht Kritischer Schaden der Drachenfliege um 25 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/de/Items/con_915/) | Beschwört alle 20 Sek. 1 Fliege, die 30 Sek. anhält. |
+  |  Erwachen  | **100x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn das Ziel stirbt, verfällt die Schlangenfliege in Raserei, und ihr Angriffstempo wird 20 Sek. lang um 100 % erhöht. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn die Schlangenfliege angreift, besteht eine Wahrscheinlichkeit von 30 %, dass das Ziel „Blutung“ erleidet. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arkangesang-Token](/ItemsDE/con_915/) | Der Lebensentzug der Schlangenfliege wird um 15 % erhöht. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arkangesang-Token](/ItemsDE/con_915/) | Wenn das Ziel getötet wird, erhält die Einheit ein [Seuchen-Miasma], das 20 Sek. lang Schaden in Höhe von 30 % ihrer LP absorbiert. Dieser Effekt ist nicht stapelbar. Wenn die LP der Einheit zum ersten Mal unter 30 % sinken, wird ebenfalls ein [Seuchen-Miasma] gewirkt. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arkangesang-Token](/ItemsDE/con_915/) | Der ANG der Drachenfliege wird um 20 % erhöht, das Angriffstempo um 10 %. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arkangesang-Token](/ItemsDE/con_915/) | Erhöht Kritischer Schaden der Drachenfliege um 25 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arkangesang-Token](/ItemsDE/con_915/) | Beschwört alle 20 Sek. 1 Fliege, die 30 Sek. anhält. |
 
 
 ## Stufenaufst.

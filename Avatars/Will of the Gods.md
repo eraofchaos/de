@@ -2,7 +2,7 @@
 title: "Avatar - Wille der Götter"
 permalink: /Avatars/Will of the Gods/
 excerpt: "Era of Chaos  Wille der Götter"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Will of the Gods.md"
 toc: false

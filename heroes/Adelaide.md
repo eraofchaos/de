@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Adelaide"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Beschreibung:** Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte.
 ## Details
- **Profession:** Kleriker
+ **Profession:** ![Kleriker](/images/h/h_prof_2.png) Kleriker
 
  **Race:** Schloss
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** R+
 
- **Specialty:** Frostring
+ **Heldenspezialität:** Frostring
 
  **Mana base:** 40
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  | Stars | Intelligenz (Held) | Wissen (Held) | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Adelaide](/ItemsDE/her_359/) | Verbündete Einheiten fügen <erstarrten> gegnerischen Einheiten 30 % mehr Schaden zu. |
+  |    2    | 15 | 12 | **50x** [Adelaide](/ItemsDE/her_359/) | Der von <Frostring> zugefügte Schaden erhöht sich um 30 %. |
+  |    3    | 20 | 16 | **100x** [Adelaide](/ItemsDE/her_359/) | Wasserzauber kosten 10 % weniger. |
+  |    4    | 25 | 20 | **150x** [Adelaide](/ItemsDE/her_359/) | <Frostring> friert um 100 % länger ein. |
 
-## Spells
-### 1 Spell: Frostpfeil
+ **Special Desciption 1:** Allgemeiner Hinweis, muss hinzugefügt werden
+
+## Zauberspruch
+### 1 Zauberspruch: Frostpfeil
  **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> Wasserzauberschaden zu und sie werden 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
 
-### 2 Spell: Eisstrahl
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$valueadd12}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Fügt gegnerischen Einheiten Wasserschaden zu und belegt sie mit <span style="color: #f0f000;font-size:18px">Verlangsamung.</span><span style="color: black">
+
+### 2 Zauberspruch: Eisstrahl
  **Beschreibung:** Fügt gegnerischen Einheiten in einem bestimmten Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und verursacht zusätzlich <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> Wasserzauberschaden bei <span style="color: #e07c44;font-size:20px">verlangsamten Zielen.</span><span style="color: black">
 
-### 3 Spell: Eismauer
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black"> und zusätzlicher Schaden um <span style="color: #00ff22;font-size:16px">{$valueadd22}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Fügt gegnerischen Einheiten Wasserschaden zu und fügt <span style="color: #f0f000;font-size:18px">verlangsamten</span><span style="color: black"> Zielen zusätzlichen Wasserschaden zu.<span style="color: #48b946;font-size:20px"></span><span style="color: black">
+
+### 3 Zauberspruch: Eismauer
  **Beschreibung:** Beschwört 1 Eismauer, die gegnerische Einheiten in der Nähe {($olast11+$olast12*($sklevel-1))/1000} Sek. lang <span style="color: #e07c44;font-size:20px">einfriert.</span><span style="color: black">
 
-### 4 Spell: Frostring
+ **Beschreibung 2:** Nächste Stufe: Abklingzeit verringert sich um <span style="color: #00ff22;font-size:16px">{($cd2)/1000} Sek.</span><span style="color: black">
+
+ **Beschreibung 3:** Beschwört Eismauer.
+
+ **Beschreibung 4:** Beschwört eine Mauer aus Eis und durchquerende Einheiten <span style="color: #f0f000;font-size:18px">erstarren.</span><span style="color: black">
+
+### 4 Zauberspruch: Frostring
  **Beschreibung:** Fügt gegnerischen Einheiten in einem äußerst großen Bereich <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> Wasserzauberschaden zu und lässt <span style="color: #e07c44;font-size:20px">verlangsamte</span><span style="color: black"> Ziele 5 Sek. lang <span style="color: #e07c44;font-size:20px">erstarren.</span><span style="color: black">
+
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$valueadd12}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Fügt gegnerischen Einheiten Wasserschaden zu und bewirkt bei <span style="color: #f0f000;font-size:18px">verlangsamten</span><span style="color: black"> Zielen, dass diese <span style="color: #f0f000;font-size:18px">erstarren</span><span style="color: black">.
 
 
 ## Adjutant

@@ -3,7 +3,7 @@ title: "Wandelnde Tote"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
 unitID: 302
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Wandelnde Tote"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Wandelnde Tote](/de/Items/unt_209/)
+ **Unit Soul:** [Wandelnde Tote](/ItemsDE/unt_209/)
 
  **Unit description:** Explosiv: Fügt gegnerischen Einheiten in der Nähe Schaden zu, wenn die Einheit stirbt.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

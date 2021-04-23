@@ -2,7 +2,7 @@
 title: "Exklusiv - Blutrünstiger Geist (Behemoth)"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Blutrünstiger Geist. Blutrünstiger Geist. Era of Chaos Exklusiv Blutrünstiger Geist. Behemoth Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Behemoth Blutrünstiger Geist.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Behemoth](/de/units/Behemoth/) 
 
- **Item to Rangaufstieg:** [Blutrünstiger-Geist-Token](/de/Items/con_982/)
+ **Item to Rangaufstieg:** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/)
 
- **Skin:** [Blutrünstiger-Geist-Spezialskin](/de/Items/con_650/)
+ **Skin:** [Blutrünstiger-Geist-Spezialskin](/ItemsDE/con_650/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Blutrünstiger-Geist-Token](/de/Items/con_982/) | <Burg-Geist> Der Behemoth schützt andere Burg-Einheiten vor Schaden. Er nimmt 25 % des Gesamtschadens, den Burg-Einheiten auf dem Schlachtfeld erleiden, und erhöht die SCHD-Reduzierung (Einheit) für 5 Sek. um 40 %. Die AKZ beträgt 25 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Blutrünstiger-Geist-Token](/de/Items/con_982/) | Wenn der Behemoth auf dem Schlachtfeld ist, erhöht er den SCHD (Einheit) von verbündeten Fernkampf-/Zauberer-Einheiten der Burg um 20 % und die SCHD-Reduzierung (Einheit) von verbündeten Nahkampfeinheiten um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Blutrünstiger-Geist-Token](/de/Items/con_982/) | Erhöht die Basis-LP des Behemoths um 50.000 Punkte. Der durch Angriffe von Fernkampf-/Zauberer-Einheiten erlittene Schaden wird um 40 % reduziert. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Blutrünstiger-Geist-Token](/de/Items/con_982/) | <Mächtiger Behemoth> Wenn der Behemoth einen Krit. Treffer einsteckt, entfacht er seinen Zorn, betäubt Feinde in großer Reichweite um ihn herum für 3 Sek. und verringert den SCHD (Einheit) und das Angriffstempo von Gegnern in einem sehr großen Radius für 5 Sek. um 20 %. Die AKZ beträgt 6 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Blutrünstiger-Geist-Token](/de/Items/con_982/) | Wenn der Behemoth <Burg-Geist> wirkt, stellt seine uralte Blutlinie schnell LP wieder her und regeneriert 20 % seiner max. LP in 5 Sek. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Blutrünstiger-Geist-Token](/de/Items/con_982/) | Wenn der Behemoth <Mächtiger Behemoth> wirkt, überwältigt er Feinde in einem großen Radius um sich herum und verursacht Schaden in Höhe von 10 % der max. LP des Gegners und 150 % des ANG des Behemoths. Jedes Wirken von <Mächtiger Behemoth> erhöht 8 Sek. lang den SCHD (Einheit) um 8 % und die SCHD-Reduzierung (Einheit) um 5 %. Bis zu 8 Mal stapelbar. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Blutrünstiger-Geist-Token](/de/Items/con_982/) | <Kriegsraserei> Wenn die LP des Behemoths zum ersten Mal auf 72 %, 48 % und 24 % fallen, erhöht sich seine ABW jedes Mal um 13 %. Der Effekt bleibt auch nach Wiederherstellung der LP erhalten. |
+  |  Erwachen  | **100x** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/) | <Burg-Geist> Der Behemoth schützt andere Burg-Einheiten vor Schaden. Er nimmt 25 % des Gesamtschadens, den Burg-Einheiten auf dem Schlachtfeld erleiden, und erhöht die SCHD-Reduzierung (Einheit) für 5 Sek. um 40 %. Die AKZ beträgt 25 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/) | Wenn der Behemoth auf dem Schlachtfeld ist, erhöht er den SCHD (Einheit) von verbündeten Fernkampf-/Zauberer-Einheiten der Burg um 20 % und die SCHD-Reduzierung (Einheit) von verbündeten Nahkampfeinheiten um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/) | Erhöht die Basis-LP des Behemoths um 50.000 Punkte. Der durch Angriffe von Fernkampf-/Zauberer-Einheiten erlittene Schaden wird um 40 % reduziert. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/) | <Mächtiger Behemoth> Wenn der Behemoth einen Krit. Treffer einsteckt, entfacht er seinen Zorn, betäubt Feinde in großer Reichweite um ihn herum für 3 Sek. und verringert den SCHD (Einheit) und das Angriffstempo von Gegnern in einem sehr großen Radius für 5 Sek. um 20 %. Die AKZ beträgt 6 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/) | Wenn der Behemoth <Burg-Geist> wirkt, stellt seine uralte Blutlinie schnell LP wieder her und regeneriert 20 % seiner max. LP in 5 Sek. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/) | Wenn der Behemoth <Mächtiger Behemoth> wirkt, überwältigt er Feinde in einem großen Radius um sich herum und verursacht Schaden in Höhe von 10 % der max. LP des Gegners und 150 % des ANG des Behemoths. Jedes Wirken von <Mächtiger Behemoth> erhöht 8 Sek. lang den SCHD (Einheit) um 8 % und die SCHD-Reduzierung (Einheit) um 5 %. Bis zu 8 Mal stapelbar. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Blutrünstiger-Geist-Token](/ItemsDE/con_982/) | <Kriegsraserei> Wenn die LP des Behemoths zum ersten Mal auf 72 %, 48 % und 24 % fallen, erhöht sich seine ABW jedes Mal um 13 %. Der Effekt bleibt auch nach Wiederherstellung der LP erhalten. |
 
 
 ## Stufenaufst.

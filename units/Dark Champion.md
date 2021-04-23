@@ -3,7 +3,7 @@ title: "Dunkler Kämpe"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
 unitID: 309
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Dunkler Kämpe"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Dunkler Kämpe](/de/Items/unt_216/)
+ **Unit Soul:** [Dunkler Kämpe](/ItemsDE/unt_216/)
 
  **Short description:** Richtet hin. Unbesiegbar in der eigenen Domäne.
 
@@ -177,7 +177,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

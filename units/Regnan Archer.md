@@ -3,7 +3,7 @@ title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Regnanbogensch."
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Regnanbogenschützin](/de/Items/unt_274/)
+ **Unit Soul:** [Regnanbogenschützin](/ItemsDE/unt_274/)
 
  **Short description:** Kritische Treffer, Durchdringung.
 
@@ -179,7 +179,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

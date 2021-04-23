@@ -3,7 +3,7 @@ title: "Schwarzer Ritter"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Schwarze Ritter sind besessen von einem grauenhaften Fluch. Sie durchstreifen die Nekropolis und töten alles, was ihnen in die Quere kommt."
 unitID: 306
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Schwarzer Ritter"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Schwarzer Ritter](/de/Items/unt_213/)
+ **Unit Soul:** [Schwarzer Ritter](/ItemsDE/unt_213/)
 
  **Unit description:** Kritischer Angriff: Verursacht gewaltigen Schaden sowie Niedrige Moral.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Unheilssäbel-Token](/de/Items/con_979/)
+ **Item to Rangaufstieg:** [Unheilssäbel-Token](/ItemsDE/con_979/)
 
- **Skin:** [Unheilssäbel-Spezialskin](/de/Items/con_647/)
+ **Skin:** [Unheilssäbel-Spezialskin](/ItemsDE/con_647/)
 
 
 ## Empfohlene Heilige Embleme
@@ -180,7 +180,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

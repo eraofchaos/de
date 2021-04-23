@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Eiselementar"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Eiselementar](/de/Items/unt_264/)
+ **Unit Soul:** [Eiselementar](/ItemsDE/unt_264/)
 
  **Short description:** Eisaura, Eismauer.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

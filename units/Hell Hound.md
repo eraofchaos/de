@@ -3,7 +3,7 @@ title: "Höllenhund"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Höllenhunde greifen den Feind mit drei Köpfen an. Ihr Körper ist von glühend heißer Lava überzogen, und ihre Spuren hinterlassen Flammen."
 unitID: 503
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Höllenhund"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Höllenhund](/de/Items/unt_228/)
+ **Unit Soul:** [Höllenhund](/ItemsDE/unt_228/)
 
  **Unit description:** Amoklauf: Für kurze Zeit ist jeder Treffer ein kritischer Treffer.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Kritischer Treffer (Einheit)
 * Magieresistenz
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

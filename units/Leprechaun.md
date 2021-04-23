@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mithilfe von Zaubersprüchen, die einen geheimnisvollen Schild erschaffen, benutzen Leprechauns, die der Beschwörung folgen, den Monolithen des Weltenbaums, um auf das grausame und mörderische Schlachtfeld zu reisen, wo sie zum stärksten Schild der Natur werden!"
 unitID: 909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Leprechaun"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Leprechaun](/de/Items/unt_270/)
+ **Unit Soul:** [Leprechaun](/ItemsDE/unt_270/)
 
  **Short description:** Ausweichen und Blocken. Konterangriff-Buffs.
 
@@ -191,7 +191,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

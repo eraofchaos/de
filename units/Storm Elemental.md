@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Sturmelementar"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Sturmelementar](/de/Items/unt_263/)
+ **Unit Soul:** [Sturmelementar](/ItemsDE/unt_263/)
 
  **Short description:** Markiert Einzelziele für hohen Schaden.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

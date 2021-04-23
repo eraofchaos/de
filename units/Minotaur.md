@@ -3,7 +3,7 @@ title: "Minotaurus"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Tief im finsteren Labyrinth wartet eine mächtige Kreatur, die mit ihrer gewaltigen Axt einsame Wanderer in Stücke hackt."
 unitID: 705
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Minotaurus"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Minotaurus](/de/Items/unt_248/)
+ **Unit Soul:** [Minotaurus](/ItemsDE/unt_248/)
 
  **Unit description:** Wirbelwind: Verursacht Flächenschaden und reduziert das Angriffstempo.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Abwehr
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Harpyie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Harpyie"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Harpyie](/de/Items/unt_245/)
+ **Unit Soul:** [Harpyie](/ItemsDE/unt_245/)
 
  **Unit description:** Scharfe Kralle der Verzauberin: Fügt mit gewisser Wahrscheinlichkeit mehreren Gegnern Schaden zu.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -169,7 +169,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

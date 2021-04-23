@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Pegasus"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Pegasus](/de/Items/unt_202/)
+ **Unit Soul:** [Pegasus](/ItemsDE/unt_202/)
 
  **Unit description:** Lebensschutz: Verleiht den nächsten verbündeten Einheiten einen Lebensschild.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -178,7 +178,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

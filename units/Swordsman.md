@@ -3,7 +3,7 @@ title: "Schwertkämpfer"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Schwertkämpfer"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Schwertkämpfer](/de/Items/unt_193/)
+ **Unit Soul:** [Schwertkämpfer](/ItemsDE/unt_193/)
 
  **Unit description:** Göttlicher Schutz: Reduziert erlittenen Schaden.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Irisschild-Token](/de/Items/con_913/)
+ **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Abwehr
 * Magieresistenz
 
- **Talentverbesserung:** [Abwehr-Talenttrank](/de/Items/con_787/)
+ **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Goblins tragen leichte Rüstung und schwere Waffen. Diese brutalen und unerbittlichen Kämpfer durchschlagen die Verteidigung ihrer Gegner."
 unitID: 401
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Goblin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Goblin](/de/Items/unt_217/)
+ **Unit Soul:** [Goblin](/ItemsDE/unt_217/)
 
  **Unit description:** Kriegssturm: Fügt 3 gegnerischen Einheiten in der Nähe Schaden zu.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Schwert-Token](/de/Items/con_912/)
+ **Item to Rangaufstieg:** [Schwert-Token](/ItemsDE/con_912/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Angriffstempo
 * Magieresistenz
 
- **Talentverbesserung:** [Offensiv-Talenttrank](/de/Items/con_786/)
+ **Talentverbesserung:** [Offensiv-Talenttrank](/ItemsDE/con_786/)
 
 
 ## Awaking

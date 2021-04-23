@@ -3,7 +3,7 @@ title: "Schlangenfliege"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
 unitID: 803
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Schlangenfliege"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Schlangenfliege](/de/Items/unt_255/)
+ **Unit Soul:** [Schlangenfliege](/ItemsDE/unt_255/)
 
  **Short description:** Schwächt und kontrolliert die hintere Reihe.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -190,7 +190,7 @@ toc: true
 * Angriffstempo
 * Kritischer Treffer (Einheit)
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen (Gremlin)"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Gremlin Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Gremlin Langbogen.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exklusiv for Unit:** [Gremlin](/de/units/Gremlin/) 
 
- **Item to Rangaufstieg:** [Langbogen-Token](/de/Items/con_914/)
+ **Item to Rangaufstieg:** [Langbogen-Token](/ItemsDE/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Langbogen-Token](/de/Items/con_914/) | <Magische Bombe> Wirft eine magische Eisenkugel auf die Zieleinheit, welche Schaden in Höhe von 200 % des eigenen ANG an gegnerischen Einheiten in der Nähe verursacht, sobald die Eisenkugel explodiert. Die AKZ beträgt 15 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/de/Items/con_914/) | Erhöht den SCHD (Einheit) des Gremlins um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/de/Items/con_914/) | <Magisches Erwachen> Erhöht für 5 Sek. die Magieresistenz des Gremlins um 6 % und die SCHD-Reduzierung (Einheit) um 3 %. Bis zu 10 Mal stapelbar. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/de/Items/con_914/) | <Magische Bombe> fügt zusätzlichen Schaden in Höhe von 100 % des eigenen ANG zu und betäubt gegnerische Einheiten für 2 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/de/Items/con_914/) | Erhöht den ANG des Gremlins um 20 %. Verursacht an betäubten Einheiten zusätzlichen Schaden in Höhe von 25 % des eigenen ANG. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/de/Items/con_914/) | Der Gremlin singt zu Beginn des Kampfes und erhöht 20 Sek. lang Krit. Treffer um 500 und Krit. Gesamt-SCHD um 100 %. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/de/Items/con_914/) | <Impische Künste> Jedes Mal, wenn ein Gremlin stirbt, wird <Magische Bombe> gewirkt, die gegnerische Einheiten in der Nähe für 2 Sek. betäubt. |
+  |  Erwachen  | **100x** [Langbogen-Token](/ItemsDE/con_914/) | <Magische Bombe> Wirft eine magische Eisenkugel auf die Zieleinheit, welche Schaden in Höhe von 200 % des eigenen ANG an gegnerischen Einheiten in der Nähe verursacht, sobald die Eisenkugel explodiert. Die AKZ beträgt 15 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Langbogen-Token](/ItemsDE/con_914/) | Erhöht den SCHD (Einheit) des Gremlins um 20 %. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Langbogen-Token](/ItemsDE/con_914/) | <Magisches Erwachen> Erhöht für 5 Sek. die Magieresistenz des Gremlins um 6 % und die SCHD-Reduzierung (Einheit) um 3 %. Bis zu 10 Mal stapelbar. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Langbogen-Token](/ItemsDE/con_914/) | <Magische Bombe> fügt zusätzlichen Schaden in Höhe von 100 % des eigenen ANG zu und betäubt gegnerische Einheiten für 2 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Langbogen-Token](/ItemsDE/con_914/) | Erhöht den ANG des Gremlins um 20 %. Verursacht an betäubten Einheiten zusätzlichen Schaden in Höhe von 25 % des eigenen ANG. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Langbogen-Token](/ItemsDE/con_914/) | Der Gremlin singt zu Beginn des Kampfes und erhöht 20 Sek. lang Krit. Treffer um 500 und Krit. Gesamt-SCHD um 100 %. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Langbogen-Token](/ItemsDE/con_914/) | <Impische Künste> Jedes Mal, wenn ein Gremlin stirbt, wird <Magische Bombe> gewirkt, die gegnerische Einheiten in der Nähe für 2 Sek. betäubt. |
 
 
 ## Stufenaufst.

@@ -2,7 +2,7 @@
 title: "Exklusiv -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Regnanseherin Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Regnan Seer .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Regnanseherin](/de/units/Regnan Seer/) 
 
- **Item to Rangaufstieg:** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/)
+ **Item to Rangaufstieg:** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/)
 
- **Skin:** [Tool_2990709](/de/Items/con_674/)
+ **Skin:** [Tool_2990709](/ItemsDE/con_674/)
 
  **Type:** Hauptstadt
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [„Stadt am Meer“-Bannerseele](/de/Items/con_1006/) |  |
+  |  Erwachen  | **100x** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/) |  |
 
 
 ## Stufenaufst.

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
 excerpt: "Era of Chaos Exklusiv Necropolis. Exklusiv Necropolis. List of Exklusiv Necropolis in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Exclusive Necropolis"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Skelett](/de/units/Skeleton/) | [Irisschild](/de/Exclusive/Skeleton Iris Shield/) | - | Aufladung | [Irisschild-Token](/de/Items/con_913/) | - |
-  | 2  | [Wandelnde Tote](/de/units/Walking Dead/) | [Irisschild](/de/Exclusive/Walking Dead Iris Shield/) | - | Aufladung | [Irisschild-Token](/de/Items/con_913/) | - |
-  | 3  | [Geist](/de/units/Wight/) | [Arkangesang](/de/Exclusive/Wight Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/de/Items/con_915/) | - |
-  | 4  | [Vampir](/de/units/Vampire/) | [Ritterpike](/de/Exclusive/Vampire Knight Pike/) | - | Aufladung | [Ritterpike-Token](/de/Items/con_916/) | - |
-  | 5  | [Lich](/de/units/Lich/) | [Todestribut](/de/Exclusive/Lich Death Tribute/) | + | Fernkampf | [Todestribut-Token](/de/Items/con_978/) | [Todestribut-Spezialskin](/de/Items/con_646/) |
-  | 6  | [Schwarzer Ritter](/de/units/Black Knight/) | [Unheilssäbel](/de/Exclusive/Black Knight Nether Sabre/) | + | Unterstützung | [Unheilssäbel-Token](/de/Items/con_979/) | [Unheilssäbel-Spezialskin](/de/Items/con_647/) |
-  | 7  | [Knochendrache](/de/units/Bone Dragon/) | [Knochen des unsterblichen Drachen](/de/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Unterstützung | [„Knochen des unsterblichen Drachen“-Token](/de/Items/con_980/) | [„Knochen des unsterblichen Drachen“-Spezialskin](/de/Items/con_648/) |
-  | 8  | [Mumie](/de/units/Mummy/) | [Gaze](/de/Exclusive/Mummy Gauze/) | - | Fernkampf | [Gaze-Token](/de/Items/con_981/) | [Gaze-Spezialskin](/de/Items/con_649/) |
+  | 1  | [Skelett](/de/units/Skeleton/) | [Irisschild](/de/Exclusive/Skeleton Iris Shield/) | - | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
+  | 2  | [Wandelnde Tote](/de/units/Walking Dead/) | [Irisschild](/de/Exclusive/Walking Dead Iris Shield/) | - | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
+  | 3  | [Geist](/de/units/Wight/) | [Arkangesang](/de/Exclusive/Wight Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
+  | 4  | [Vampir](/de/units/Vampire/) | [Ritterpike](/de/Exclusive/Vampire Knight Pike/) | - | Aufladung | [Ritterpike-Token](/ItemsDE/con_916/) | - |
+  | 5  | [Lich](/de/units/Lich/) | [Todestribut](/de/Exclusive/Lich Death Tribute/) | + | Fernkampf | [Todestribut-Token](/ItemsDE/con_978/) | [Todestribut-Spezialskin](/ItemsDE/con_646/) |
+  | 6  | [Schwarzer Ritter](/de/units/Black Knight/) | [Unheilssäbel](/de/Exclusive/Black Knight Nether Sabre/) | + | Unterstützung | [Unheilssäbel-Token](/ItemsDE/con_979/) | [Unheilssäbel-Spezialskin](/ItemsDE/con_647/) |
+  | 7  | [Knochendrache](/de/units/Bone Dragon/) | [Knochen des unsterblichen Drachen](/de/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Unterstützung | [„Knochen des unsterblichen Drachen“-Token](/ItemsDE/con_980/) | [„Knochen des unsterblichen Drachen“-Spezialskin](/ItemsDE/con_648/) |
+  | 8  | [Mumie](/de/units/Mummy/) | [Gaze](/de/Exclusive/Mummy Gauze/) | - | Fernkampf | [Gaze-Token](/ItemsDE/con_981/) | [Gaze-Spezialskin](/ItemsDE/con_649/) |
   | 9  | [Dunkler Kämpe](/de/units/Dark Champion/) | - | - | - | none | none |

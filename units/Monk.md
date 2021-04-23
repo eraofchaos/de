@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Mönch"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 
- **Unit Soul:** [Mönch](/de/Items/unt_194/)
+ **Unit Soul:** [Mönch](/ItemsDE/unt_194/)
 
  **Unit description:** Gebet: Heilt deine Einheit mit der niedrigsten Gesundheit.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Arkangesang-Token](/de/Items/con_915/)
+ **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
  **Skin:** -
 
@@ -165,7 +165,7 @@ toc: true
 
 * ?!? 
 
- **Talentverbesserung:** [Zauberer-Talenttrank](/de/Items/con_790/)
+ **Talentverbesserung:** [Zauberer-Talenttrank](/ItemsDE/con_790/)
 
 
 ## Awaking

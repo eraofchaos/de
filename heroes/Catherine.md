@@ -4,7 +4,7 @@ permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Catherine ist die Königin von Erathia und deshalb gezwungen, Krieg zu führen, um das Königreich ihres Vaters zu beschützen. Sie wird bis zum finalen Showdown der Armageddonklinge kämpfen."
 heroID: 60102
 QR: hero_60102
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Catherine"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Beschreibung:** Catherine ist die Königin von Erathia und deshalb gezwungen, Krieg zu führen, um das Königreich ihres Vaters zu beschützen. Sie wird bis zum finalen Showdown der Armageddonklinge kämpfen.
 ## Details
- **Profession:** Ritter
+ **Profession:** ![Ritter](/images/h/h_prof_1.png) Ritter
 
  **Race:** Schloss
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Eisenkreuzritter
+ **Heldenspezialität:** Eisenkreuzritter
 
  **Specialty Desc:** Unter Catherines Führung werden Schwertkämpfer zu Eisenkreuzrittern aufgewertet. Ihre Kampffähigkeiten und ihre Überlebenschance erhöhen sich drastisch.
 
@@ -30,25 +30,51 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | TBD |
-  |    2    | 12 | 12 | TBD |
-  |    3    | 16 | 16 | TBD |
-  |    4    | 20 | 20 | TBD |
+  | Stars | Angriff (Held) | Abwehr (Held) | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 8 | **30x** [Catherine](/ItemsDE/her_361/) | Befindet sich Catherine auf dem Schlachtfeld, werden Schwertkämpfer zu Eisenkreuzrittern aufgewertet und ihre LP erhöhen sich um 20 %. |
+  |    2    | 12 | 12 | **50x** [Catherine](/ItemsDE/her_361/) | Mit „Hohe Moral“ erhalten Eisenkreuzritter einen Schild, der 10 % ihrer LP entspricht. |
+  |    3    | 16 | 16 | **100x** [Catherine](/ItemsDE/her_361/) | Von Eisenkreuzrittern erlittener SCHD (Einheit) wird um 20 % verringert. Die Fähigkeit <Freude> wird in den Fähigkeitseffekt <Luftschild-Schar> umgewandelt. |
+  |    4    | 20 | 20 | **150x** [Catherine](/ItemsDE/her_361/) | Die Mitgliedsanzahl der Eisenkreuzritter erhöht sich von 9 auf 16. |
 
-## Spells
-### 1 Spell: Erdpfeil
+ **Special Desciption 1:** Allgemeiner Hinweis, muss hinzugefügt werden
+
+## Zauberspruch
+### 1 Zauberspruch: Erdpfeil
  **Beschreibung:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> Erdzauberschaden zu und <span style="color: #e07c44;font-size:20px">betäubt</span><span style="color: black"> sie 3 Sek. lang.
 
-### 2 Spell: Freude
+ **Beschreibung 2:** Nächste Stufe: Schaden erhöht sich um <span style="color: #1ca216;font-size:18px">{$valueadd12}.</span><span style="color: black">
+
+ **Beschreibung 3:** Gegner erleidet Schaden.
+
+ **Beschreibung 4:** Fügt gegnerischen Einheiten Erdschaden zu und <span style="color: #f0f000;font-size:18px">betäubt sie.</span><span style="color: black">
+
+### 2 Zauberspruch: Freude
  **Beschreibung:** Verleiht allen verbündeten Einheiten in Reichweite, außer Nekropolis-Einheiten, <span style="color: #e07c44;font-size:20px">Hohe Moral</span><span style="color: black">, was deren Angriffstempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> % erhöht. Dauer: <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek.
 
-### 3 Spell: Töter
+ **Beschreibung 2:** Nächste Stufe: Anfangs-AKZ und AKZ verringern sich um <span style="color: #1ca216;font-size:18px">{($cd2)/1000} Sek.</span><span style="color: black">
+
+ **Beschreibung 3:** Die Moral Eurer Verbündeten ist hoch.
+
+ **Beschreibung 4:** Verleiht verbündeten Einheiten innerhalb eines großen Bereichs <span style="color: #e07c44;font-size:20px">Hohe Moral</span><span style="color: black"> und erhöht ihr Angriffstempo um {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)> %. Dauer: <span style="color: #1ca216">{($bufflast11+$bufflast12*($sklevel-1))/1000} Sek.</span><span style="color: black">
+
+### 3 Zauberspruch: Töter
  **Beschreibung:** Erhöht den ANG verbündeter Einheiten innerhalb einer großen Reichweite um <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px"> %.</span><span style="color: black"> Dauer: {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> Sek. Die Dauer erhöht sich bei 9-Mann-Einheiten um weitere 5 Sek.
 
-### 4 Spell: Schneesturm
+ **Beschreibung 2:** Nächste Stufe: Angriff erhöht sich um weitere <span style="color: #00ff22;font-size:16px">{$buffaddattr13} %.</span><span style="color: black">
+
+ **Beschreibung 3:** Der Angriff von Verbündeten erhöht sich.
+
+ **Beschreibung 4:** Erhöht Angriff verbündeter Einheiten; Wirkung hält bei 16-Mann-Einheiten länger an.
+
+### 4 Zauberspruch: Schneesturm
  **Beschreibung:** Beschwört einen Schneesturm, der Gegnern innerhalb eines großen Bereichs 5-mal Wasserzauberschaden, insgesamt <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>, zufügt und sie 8 Sek. lang <span style="color: #e07c44;font-size:20px">verlangsamt.</span><span style="color: black">
+
+ **Beschreibung 2:** Nächste Stufe: Gesamtschaden erhöht sich um <span style="color: #00ff22;font-size:16px">{$ovalueadd12*($olast11/$ointerval)}.</span><span style="color: black">
+
+ **Beschreibung 3:** Dein Gegner erleidet Schaden über Zeit.
+
+ **Beschreibung 4:** Beschwört eine Hagelwolke, die <span style="color: #48b946;font-size:20px"></span><span style="color: black">kontinuierlichen Wasserschaden zufügt. Erstarrte Ziele werden <span style="color: #f0f000;font-size:18px">verlangsamt.</span><span style="color: black">
 
 
 ## Adjutant

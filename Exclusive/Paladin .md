@@ -2,7 +2,7 @@
 title: "Exklusiv -  (Paladin)"
 permalink: /Exclusive/Paladin /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Paladin Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Paladin .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Paladin](/de/units/Paladin/) 
 
- **Item to Rangaufstieg:** [Furchtlos-Token](/de/Items/con_974/)
+ **Item to Rangaufstieg:** [Furchtlos-Token](/ItemsDE/con_974/)
 
- **Skin:** [Furchtlos-Spezialskin](/de/Items/con_642/)
+ **Skin:** [Furchtlos-Spezialskin](/ItemsDE/con_642/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Furchtlos-Token](/de/Items/con_974/) | <Ausdauernde Wache> Der Paladin beschützt sich selbst und eine zufällige Nahkampfeinheit, die keine Inferno-Einheit ist. Er erhöht die ABW und die SCHD-Reduzierung (Einheit) beider Einheiten jeweils um 20 % für 10 Sek. und gewährt zudem den Wächterstatus. Dies erhöht die ABW und die SCHD-Reduzierung (Einheit) jeweils zusätzlich um 20 %. Der Wächterstatus wird entfernt, sobald die Einheit 10 Mal Schaden erlitten hat. Die AKZ beträgt 15 Sek. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Furchtlos-Token](/de/Items/con_974/) | Erhöht die SCHD-Reduzierung (Einheit) der verbündeten Einheiten in der Nähe Einheiten in einem kleinen Radius um 20 % und hebt die Begrenzungen für Schloss-Einheiten auf. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Furchtlos-Token](/de/Items/con_974/) | Erhöht den Basis-ABW-Wert des Paladins um 300 und die erhaltene Heilung um 30 %. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Furchtlos-Token](/de/Items/con_974/) | <Gläubiges Gebet> Weckt für kurze Zeit die furchtlose Macht des Paladins, verringert die Präzision der gegnerischen Einheiten in einem großen Bereich um 300 und erhöht die Zähigkeit der verbündeten Einheiten um 300. Reinigt alle 4 Sek. verbündete Einheiten in Reichweite und entfernt 1 Debuff-Stapel. Hält 12 Sek. an. Die AKZ beträgt 20 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Furchtlos-Token](/de/Items/con_974/) | Erhöht die Zähigkeit des Paladins um 300 und erhöht den SCHD (Einheit) aller verbündeten Einheiten um 20 %, wann immer <Gläubiges Gebet> gewirkt wird. Hält 10 Sek. an. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Furchtlos-Token](/de/Items/con_974/) | Wenn der Schaden, den der Paladin durch einen einzigen Angriff erleidet, über 18 % seiner max. LP beträgt, wird er immun gegen Schaden, der diese 18 % übersteigt. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Furchtlos-Token](/de/Items/con_974/) | <Letztes Gefecht> Wenn der Paladin 5 % seiner LP verliert, wird seine eigene ABW um 5 % erhöht. Wenn die LP zum ersten Mal auf 66 % und 33 % absinkt, ist er für 6 Sek. immun gegen alle Schäden. |
+  |  Erwachen  | **100x** [Furchtlos-Token](/ItemsDE/con_974/) | <Ausdauernde Wache> Der Paladin beschützt sich selbst und eine zufällige Nahkampfeinheit, die keine Inferno-Einheit ist. Er erhöht die ABW und die SCHD-Reduzierung (Einheit) beider Einheiten jeweils um 20 % für 10 Sek. und gewährt zudem den Wächterstatus. Dies erhöht die ABW und die SCHD-Reduzierung (Einheit) jeweils zusätzlich um 20 %. Der Wächterstatus wird entfernt, sobald die Einheit 10 Mal Schaden erlitten hat. Die AKZ beträgt 15 Sek. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Furchtlos-Token](/ItemsDE/con_974/) | Erhöht die SCHD-Reduzierung (Einheit) der verbündeten Einheiten in der Nähe Einheiten in einem kleinen Radius um 20 % und hebt die Begrenzungen für Schloss-Einheiten auf. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Furchtlos-Token](/ItemsDE/con_974/) | Erhöht den Basis-ABW-Wert des Paladins um 300 und die erhaltene Heilung um 30 %. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Furchtlos-Token](/ItemsDE/con_974/) | <Gläubiges Gebet> Weckt für kurze Zeit die furchtlose Macht des Paladins, verringert die Präzision der gegnerischen Einheiten in einem großen Bereich um 300 und erhöht die Zähigkeit der verbündeten Einheiten um 300. Reinigt alle 4 Sek. verbündete Einheiten in Reichweite und entfernt 1 Debuff-Stapel. Hält 12 Sek. an. Die AKZ beträgt 20 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Furchtlos-Token](/ItemsDE/con_974/) | Erhöht die Zähigkeit des Paladins um 300 und erhöht den SCHD (Einheit) aller verbündeten Einheiten um 20 %, wann immer <Gläubiges Gebet> gewirkt wird. Hält 10 Sek. an. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Furchtlos-Token](/ItemsDE/con_974/) | Wenn der Schaden, den der Paladin durch einen einzigen Angriff erleidet, über 18 % seiner max. LP beträgt, wird er immun gegen Schaden, der diese 18 % übersteigt. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Furchtlos-Token](/ItemsDE/con_974/) | <Letztes Gefecht> Wenn der Paladin 5 % seiner LP verliert, wird seine eigene ABW um 5 % erhöht. Wenn die LP zum ersten Mal auf 66 % und 33 % absinkt, ist er für 6 Sek. immun gegen alle Schäden. |
 
 
 ## Stufenaufst.

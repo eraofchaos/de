@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 23 - 23-5 Die Ausbreitung"
 permalink: /Underground/Chapter 23_5/
 excerpt: "Kapitel 23 - 5. Era of Chaos  Untergrund - Kapitel 23_5. 23-5 Die Ausbreitung"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: de
 ref: "Chapter 23_5.md"
 toc: false

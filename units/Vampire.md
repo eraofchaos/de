@@ -3,7 +3,7 @@ title: "Vampir"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Vampire richten sich nach vielen uralten aristokratischen Ritualen. Sie erscheinen charismatisch, ja sogar ritterlich, aber wenn sie ihre Zähne zeigen, spürt man nur noch, wie einem das Leben entrinnt."
 unitID: 304
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Vampir"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 
- **Unit Soul:** [Vampir](/de/Items/unt_211/)
+ **Unit Soul:** [Vampir](/ItemsDE/unt_211/)
 
  **Unit description:** Lebensentzug: Entzieht gegnerischen Einheiten Gesundheit und stellt die eigene wieder her.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** [Ritterpike-Token](/de/Items/con_916/)
+ **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Schaden (Einheit)
 * SCHD-Reduzierung (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking

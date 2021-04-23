@@ -2,7 +2,7 @@
 title: "Exklusiv - Prächtiger Drachenflügel (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Prächtiger Drachenflügel. Prächtiger Drachenflügel. Era of Chaos Exklusiv Prächtiger Drachenflügel. Grüner Drache Exklusiv."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Green Dragon Prächtiger Drachenflügel.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exklusiv for Unit:** [Grüner Drache](/de/units/Green Dragon/) 
 
- **Item to Rangaufstieg:** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/)
+ **Item to Rangaufstieg:** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/)
 
- **Skin:** [Prächtiger-Drachenflügel-Spezialskin](/de/Items/con_644/)
+ **Skin:** [Prächtiger-Drachenflügel-Spezialskin](/ItemsDE/con_644/)
 
  **Type:** Unterstützung
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/) | Die Angriffe des Grünen Drachen wirken „Blutung“, wodurch die Ziele alle 2 Sek. für 3 Sek. Schaden in Höhe von 2 % ihrer max. LP erleiden. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/) | Erhöht den SCHD (Einheit) des Grünen Drachen um 20 % und Krit. Treffer um 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/) | Das Angriffstempo des Grünen Drachen wird bei Erhalt eines Schildes um 30 % erhöht. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/) | <Kristallwache> Der Grüne Drache wird durch seine kristalline Haut geschützt und blockt 5 Mal Schaden. Nachdem er zum 5. Mal Schaden geblockt hat, verschwindet <Kristallwache> und gegnerische Einheiten in der Nähe erleiden Schaden in Höhe von 100 % des ANG des Grünen Drachen und werden 3 Sek. lang kristallisiert. Du erhältst <Kristallwache> ein Mal alle 20 Sek. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/) | Die Durchdringung des Grünen Drachen erhöht sich bei jedem Angriff um 25. Bis zu 20 Mal stapelbar. Gesammelte Stapel gehen verloren, wenn das Angriffsziel geändert wird. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/) | <Unaufhaltsam> Wenn das angegriffene Ziel verlangsamt wurde, wird der angegriffenen Einheit Schaden in Höhe von 100 % des eigenen ANG zugefügt und sie erblindet für 5 Sek. Die AKZ beträgt 18 Sek. Wenn die angegriffene Einheit gebunden ist, wird Schaden in Höhe von 100 % des eigenen ANG zugefügt und die ABW um 15 % verringert. Hält 5 Sek. an. Die AKZ beträgt 18 Sek. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Prächtiger-Drachenflügel-Token](/de/Items/con_976/) | <Diamantdornen> Sammelt und entfesselt eine große Menge rasiermesserscharfer Kristalle, die gegnerischen Einheiten in einem großen Bereich vor ihnen Schaden in Höhe von 100 % des eigenen ANG zufügen. Der Schaden verdoppelt sich bei Zielen mit „Blindheit“. Die AKZ beträgt 21 Sek. |
+  |  Erwachen  | **100x** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | Die Angriffe des Grünen Drachen wirken „Blutung“, wodurch die Ziele alle 2 Sek. für 3 Sek. Schaden in Höhe von 2 % ihrer max. LP erleiden. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | Erhöht den SCHD (Einheit) des Grünen Drachen um 20 % und Krit. Treffer um 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | Das Angriffstempo des Grünen Drachen wird bei Erhalt eines Schildes um 30 % erhöht. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | <Kristallwache> Der Grüne Drache wird durch seine kristalline Haut geschützt und blockt 5 Mal Schaden. Nachdem er zum 5. Mal Schaden geblockt hat, verschwindet <Kristallwache> und gegnerische Einheiten in der Nähe erleiden Schaden in Höhe von 100 % des ANG des Grünen Drachen und werden 3 Sek. lang kristallisiert. Du erhältst <Kristallwache> ein Mal alle 20 Sek. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | Die Durchdringung des Grünen Drachen erhöht sich bei jedem Angriff um 25. Bis zu 20 Mal stapelbar. Gesammelte Stapel gehen verloren, wenn das Angriffsziel geändert wird. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | <Unaufhaltsam> Wenn das angegriffene Ziel verlangsamt wurde, wird der angegriffenen Einheit Schaden in Höhe von 100 % des eigenen ANG zugefügt und sie erblindet für 5 Sek. Die AKZ beträgt 18 Sek. Wenn die angegriffene Einheit gebunden ist, wird Schaden in Höhe von 100 % des eigenen ANG zugefügt und die ABW um 15 % verringert. Hält 5 Sek. an. Die AKZ beträgt 18 Sek. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | <Diamantdornen> Sammelt und entfesselt eine große Menge rasiermesserscharfer Kristalle, die gegnerischen Einheiten in einem großen Bereich vor ihnen Schaden in Höhe von 100 % des eigenen ANG zufügen. Der Schaden verdoppelt sich bei Zielen mit „Blindheit“. Die AKZ beträgt 21 Sek. |
 
 
 ## Stufenaufst.

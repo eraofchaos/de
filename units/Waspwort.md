@@ -3,7 +3,7 @@ title: "Wespenwurz"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
 unitID: 808
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Wespenwurz"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Wespenwurz](/de/Items/unt_260/)
+ **Unit Soul:** [Wespenwurz](/ItemsDE/unt_260/)
 
  **Short description:** DPS & Kontrolle.
 
@@ -176,7 +176,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Fernkampf-Talenttrank](/de/Items/con_789/)
+ **Talentverbesserung:** [Fernkampf-Talenttrank](/ItemsDE/con_789/)
 
 
 ## Awaking

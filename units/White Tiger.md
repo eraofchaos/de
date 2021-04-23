@@ -3,7 +3,7 @@ title: "Weißer Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden."
 unitID: 809
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: de
 ref: "Weißer Tiger"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Tool_3809](/de/Items/unt_261/)
+ **Unit Soul:** [Tool_3809](/ItemsDE/unt_261/)
 
  **Position :** Der Weiße Tiger setzt seinen aggressiven Weißen Tigergeist ein, um die Verteidigungslinie des Gegners dort zu zerschlagen, wo sie am schwächsten ist, und aktiviert seine Seuchenkräfte, um das Blatt im Kampf zu wenden.
 
@@ -185,7 +185,7 @@ toc: true
 * Angriffstempo
 * Schaden (Einheit)
 
- **Talentverbesserung:** [Ansturm-Talenttrank](/de/Items/con_788/)
+ **Talentverbesserung:** [Ansturm-Talenttrank](/ItemsDE/con_788/)
 
 
 ## Awaking
