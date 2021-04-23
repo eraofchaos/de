@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Kleeblatt des Glücks](/images/t/artifact_40121.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Kleeblatt, das Glück bringt. Eine der Komponenten für das Glückshufeisen.
 
- **Part of Artifact:** [Glückshufeisen](/de/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
+ **Part of Artifact:** ![Glückshufeisen](/images/t/icon_artifact_12.png) [Glückshufeisen](/de/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Artefaktessenz](/ItemsDE/con_905/)
 

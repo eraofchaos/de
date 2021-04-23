@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Bogen aus Elfenkirschholz](/de/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | [Engelsfedernpfeile](/de/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
-  |   | **Bogen des Meisterschützen** |  | 
-  |   | [Bogensehne der Einhornmähne](/de/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  | ![Bogen aus Elfenkirschholz](/images/t/artifact_40101.png) [Bogen aus Elfenkirschholz](/de/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Engelsfedernpfeile](/images/t/artifact_40101.png) [Engelsfedernpfeile](/de/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  |   | ![Bogen des Meisterschützen](/images/t/icon_artifact_10.png) **Bogen des Meisterschützen** |  | 
+  |   | ![Bogensehne der Einhornmähne](/images/t/artifact_40101.png) [Bogensehne der Einhornmähne](/de/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Details

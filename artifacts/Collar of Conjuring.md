@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Kragen der Beschwörung](/images/t/artifact_40221.png)
+
 
 
 ## Details
 
  **Beschreibung:** Verstärkt die magischen Kräfte des Trägers. Eine der Komponenten für den Ring des Magiers.
 
- **Part of Artifact:** [Ring des Magiers](/de/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Ring des Magiers](/images/t/icon_artifact_22.png) [Ring des Magiers](/de/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Artefaktessenz](/ItemsDE/con_905/)
 

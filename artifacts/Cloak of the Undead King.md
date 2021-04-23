@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Amulett der Totengräber](/de/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | [Vampirkutte](/de/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
-  |   | **Mantel des untoten Königs** |  | 
-  |   | [Totenstiefel](/de/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  | ![Amulett der Totengräber](/images/t/artifact_40321.png) [Amulett der Totengräber](/de/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Vampirkutte](/images/t/artifact_40321.png) [Vampirkutte](/de/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  |   | ![Mantel des untoten Königs](/images/t/icon_artifact_32.png) **Mantel des untoten Königs** |  | 
+  |   | ![Totenstiefel](/images/t/artifact_40321.png) [Totenstiefel](/de/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Details

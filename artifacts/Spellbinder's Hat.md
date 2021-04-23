@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Buch der Feuermagie](/de/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | [Buch der Erdmagie](/de/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
-  |   | **Zauberhut** |  | 
-  | [Buch der Wassermagie](/de/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | [Buch der Luftmagie](/de/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Buch der Feuermagie](/images/t/artifact_40461.png) [Buch der Feuermagie](/de/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Buch der Erdmagie](/images/t/artifact_40461.png) [Buch der Erdmagie](/de/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  |   | ![Zauberhut](/images/t/icon_artifact_46.png) **Zauberhut** |  | 
+  | ![Buch der Wassermagie](/images/t/artifact_40461.png) [Buch der Wassermagie](/de/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Buch der Luftmagie](/images/t/artifact_40461.png) [Buch der Luftmagie](/de/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Details

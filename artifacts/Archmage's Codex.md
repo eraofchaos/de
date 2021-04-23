@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Anhänger der Aufhebung](/de/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Stab der Spaltung](/de/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
-  |   | **Codex des Erzmagiers** |  | 
-  | [Widerrufermantel](/de/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   | [Ring der Aufhellung](/de/artifacts/Ring of Flares/){: .btn .btn--era4} | 
+  |  [Anhänger der Aufhebung](/de/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   |  [Stab der Spaltung](/de/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
+  |   | ![Codex des Erzmagiers](/images/t/icon_artifact_34.png) **Codex des Erzmagiers** |  | 
+  |  [Widerrufermantel](/de/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   |  [Ring der Aufhellung](/de/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Details

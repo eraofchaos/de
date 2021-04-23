@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Kleeblatt des Glücks](/de/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | [Karten der Prophezeiung](/de/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
-  |   | **Glückshufeisen** |  | 
-  |   | [Silberner Glücksvogel](/de/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  | ![Kleeblatt des Glücks](/images/t/artifact_40121.png) [Kleeblatt des Glücks](/de/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Karten der Prophezeiung](/images/t/artifact_40121.png) [Karten der Prophezeiung](/de/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  |   | ![Glückshufeisen](/images/t/icon_artifact_12.png) **Glückshufeisen** |  | 
+  |   | ![Silberner Glücksvogel](/images/t/artifact_40121.png) [Silberner Glücksvogel](/de/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Details

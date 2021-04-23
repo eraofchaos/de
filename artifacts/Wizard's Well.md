@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Managlücksbringer](/de/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Magischer Glücksbringer](/de/artifacts/Magic Charm/){: .btn .btn--era3} | 
-  |   | **Zaubererbrunnen** |  | 
-  |   | [Mystische Manakugel](/de/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  | ![Managlücksbringer](/images/t/artifact_40211.png) [Managlücksbringer](/de/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Magischer Glücksbringer](/images/t/artifact_40211.png) [Magischer Glücksbringer](/de/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  |   | ![Zaubererbrunnen](/images/t/icon_artifact_21.png) **Zaubererbrunnen** |  | 
+  |   | ![Mystische Manakugel](/images/t/artifact_40211.png) [Mystische Manakugel](/de/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Details

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Stiefel der Polarität](/images/t/artifact_40233.png)
+
 
 
 ## Details
 
  **Beschreibung:** Stiefel mit geprägtem Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein.
 
- **Part of Artifact:** [Antimagie-Runenstein](/de/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Antimagie-Runenstein](/images/t/icon_artifact_23.png) [Antimagie-Runenstein](/de/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Artefaktessenz](/ItemsDE/con_905/)
 

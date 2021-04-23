@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Titanengladius](/de/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Titanenharnisch](/de/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
-  |   | **Titanendonner** |  | 
-  | [Schild der Wache](/de/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Donnerhelm](/de/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
+  |  [Titanengladius](/de/artifacts/Titan's Gladius/){: .btn .btn--era5} |   |  [Titanenharnisch](/de/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
+  |   | ![Titanendonner](/images/t/icon_artifact_42.png) **Titanendonner** |  | 
+  |  [Schild der Wache](/de/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   |  [Donnerhelm](/de/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
 
 
 ## Details

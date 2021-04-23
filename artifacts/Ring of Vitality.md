@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Ring der Vitalität](/images/t/artifact_40111.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Ring, der Energie liefert. Eine der Komponenten für das Elixier des Lebens.
 
- **Part of Artifact:** [Elixier des Lebens](/de/artifacts/Elixir of Life/){: .btn .btn--era2}
+ **Part of Artifact:** ![Elixier des Lebens](/images/t/icon_artifact_11.png) [Elixier des Lebens](/de/artifacts/Elixir of Life/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Artefaktessenz](/ItemsDE/con_905/)
 

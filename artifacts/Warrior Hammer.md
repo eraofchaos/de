@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Kriegerhammer](/images/t/artifact_40445.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein auf dem Grat der Giganten verborgener Kriegshammer. Eine der Komponenten für die Armageddonklinge.
 
- **Part of Artifact:** [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Armageddonklinge](/images/t/icon_artifact_44.png) [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 

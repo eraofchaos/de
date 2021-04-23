@@ -13,8 +13,8 @@ classes: wide
 
   |  Nr  |    Artifact    | Pieces |  Level | Beschreibung   |
   |:-----|:---------------|:------:|:------:|:--------------:|
-  | 1   | [Elixier des Lebens](/de/artifacts/Elixir of Life/){: .btn .btn--era2} | 3 | 1 | Eine heilige Reliquie mit immenser Gesundheit. Kann die LP einer Armee erhöhen. |
-  | 2   | [Glückshufeisen](/de/artifacts/Lucky Horseshoe/){: .btn .btn--era2} | 3 | 1 | Eine heilige Reliquie voller Kraft. Kann den Angriff einer Armee steigern. |
+  | 1   | ![Elixier des Lebens](/images/t/icon_artifact_11.png) [Elixier des Lebens](/de/artifacts/Elixir of Life/){: .btn .btn--era2} | 3 | 1 | Eine heilige Reliquie mit immenser Gesundheit. Kann die LP einer Armee erhöhen. |
+  | 2   | ![Glückshufeisen](/images/t/icon_artifact_12.png) [Glückshufeisen](/de/artifacts/Lucky Horseshoe/){: .btn .btn--era2} | 3 | 1 | Eine heilige Reliquie voller Kraft. Kann den Angriff einer Armee steigern. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/de/artifacts/Artifacts Upgrade/)

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Vampirkutte](/images/t/artifact_40322.png)
+
 
 
 ## Details
 
  **Beschreibung:** Der kostbare Umhang eines Vampirs. Eine der Komponenten für den Umhang des untoten Königs.
 
- **Part of Artifact:** [Mantel des untoten Königs](/de/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Mantel des untoten Königs](/images/t/icon_artifact_32.png) [Mantel des untoten Königs](/de/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

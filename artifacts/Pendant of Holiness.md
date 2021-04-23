@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Eine Halskette eines Engels. Eine der Komponenten für den Engelsbund.
 
- **Part of Artifact:** [Engelsbund](/de/artifacts/Angelic Alliance/){: .btn .btn--era5}
+ **Part of Artifact:** ![Engelsbund](/images/t/icon_artifact_41.png) [Engelsbund](/de/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 

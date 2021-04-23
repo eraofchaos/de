@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Schmuck der Interferenz](/de/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | [Schutzrock](/de/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
-  |   | **Antimagie-Runenstein** |  | 
-  |   | [Stiefel der Polarität](/de/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  | ![Schmuck der Interferenz](/images/t/artifact_40231.png) [Schmuck der Interferenz](/de/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Schutzrock](/images/t/artifact_40231.png) [Schutzrock](/de/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  |   | ![Antimagie-Runenstein](/images/t/icon_artifact_23.png) **Antimagie-Runenstein** |  | 
+  |   | ![Stiefel der Polarität](/images/t/artifact_40231.png) [Stiefel der Polarität](/de/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Details

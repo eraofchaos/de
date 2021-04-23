@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Vogel der Beobachtung](/de/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Ring des Adlerblicks](/de/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |  [Vogel der Beobachtung](/de/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Ring des Adlerblicks](/de/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
   |   | **Lebendiges Falkenauge** |  | 
-  | [Geduldiger Wachmann](/de/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Orden der Wahrheit](/de/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  |  [Geduldiger Wachmann](/de/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Orden der Wahrheit](/de/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Details

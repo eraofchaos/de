@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Knochenschienen](/de/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Drachenzahnkette](/de/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
-  | [Drachenschild](/de/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | **Macht des Drachenvaters** | [Drachenzahnkrone](/de/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
-  | [Feuerzunge des Roten Drachen](/de/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Drachenschuppen-Rüstung](/de/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+  |  [Knochenschienen](/de/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   |  [Drachenzahnkette](/de/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
+  |  [Drachenschild](/de/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | ![Macht des Drachenvaters](/images/t/icon_artifact_40.png) **Macht des Drachenvaters** |  [Drachenzahnkrone](/de/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  |  [Feuerzunge des Roten Drachen](/de/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Drachenschuppen-Rüstung](/de/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
 
 
 ## Details

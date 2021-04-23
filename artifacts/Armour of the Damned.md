@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Schwert des Höllenfeuers](/de/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | [Knochenrüstung](/de/artifacts/Bone Armour/){: .btn .btn--era4} | 
-  |   | **Rüstung der Verdammten** |  | 
-  | [Schild der gähnenden Toten](/de/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | [Totenschädelhelm](/de/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Schwert des Höllenfeuers](/images/t/artifact_40301.png) [Schwert des Höllenfeuers](/de/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Knochenrüstung](/images/t/artifact_40301.png) [Knochenrüstung](/de/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  |   | ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) **Rüstung der Verdammten** |  | 
+  | ![Schild der gähnenden Toten](/images/t/artifact_40301.png) [Schild der gähnenden Toten](/de/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Totenschädelhelm](/images/t/artifact_40301.png) [Totenschädelhelm](/de/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Details

@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Eine leuchtende Kristallkugel. Der Legende nach kann man damit in die Zukunft sehen.
 
- **Part of Artifact:** [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Edenapfel](/images/t/icon_artifact_49.png) [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 

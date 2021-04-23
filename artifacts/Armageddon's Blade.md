@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Waldbogen](/de/artifacts/Forest Bow/){: .btn .btn--era5} |   | [Muster-Armbrust](/de/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | [Ritterschwert](/de/artifacts/Knight Sword/){: .btn .btn--era5} | **Armageddonklinge** | [Berg-Streitaxt](/de/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | [Stab der Weisheit](/de/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | [Kriegerhammer](/de/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Waldbogen](/images/t/artifact_40441.png) [Waldbogen](/de/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Muster-Armbrust](/images/t/artifact_40441.png) [Muster-Armbrust](/de/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Ritterschwert](/images/t/artifact_40441.png) [Ritterschwert](/de/artifacts/Knight Sword/){: .btn .btn--era5} | ![Armageddonklinge](/images/t/icon_artifact_44.png) **Armageddonklinge** | ![Berg-Streitaxt](/images/t/artifact_40441.png) [Berg-Streitaxt](/de/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Stab der Weisheit](/images/t/artifact_40441.png) [Stab der Weisheit](/de/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Kriegerhammer](/images/t/artifact_40441.png) [Kriegerhammer](/de/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Details

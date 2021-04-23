@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Stab der Weisheit](/images/t/artifact_40443.png)
+
 
 
 ## Details
 
  **Beschreibung:** Eine Reliquie zum Schutz des Eisschilds. Eine der Komponenten für die Armageddonklinge.
 
- **Part of Artifact:** [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Armageddonklinge](/images/t/icon_artifact_44.png) [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 

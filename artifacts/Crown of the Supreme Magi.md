@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Krone der höchsten Magier](/images/t/artifact_40313.png)
+
 
 
 ## Details
 
  **Beschreibung:** Eine Krone, Dankesgeschenk für die Rettung eines verrückten Zauberers. Eine der Komponenten für die Axt der Wildheit.
 
- **Part of Artifact:** [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Axt der Wildheit](/images/t/icon_artifact_31.png) [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

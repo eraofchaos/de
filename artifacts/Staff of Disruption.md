@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Ein Stab, der große Kraft in sich trägt. Ein Codex des Erzmagiers.
 
- **Part of Artifact:** [Codex des Erzmagiers](/de/artifacts/Archmage's Codex/){: .btn .btn--era4}
+ **Part of Artifact:** ![Codex des Erzmagiers](/images/t/icon_artifact_34.png) [Codex des Erzmagiers](/de/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

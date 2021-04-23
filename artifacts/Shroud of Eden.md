@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Das legendäre heilige Edentuch. Es gibt keine Möglichkeit, seine Echtheit zu überprüfen.
 
- **Part of Artifact:** [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Edenapfel](/images/t/icon_artifact_49.png) [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 

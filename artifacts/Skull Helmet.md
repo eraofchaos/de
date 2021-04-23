@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Totenschädelhelm](/images/t/artifact_40303.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein in der Unterwelt gefundener Helm. Eine der Komponenten für die Rüstung der Verdammten.
 
- **Part of Artifact:** [Rüstung der Verdammten](/de/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) [Rüstung der Verdammten](/de/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

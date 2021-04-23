@@ -13,9 +13,9 @@ classes: wide
 
   |  Nr  |    Artifact    | Pieces |  Level | Beschreibung   |
   |:-----|:---------------|:------:|:------:|:--------------:|
-  | 1   | [Zaubererbrunnen](/de/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Magischer Gegenstand zum Kampf gegen Dämonen. Kann das Mana-Regenerationstempo erhöhen. |
-  | 2   | [Ring des Magiers](/de/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Magischer Ring, aus verzauberten Gegenständen geschmiedet. Kann Zauberschaden erhöhen. |
-  | 3   | [Antimagie-Runenstein](/de/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Antimagie-Runenstein, aus verzauberten Gegenständen gefertigt. Kann Zauberschaden widerstehen. |
+  | 1   | ![Zaubererbrunnen](/images/t/icon_artifact_21.png) [Zaubererbrunnen](/de/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Magischer Gegenstand zum Kampf gegen Dämonen. Kann das Mana-Regenerationstempo erhöhen. |
+  | 2   | ![Ring des Magiers](/images/t/icon_artifact_22.png) [Ring des Magiers](/de/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Magischer Ring, aus verzauberten Gegenständen geschmiedet. Kann Zauberschaden erhöhen. |
+  | 3   | ![Antimagie-Runenstein](/images/t/icon_artifact_23.png) [Antimagie-Runenstein](/de/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Antimagie-Runenstein, aus verzauberten Gegenständen gefertigt. Kann Zauberschaden widerstehen. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/de/artifacts/Artifacts Upgrade/)

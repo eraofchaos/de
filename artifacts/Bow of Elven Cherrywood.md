@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Bogen aus Elfenkirschholz](/images/t/artifact_40101.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein von Elfen aus Holz geschnitzter Langbogen. Eine der Komponenten für den Bogen des Meisterschützen.
 
- **Part of Artifact:** [Bogen des Meisterschützen](/de/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Bogen des Meisterschützen](/images/t/icon_artifact_10.png) [Bogen des Meisterschützen](/de/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

@@ -47,7 +47,7 @@ classes: wide
   | 34 | ![Sephinroth](/images/h/h_Sephinroth.jpg) | [Sephinroth](/de/heroes/Sephinroth/) | Dungeon | Hexer | **R** |  Kristallblick | R |
   | 35 | ![Shiva](/images/h/h_Shiwa.jpg) | [Shiva](/de/heroes/Shiva/) | Burg | Barbar | **R** |  Sturmbringer | R |
   | 36 | ![Solmyr](/images/h/h_Solmyr.jpg) | [Solmyr](/de/heroes/Solmyr/) | Turm | Zauberer | **SR+** |  Blitzstrahl-Salve | SR |
-  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/de/heroes/Tazar/) | Festung | Bestienmeister | **SSR** |  Blutiger Zorn | SR |
+  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/de/heroes/Tazar/) | Festung | Bestienmeister | **SSR** |  Blutiger Zorn | SSR |
   | 38 | ![Vidomina](/images/h/h_Vidomina.jpg) | [Vidomina](/de/heroes/Vidomina/) | Nekropolis | Totenbeschwörer | **SR+** |  Totenbeschwörer | R |
   | 39 | ![Wystan](/images/h/h_Wystan.jpg) | [Wystan](/de/heroes/Wystan/) | Festung | Bestienmeister | **R** |  Moorjäger | R |
   | 40 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/de/heroes/Xeron/) | Inferno | Dämoniker | **SSR** |  Erzteufel | SSR |

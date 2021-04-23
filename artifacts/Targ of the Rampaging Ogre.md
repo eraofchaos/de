@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Schild des wütenden Ogers](/images/t/artifact_40312.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Souvenir vom Sieg über einen Oger-Unterführer. Eine der Komponenten für die Axt der Wildheit.
 
- **Part of Artifact:** [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Axt der Wildheit](/images/t/icon_artifact_31.png) [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Ogerknüppel der Verwüstung](/de/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Tunika des Zyklopenkönigs](/de/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
-  |   | **Axt der Wildheit** |  | 
-  | [Schild des wütenden Ogers](/de/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Krone der höchsten Magier](/de/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Ogerknüppel der Verwüstung](/images/t/artifact_40311.png) [Ogerknüppel der Verwüstung](/de/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Tunika des Zyklopenkönigs](/images/t/artifact_40311.png) [Tunika des Zyklopenkönigs](/de/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  |   | ![Axt der Wildheit](/images/t/icon_artifact_31.png) **Axt der Wildheit** |  | 
+  | ![Schild des wütenden Ogers](/images/t/artifact_40311.png) [Schild des wütenden Ogers](/de/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Krone der höchsten Magier](/images/t/artifact_40311.png) [Krone der höchsten Magier](/de/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Details

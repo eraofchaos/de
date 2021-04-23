@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Ein Ornament, geformt wie ein Blitz und mit dessen Kraft ausgestattet. Ein Codex des Erzmagiers.
 
- **Part of Artifact:** [Codex des Erzmagiers](/de/artifacts/Archmage's Codex/){: .btn .btn--era4}
+ **Part of Artifact:** ![Codex des Erzmagiers](/images/t/icon_artifact_34.png) [Codex des Erzmagiers](/de/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

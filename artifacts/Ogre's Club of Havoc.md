@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Ogerknüppel der Verwüstung](/images/t/artifact_40311.png)
+
 
 
 ## Details
 
  **Beschreibung:** Eine Keule, die einem Oger-Hauptmann in einer Straßentaverne abgenommen wurde. Eine der Komponenten für die Axt der Wildheit.
 
- **Part of Artifact:** [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Axt der Wildheit](/images/t/icon_artifact_31.png) [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

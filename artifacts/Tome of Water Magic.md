@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Buch der Wassermagie](/images/t/artifact_40462.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Zauberbuch über höhere Wassermagie. Adelaide gab es Euch. Eine der Komponenten für den Zauberhut.
 
- **Part of Artifact:** [Zauberhut](/de/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Zauberhut](/images/t/icon_artifact_46.png) [Zauberhut](/de/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 

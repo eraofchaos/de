@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Eine vom heiligen Drachen gesegnete Rüstung. Eine der Komponenten für die Macht des Drachenvaters.
 
- **Part of Artifact:** [Macht des Drachenvaters](/de/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
+ **Part of Artifact:** ![Macht des Drachenvaters](/images/t/icon_artifact_40.png) [Macht des Drachenvaters](/de/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 

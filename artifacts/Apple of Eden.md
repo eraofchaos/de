@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Kristallkugel](/de/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Edentuch](/de/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
-  | [Kristallschädel](/de/artifacts/Crystal Skull/){: .btn .btn--era5} | **Edenapfel** | [Edenschwert](/de/artifacts/Sword of Eden/){: .btn .btn--era5} | 
-  | [Ankh](/de/artifacts/Ankh/){: .btn .btn--era5} |   | [Der Stab](/de/artifacts/Staff of Eden/){: .btn .btn--era5} | 
+  |  [Kristallkugel](/de/artifacts/Crystal Ball/){: .btn .btn--era5} |   |  [Edentuch](/de/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
+  |  [Kristallschädel](/de/artifacts/Crystal Skull/){: .btn .btn--era5} | ![Edenapfel](/images/t/icon_artifact_49.png) **Edenapfel** |  [Edenschwert](/de/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  |  [Ankh](/de/artifacts/Ankh/){: .btn .btn--era5} |   |  [Der Stab](/de/artifacts/Staff of Eden/){: .btn .btn--era5} | 
 
 
 ## Details

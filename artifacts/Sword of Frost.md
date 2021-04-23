@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Minotauren-Streitaxt](/de/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Stab der Unterwelt](/de/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  | [Tiefseedreizack](/de/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Schwert des Frostes** | [Ogerstab](/de/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  | [Verheerender Stab](/de/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Eiskristallschild](/de/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  |  [Minotauren-Streitaxt](/de/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Stab der Unterwelt](/de/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  |  [Tiefseedreizack](/de/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Schwert des Frostes** |  [Ogerstab](/de/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  |  [Verheerender Stab](/de/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Eiskristallschild](/de/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Details

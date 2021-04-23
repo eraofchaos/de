@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Tunika des Zyklopenkönigs](/images/t/artifact_40314.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Mantel, den ein schwimmender Zyklop fallen ließ. Eine der Komponenten für die Axt der Wildheit.
 
- **Part of Artifact:** [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Axt der Wildheit](/images/t/icon_artifact_31.png) [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

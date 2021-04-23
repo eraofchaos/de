@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Amulett der Totengräber](/images/t/artifact_40321.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Glücksbringer, mit dem ein Lich sich schützte. Eine der Komponenten für den Umhang des untoten Königs.
 
- **Part of Artifact:** [Mantel des untoten Königs](/de/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Mantel des untoten Königs](/images/t/icon_artifact_32.png) [Mantel des untoten Königs](/de/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

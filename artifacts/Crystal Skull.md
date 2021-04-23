@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Ein Schädel aus Kristall, erschaffen von einer unbekannten Zivilisation. Mit ihm kann man in die Herzen der Menschen sehen.
 
- **Part of Artifact:** [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Edenapfel](/images/t/icon_artifact_49.png) [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artefaktessenz](/ItemsDE/con_905/)
 

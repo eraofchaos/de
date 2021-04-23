@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Kragen der Beschwörung](/de/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | [Ring der Beschwörung](/de/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
-  |   | **Ring des Magiers** |  | 
-  |   | [Umhang der Beschwörung](/de/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  | ![Kragen der Beschwörung](/images/t/artifact_40221.png) [Kragen der Beschwörung](/de/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Ring der Beschwörung](/images/t/artifact_40221.png) [Ring der Beschwörung](/de/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  |   | ![Ring des Magiers](/images/t/icon_artifact_22.png) **Ring des Magiers** |  | 
+  |   | ![Umhang der Beschwörung](/images/t/artifact_40221.png) [Umhang der Beschwörung](/de/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Details

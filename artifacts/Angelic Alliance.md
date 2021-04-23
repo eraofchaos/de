@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Löwenschild des Mutes](/de/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | [Anhänger der Heiligkeit](/de/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  | [Schwert des Urteils](/de/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Engelsbund** | [Wunderrüstung](/de/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  | [Helm der Himmlischen Erleuchtung](/de/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | [Sandalen des Heiligen](/de/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Löwenschild des Mutes](/de/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Anhänger der Heiligkeit](/de/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  |  [Schwert des Urteils](/de/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Engelsbund](/images/t/icon_artifact_41.png) **Engelsbund** |  [Wunderrüstung](/de/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  |  [Helm der Himmlischen Erleuchtung](/de/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandalen des Heiligen](/de/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Details

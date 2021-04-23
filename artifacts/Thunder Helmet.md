@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Der Helm des Donnergottes. Eine der Komponenten für den Titanendonner.
 
- **Part of Artifact:** [Titanendonner](/de/artifacts/Titan's Thunder/){: .btn .btn--era5}
+ **Part of Artifact:** ![Titanendonner](/images/t/icon_artifact_42.png) [Titanendonner](/de/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 

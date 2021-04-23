@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Buch der Luftmagie](/images/t/artifact_40463.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Zauberbuch über höhere Luftmagie. Beim Lesen werdet Ihr den Luftelementar spüren. Eine der Komponenten für den Zauberhut.
 
- **Part of Artifact:** [Zauberhut](/de/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Zauberhut](/images/t/icon_artifact_46.png) [Zauberhut](/de/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 

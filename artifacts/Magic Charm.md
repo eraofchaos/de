@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Magischer Glücksbringer](/images/t/artifact_40212.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Glücksbringer mit magischen Kräften. Eine der Komponenten für den Zaubererbrunnen.
 
- **Part of Artifact:** [Zaubererbrunnen](/de/artifacts/Wizard's Well/){: .btn .btn--era3}
+ **Part of Artifact:** ![Zaubererbrunnen](/images/t/icon_artifact_21.png) [Zaubererbrunnen](/de/artifacts/Wizard's Well/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Artefaktessenz](/ItemsDE/con_905/)
 
