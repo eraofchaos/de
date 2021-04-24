@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   |  [Chaosleuchtfeuer](/de/artifacts/Chaos Brazier/){: .btn .btn--era4} |   |  [Vergessenes Stundenglas](/de/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
-  |   | **Spiegel der Rache** |  | 
+  |   | ![Spiegel der Rache](/images/t/icon_artifact_35.png) **Spiegel der Rache** |  | 
   |  [Eisschuppe](/de/artifacts/Ice Scale/){: .btn .btn--era4} |   |  [Kette des Gleichgewichts](/de/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
 
 

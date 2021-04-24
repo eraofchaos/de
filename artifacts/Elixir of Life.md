@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Ring der Vitalität](/images/t/artifact_40111.png) [Ring der Vitalität](/de/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Ring des Lebens](/images/t/artifact_40111.png) [Ring des Lebens](/de/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  | ![Ring der Vitalität](/images/t/artifact_40111.png) [Ring der Vitalität](/de/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Ring des Lebens](/images/t/artifact_40112.png) [Ring des Lebens](/de/artifacts/Ring of Life/){: .btn .btn--era2} | 
   |   | ![Elixier des Lebens](/images/t/icon_artifact_11.png) **Elixier des Lebens** |  | 
-  |   | ![Energieflasche](/images/t/artifact_40111.png) [Energieflasche](/de/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  |   | ![Energieflasche](/images/t/artifact_40113.png) [Energieflasche](/de/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Details
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Ring der Vitalität](/de/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Abwehr (Held)**: 1+(LEVEL\*0.4)<br/>**Wissen (Held)**: 1+(LEVEL\*0.4) | Ein Ring, der Energie liefert. Eine der Komponenten für das Elixier des Lebens. | 
-  | 2 | [Ring des Lebens](/de/artifacts/Ring of Life/){: .btn .btn--era2} | **Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 1+(LEVEL\*0.4) | Ein Ring, der seinem Träger enorme Gesundheit liefert. Eine der Komponenten für das Elixier des Lebens. | 
-  | 3 | [Energieflasche](/de/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Intelligenz (Held)**: 1+(LEVEL\*0.4) | Ein Flasche, mit der sich der Träger energiegeladen fühlt. Eine der Komponenten für das Elixier des Lebens. | 
+  | 1 | ![Ring der Vitalität](/images/t/artifact_40111.png) [Ring der Vitalität](/de/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Abwehr (Held)**: 1+(LEVEL\*0.4)<br/>**Wissen (Held)**: 1+(LEVEL\*0.4) | Ein Ring, der Energie liefert. Eine der Komponenten für das Elixier des Lebens. | 
+  | 2 | ![Ring des Lebens](/images/t/artifact_40112.png) [Ring des Lebens](/de/artifacts/Ring of Life/){: .btn .btn--era2} | **Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 1+(LEVEL\*0.4) | Ein Ring, der seinem Träger enorme Gesundheit liefert. Eine der Komponenten für das Elixier des Lebens. | 
+  | 3 | ![Energieflasche](/images/t/artifact_40113.png) [Energieflasche](/de/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Intelligenz (Held)**: 1+(LEVEL\*0.4) | Ein Flasche, mit der sich der Träger energiegeladen fühlt. Eine der Komponenten für das Elixier des Lebens. | 
 
 
 ## Artifact Advancement

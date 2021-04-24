@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Vogel der Beobachtung](/images/t/artifact_40331.png)
+
 
 
 ## Details
 
  **Beschreibung:** Von einer Hexe verzauberte Falkenaugen-Skulptur. Eine der Komponenten für das Lebendige Falkenauge.
 
- **Part of Artifact:** [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lebendiges Falkenauge](/images/t/icon_artifact_33.png) [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 

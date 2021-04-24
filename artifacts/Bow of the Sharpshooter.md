@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Bogen aus Elfenkirschholz](/images/t/artifact_40101.png) [Bogen aus Elfenkirschholz](/de/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Engelsfedernpfeile](/images/t/artifact_40101.png) [Engelsfedernpfeile](/de/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  | ![Bogen aus Elfenkirschholz](/images/t/artifact_40101.png) [Bogen aus Elfenkirschholz](/de/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Engelsfedernpfeile](/images/t/artifact_40102.png) [Engelsfedernpfeile](/de/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
   |   | ![Bogen des Meisterschützen](/images/t/icon_artifact_10.png) **Bogen des Meisterschützen** |  | 
-  |   | ![Bogensehne der Einhornmähne](/images/t/artifact_40101.png) [Bogensehne der Einhornmähne](/de/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  |   | ![Bogensehne der Einhornmähne](/images/t/artifact_40103.png) [Bogensehne der Einhornmähne](/de/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Details
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Bogen aus Elfenkirschholz](/de/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 4+(LEVEL\*1.6) | Ein von Elfen aus Holz geschnitzter Langbogen. Eine der Komponenten für den Bogen des Meisterschützen. | 
-  | 2 | [Engelsfedernpfeile](/de/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Angriff (Einheit)**: 2+(LEVEL\*0.8) %<br/>**Zauberschaden**: 2+(LEVEL\*0.8) %<br/>**Abwehr (Held)**: 4+(LEVEL\*1.6) | Ein von Elfen gefertigter magischer Pfeil. Eine der Komponenten für den Bogen des Meisterschützen. | 
-  | 3 | [Bogensehne der Einhornmähne](/de/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Zauberschaden**: 4+(LEVEL\*1.6) %<br/>**Wissen (Held)**: 4+(LEVEL\*1.6) | Eine Mähne, die ein heiliges Tier den Elfen gab. Eine der Komponenten für den Bogen des Meisterschützen. | 
+  | 1 | ![Bogen aus Elfenkirschholz](/images/t/artifact_40101.png) [Bogen aus Elfenkirschholz](/de/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 4+(LEVEL\*1.6) | Ein von Elfen aus Holz geschnitzter Langbogen. Eine der Komponenten für den Bogen des Meisterschützen. | 
+  | 2 | ![Engelsfedernpfeile](/images/t/artifact_40102.png) [Engelsfedernpfeile](/de/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Angriff (Einheit)**: 2+(LEVEL\*0.8) %<br/>**Zauberschaden**: 2+(LEVEL\*0.8) %<br/>**Abwehr (Held)**: 4+(LEVEL\*1.6) | Ein von Elfen gefertigter magischer Pfeil. Eine der Komponenten für den Bogen des Meisterschützen. | 
+  | 3 | ![Bogensehne der Einhornmähne](/images/t/artifact_40103.png) [Bogensehne der Einhornmähne](/de/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Zauberschaden**: 4+(LEVEL\*1.6) %<br/>**Wissen (Held)**: 4+(LEVEL\*1.6) | Eine Mähne, die ein heiliges Tier den Elfen gab. Eine der Komponenten für den Bogen des Meisterschützen. | 
 
 
 ## Artifact Advancement

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Amulett der Totengräber](/images/t/artifact_40321.png) [Amulett der Totengräber](/de/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Vampirkutte](/images/t/artifact_40321.png) [Vampirkutte](/de/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  | ![Amulett der Totengräber](/images/t/artifact_40321.png) [Amulett der Totengräber](/de/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Vampirkutte](/images/t/artifact_40322.png) [Vampirkutte](/de/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
   |   | ![Mantel des untoten Königs](/images/t/icon_artifact_32.png) **Mantel des untoten Königs** |  | 
-  |   | ![Totenstiefel](/images/t/artifact_40321.png) [Totenstiefel](/de/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  |   | ![Totenstiefel](/images/t/artifact_40323.png) [Totenstiefel](/de/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Details
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Amulett der Totengräber](/de/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Zauberschaden**: 3+(LEVEL\*1.2) %<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 6+(LEVEL\*2.4) | Ein Glücksbringer, mit dem ein Lich sich schützte. Eine der Komponenten für den Umhang des untoten Königs. | 
-  | 2 | [Vampirkutte](/de/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Abwehr (Held)**: 6+(LEVEL\*2.4) | Der kostbare Umhang eines Vampirs. Eine der Komponenten für den Umhang des untoten Königs. | 
-  | 3 | [Totenstiefel](/de/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Angriff (Einheit)**: 2+(LEVEL\*0.8) %<br/>**Gesundheit (Einheit)**: 2+(LEVEL\*0.8) %<br/>**Wissen (Held)**: 4+(LEVEL\*1.6) | Ein Paar Stiefel, mit dem der Träger schnell wie der Wind ist. Eine der Komponenten für den Umhang des untoten Königs. | 
+  | 1 | ![Amulett der Totengräber](/images/t/artifact_40321.png) [Amulett der Totengräber](/de/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Zauberschaden**: 3+(LEVEL\*1.2) %<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 6+(LEVEL\*2.4) | Ein Glücksbringer, mit dem ein Lich sich schützte. Eine der Komponenten für den Umhang des untoten Königs. | 
+  | 2 | ![Vampirkutte](/images/t/artifact_40322.png) [Vampirkutte](/de/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Abwehr (Held)**: 6+(LEVEL\*2.4) | Der kostbare Umhang eines Vampirs. Eine der Komponenten für den Umhang des untoten Königs. | 
+  | 3 | ![Totenstiefel](/images/t/artifact_40323.png) [Totenstiefel](/de/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Angriff (Einheit)**: 2+(LEVEL\*0.8) %<br/>**Gesundheit (Einheit)**: 2+(LEVEL\*0.8) %<br/>**Wissen (Held)**: 4+(LEVEL\*1.6) | Ein Paar Stiefel, mit dem der Träger schnell wie der Wind ist. Eine der Komponenten für den Umhang des untoten Königs. | 
 
 
 ## Artifact Advancement

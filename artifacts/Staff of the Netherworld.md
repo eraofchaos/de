@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Stab der Unterwelt](/images/t/artifact_40436.png)
+
 
 
 ## Details

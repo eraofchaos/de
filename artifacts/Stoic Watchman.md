@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Geduldiger Wachmann](/images/t/artifact_40332.png)
+
 
 
 ## Details
 
  **Beschreibung:** Skulptur eines Abenteurers mit flammenden Augen. Eine der Komponenten für das Lebendige Falkenauge.
 
- **Part of Artifact:** [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lebendiges Falkenauge](/images/t/icon_artifact_33.png) [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Wenn man verbotene Zauber wirkt, beschützt es den Zauberer vor Gegenangriffen von bösen Mächten. Eine der Komponenten für den Spiegel der Rache.
 
- **Part of Artifact:** [Spiegel der Rache](/de/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Spiegel der Rache](/images/t/icon_artifact_35.png) [Spiegel der Rache](/de/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

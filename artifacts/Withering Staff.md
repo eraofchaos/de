@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Verheerender Stab](/images/t/artifact_40433.png)
+
 
 
 ## Details

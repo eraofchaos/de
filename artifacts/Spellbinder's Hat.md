@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Buch der Feuermagie](/images/t/artifact_40461.png) [Buch der Feuermagie](/de/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Buch der Erdmagie](/images/t/artifact_40461.png) [Buch der Erdmagie](/de/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  | ![Buch der Feuermagie](/images/t/artifact_40461.png) [Buch der Feuermagie](/de/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Buch der Erdmagie](/images/t/artifact_40464.png) [Buch der Erdmagie](/de/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
   |   | ![Zauberhut](/images/t/icon_artifact_46.png) **Zauberhut** |  | 
-  | ![Buch der Wassermagie](/images/t/artifact_40461.png) [Buch der Wassermagie](/de/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Buch der Luftmagie](/images/t/artifact_40461.png) [Buch der Luftmagie](/de/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Buch der Wassermagie](/images/t/artifact_40462.png) [Buch der Wassermagie](/de/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Buch der Luftmagie](/images/t/artifact_40463.png) [Buch der Luftmagie](/de/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Details
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Buch der Feuermagie](/de/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Feuermagie. War einst Lunas Bettlektüre. Eine der Komponenten für den Zauberhut. | 
-  | 2 | [Buch der Wassermagie](/de/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Abwehr (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Wassermagie. Adelaide gab es Euch. Eine der Komponenten für den Zauberhut. | 
-  | 3 | [Buch der Luftmagie](/de/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Intelligenz (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Luftmagie. Beim Lesen werdet Ihr den Luftelementar spüren. Eine der Komponenten für den Zauberhut. | 
-  | 4 | [Buch der Erdmagie](/de/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Wissen (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Erdmagie. Der Legende nach besiegte Jeddite damit die zum Drachen mutierte Mutare. Eine der Komponenten für den Zauberhut. | 
+  | 1 | ![Buch der Feuermagie](/images/t/artifact_40461.png) [Buch der Feuermagie](/de/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Feuermagie. War einst Lunas Bettlektüre. Eine der Komponenten für den Zauberhut. | 
+  | 2 | ![Buch der Wassermagie](/images/t/artifact_40462.png) [Buch der Wassermagie](/de/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Abwehr (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Wassermagie. Adelaide gab es Euch. Eine der Komponenten für den Zauberhut. | 
+  | 3 | ![Buch der Luftmagie](/images/t/artifact_40463.png) [Buch der Luftmagie](/de/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Intelligenz (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Luftmagie. Beim Lesen werdet Ihr den Luftelementar spüren. Eine der Komponenten für den Zauberhut. | 
+  | 4 | ![Buch der Erdmagie](/images/t/artifact_40464.png) [Buch der Erdmagie](/de/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Wissen (Held)**: 12+(LEVEL\*4.8) | Ein Zauberbuch über höhere Erdmagie. Der Legende nach besiegte Jeddite damit die zum Drachen mutierte Mutare. Eine der Komponenten für den Zauberhut. | 
 
 
 ## Artifact Advancement

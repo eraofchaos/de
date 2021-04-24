@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Kragen der Beschwörung](/images/t/artifact_40221.png) [Kragen der Beschwörung](/de/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Ring der Beschwörung](/images/t/artifact_40221.png) [Ring der Beschwörung](/de/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  | ![Kragen der Beschwörung](/images/t/artifact_40221.png) [Kragen der Beschwörung](/de/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Ring der Beschwörung](/images/t/artifact_40222.png) [Ring der Beschwörung](/de/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
   |   | ![Ring des Magiers](/images/t/icon_artifact_22.png) **Ring des Magiers** |  | 
-  |   | ![Umhang der Beschwörung](/images/t/artifact_40221.png) [Umhang der Beschwörung](/de/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  |   | ![Umhang der Beschwörung](/images/t/artifact_40223.png) [Umhang der Beschwörung](/de/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Details
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Kragen der Beschwörung](/de/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Angriff (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 2+(LEVEL\*0.8) | Verstärkt die magischen Kräfte des Trägers. Eine der Komponenten für den Ring des Magiers. | 
-  | 2 | [Ring der Beschwörung](/de/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 2+(LEVEL\*0.8)<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8) | Ein geheimnisvoller Ring mit starker Magie. Eine der Komponenten für den Ring des Magiers. | 
-  | 3 | [Umhang der Beschwörung](/de/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 2+(LEVEL\*0.8) | Ein Umhang, der vor magischer Kraft nur so knistert. Eine der Komponenten für den Ring des Magiers. | 
+  | 1 | ![Kragen der Beschwörung](/images/t/artifact_40221.png) [Kragen der Beschwörung](/de/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Angriff (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 2+(LEVEL\*0.8) | Verstärkt die magischen Kräfte des Trägers. Eine der Komponenten für den Ring des Magiers. | 
+  | 2 | ![Ring der Beschwörung](/images/t/artifact_40222.png) [Ring der Beschwörung](/de/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 2+(LEVEL\*0.8)<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8) | Ein geheimnisvoller Ring mit starker Magie. Eine der Komponenten für den Ring des Magiers. | 
+  | 3 | ![Umhang der Beschwörung](/images/t/artifact_40223.png) [Umhang der Beschwörung](/de/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 2+(LEVEL\*0.8) | Ein Umhang, der vor magischer Kraft nur so knistert. Eine der Komponenten für den Ring des Magiers. | 
 
 
 ## Artifact Advancement

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Schwert des Urteils](/images/t/artifact_40411.png)
+
 
 
 ## Details

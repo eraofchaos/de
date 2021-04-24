@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Ring des Adlerblicks](/images/t/artifact_40334.png)
+
 
 
 ## Details
 
  **Beschreibung:** Ein Geheimring mit Augäpfeln. Eine der Komponenten für das Lebendige Falkenauge.
 
- **Part of Artifact:** [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Lebendiges Falkenauge](/images/t/icon_artifact_33.png) [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artefaktessenz](/ItemsDE/con_905/)
 

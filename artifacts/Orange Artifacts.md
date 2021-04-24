@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |    Artifact    | Pieces |  Level | Beschreibung   |
   |:-----|:---------------|:------:|:------:|:--------------:|
   | 1   | ![Titanendonner](/images/t/icon_artifact_42.png) [Titanendonner](/de/artifacts/Titan's Thunder/){: .btn .btn--era5} | 4 | 1 | Eine legendäre heilige Reliquie aus Gigantenschätzen. Entfesselt Blitze auf den Gegner. |
-  | 2   | [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5} | 4 | 35 | Bleibt am Leben. Dann werdet Ihr größeren Wohlstand erfahren. |
+  | 2   | ![Lebendiges Falkenauge](/images/t/icon_artifact_33.png) [Lebendiges Falkenauge](/de/artifacts/Live Hawkeye/){: .btn .btn--era5} | 4 | 35 | Bleibt am Leben. Dann werdet Ihr größeren Wohlstand erfahren. |
   | 3   | ![Zauberhut](/images/t/icon_artifact_46.png) [Zauberhut](/de/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | 4 | 60 | Ein Zauberhut, höchstes Ehrenzeichen für Magier. Nur erfahrene Magier, die Feuer, Wasser, Luft und Erde gemeistert haben, dürfen ihn tragen. Kann die Affinität zu magischen Elementen stark verbessern. |
   | 4   | ![Macht des Drachenvaters](/images/t/icon_artifact_40.png) [Macht des Drachenvaters](/de/artifacts/Power of the Dragon Father/){: .btn .btn--era5} | 6 | 45 | Eine heilige Reliquie, durch die Kraft des Drachenkönigs aus kostbaren Gegenständen geschmiedet. Kann Zauberschaden verringern. |
   | 5   | [Schwert des Frostes](/de/artifacts/Sword of Frost/){: .btn .btn--era5} | 6 | 60 | Der riesige Gletscher zerstört die Stadt, die an seinem Ursprung steht. |

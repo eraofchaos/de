@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Waldbogen](/images/t/artifact_40441.png) [Waldbogen](/de/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Muster-Armbrust](/images/t/artifact_40441.png) [Muster-Armbrust](/de/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | ![Ritterschwert](/images/t/artifact_40441.png) [Ritterschwert](/de/artifacts/Knight Sword/){: .btn .btn--era5} | ![Armageddonklinge](/images/t/icon_artifact_44.png) **Armageddonklinge** | ![Berg-Streitaxt](/images/t/artifact_40441.png) [Berg-Streitaxt](/de/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | ![Stab der Weisheit](/images/t/artifact_40441.png) [Stab der Weisheit](/de/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Kriegerhammer](/images/t/artifact_40441.png) [Kriegerhammer](/de/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Waldbogen](/images/t/artifact_40442.png) [Waldbogen](/de/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Muster-Armbrust](/images/t/artifact_40446.png) [Muster-Armbrust](/de/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Ritterschwert](/images/t/artifact_40441.png) [Ritterschwert](/de/artifacts/Knight Sword/){: .btn .btn--era5} | ![Armageddonklinge](/images/t/icon_artifact_44.png) **Armageddonklinge** | ![Berg-Streitaxt](/images/t/artifact_40444.png) [Berg-Streitaxt](/de/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Stab der Weisheit](/images/t/artifact_40443.png) [Stab der Weisheit](/de/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Kriegerhammer](/images/t/artifact_40445.png) [Kriegerhammer](/de/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Details
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Ritterschwert](/de/artifacts/Knight Sword/){: .btn .btn--era5} | **Angriff (Einheit)**: 14+(LEVEL\*5.6) %<br/>**Angriff (Held)**: 8+(LEVEL\*3.2) | Ein Schwert, wie es Schlosshelden tragen. Eine der Komponenten für die Armageddonklinge. | 
-  | 2 | [Waldbogen](/de/artifacts/Forest Bow/){: .btn .btn--era5} | **Angriff (Einheit)**: 5+(LEVEL\*2) %<br/>**Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Abwehr (Held)**: 16+(LEVEL\*6.4) | Ein Bogen, wie ihn Waldelfen häufig nutzen. Eine der Komponenten für die Armageddonklinge. | 
-  | 3 | [Stab der Weisheit](/de/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4)<br/>**Intelligenz (Held)**: 16+(LEVEL\*6.4) | Eine Reliquie zum Schutz des Eisschilds. Eine der Komponenten für die Armageddonklinge. | 
-  | 4 | [Berg-Streitaxt](/de/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 8+(LEVEL\*3.2) %<br/>**Abwehr (Held)**: 4+(LEVEL\*1.6)<br/>**Wissen (Held)**: 16+(LEVEL\*6.4) | Eine Reliquie, die der Zwergenkönig nach der Schlacht von Enroth zurückließ. Eine der Komponenten für die Armageddonklinge. | 
-  | 5 | [Kriegerhammer](/de/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4)<br/>**Intelligenz (Held)**: 16+(LEVEL\*6.4) | Ein auf dem Grat der Giganten verborgener Kriegshammer. Eine der Komponenten für die Armageddonklinge. | 
-  | 6 | [Muster-Armbrust](/de/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4)<br/>**Intelligenz (Held)**: 16+(LEVEL\*6.4) | Ein Artefakt, das der Held Gelu als Kind trug. Eine der Komponenten für die Armageddonklinge. | 
+  | 1 | ![Ritterschwert](/images/t/artifact_40441.png) [Ritterschwert](/de/artifacts/Knight Sword/){: .btn .btn--era5} | **Angriff (Einheit)**: 14+(LEVEL\*5.6) %<br/>**Angriff (Held)**: 8+(LEVEL\*3.2) | Ein Schwert, wie es Schlosshelden tragen. Eine der Komponenten für die Armageddonklinge. | 
+  | 2 | ![Waldbogen](/images/t/artifact_40442.png) [Waldbogen](/de/artifacts/Forest Bow/){: .btn .btn--era5} | **Angriff (Einheit)**: 5+(LEVEL\*2) %<br/>**Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Abwehr (Held)**: 16+(LEVEL\*6.4) | Ein Bogen, wie ihn Waldelfen häufig nutzen. Eine der Komponenten für die Armageddonklinge. | 
+  | 3 | ![Stab der Weisheit](/images/t/artifact_40443.png) [Stab der Weisheit](/de/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4)<br/>**Intelligenz (Held)**: 16+(LEVEL\*6.4) | Eine Reliquie zum Schutz des Eisschilds. Eine der Komponenten für die Armageddonklinge. | 
+  | 4 | ![Berg-Streitaxt](/images/t/artifact_40444.png) [Berg-Streitaxt](/de/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 8+(LEVEL\*3.2) %<br/>**Abwehr (Held)**: 4+(LEVEL\*1.6)<br/>**Wissen (Held)**: 16+(LEVEL\*6.4) | Eine Reliquie, die der Zwergenkönig nach der Schlacht von Enroth zurückließ. Eine der Komponenten für die Armageddonklinge. | 
+  | 5 | ![Kriegerhammer](/images/t/artifact_40445.png) [Kriegerhammer](/de/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4)<br/>**Intelligenz (Held)**: 16+(LEVEL\*6.4) | Ein auf dem Grat der Giganten verborgener Kriegshammer. Eine der Komponenten für die Armageddonklinge. | 
+  | 6 | ![Muster-Armbrust](/images/t/artifact_40446.png) [Muster-Armbrust](/de/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4)<br/>**Intelligenz (Held)**: 16+(LEVEL\*6.4) | Ein Artefakt, das der Held Gelu als Kind trug. Eine der Komponenten für die Armageddonklinge. | 
 
 
 ## Artifact Advancement

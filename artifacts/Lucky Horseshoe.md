@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Kleeblatt des Glücks](/images/t/artifact_40121.png) [Kleeblatt des Glücks](/de/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Karten der Prophezeiung](/images/t/artifact_40121.png) [Karten der Prophezeiung](/de/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  | ![Kleeblatt des Glücks](/images/t/artifact_40121.png) [Kleeblatt des Glücks](/de/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Karten der Prophezeiung](/images/t/artifact_40122.png) [Karten der Prophezeiung](/de/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
   |   | ![Glückshufeisen](/images/t/icon_artifact_12.png) **Glückshufeisen** |  | 
-  |   | ![Silberner Glücksvogel](/images/t/artifact_40121.png) [Silberner Glücksvogel](/de/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  |   | ![Silberner Glücksvogel](/images/t/artifact_40123.png) [Silberner Glücksvogel](/de/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Details
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Kleeblatt des Glücks](/de/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Angriff (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 1+(LEVEL\*0.4) | Ein Kleeblatt, das Glück bringt. Eine der Komponenten für das Glückshufeisen. | 
-  | 2 | [Karten der Prophezeiung](/de/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Intelligenz (Held)**: 1+(LEVEL\*0.4)<br/>**Wissen (Held)**: 1+(LEVEL\*0.4) | Wahrsagerei-Karten mit starker Magie. Eine der Komponenten für das Glückshufeisen. | 
-  | 3 | [Silberner Glücksvogel](/de/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Abwehr (Held)**: 1+(LEVEL\*0.4) | Eine leuchtende Vogelstatue. Eine der Komponenten für das Glückshufeisen. | 
+  | 1 | ![Kleeblatt des Glücks](/images/t/artifact_40121.png) [Kleeblatt des Glücks](/de/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Angriff (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Angriff (Held)**: 1+(LEVEL\*0.4) | Ein Kleeblatt, das Glück bringt. Eine der Komponenten für das Glückshufeisen. | 
+  | 2 | ![Karten der Prophezeiung](/images/t/artifact_40122.png) [Karten der Prophezeiung](/de/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Intelligenz (Held)**: 1+(LEVEL\*0.4)<br/>**Wissen (Held)**: 1+(LEVEL\*0.4) | Wahrsagerei-Karten mit starker Magie. Eine der Komponenten für das Glückshufeisen. | 
+  | 3 | ![Silberner Glücksvogel](/images/t/artifact_40123.png) [Silberner Glücksvogel](/de/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Abwehr (Held)**: 1+(LEVEL\*0.4) | Eine leuchtende Vogelstatue. Eine der Komponenten für das Glückshufeisen. | 
 
 
 ## Artifact Advancement

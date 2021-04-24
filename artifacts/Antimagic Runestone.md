@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Schmuck der Interferenz](/images/t/artifact_40231.png) [Schmuck der Interferenz](/de/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Schutzrock](/images/t/artifact_40231.png) [Schutzrock](/de/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  | ![Schmuck der Interferenz](/images/t/artifact_40231.png) [Schmuck der Interferenz](/de/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Schutzrock](/images/t/artifact_40232.png) [Schutzrock](/de/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
   |   | ![Antimagie-Runenstein](/images/t/icon_artifact_23.png) **Antimagie-Runenstein** |  | 
-  |   | ![Stiefel der Polarität](/images/t/artifact_40231.png) [Stiefel der Polarität](/de/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  |   | ![Stiefel der Polarität](/images/t/artifact_40233.png) [Stiefel der Polarität](/de/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Details
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Schmuck der Interferenz](/de/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Angriff (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Wissen (Held)**: 3+(LEVEL\*1.2) | Eine Halskette mit eingraviertem Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein. | 
-  | 2 | [Schutzrock](/de/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 3+(LEVEL\*1.2) | Ein Umhang mit Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein. | 
-  | 3 | [Stiefel der Polarität](/de/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Wissen (Held)**: 3+(LEVEL\*1.2) | Stiefel mit geprägtem Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein. | 
+  | 1 | ![Schmuck der Interferenz](/images/t/artifact_40231.png) [Schmuck der Interferenz](/de/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Angriff (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Wissen (Held)**: 3+(LEVEL\*1.2) | Eine Halskette mit eingraviertem Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein. | 
+  | 2 | ![Schutzrock](/images/t/artifact_40232.png) [Schutzrock](/de/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Intelligenz (Held)**: 2+(LEVEL\*0.8)<br/>**Wissen (Held)**: 3+(LEVEL\*1.2) | Ein Umhang mit Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein. | 
+  | 3 | ![Stiefel der Polarität](/images/t/artifact_40233.png) [Stiefel der Polarität](/de/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Gesundheit (Einheit)**: 1+(LEVEL\*0.4) %<br/>**Zauberschaden**: 1+(LEVEL\*0.4) %<br/>**Wissen (Held)**: 3+(LEVEL\*1.2) | Stiefel mit geprägtem Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein. | 
 
 
 ## Artifact Advancement

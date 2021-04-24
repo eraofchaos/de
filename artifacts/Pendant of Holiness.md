@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Anhänger der Heiligkeit](/images/t/artifact_40416.png)
+
 
 
 ## Details

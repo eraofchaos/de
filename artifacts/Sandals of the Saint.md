@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Sandalen des Heiligen](/images/t/artifact_40415.png)
+
 
 
 ## Details

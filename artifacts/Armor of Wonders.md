@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Wunderrüstung](/images/t/artifact_40414.png)
+
 
 
 ## Details

@@ -15,7 +15,7 @@ classes: wide
 
  **Beschreibung:** Mit diesem Gegenstand kann mächtige Frostmagie reguliert werden. Eine der Komponenten für den Spiegel der Rache.
 
- **Part of Artifact:** [Spiegel der Rache](/de/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Spiegel der Rache](/images/t/icon_artifact_35.png) [Spiegel der Rache](/de/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

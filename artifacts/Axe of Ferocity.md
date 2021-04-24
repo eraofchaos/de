@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Ogerknüppel der Verwüstung](/images/t/artifact_40311.png) [Ogerknüppel der Verwüstung](/de/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Tunika des Zyklopenkönigs](/images/t/artifact_40311.png) [Tunika des Zyklopenkönigs](/de/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  | ![Ogerknüppel der Verwüstung](/images/t/artifact_40311.png) [Ogerknüppel der Verwüstung](/de/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Tunika des Zyklopenkönigs](/images/t/artifact_40314.png) [Tunika des Zyklopenkönigs](/de/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
   |   | ![Axt der Wildheit](/images/t/icon_artifact_31.png) **Axt der Wildheit** |  | 
-  | ![Schild des wütenden Ogers](/images/t/artifact_40311.png) [Schild des wütenden Ogers](/de/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Krone der höchsten Magier](/images/t/artifact_40311.png) [Krone der höchsten Magier](/de/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Schild des wütenden Ogers](/images/t/artifact_40312.png) [Schild des wütenden Ogers](/de/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Krone der höchsten Magier](/images/t/artifact_40313.png) [Krone der höchsten Magier](/de/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Details
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Beschreibung | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Ogerknüppel der Verwüstung](/de/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Angriff (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Angriff (Held)**: 5+(LEVEL\*2)<br/>**Intelligenz (Held)**: 5+(LEVEL\*2) | Eine Keule, die einem Oger-Hauptmann in einer Straßentaverne abgenommen wurde. Eine der Komponenten für die Axt der Wildheit. | 
-  | 2 | [Schild des wütenden Ogers](/de/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Abwehr (Held)**: 5+(LEVEL\*2)<br/>**Wissen (Held)**: 5+(LEVEL\*2) | Ein Souvenir vom Sieg über einen Oger-Unterführer. Eine der Komponenten für die Axt der Wildheit. | 
-  | 3 | [Krone der höchsten Magier](/de/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Angriff (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Intelligenz (Held)**: 5+(LEVEL\*2)<br/>**Wissen (Held)**: 5+(LEVEL\*2) | Eine Krone, Dankesgeschenk für die Rettung eines verrückten Zauberers. Eine der Komponenten für die Axt der Wildheit. | 
-  | 4 | [Tunika des Zyklopenkönigs](/de/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Angriff (Held)**: 5+(LEVEL\*2)<br/>**Abwehr (Held)**: 5+(LEVEL\*2) | Ein Mantel, den ein schwimmender Zyklop fallen ließ. Eine der Komponenten für die Axt der Wildheit. | 
+  | 1 | ![Ogerknüppel der Verwüstung](/images/t/artifact_40311.png) [Ogerknüppel der Verwüstung](/de/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Angriff (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Angriff (Held)**: 5+(LEVEL\*2)<br/>**Intelligenz (Held)**: 5+(LEVEL\*2) | Eine Keule, die einem Oger-Hauptmann in einer Straßentaverne abgenommen wurde. Eine der Komponenten für die Axt der Wildheit. | 
+  | 2 | ![Schild des wütenden Ogers](/images/t/artifact_40312.png) [Schild des wütenden Ogers](/de/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Abwehr (Held)**: 5+(LEVEL\*2)<br/>**Wissen (Held)**: 5+(LEVEL\*2) | Ein Souvenir vom Sieg über einen Oger-Unterführer. Eine der Komponenten für die Axt der Wildheit. | 
+  | 3 | ![Krone der höchsten Magier](/images/t/artifact_40313.png) [Krone der höchsten Magier](/de/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Angriff (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Intelligenz (Held)**: 5+(LEVEL\*2)<br/>**Wissen (Held)**: 5+(LEVEL\*2) | Eine Krone, Dankesgeschenk für die Rettung eines verrückten Zauberers. Eine der Komponenten für die Axt der Wildheit. | 
+  | 4 | ![Tunika des Zyklopenkönigs](/images/t/artifact_40314.png) [Tunika des Zyklopenkönigs](/de/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Angriff (Held)**: 5+(LEVEL\*2)<br/>**Abwehr (Held)**: 5+(LEVEL\*2) | Ein Mantel, den ein schwimmender Zyklop fallen ließ. Eine der Komponenten für die Axt der Wildheit. | 
 
 
 ## Artifact Advancement

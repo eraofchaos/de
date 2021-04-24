@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Minotauren-Streitaxt](/images/t/artifact_40432.png)
+
 
 
 ## Details
