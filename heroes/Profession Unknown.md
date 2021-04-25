@@ -1,10 +1,10 @@
 ---
-title: "Era of Chaos - Profession Knight -  Heroes"
-permalink: /heroes/Profession Knight/
-excerpt: "Era of Chaos Profession Knight. Profession Knight. List of Profession  in Era of Chaos"
+title: "Era of Chaos - Profession Unknown -  Heroes"
+permalink: /heroes/Profession Unknown/
+excerpt: "Era of Chaos Profession Unknown. Profession Unknown. List of Profession  in Era of Chaos"
 last_modified_at: 2021-04-25
 locale: de
-ref: "Profession Knight"
+ref: "Profession Unknown"
 toc: false
 classes: wide
 ---
@@ -12,7 +12,5 @@ classes: wide
 
   | Nr |  I |    Name    |  Fraktion:   |  Profession   |  Rang  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
-  | 1 | ![Roland](/images/h/h_Roland.jpg) | [Roland](/de/heroes/Roland/) | Schloss | Ritter | **SSR** |  Erhöhte Moral | SR+ |
-  | 2 | ![Catherine](/images/h/h_Catherine.jpg) | [Catherine](/de/heroes/Catherine/) | Schloss | Ritter | **R** |  Eisenkreuzritter | R |
-  | 3 | ![Mullich](/images/h/h_Mullich.jpg) | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | **R** |  Sturmangriff | R+ |
-  | 4 | ![Kendal](/images/h/h_Kendel.jpg) | [Kendal](/de/heroes/Kendal/) | Schloss | Ritter | **SR** |  Meister der Taktik | R |
+  | 1 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/de/heroes/Ezio/) | Neutrale Armee |  | **SSR** |  Bruderschaft | R+ |
+  | 2 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/de/heroes/Kassandra/) | Neutrale Armee |  | **SSR-** |  Legion Spartas | R |

@@ -9,8 +9,8 @@ toc: false
 classes: wide
 ---
 
-  |  Nr | I | Avatar | Open | Beschreibung |
-  |:----|:-:|:-----------|:----:|:--------------|
+  |  Nr | Icon | Avatar | Open | Beschreibung |
+  |:----|:----:|:-----------|:----:|:--------------|
   | 1 |  | [Alles läuft wie gewünscht](/de/Avatars/All Goes as You Wish/) | - | „Alles läuft wie gewünscht“-Avatarrahmen |
   | 2 | ![Auf in den Kampf!](/images/a/avatarFrame_84.png) | [Auf in den Kampf!](/de/Avatars/Let's Fight!/) | - | „Im Krieg“-Avatarrahmen |
   | 3 | ![Berührung des teuflischen Gottes](/images/a/avatarFrame_88.png) | [Berührung des teuflischen Gottes](/de/Avatars/Evil God's Touch/) | + | „Berührung des teuflischen Gottes“-Avatarrahmen |

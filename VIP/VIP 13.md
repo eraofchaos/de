@@ -8,6 +8,8 @@ ref: "VIP 13.md"
 toc: false
 classes: wide
 ---
+ ![VIP 13](/images/x/chatPri_vipLv13.png)
+
  [VIP 1](/de/VIP/VIP 1/){: .btn .btn--primary}[VIP 2](/de/VIP/VIP 2/){: .btn .btn--success}[VIP 3](/de/VIP/VIP 3/){: .btn .btn--warning}[VIP 4](/de/VIP/VIP 4/){: .btn .btn--danger}[VIP 5](/de/VIP/VIP 5/){: .btn .btn--info}[VIP 6](/de/VIP/VIP 6/){: .btn .btn--primary}[VIP 7](/de/VIP/VIP 7/){: .btn .btn--primary}[VIP 8](/de/VIP/VIP 8/){: .btn .btn--success}[VIP 9](/de/VIP/VIP 9/){: .btn .btn--warning}[VIP 10](/de/VIP/VIP 10/){: .btn .btn--danger}[VIP 11](/de/VIP/VIP 11/){: .btn .btn--info}[VIP 12](/de/VIP/VIP 12/){: .btn .btn--primary}[VIP 13](/de/VIP/VIP 13/){: .btn .btn--primary}[VIP 14](/de/VIP/VIP 14/){: .btn .btn--success}[VIP 15](/de/VIP/VIP 15/){: .btn .btn--warning}[VIP 16](/de/VIP/VIP 16/){: .btn .btn--danger}[VIP 17](/de/VIP/VIP 17/){: .btn .btn--info}[VIP 18](/de/VIP/VIP 18/){: .btn .btn--primary}
 
 ## Bonus: 

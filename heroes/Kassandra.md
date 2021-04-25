@@ -13,7 +13,7 @@ toc: true
 
  **Beschreibung:** Kassandras herausragende Kampffähigkeiten verdankt sie ihrer spartanischen Erziehung. Nachdem die Spartaner sie auf dem Berg Taygetos ihrem Tod überlassen hatten, wurde sie zur Söldnerin.
 ## Details
- **Profession:** 
+ **Profession:**  [Unknown](/de/heroes/Profession Unknown/)
 
  **Fraktion::** [Neutrale Armee](/de/heroes/Faction Neutral Army/)
 

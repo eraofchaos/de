@@ -13,7 +13,7 @@ toc: true
 
  **Beschreibung:** Obwohl er in einer komplett anderen Welt ist, hält Ezio an seiner Überzeugung fest. Er arbeitet in der Dunkelheit, um dem Licht zu dienen.
 ## Details
- **Profession:** 
+ **Profession:**  [Unknown](/de/heroes/Profession Unknown/)
 
  **Fraktion::** [Neutrale Armee](/de/heroes/Faction Neutral Army/)
 
