@@ -1,9 +1,9 @@
 ---
 title: "Hydra"
 permalink: /units/Hydra/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
+excerpt: "Era of Chaos Hydra. Hydra Einheiten. Chaoshydra. Era of Chaos Eine Bestie mit mehreren Köpfen, die tief im Moor lebt. Sie zu töten und den Ruhm zu ernten ist der Traum aller Helden."
 unitID: 807
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Hydra"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/de/units/Unit Rank SSR/)
+ **Rang:** [SSR](/de/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

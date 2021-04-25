@@ -1,9 +1,9 @@
 ---
 title: "Naga"
 permalink: /units/Naga/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
+excerpt: "Era of Chaos Naga. Naga Einheiten. Nagakönigin. Era of Chaos Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Naga"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/de/units/Unit Rank SSR/)
+ **Rang:** [SSR](/de/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

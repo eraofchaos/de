@@ -2,7 +2,7 @@
 title: "Avatar - Seele der Natur"
 permalink: /Avatars/Nature's Soul/
 excerpt: "Era of Chaos  Seele der Natur"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Nature's Soul.md"
 toc: false

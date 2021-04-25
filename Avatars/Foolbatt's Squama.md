@@ -2,7 +2,7 @@
 title: "Avatar - Foolbatts Schuppe"
 permalink: /Avatars/Foolbatt's Squama/
 excerpt: "Era of Chaos  Foolbatts Schuppe"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Foolbatt's Squama.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 3 - 3-5 Erleuchtung"
 permalink: /Underground/Chapter 3_5/
 excerpt: "Kapitel 3 - 5. Era of Chaos  Untergrund - Kapitel 3_5. 3-5 Erleuchtung"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 3_5.md"
 toc: false

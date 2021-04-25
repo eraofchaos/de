@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 29 - 29-5  Entflammbarer Augenblick"
 permalink: /Underground/Chapter 29_5/
 excerpt: "Kapitel 29 - 5. Era of Chaos  Untergrund - Kapitel 29_5. 29-5  Entflammbarer Augenblick"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 29_5.md"
 toc: false

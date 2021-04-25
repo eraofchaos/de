@@ -2,7 +2,7 @@
 title: "Avatar - Karneval"
 permalink: /Avatars/Carnival/
 excerpt: "Era of Chaos  Karneval"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Carnival.md"
 toc: false

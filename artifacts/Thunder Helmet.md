@@ -2,7 +2,7 @@
 title: "Artefakt - Titanendonner - Donnerhelm"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Era of Chaos  Titanendonner - Donnerhelm. Der Helm des Donnergottes. Eine der Komponenten für den Titanendonner."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Thunder Helmet.md"
 toc: false

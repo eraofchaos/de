@@ -1,9 +1,9 @@
 ---
 title: "Zwerg"
 permalink: /units/Dwarf/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
+excerpt: "Era of Chaos Zwerg. Zwerg Einheiten. null. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Zwerg"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 

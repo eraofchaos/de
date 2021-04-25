@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 19 - 19-4 Magische Wahrheit"
 permalink: /Underground/Chapter 19_4/
 excerpt: "Kapitel 19 - 4. Era of Chaos  Untergrund - Kapitel 19_4. 19-4 Magische Wahrheit"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 19_4.md"
 toc: false

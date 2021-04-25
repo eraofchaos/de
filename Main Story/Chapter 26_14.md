@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-14 Isolierte Fortpflanzung"
 permalink: /Main Story/Chapter 26_14/
 excerpt: "Kapitel 26 - 14. Era of Chaos  Hauptstory - Kapitel 26_14. 26-14 Isolierte Fortpflanzung"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 26_14.md"
 toc: false

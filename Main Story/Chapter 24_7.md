@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-7 Seltsame Träume"
 permalink: /Main Story/Chapter 24_7/
 excerpt: "Kapitel 24 - 7. Era of Chaos  Hauptstory - Kapitel 24_7. 24-7 Seltsame Träume"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 24_7.md"
 toc: false

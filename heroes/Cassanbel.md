@@ -4,7 +4,7 @@ permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch."
 heroID: 61701
 QR: hero_61701
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Cassanbel"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Wenngleich die Menschheit für den Tod ihres „Vaters“ verantwortlich war, hilft sie den Leuten, die auf dem Meer leben, immer noch.
 ## Details
- **Profession:** Meereskreaturen
+ **Profession:**  [Meereskreaturen](/de/heroes/Profession Ocean Creatures/)
 
- **Race:** Bucht
+ **Fraktion::** [Bucht](/de/heroes/Faction Cove/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/de/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

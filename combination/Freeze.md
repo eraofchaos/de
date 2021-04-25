@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Erstarren"
 permalink: /combination/Freeze/
 excerpt: "Kombinationsinfo - Erstarren. Units and Heroes Formation."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Erstarren.md"
 toc: false

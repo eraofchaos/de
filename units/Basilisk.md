@@ -1,9 +1,9 @@
 ---
 title: "Basilisk"
 permalink: /units/Basilisk/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
+excerpt: "Era of Chaos Basilisk. Basilisk Einheiten. null. Era of Chaos Unter Wasser lebende Jäger; geduldig und bar jeder Emotion warten sie darauf, dass ihre Beute im Dunkeln in ihre Falle tappt."
 unitID: 804
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Basilisk"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

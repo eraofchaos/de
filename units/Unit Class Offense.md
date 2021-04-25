@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Unit Class Offense"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Fernkampf](/de/units/Unit Class Ranged/){: .btn .btn--primary} [Ansturm](/de/units/Unit Class Charging/){: .btn .btn--success} [Zauberer](/de/units/Unit Class Caster/){: .btn .btn--warning} [Offensiv](/de/units/Unit Class Offense/){: .btn .btn--danger} [Abwehr](/de/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Psy-Elementar](/images/u/ti_jingshenyuansu.jpg) | [Psy-Elementar](/de/units/Psychic Elemental/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Magie-Elementar  |
   | 2 | ![Dunkler Kämpe](/images/u/ti_sishen.jpg) | [Dunkler Kämpe](/de/units/Dark Champion/) | Offensiv | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |

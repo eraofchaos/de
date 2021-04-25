@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 21 - 21-1 Geschenk des Krieges"
 permalink: /Underground/Chapter 21_1/
 excerpt: "Kapitel 21 - 1. Era of Chaos  Untergrund - Kapitel 21_1. 21-1 Geschenk des Krieges"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 21_1.md"
 toc: false

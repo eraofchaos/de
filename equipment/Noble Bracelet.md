@@ -2,7 +2,7 @@
 title: "Edler Armreif"
 permalink: /equipment/Noble Bracelet/
 excerpt: "Era of Chaos Edler Armreif. Edler Armreif"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Noble Bracelet.md"
 toc: false

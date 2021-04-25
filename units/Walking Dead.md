@@ -1,9 +1,9 @@
 ---
 title: "Wandelnde Tote"
 permalink: /units/Walking Dead/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
+excerpt: "Era of Chaos Wandelnde Tote. Wandelnde Tote Einheiten. Zombie. Era of Chaos Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
 unitID: 302
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Wandelnde Tote"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

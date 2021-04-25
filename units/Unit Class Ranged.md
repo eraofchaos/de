@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Era of Chaos Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Unit Class Ranged"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Fernkampf](/de/units/Unit Class Ranged/){: .btn .btn--primary} [Ansturm](/de/units/Unit Class Charging/){: .btn .btn--success} [Zauberer](/de/units/Unit Class Caster/){: .btn .btn--warning} [Offensiv](/de/units/Unit Class Offense/){: .btn .btn--danger} [Abwehr](/de/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Zyklop](/images/u/ti_duyanjuren.jpg) | [Zyklop](/de/units/Cyclops/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Zyklopenkönig  |
   | 2 | ![Eisdämon](/images/u/ti_bingmo.jpg) | [Eisdämon](/de/units/Ice Demon/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |

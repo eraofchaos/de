@@ -1,9 +1,9 @@
 ---
 title: "Schlangenfliege"
 permalink: /units/Serpent Fly/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
+excerpt: "Era of Chaos Schlangenfliege. Schlangenfliege Einheiten. Drachenfliege. Era of Chaos Diese flinken Kreaturen verbreiten sich auch rasend schnell, indem sie ihre Beute als Wirt für ihren Nachwuchs verwenden."
 unitID: 803
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Schlangenfliege"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 

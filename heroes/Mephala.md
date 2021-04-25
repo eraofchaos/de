@@ -4,7 +4,7 @@ permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Mephala genoss eine Ausbildung in der Armee Erathias und war ein Naturtalent, wenn es darum ging, das Gelände zu ihren Gunsten auszunutzen. Obwohl sie den Frieden und die Ruhe ihres Dorfs bevorzugt, bleibt sie für ihr Land beim Militär."
 heroID: 60302
 QR: hero_60302
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Mephala"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Mephala genoss eine Ausbildung in der Armee Erathias und war ein Naturtalent, wenn es darum ging, das Gelände zu ihren Gunsten auszunutzen. Obwohl sie den Frieden und die Ruhe ihres Dorfs bevorzugt, bleibt sie für ihr Land beim Militär.
 ## Details
- **Profession:** ![Waldläufer](/images/h/h_prof_3.png) Waldläufer
+ **Profession:** ![Waldläufer](/images/h/h_prof_3.png)  [Waldläufer](/de/heroes/Profession Ranger/)
 
- **Race:** Schutzwall
+ **Fraktion::** [Schutzwall](/de/heroes/Faction Rampart/)
 
- **Rate:** R
+ **Rang:** [R](/de/heroes/Hero Rank R/)
 
  **User Rate:** R
 

@@ -1,9 +1,9 @@
 ---
 title: "Mantis"
 permalink: /units/Mantis/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ihre rasiermesserscharfen, riesigen Klingen demonstrieren ihren Stolz als legendäres Geschöpf. Die Elfen von Vori verliehen der Mantis hohe und ausdauernde Vitalität."
+excerpt: "Era of Chaos Mantis. Mantis Einheiten. null. Era of Chaos Ihre rasiermesserscharfen, riesigen Klingen demonstrieren ihren Stolz als legendäres Geschöpf. Die Elfen von Vori verliehen der Mantis hohe und ausdauernde Vitalität."
 unitID: 209
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Mantis"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
+ **Rang:** [Kommandant](/de/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

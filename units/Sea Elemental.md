@@ -1,9 +1,9 @@
 ---
 title: "Meerelementar"
 permalink: /units/Sea Elemental/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
+excerpt: "Era of Chaos Meerelementar. Meerelementar Einheiten. Gezeitenelementar. Era of Chaos Dieser im endlosen Wasser geborene Geist der Tiefe beherrscht die Macht des Meeres und setzt sie ein, um seine Feinde zu vernichten."
 unitID: 9903
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Meerelementar"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Gnoll"
 permalink: /units/Gnoll/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
+excerpt: "Era of Chaos Gnoll. Gnoll Einheiten. Gnollkrieger. Era of Chaos Eine wilde Kreatur, die in den Sümpfen haust. Sie umzingelt mit Vorliebe in Überzahl einzelne oder schwache Beute."
 unitID: 801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Gnoll"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

@@ -4,7 +4,7 @@ permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere wurde mit der Fähigkeit geboren, Psy- und Magie-Elementare zu kontrollieren. Er ist ein bedeutender General der Elementare."
 heroID: 60702
 QR: hero_60702
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Monere"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Monere wurde mit der Fähigkeit geboren, Psy- und Magie-Elementare zu kontrollieren. Er ist ein bedeutender General der Elementare.
 ## Details
- **Profession:** ![Ebenenwandler](/images/h/h_prof_13.png) Ebenenwandler
+ **Profession:** ![Ebenenwandler](/images/h/h_prof_13.png)  [Ebenenwandler](/de/heroes/Profession Planeswalker/)
 
- **Race:** Konflux
+ **Fraktion::** [Konflux](/de/heroes/Faction Conflux/)
 
- **Rate:** SR
+ **Rang:** [SR](/de/heroes/Hero Rank SR/)
 
  **User Rate:** R
 

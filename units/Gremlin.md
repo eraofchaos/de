@@ -1,9 +1,9 @@
 ---
 title: "Gremlin"
 permalink: /units/Gremlin/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Gremlins haben sich verpflichtet, dem Turm zu dienen. Sie greifen mit ihren verzauberten Kettenkugeln aus der Ferne an."
+excerpt: "Era of Chaos Gremlin. Gremlin Einheiten. null. Era of Chaos Gremlins haben sich verpflichtet, dem Turm zu dienen. Sie greifen mit ihren verzauberten Kettenkugeln aus der Ferne an."
 unitID: 601
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Gremlin"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

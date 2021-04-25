@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-6 Fliehen und Hilfe holen"
 permalink: /Main Story/Chapter 13_6/
 excerpt: "Kapitel 13 - 6. Era of Chaos  Hauptstory - Kapitel 13_6. 13-6 Fliehen und Hilfe holen"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 13_6.md"
 toc: false

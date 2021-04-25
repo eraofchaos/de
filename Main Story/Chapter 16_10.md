@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-10 Elfenedelsteine"
 permalink: /Main Story/Chapter 16_10/
 excerpt: "Kapitel 16 - 10. Era of Chaos  Hauptstory - Kapitel 16_10. 16-10 Elfenedelsteine"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 16_10.md"
 toc: false

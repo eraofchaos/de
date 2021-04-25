@@ -1,9 +1,9 @@
 ---
 title: "Harpyie"
 permalink: /units/Harpy/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
+excerpt: "Era of Chaos Harpyie. Harpyie Einheiten. Harpyienhexe. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Harpyie"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 

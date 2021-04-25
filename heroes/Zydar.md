@@ -4,7 +4,7 @@ permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar widmete den Großteil seines Lebens der Verbesserung seiner Zauber und wurde ein mächtiger Zauberer, bevor er die Anführerrolle auf dem Schlachtfeld ergriff. Er ist verlässlicher als seine dämonischen Verwandten."
 heroID: 60901
 QR: hero_60901
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Zydar"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Zydar widmete den Großteil seines Lebens der Verbesserung seiner Zauber und wurde ein mächtiger Zauberer, bevor er die Anführerrolle auf dem Schlachtfeld ergriff. Er ist verlässlicher als seine dämonischen Verwandten.
 ## Details
- **Profession:** ![Ketzer](/images/h/h_prof_10.png) Ketzer
+ **Profession:** ![Ketzer](/images/h/h_prof_10.png)  [Ketzer](/de/heroes/Profession Heretic/)
 
- **Race:** Inferno
+ **Fraktion::** [Inferno](/de/heroes/Faction Inferno/)
 
- **Rate:** R
+ **Rang:** [R](/de/heroes/Hero Rank R/)
 
  **User Rate:** R
 

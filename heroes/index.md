@@ -2,14 +2,20 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  | Nr |  I |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     | User Rate  | 
+  by Fraktion: [Konflux](/de/heroes/Faction Conflux/){: .btn .btn--primary} [Inferno](/de/heroes/Faction Inferno/){: .btn .btn--success} [Dungeon](/de/heroes/Faction Dungeon/){: .btn .btn--warning} [Schutzwall](/de/heroes/Faction Rampart/){: .btn .btn--danger} [Festung](/de/heroes/Faction Fortress/){: .btn .btn--info} [Schloss](/de/heroes/Faction Castle/){: .btn .btn--primary} [Turm](/de/heroes/Faction Tower/){: .btn .btn--success} [Burg](/de/heroes/Faction Stronghold/){: .btn .btn--warning} [Neutrale Armee](/de/heroes/Faction Neutral Army/){: .btn .btn--danger} [Bucht](/de/heroes/Faction Cove/){: .btn .btn--info} [Nekropolis](/de/heroes/Faction Necropolis/){: .btn .btn--primary} 
+
+  by Klasse: [null](/de/heroes/Profession null/){: .btn .btn--primary} [Meereskreaturen](/de/heroes/Profession Ocean Creatures/){: .btn .btn--success} [Waldläufer](/de/heroes/Profession Ranger/){: .btn .btn--warning} [Todesritter](/de/heroes/Profession Death Knight/){: .btn .btn--danger} [Overlord](/de/heroes/Profession Overlord/){: .btn .btn--info} [Ketzer](/de/heroes/Profession Heretic/){: .btn .btn--primary} [Hexer](/de/heroes/Profession Warlock/){: .btn .btn--success} [Druidin](/de/heroes/Profession Druid/){: .btn .btn--warning} [Barbar](/de/heroes/Profession Barbarian/){: .btn .btn--danger} [Kleriker](/de/heroes/Profession Clerics/){: .btn .btn--info} [Dämoniker](/de/heroes/Profession Demoniac/){: .btn .btn--primary} [Ebenenwandler](/de/heroes/Profession Planeswalker/){: .btn .btn--success} [Ritter](/de/heroes/Profession Knight/){: .btn .btn--warning} [Bestienmeister](/de/heroes/Profession Beast Master/){: .btn .btn--danger} [Pirat](/de/heroes/Profession Pirate/){: .btn .btn--info} [Elementarist](/de/heroes/Profession Elementalist/){: .btn .btn--primary} [Totenbeschwörer](/de/heroes/Profession Necromancer/){: .btn .btn--success} [Zauberer](/de/heroes/Profession Wizard/){: .btn .btn--warning} 
+
+  by Rang: [R](/de/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/de/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/de/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/de/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/de/heroes/Hero Rank SR/){: .btn .btn--info} 
+
+  | Nr |  I |    Name    |  Fraktion:   |  Profession   |  Rang  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/de/heroes/Adelaide/) | Schloss | Kleriker | **SR** |  Frostring | R+ |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/de/heroes/Astral/) | Turm | Zauberer | **SSR** |  Magieverstärkung | SSR |

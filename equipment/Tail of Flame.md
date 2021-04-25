@@ -2,7 +2,7 @@
 title: "Flammenschweif"
 permalink: /equipment/Tail of Flame/
 excerpt: "Era of Chaos Flammenschweif. Flammenschweif"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Tail of Flame.md"
 toc: false

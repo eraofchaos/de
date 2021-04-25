@@ -1,9 +1,9 @@
 ---
 title: "Wespenwurz"
 permalink: /units/Waspwort/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
+excerpt: "Era of Chaos Wespenwurz. Wespenwurz Einheiten. null. Era of Chaos Eine seltsame Pflanze, die in giftigen Sümpfen zu finden ist. Das nervtötende Summen, das sie erzeugt, ist ein absoluter Albtraum."
 unitID: 808
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Wespenwurz"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

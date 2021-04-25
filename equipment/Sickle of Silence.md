@@ -2,7 +2,7 @@
 title: "Sichel des Schweigens"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Era of Chaos Sichel des Schweigens. Sichel des Schweigens"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Sickle of Silence.md"
 toc: false

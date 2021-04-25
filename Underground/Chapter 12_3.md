@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 12 - 12-3 Gewaltige Vergeltung"
 permalink: /Underground/Chapter 12_3/
 excerpt: "Kapitel 12 - 3. Era of Chaos  Untergrund - Kapitel 12_3. 12-3 Gewaltige Vergeltung"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 12_3.md"
 toc: false

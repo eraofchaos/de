@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 27 - 27-3 Prophet des Ostens"
 permalink: /Underground/Chapter 27_3/
 excerpt: "Kapitel 27 - 3. Era of Chaos  Untergrund - Kapitel 27_3. 27-3 Prophet des Ostens"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 27_3.md"
 toc: false

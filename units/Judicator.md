@@ -1,9 +1,9 @@
 ---
 title: "Richterin"
 permalink: /units/Judicator/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
+excerpt: "Era of Chaos Richterin. Richterin Einheiten. null. Era of Chaos Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Richterin"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
+ **Rang:** [Kommandant](/de/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

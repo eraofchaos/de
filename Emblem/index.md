@@ -2,7 +2,7 @@
 title: "Heiliges Emblem"
 permalink: /Emblem/
 excerpt: "Era of Chaos Heiliges Emblem. Heiliges Emblem. Heilige Embleme auszurüsten, kann die Einheitenkraft stark erhöhen. Verschiedene Kombinationen aus Fraktion und Qualität sind für Heilige Embleme möglich. Sets aus Heiligen Emblemen gewähren großartige Zusatzattribute."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "index.md"
 toc: false

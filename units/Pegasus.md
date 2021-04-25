@@ -1,9 +1,9 @@
 ---
 title: "Pegasus"
 permalink: /units/Pegasus/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
+excerpt: "Era of Chaos Pegasus. Pegasus Einheiten. Silberpegasus. Era of Chaos Pegasi sind die legendären Kreaturen des Waldes, die als Gefährten der Besten der Elfen für den Frieden des Waldes kämpfen."
 unitID: 204
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Pegasus"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Pikenier"
 permalink: /units/Pikeman/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie."
+excerpt: "Era of Chaos Pikenier. Pikenier Einheiten. Hellebardenträger. Era of Chaos Pikeniere verteidigen das Königreich an vorderster Front. Diese geübten Krieger haben schon große Schlachten geschlagen und sind dem Königreich treu ergeben. Das Volk liebt sie."
 unitID: 101
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Pikenier"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

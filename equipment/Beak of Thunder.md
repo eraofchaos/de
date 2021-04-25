@@ -2,7 +2,7 @@
 title: "Donnerschnabel"
 permalink: /equipment/Beak of Thunder/
 excerpt: "Era of Chaos Donnerschnabel. Donnerschnabel"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Beak of Thunder.md"
 toc: false

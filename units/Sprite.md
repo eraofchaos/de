@@ -1,9 +1,9 @@
 ---
 title: "Pixie"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
+excerpt: "Era of Chaos Pixie. Pixie Einheiten. . Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Pixie"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

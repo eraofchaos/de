@@ -1,9 +1,9 @@
 ---
 title: "Giftbrut"
 permalink: /units/Venom Spawn/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen."
+excerpt: "Era of Chaos Giftbrut. Giftbrut Einheiten. null. Era of Chaos Diese Dämonen wurden aus Flammen und Schatten in den gefallenen Lohen der Hölle geboren. Den Legenden zufolge, die von den Menschen erzählt werden, sind sie die furchterregendsten Nachtmahre, die mit ihren karmischen Flammen der Sünde alle Schlachtfelder verbrennen."
 unitID: 509
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Giftbrut"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
+ **Rang:** [Kommandant](/de/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

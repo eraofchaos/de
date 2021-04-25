@@ -1,9 +1,9 @@
 ---
 title: "Gorgone"
 permalink: /units/Gorgon/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
+excerpt: "Era of Chaos Gorgone. Gorgone Einheiten. Mächtige Gorgone. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Gorgone"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/de/units/Unit Rank SSR/)
+ **Rang:** [SSR](/de/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

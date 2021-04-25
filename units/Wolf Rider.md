@@ -1,9 +1,9 @@
 ---
 title: "Wolfsreiter"
 permalink: /units/Wolf Rider/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
+excerpt: "Era of Chaos Wolfsreiter. Wolfsreiter Einheiten. Wolfskrieger. Era of Chaos Wolfskrieger agieren als Team mit ihren Reittieren, gezähmten Riesenwölfen, die mit scharfen Zähnen und Krallen ihre Feinde in Panik versetzen."
 unitID: 402
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Wolfsreiter"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

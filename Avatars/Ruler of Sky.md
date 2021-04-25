@@ -2,7 +2,7 @@
 title: "Avatar - Herrscher des Himmels"
 permalink: /Avatars/Ruler of Sky/
 excerpt: "Era of Chaos  Herrscher des Himmels"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Ruler of Sky.md"
 toc: false

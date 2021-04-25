@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 24 - 24-2 Flammeninferno"
 permalink: /Underground/Chapter 24_2/
 excerpt: "Kapitel 24 - 2. Era of Chaos  Untergrund - Kapitel 24_2. 24-2 Flammeninferno"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 24_2.md"
 toc: false

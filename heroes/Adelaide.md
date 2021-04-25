@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Adelaide"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Als junge Frau verirrte sich Adelaide nach einem Schiffbruch ins Gebiet der Schneeelfen. Zwanzig Jahre lang wurde sie von ihren Rettern ausgebildet und wurde so die mächtigste Magierin im Königreich, bevor sie nach Erathia zurückkehrte.
 ## Details
- **Profession:** ![Kleriker](/images/h/h_prof_2.png) Kleriker
+ **Profession:** ![Kleriker](/images/h/h_prof_2.png)  [Kleriker](/de/heroes/Profession Clerics/)
 
- **Race:** Schloss
+ **Fraktion::** [Schloss](/de/heroes/Faction Castle/)
 
- **Rate:** SR
+ **Rang:** [SR](/de/heroes/Hero Rank SR/)
 
  **User Rate:** R+
 

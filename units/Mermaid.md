@@ -1,9 +1,9 @@
 ---
 title: "Meerjungfrau"
 permalink: /units/Mermaid/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
+excerpt: "Era of Chaos Meerjungfrau. Meerjungfrau Einheiten. null. Era of Chaos Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Meerjungfrau"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

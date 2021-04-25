@@ -1,9 +1,9 @@
 ---
 title: "Grüner Drache"
 permalink: /units/Green Dragon/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
+excerpt: "Era of Chaos Grüner Drache. Grüner Drache Einheiten. Goldener Drache. Era of Chaos Grüne Drachen sind die Wächter des Waldes. Durch ihren Säurehauch und ihre gewaltige Größe sind sie so gut wie unbesiegbar."
 unitID: 207
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Grüner Drache"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/de/units/Unit Rank SSR/)
+ **Rang:** [SSR](/de/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

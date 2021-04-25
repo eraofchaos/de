@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-9 Der Elfenring"
 permalink: /Main Story/Chapter 18_9/
 excerpt: "Kapitel 18 - 9. Era of Chaos  Hauptstory - Kapitel 18_9. 18-9 Der Elfenring"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 18_9.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Obwohl er für einen Elementar noch jung und unerprobt ist, besitzt Fiur Kräfte, die ihresgleichen suchen. Man glaubt, dass er früher oder später einer der stärksten Helden der Elementare werden wird."
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Fiur"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Obwohl er für einen Elementar noch jung und unerprobt ist, besitzt Fiur Kräfte, die ihresgleichen suchen. Man glaubt, dass er früher oder später einer der stärksten Helden der Elementare werden wird.
 ## Details
- **Profession:** ![Ebenenwandler](/images/h/h_prof_13.png) Ebenenwandler
+ **Profession:** ![Ebenenwandler](/images/h/h_prof_13.png)  [Ebenenwandler](/de/heroes/Profession Planeswalker/)
 
- **Race:** Konflux
+ **Fraktion::** [Konflux](/de/heroes/Faction Conflux/)
 
- **Rate:** R
+ **Rang:** [R](/de/heroes/Hero Rank R/)
 
  **User Rate:** R
 

@@ -1,9 +1,9 @@
 ---
 title: "Dunkler Kämpe"
 permalink: /units/Dark Champion/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
+excerpt: "Era of Chaos Dunkler Kämpe. Dunkler Kämpe Einheiten. null. Era of Chaos Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
 unitID: 309
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Dunkler Kämpe"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [Kommandant](/de/units/Unit Rank Commander/)
+ **Rang:** [Kommandant](/de/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
+excerpt: "Era of Chaos Hai-Ausbilder. Hai-Ausbilder Einheiten. Hai-Reiter. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/de/units/Unit Rank SSR/)
+ **Rang:** [SSR](/de/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Unit Class Defense"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Fernkampf](/de/units/Unit Class Ranged/){: .btn .btn--primary} [Ansturm](/de/units/Unit Class Charging/){: .btn .btn--success} [Zauberer](/de/units/Unit Class Caster/){: .btn .btn--warning} [Offensiv](/de/units/Unit Class Offense/){: .btn .btn--danger} [Abwehr](/de/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Mumie](/images/u/ti_munaiyi.jpg) | [Mumie](/de/units/Mummy/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Mumienkönig  |
   | 2 | ![Imp](/images/u/ti_xiaoemo.jpg) | [Imp](/de/units/Imp/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Intimus  |

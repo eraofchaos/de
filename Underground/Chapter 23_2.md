@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 23 - 23-2 Die Macht der Abwehr"
 permalink: /Underground/Chapter 23_2/
 excerpt: "Kapitel 23 - 2. Era of Chaos  Untergrund - Kapitel 23_2. 23-2 Die Macht der Abwehr"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 23_2.md"
 toc: false

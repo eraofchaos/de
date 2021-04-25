@@ -2,7 +2,7 @@
 title: "Artefakt - Mantel des untoten Königs - Amulett der Totengräber"
 permalink: /artifacts/Amulet of the Undertaker/
 excerpt: "Era of Chaos  Mantel des untoten Königs - Amulett der Totengräber. Ein Glücksbringer, mit dem ein Lich sich schützte. Eine der Komponenten für den Umhang des untoten Königs."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Amulet of the Undertaker.md"
 toc: false

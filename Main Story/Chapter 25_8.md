@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-8 Ursprung des Untergrunds"
 permalink: /Main Story/Chapter 25_8/
 excerpt: "Kapitel 25 - 8. Era of Chaos  Hauptstory - Kapitel 25_8. 25-8 Ursprung des Untergrunds"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 25_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Stachelbewehrter Kragen"
 permalink: /equipment/Spiked Neck Umbrella/
 excerpt: "Era of Chaos Stachelbewehrter Kragen. Stachelbewehrter Kragen"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Spiked Neck Umbrella.md"
 toc: false

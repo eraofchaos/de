@@ -2,7 +2,7 @@
 title: "Starker Blütenast"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "Era of Chaos Starker Blütenast. Starker Blütenast"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Strong Flowering Branch.md"
 toc: false

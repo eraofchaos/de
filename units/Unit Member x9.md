@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Unit Member x9"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [x9](/de/units/Unit Member x9/){: .btn .btn--primary} [x1](/de/units/Unit Member x1/){: .btn .btn--success} [x4](/de/units/Unit Member x4/){: .btn .btn--warning} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Imp](/images/u/ti_xiaoemo.jpg) | [Imp](/de/units/Imp/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Intimus  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/de/units/Gog/) | Zauberer | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |

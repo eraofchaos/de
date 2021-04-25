@@ -2,7 +2,7 @@
 title: "Exklusiv - Ewige Flamme (Firebird)"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Ewige Flamme. Ewige Flamme. Era of Chaos Exklusiv Ewige Flamme. Feuervogel Exklusiv."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Firebird Ewige Flamme.md"
 toc: false

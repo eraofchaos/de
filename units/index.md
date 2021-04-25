@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "index.md"
 toc: false
@@ -10,15 +10,15 @@ classes: wide
 ---
   by Fraktion: [Konflux](/de/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/de/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/de/units/Faction Dungeon/){: .btn .btn--warning} [Festung](/de/units/Faction Fortress/){: .btn .btn--danger} [Schutzwall](/de/units/Faction Rampart/){: .btn .btn--info} [Schloss](/de/units/Faction Castle/){: .btn .btn--primary} [Turm](/de/units/Faction Tower/){: .btn .btn--success} [Burg](/de/units/Faction Stronghold/){: .btn .btn--warning} [Bucht](/de/units/Faction Cove/){: .btn .btn--danger} [Neutrale Armee](/de/units/Faction Neutral Army/){: .btn .btn--info} [Nekropolis](/de/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [Fernkampf](/de/units/Unit Class Ranged/){: .btn .btn--primary} [Ansturm](/de/units/Unit Class Charging/){: .btn .btn--success} [Zauberer](/de/units/Unit Class Caster/){: .btn .btn--warning} [Offensiv](/de/units/Unit Class Offense/){: .btn .btn--danger} [Abwehr](/de/units/Unit Class Defense/){: .btn .btn--info} 
+  by Klasse: [Fernkampf](/de/units/Unit Class Ranged/){: .btn .btn--primary} [Ansturm](/de/units/Unit Class Charging/){: .btn .btn--success} [Zauberer](/de/units/Unit Class Caster/){: .btn .btn--warning} [Offensiv](/de/units/Unit Class Offense/){: .btn .btn--danger} [Abwehr](/de/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/de/units/Unit Rank R/){: .btn .btn--primary} [SSR](/de/units/Unit Rank SSR/){: .btn .btn--success} [Kommandant](/de/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/de/units/Unit Rank SR/){: .btn .btn--danger} 
+  by Rang: [R](/de/units/Unit Rank R/){: .btn .btn--primary} [SSR](/de/units/Unit Rank SSR/){: .btn .btn--success} [Kommandant](/de/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/de/units/Unit Rank SR/){: .btn .btn--danger} 
 
   by Members: [x9](/de/units/Unit Member x9/){: .btn .btn--primary} [x1](/de/units/Unit Member x1/){: .btn .btn--success} [x4](/de/units/Unit Member x4/){: .btn .btn--warning} 
 
   by Stars: [<i class="fas fa-star"/>](/de/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/){: .btn .btn--warning} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake |  Rang  |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Assassine](/images/u/ti_cishazhe.jpg) | [Assassine](/de/units/Assassin/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 2 | ![Basilisk](/images/u/ti_xiyi.jpg) | [Basilisk](/de/units/Basilisk/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

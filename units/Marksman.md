@@ -1,9 +1,9 @@
 ---
 title: "Scharfschütze"
 permalink: /units/Marksman/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
+excerpt: "Era of Chaos Scharfschütze. Scharfschütze Einheiten. Meisterbogenschütze. Era of Chaos Scharfschützen sind erfahrene Soldaten, die Gegner schwächen, bevor sie in den Nahkampf gehen. Ihre tödlichen Armbrüste sind bei den Feinden gefürchtet."
 unitID: 102
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Scharfschütze"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/de/units/Unit Member x9/)
 
- **Rank:** [R](/de/units/Unit Rank R/)
+ **Rang:** [R](/de/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

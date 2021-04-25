@@ -1,9 +1,9 @@
 ---
 title: "Paladin"
 permalink: /units/Paladin/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
+excerpt: "Era of Chaos Paladin. Paladin Einheiten. Oberster Paladin. Era of Chaos Der Paladin ist das Rückgrat der Schloss-Fraktion. Er kann Einheiten motivieren, damit diese ihr Potenzial voll entfalten.◆"
 unitID: 108
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Paladin"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/de/units/Unit Rank SSR/)
+ **Rang:** [SSR](/de/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

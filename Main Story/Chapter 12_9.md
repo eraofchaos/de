@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-9 Friedensverhandlungen"
 permalink: /Main Story/Chapter 12_9/
 excerpt: "Kapitel 12 - 9. Era of Chaos  Hauptstory - Kapitel 12_9. 12-9 Friedensverhandlungen"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Chapter 12_9.md"
 toc: false

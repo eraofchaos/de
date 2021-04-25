@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Unit Class Caster"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Fernkampf](/de/units/Unit Class Ranged/){: .btn .btn--primary} [Ansturm](/de/units/Unit Class Charging/){: .btn .btn--success} [Zauberer](/de/units/Unit Class Caster/){: .btn .btn--warning} [Offensiv](/de/units/Unit Class Offense/){: .btn .btn--danger} [Abwehr](/de/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/de/units/Roc/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Donnervogel  |
   | 2 | ![Regnanseherin](/images/u/ti_haihou.jpg) | [Regnanseherin](/de/units/Regnan Seer/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Gezeitenelementar  |

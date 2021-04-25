@@ -4,7 +4,7 @@ permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Als Luzifer Kreegan Xenofex tötete und die Macht übernahm, war Xeron der erste, der dem Usurpator die Treue schwor. Durch diese Tat erkaufte er sich die Gunst des neuen Königs."
 heroID: 60801
 QR: hero_60801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Xeron"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Als Luzifer Kreegan Xenofex tötete und die Macht übernahm, war Xeron der erste, der dem Usurpator die Treue schwor. Durch diese Tat erkaufte er sich die Gunst des neuen Königs.
 ## Details
- **Profession:** ![Dämoniker](/images/h/h_prof_9.png) Dämoniker
+ **Profession:** ![Dämoniker](/images/h/h_prof_9.png)  [Dämoniker](/de/heroes/Profession Demoniac/)
 
- **Race:** Inferno
+ **Fraktion::** [Inferno](/de/heroes/Faction Inferno/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/de/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

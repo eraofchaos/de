@@ -1,9 +1,9 @@
 ---
 title: "Mönch"
 permalink: /units/Monk/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
+excerpt: "Era of Chaos Mönch. Mönch Einheiten. Zelot. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Mönch"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/>](/de/units/Star 1/)
 

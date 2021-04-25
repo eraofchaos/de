@@ -1,9 +1,9 @@
 ---
 title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
+excerpt: "Era of Chaos Regnanbogensch.. Regnanbogensch. Einheiten. null. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Regnanbogensch."
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
- **Rank:** [SSR](/de/units/Unit Rank SSR/)
+ **Rang:** [SSR](/de/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 

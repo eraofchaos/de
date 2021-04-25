@@ -1,9 +1,9 @@
 ---
 title: "Erzmagier"
 permalink: /units/Arch Mage/
-excerpt: "Era of Chaos Einheiten. Einheiten. Era of Chaos Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
+excerpt: "Era of Chaos Erzmagier. Erzmagier Einheiten. Erzmagier. Era of Chaos Den Titel des Magiers tragen nur die mächtigsten Zauberkundigen. Sie verleihen ihrer Seite einen enormen magischen Vorteil im Kampf."
 unitID: 604
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Erzmagier"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/de/units/Unit Member x4/)
 
- **Rank:** [SR](/de/units/Unit Rank SR/)
+ **Rang:** [SR](/de/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 2/)
 

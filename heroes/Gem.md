@@ -4,7 +4,7 @@ permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem ist die größte aller Hexen Enroths. In beiden Kriegen kämpfte sie für Roland Eisenfaust. Sobald Roland zum König gekrönt wurde, zog Gem nach Erathia und baute sich dort ein neues Zuhause auf."
 heroID: 60304
 QR: hero_60304
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Gem"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Gem ist die größte aller Hexen Enroths. In beiden Kriegen kämpfte sie für Roland Eisenfaust. Sobald Roland zum König gekrönt wurde, zog Gem nach Erathia und baute sich dort ein neues Zuhause auf.
 ## Details
- **Profession:** ![Druidin](/images/h/h_prof_4.png) Druidin
+ **Profession:** ![Druidin](/images/h/h_prof_4.png)  [Druidin](/de/heroes/Profession Druid/)
 
- **Race:** Schutzwall
+ **Fraktion::** [Schutzwall](/de/heroes/Faction Rampart/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/de/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

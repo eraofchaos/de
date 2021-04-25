@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Regnanpirat Exklusiv."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Regnan Pirates Schwert.md"
 toc: false

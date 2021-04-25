@@ -4,7 +4,7 @@ permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral kam vor ungefähr einem Jahrzehnt nach Erathia und wurde schnell von der Magiergilde von Bracada anerkannt. Nachdem er in der Gilde eine hohe Position einnahm, scherzten einige, dass dabei bestimmt Magie im Spiel war."
 heroID: 61203
 QR: hero_61203
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Astral"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Beschreibung:** Astral kam vor ungefähr einem Jahrzehnt nach Erathia und wurde schnell von der Magiergilde von Bracada anerkannt. Nachdem er in der Gilde eine hohe Position einnahm, scherzten einige, dass dabei bestimmt Magie im Spiel war.
 ## Details
- **Profession:** ![Zauberer](/images/h/h_prof_15.png) Zauberer
+ **Profession:** ![Zauberer](/images/h/h_prof_15.png)  [Zauberer](/de/heroes/Profession Wizard/)
 
- **Race:** Turm
+ **Fraktion::** [Turm](/de/heroes/Faction Tower/)
 
- **Rate:** SSR
+ **Rang:** [SSR](/de/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 
