@@ -2,7 +2,7 @@
 title: "Artefakt - Edenapfel - Kristallkugel"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Era of Chaos  Edenapfel - Kristallkugel. Eine leuchtende Kristallkugel. Der Legende nach kann man damit in die Zukunft sehen."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Crystal Ball.md"
 toc: false

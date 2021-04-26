@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SR -  Heroes"
 permalink: /heroes/Hero Rank SR/
 excerpt: "Era of Chaos Hero Rank SR. Hero Rank SR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Hero Rank SR"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/de/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/de/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/de/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/de/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/de/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Name    |  Fraktion:   |  Profession   |  Rang  |    Specialty     | User Rate  | 
+  | Nr |  I |    Name    |  Fraktion  |  Profession   |  Rang  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Yog](/images/h/h_Yog.jpg) | [Yog](/de/heroes/Yog/) | Burg | Barbar | **SR** |  Rasender Zyklop | SR |
   | 2 | ![Rashka](/images/h/h_Rashka.jpg) | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | **SR** |  Feuer-Lord | R |

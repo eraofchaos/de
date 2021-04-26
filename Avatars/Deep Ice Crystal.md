@@ -2,7 +2,7 @@
 title: "Avatar - Tiefeneis-Kristall"
 permalink: /Avatars/Deep Ice Crystal/
 excerpt: "Era of Chaos  Tiefeneis-Kristall"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Deep Ice Crystal.md"
 toc: false

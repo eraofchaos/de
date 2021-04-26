@@ -4,7 +4,7 @@ permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart wurde getötet und wiederbelebt. Als General der Untotenarmee ist er jetzt noch stärker als zu Lebzeiten."
 heroID: 60401
 QR: hero_60401
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Lord Haart"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Todesritter](/images/h/h_prof_5.png)  [Todesritter](/de/heroes/Profession Death Knight/)
 
- **Fraktion::** [Nekropolis](/de/heroes/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/de/heroes/Faction Necropolis/)
 
  **Rang:** [SSR](/de/heroes/Hero Rank SSR/)
 

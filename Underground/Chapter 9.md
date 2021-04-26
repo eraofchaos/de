@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 9 Gier"
 permalink: /Underground/Chapter 9/
 excerpt: "Kapitel 9 Gier. Era of Chaos  Untergrund - Kapitel 9. Gier"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 9.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **400x** <i class="fas fa-gem"/>
+ Belohnung 1:  **400x** <i class="fas fa-gem"/>
 
- Reward 2:  **80000x** <i class="fas fa-coins"/>
+ Belohnung 2:  **80000x** <i class="fas fa-coins"/>
 
- Reward 3: **110 x** Star Points
+ Belohnung 3: **110 x** Star Points
 
- Reward 4: **15 x** [Rashka](/ItemsDE/her_384/){: .btn .btn--era5}
+ Belohnung 4: **15 x** [Rashka](/ItemsDE/her_384/){: .btn .btn--era5}
 

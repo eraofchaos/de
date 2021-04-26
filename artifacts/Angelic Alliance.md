@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Engelsbund. Engelsbund Eine heilige Reliquie, durch Engelskraft aus kostbaren Gegenständen geschmiedet. Kann die Macht Eurer Verbündeten erhöhen."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Angelic Alliance.md"
 toc: false

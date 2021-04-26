@@ -2,7 +2,7 @@
 title: "Flugsystem"
 permalink: /equipment/Lift-off System/
 excerpt: "Era of Chaos Flugsystem. Flugsystem"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Lift-off System.md"
 toc: false

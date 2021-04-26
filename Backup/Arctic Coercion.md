@@ -2,7 +2,7 @@
 title: "Backup - Arktischer Befehl"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Era of Chaos  Arktischer Befehl"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Arctic Coercion.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Spezialfähigkeit - **Arktischer Befehl** 
 
+  ![Arktischer Befehl](/images/b/backupIcon_4.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Schlachtfeldfähigkeit - **Mächtige Energie** 
 
+  ![Mächtige Energie](/images/b/backupSkill1Icon_4.png)
+
  **Schlachtfeldfähigkeit Power:** 1060
 
  **Schlachtfeldfähigkeit Unlock:** 5x [Energierolle](/ItemsDE/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Globale Fähigkeit - **Nahrung** 
+
+  ![Nahrung](/images/b/backupSkill2Icon_4.png)
 
  **Globale Fähigkeit Power:** 1076
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Heilendes Meer - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Heilendes Meer. List of ALL Heilendes Meer questions with correct answers"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "healingSea"
 toc: false
@@ -57,7 +57,7 @@ classes: wide
 
    **Correct Answer:** **B. Der Zwerg** 
 
-   **Rewards:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
+   **Belohnungen:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
 
    *Wrong Answer:* *A. Die Waldelfe* 
 
@@ -71,7 +71,7 @@ classes: wide
 
    **Correct Answer:** **A. Das ist die Frage.** 
 
-   **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
+   **Belohnungen:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
    *Wrong Answer:* *B. Das ist nicht die Frage.* 
 
@@ -85,7 +85,7 @@ classes: wide
 
    **Correct Answer:** **B. Die Kreeganer** 
 
-   **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
+   **Belohnungen:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
    *Wrong Answer:* *A. Die Orks* 
 
@@ -99,7 +99,7 @@ classes: wide
 
    **Correct Answer:** **B. Ich will einen Schnee-Zyklopen bauen.** 
 
-   **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
+   **Belohnungen:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
    *Wrong Answer:* *A. Nein.* 
 
@@ -113,7 +113,7 @@ classes: wide
 
    **Correct Answer:** **B. Minotaurus** 
 
-   **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
+   **Belohnungen:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
    *Wrong Answer:* *A. Zentaur* 
 
@@ -127,7 +127,7 @@ classes: wide
 
    **Correct Answer:** **B. Meisterschütze** 
 
-   **Rewards:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
+   **Belohnungen:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
 
    *Wrong Answer:* *A. Schwarzer Drache* 
 
@@ -141,7 +141,7 @@ classes: wide
 
    **Correct Answer:** **B. Goldener Drache** 
 
-   **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
+   **Belohnungen:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
    *Wrong Answer:* *A. Grüner Drache* 
 
@@ -155,7 +155,7 @@ classes: wide
 
    **Correct Answer:** **A. Ein unermüdlicher Kampfgeist** 
 
-   **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
+   **Belohnungen:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
    *Wrong Answer:* *B. Gute Laune* 
 
@@ -169,7 +169,7 @@ classes: wide
 
    **Correct Answer:** **B. Teufel** 
 
-   **Rewards:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
+   **Belohnungen:**  **1x Rabattcoupon** (Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann.)
 
    *Wrong Answer:* *A. Engel* 
 
@@ -183,7 +183,7 @@ classes: wide
 
    **Correct Answer:** **A. Schande über mich.** 
 
-   **Rewards:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
+   **Belohnungen:**  **300x Drachenblutkristall** (Ein Vorrat an Drachenblutkristallen (Ressource der Stufe 4). Zum Verbessern der Kaserne.)
 
    *Wrong Answer:* *B. Immer noch Schande über dich.* 
 
@@ -197,7 +197,7 @@ classes: wide
 
    **Correct Answer:** **B. Untergrund** 
 
-   **Rewards:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
+   **Belohnungen:**  **1x Teleportation** (Schaltet Teleportation im „Heilendes Meer“-Ereignis frei.)
 
    *Wrong Answer:* *A. Burg* 
 

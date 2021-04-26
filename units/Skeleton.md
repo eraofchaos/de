@@ -3,7 +3,7 @@ title: "Skelett"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Skelett. Skelett Einheiten. Skelettkrieger. Era of Chaos Diese zerbrechlichen Knochen scheinen nutzlos, aber sie senken schnell die Moral ihrer Feinde."
 unitID: 301
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Skelett"
 toc: true

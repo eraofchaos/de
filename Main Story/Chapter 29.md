@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 Geschäft mit dem Dämon"
 permalink: /Main Story/Chapter 29/
 excerpt: "Kapitel 29. Era of Chaos  Hauptstory - Kapitel 29. Geschäft mit dem Dämon"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 29.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Abschließen Kapitel 29
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Belohnung:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Belohnung 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **30 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **30 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **200000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **60000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **60000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Belohnung 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **40 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **40 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **300000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **100000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1: **50 x** [Regnanpirat](/ItemsDE/unt_273/){: .btn .btn--era4}
+ Belohnung 1: **50 x** [Regnanpirat](/ItemsDE/unt_273/){: .btn .btn--era4}
 
- Reward 2: **25 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **25 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **11000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **11000x** [Einheiten-ERF](/ItemsDE/con_902/)
 

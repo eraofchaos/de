@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 Die Rückkehr der Königin"
 permalink: /Main Story/Chapter 2/
 excerpt: "Kapitel 2. Era of Chaos  Hauptstory - Kapitel 2. Die Rückkehr der Königin"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 2.md"
 toc: false
@@ -25,23 +25,23 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/30</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **3 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/30</span>
 
- Reward 1:  **300x** <i class="fas fa-gem"/>
+ Belohnung 1:  **300x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **1500x** [Einheiten-ERF](/ItemsDE/con_902/)
 

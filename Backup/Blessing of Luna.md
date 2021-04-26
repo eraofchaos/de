@@ -2,7 +2,7 @@
 title: "Backup - Lunas Segen"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Era of Chaos  Lunas Segen"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Blessing of Luna.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Spezialfähigkeit - **Lunas Segen** 
 
+  ![Lunas Segen](/images/b/backupIcon_2.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Schlachtfeldfähigkeit - **Heilen** 
 
+  ![Heilen](/images/b/backupSkill1Icon_2.png)
+
  **Schlachtfeldfähigkeit Power:** 1060
 
  **Schlachtfeldfähigkeit Unlock:** 5x [Energierolle](/ItemsDE/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Globale Fähigkeit - **Energiekraft** 
+
+  ![Energiekraft](/images/b/backupSkill2Icon_2.png)
 
  **Globale Fähigkeit Power:** 1076
 

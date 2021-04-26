@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 2 Schutzengel"
 permalink: /Underground/Chapter 2/
 excerpt: "Kapitel 2 Schutzengel. Era of Chaos  Untergrund - Kapitel 2. Schutzengel"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 2.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **200x** <i class="fas fa-gem"/>
+ Belohnung 1:  **200x** <i class="fas fa-gem"/>
 
- Reward 2:  **20000x** <i class="fas fa-coins"/>
+ Belohnung 2:  **20000x** <i class="fas fa-coins"/>
 
- Reward 3: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 3: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 4: **15 x** [Catherine](/ItemsDE/her_361/){: .btn .btn--era5}
+ Belohnung 4: **15 x** [Catherine](/ItemsDE/her_361/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "index.md"
 QR: heroes
@@ -15,7 +15,7 @@ classes: wide
 
   by Rang: [R](/de/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/de/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/de/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/de/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/de/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Name    |  Fraktion:   |  Profession   |  Rang  |    Specialty     | User Rate  | 
+  | Nr |  I |    Name    |  Fraktion  |  Profession   |  Rang  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/de/heroes/Adelaide/) | Schloss | Kleriker | **SR** |  Frostring | R+ |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/de/heroes/Astral/) | Turm | Zauberer | **SSR** |  Magieverstärkung | SSR |

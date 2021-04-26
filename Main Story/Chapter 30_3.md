@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-3 Pegasusquelle"
 permalink: /Main Story/Chapter 30_3/
 excerpt: "Kapitel 30 - 3. Era of Chaos  Hauptstory - Kapitel 30_3. 30-3 Pegasusquelle"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 30_3.md"
 toc: false

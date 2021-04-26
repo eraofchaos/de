@@ -3,7 +3,7 @@ title: "Gigant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Gigant. Gigant Einheiten. Titan. Era of Chaos Diese in goldene Rüstung gekleideten und Blitze schleudernden Giganten leben in den Wolken. Der Legende nach wurden diese unsterblichen Kreaturen von den uralten Wesen erschaffen, die einst über diese Welt herrschten."
 unitID: 607
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Gigant"
 toc: true

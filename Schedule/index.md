@@ -2,7 +2,7 @@
 title: "Ereignisse Zeitplan"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Ereignisse Zeitplan. Ereignisse Zeitplan. Schedule for all near events and shop sales."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "index.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
 #### Ereignisse Zeitplan (from 19 April 2021 to 10 May 2021)
 
-  | Nr |  From  |  To |     Activity    |    Activity Beschreibung    | Rewards |
+  | Nr |  From  |  To |     Activity    |    Activity Beschreibung    | Belohnungen |
   |:---|:-------|:----|:----------------|:--------------------------:|:-------:|
   | 1   | 3 Mar 2017 | 3 Mar 2029 | Abonnement | Abonnement |  | 
   | 2   | 29 Sep 2020 | 1 Jul 2029 | Anmeldegeschenke | Melde dich an und erhalte Geschenke. Hol sie dir täglich ab! |  | 
@@ -66,62 +66,62 @@ classes: wide
 
   | Nr |  From  |  To |     Shop Action   |    Shop Action Beschreibung    | Discount | Item | 
   |:---|:-------|:----|:------------------|:-----------------------------:|:--------:|:----:|
-  | 1   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **80** % |  **300x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket C](/ItemsDE/con_1645/),  |
+  | 1   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **70** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket E](/ItemsDE/con_1621/),  |
   | 2   | 18 Apr | 21 Apr | Artefakt-Sonderangebot | Bestimmte orange Artefakt-Komponententruhen sind im Angebot! Nicht verpassen! |  **40** % |  **3880x** <i class="fas fa-gem"/>, 1x [„Macht des Drachenvaters“-Angebot](/ItemsDE/con_1756/),  |
-  | 3   | 18 Apr | 21 Apr | „Orange Artefakte“-Sonderangebot | Orange Artefakte sind für begrenzte Zeit im Angebot. Nicht verpassen! |  |  **6480x** <i class="fas fa-gem"/>, 1x [Premium-Artefakt-Sonderangebot](/ItemsDE/con_1875/),  |
-  | 4   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **70** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket E](/ItemsDE/con_1621/),  |
+  | 3   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Tagesangebot-Paket A](/ItemsDE/con_1643/),  |
+  | 4   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **80** % |  **300x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket C](/ItemsDE/con_1645/),  |
   | 5   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **90** % |  **60x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket B](/ItemsDE/con_1644/),  |
-  | 6   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **75** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket D](/ItemsDE/con_1646/),  |
-  | 7   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Tagesangebot-Paket A](/ItemsDE/con_1643/),  |
-  | 8   | 19 Apr | 21 Apr | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **50** % |  |
-  | 9   | 19 Apr | 26 Apr | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **40** % |  **60x** <i class="fas fa-gem"/>, 1x [Bewegungspaket](/ItemsDE/con_1722/),  |
+  | 6   | 18 Apr | 21 Apr | „Orange Artefakte“-Sonderangebot | Orange Artefakte sind für begrenzte Zeit im Angebot. Nicht verpassen! |  |  **6480x** <i class="fas fa-gem"/>, 1x [Premium-Artefakt-Sonderangebot](/ItemsDE/con_1875/),  |
+  | 7   | 18 Apr | 21 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **75** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket D](/ItemsDE/con_1646/),  |
+  | 8   | 19 Apr | 26 Apr | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **40** % |  **60x** <i class="fas fa-gem"/>, 1x [Bewegungspaket](/ItemsDE/con_1722/),  |
+  | 9   | 19 Apr | 21 Apr | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **50** % |  |
   | 10   | 19 Apr | 26 Apr | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-Energie-Paket](/ItemsDE/con_1693/),  |
-  | 11   | 19 Apr | 26 Apr | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-​Bewegungspaket](/ItemsDE/con_1723/),  |
-  | 12   | 19 Apr | 21 Apr | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **60** % |  |
-  | 13   | 19 Apr | 21 Apr | „Himmlischer Formstein“-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Himmlischen Formsteinen! Nicht verpassen! |  **20** % |  |
-  | 14   | 19 Apr | 26 Apr | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  |  **60x** <i class="fas fa-gem"/>, 1x [Energie-Paket](/ItemsDE/con_1692/),  |
+  | 11   | 19 Apr | 21 Apr | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **60** % |  |
+  | 12   | 19 Apr | 21 Apr | „Himmlischer Formstein“-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Himmlischen Formsteinen! Nicht verpassen! |  **20** % |  |
+  | 13   | 19 Apr | 26 Apr | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  |  **60x** <i class="fas fa-gem"/>, 1x [Energie-Paket](/ItemsDE/con_1692/),  |
+  | 14   | 19 Apr | 26 Apr | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-​Bewegungspaket](/ItemsDE/con_1723/),  |
   | 15   | 21 Apr | 25 Apr | Mehrfachwahl- Formstein-Paket | Mehrfachwahl-Formstein-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Mehrfachwahl- Formstein-Paket](/ItemsDE/con_1480/),  |
   | 16   | 21 Apr | 26 Apr | „Lila Artefakt“-Sonderangebot | Bestimmte lila Artefakt-Komponententruhen sind im Angebot! Nicht verpassen! |  **95** % |  **60x** <i class="fas fa-gem"/>, 1x [„Episches Artefakt“-Auswahl-Sonderangebot](/ItemsDE/con_1925/),  |
   | 17   | 21 Apr | 25 Apr | Mehrfachwahl- Formstein-Paket | Mehrfachwahl-Formstein-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **20** % | 1x [Mehrfachwahl- Formstein-Paket](/ItemsDE/con_1480/),  |
-  | 18   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Bucht-Tagesangebot-Paket A](/ItemsDE/con_1944/),  |
-  | 19   | 25 Apr | 28 Apr | „Orange Artefakte“-Sonderangebot | Orange Artefakte sind für begrenzte Zeit im Angebot. Nicht verpassen! |  |  **6480x** <i class="fas fa-gem"/>, 1x [Premium-Artefakt-Sonderangebot](/ItemsDE/con_1875/),  |
-  | 20   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **70** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket E](/ItemsDE/con_1621/),  |
-  | 21   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **90** % |  **60x** <i class="fas fa-gem"/>, 1x [Bucht-Tagesangebot-Paket B](/ItemsDE/con_1945/),  |
-  | 22   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **80** % |  **300x** <i class="fas fa-gem"/>, 1x [Bucht-Tagesangebot-Paket C](/ItemsDE/con_1946/),  |
-  | 23   | 25 Apr | 28 Apr | Artefakt-Angebot | Bestimmte orange Artefakt-Komponententruhen sind für eine begrenzte Zeit im Sonderangebot! Nicht verpassen! |  **40** % |  **3880x** <i class="fas fa-gem"/>, 1x [Premium-Edenapfel](/ItemsDE/con_1881/),  |
-  | 24   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **75** % |  **980x** <i class="fas fa-gem"/>, 1x [Bucht-Tagesangebot-Paket D](/ItemsDE/con_1947/),  |
-  | 25   | 26 Apr | 3 May | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **40** % |  **60x** <i class="fas fa-gem"/>, 1x [Bewegungspaket](/ItemsDE/con_1722/),  |
+  | 18   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **70** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket E](/ItemsDE/con_1621/),  |
+  | 19   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **90** % |  **60x** <i class="fas fa-gem"/>, 1x [Bucht-Tagesangebot-Paket B](/ItemsDE/con_1945/),  |
+  | 20   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **75** % |  **980x** <i class="fas fa-gem"/>, 1x [Bucht-Tagesangebot-Paket D](/ItemsDE/con_1947/),  |
+  | 21   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Bucht-Tagesangebot-Paket A](/ItemsDE/con_1944/),  |
+  | 22   | 25 Apr | 28 Apr | Artefakt-Angebot | Bestimmte orange Artefakt-Komponententruhen sind für eine begrenzte Zeit im Sonderangebot! Nicht verpassen! |  **40** % |  **3880x** <i class="fas fa-gem"/>, 1x [Premium-Edenapfel](/ItemsDE/con_1881/),  |
+  | 23   | 25 Apr | 28 Apr | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **80** % |  **300x** <i class="fas fa-gem"/>, 1x [Bucht-Tagesangebot-Paket C](/ItemsDE/con_1946/),  |
+  | 24   | 25 Apr | 28 Apr | „Orange Artefakte“-Sonderangebot | Orange Artefakte sind für begrenzte Zeit im Angebot. Nicht verpassen! |  |  **6480x** <i class="fas fa-gem"/>, 1x [Premium-Artefakt-Sonderangebot](/ItemsDE/con_1875/),  |
+  | 25   | 26 Apr | 28 Apr | Große energiebindende Phiole | Große energiebindende Phiolen sind für begrenzte Zeit im Sonderangebot! Nicht verpassen! |  A **40** % | 1x [Große energiebindende Phiole](/ItemsDE/con_726/),  |
   | 26   | 26 Apr | 3 May | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-Energie-Paket](/ItemsDE/con_1693/),  |
-  | 27   | 26 Apr | 28 Apr | Kasernenressourcen-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Kasernenressourcen! Nicht verpassen! |  **20** % |  |
+  | 27   | 26 Apr | 3 May | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-​Bewegungspaket](/ItemsDE/con_1723/),  |
   | 28   | 26 Apr | 28 Apr | Kasernenressourcen-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Kasernenressourcen! Nicht verpassen! |  **20** % |  |
   | 29   | 26 Apr | 3 May | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  |  **60x** <i class="fas fa-gem"/>, 1x [Energie-Paket](/ItemsDE/con_1692/),  |
   | 30   | 26 Apr | 28 Apr | Kasernenressourcen-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Kasernenressourcen! Nicht verpassen! |  **20** % |  |
-  | 31   | 26 Apr | 3 May | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-​Bewegungspaket](/ItemsDE/con_1723/),  |
-  | 32   | 26 Apr | 28 Apr | Große energiebindende Phiole | Große energiebindende Phiolen sind für begrenzte Zeit im Sonderangebot! Nicht verpassen! |  A **40** % | 1x [Große energiebindende Phiole](/ItemsDE/con_726/),  |
-  | 33   | 28 Apr | 30 Apr | „Lila Kristall (Runenstein)“-Sonderangebot | Fähigkeits-Runensteine sind zu einem unschlagbaren Preis verfügbar als Hilfe für deine Kampagne! |  | 5x [Lila Kristall](/ItemsDE/con_720/),  |
-  | 34   | 28 Apr | 2 May | Seelenstein-Sonderangebot | Seltene Einheiten-Seelensteine sind für begrenzte Zeit im Angebot. Vergiss nicht, dir welche zu besorgen! |  **56** % |  **3480x** <i class="fas fa-gem"/>, 1x [Tool_907601](/ItemsDE/con_2135/),  |
-  | 35   | 28 Apr | 2 May | Seelenstein-Sonderangebot | Seltene Einheiten-Seelensteine sind für begrenzte Zeit im Angebot. Vergiss nicht, dir welche zu besorgen! |  **45** % |  **2180x** <i class="fas fa-gem"/>, 1x [Tool_907600](/ItemsDE/con_2134/),  |
-  | 36   | 28 Apr | 2 May | Seelenstein-Sonderangebot | Seltene Einheiten-Seelensteine sind für begrenzte Zeit im Angebot. Vergiss nicht, dir welche zu besorgen! |  **38** % |  **980x** <i class="fas fa-gem"/>, 1x [Tool_907599](/ItemsDE/con_2133/),  |
-  | 37   | 28 Apr | 3 May | „Lila Artefakt“-Sonderangebot | Bestimmte lila Artefakt-Komponententruhen sind im Angebot! Nicht verpassen! |  **95** % |  **60x** <i class="fas fa-gem"/>, 1x [„Episches Artefakt“-Auswahl-Sonderangebot](/ItemsDE/con_1925/),  |
-  | 38   | 28 Apr | 30 Apr | „Lila Kristall (Runenstein)“-Sonderangebot | Fähigkeits-Runensteine sind zu einem unschlagbaren Preis verfügbar als Hilfe für deine Kampagne! |  A **50** % | 1x [Spezialrunenpaket](/ItemsDE/con_1411/),  |
+  | 31   | 26 Apr | 3 May | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **40** % |  **60x** <i class="fas fa-gem"/>, 1x [Bewegungspaket](/ItemsDE/con_1722/),  |
+  | 32   | 26 Apr | 28 Apr | Kasernenressourcen-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Kasernenressourcen! Nicht verpassen! |  **20** % |  |
+  | 33   | 28 Apr | 2 May | Seelenstein-Sonderangebot | Seltene Einheiten-Seelensteine sind für begrenzte Zeit im Angebot. Vergiss nicht, dir welche zu besorgen! |  **45** % |  **2180x** <i class="fas fa-gem"/>, 1x [Tool_907600](/ItemsDE/con_2134/),  |
+  | 34   | 28 Apr | 30 Apr | „Lila Kristall (Runenstein)“-Sonderangebot | Fähigkeits-Runensteine sind zu einem unschlagbaren Preis verfügbar als Hilfe für deine Kampagne! |  A **50** % | 1x [Spezialrunenpaket](/ItemsDE/con_1411/),  |
+  | 35   | 28 Apr | 3 May | „Lila Artefakt“-Sonderangebot | Bestimmte lila Artefakt-Komponententruhen sind im Angebot! Nicht verpassen! |  **95** % |  **60x** <i class="fas fa-gem"/>, 1x [„Episches Artefakt“-Auswahl-Sonderangebot](/ItemsDE/con_1925/),  |
+  | 36   | 28 Apr | 2 May | Seelenstein-Sonderangebot | Seltene Einheiten-Seelensteine sind für begrenzte Zeit im Angebot. Vergiss nicht, dir welche zu besorgen! |  **56** % |  **3480x** <i class="fas fa-gem"/>, 1x [Tool_907601](/ItemsDE/con_2135/),  |
+  | 37   | 28 Apr | 30 Apr | „Lila Kristall (Runenstein)“-Sonderangebot | Fähigkeits-Runensteine sind zu einem unschlagbaren Preis verfügbar als Hilfe für deine Kampagne! |  | 5x [Lila Kristall](/ItemsDE/con_720/),  |
+  | 38   | 28 Apr | 2 May | Seelenstein-Sonderangebot | Seltene Einheiten-Seelensteine sind für begrenzte Zeit im Angebot. Vergiss nicht, dir welche zu besorgen! |  **38** % |  **980x** <i class="fas fa-gem"/>, 1x [Tool_907599](/ItemsDE/con_2133/),  |
   | 39   | 1 May | 6 May | „Schillernde Perle“-Sonderangebot | Schillernde Perlen sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Schillernde Perle](/ItemsDE/con_527/),  |
   | 40   | 1 May | 6 May | „Schillernde Perle“-Sonderangebot | Schillernde Perlen sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **35** % | 50x [Schillernde Perle](/ItemsDE/con_527/),  |
-  | 41   | 1 May | 6 May | „Schillernde Perle“-Sonderangebot | Schillernde Perlen sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **25** % | 100x [Schillernde Perle](/ItemsDE/con_527/),  |
-  | 42   | 1 May | 6 May | „Schillernde Perle“-Sonderangebot | Schillernde Perlen sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **40** % | 20x [Schillernde Perle](/ItemsDE/con_527/),  |
-  | 43   | 2 May | 5 May | „Schwert des Frostes“-Angebot | „Schwert des Frostes“-Komponenten sind für begrenzte Zeit im Sonderangebot! Nicht verpassen! |  **40** % |  **3880x** <i class="fas fa-gem"/>, 1x [„Schwert des Frostes“-Angebot](/ItemsDE/con_1758/),  |
-  | 44   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Tagesangebot-Paket A](/ItemsDE/con_1637/),  |
-  | 45   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **75** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket D](/ItemsDE/con_1640/),  |
-  | 46   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **90** % |  **60x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket B](/ItemsDE/con_1638/),  |
-  | 47   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **70** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket E](/ItemsDE/con_1621/),  |
-  | 48   | 2 May | 5 May | „Orange Artefakte“-Sonderangebot | Orange Artefakte sind für begrenzte Zeit im Angebot. Nicht verpassen! |  |  **6480x** <i class="fas fa-gem"/>, 1x [Premium-Artefakt-Sonderangebot](/ItemsDE/con_1875/),  |
-  | 49   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **80** % |  **300x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket C](/ItemsDE/con_1639/),  |
-  | 50   | 3 May | 10 May | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  |  **60x** <i class="fas fa-gem"/>, 1x [Energie-Paket](/ItemsDE/con_1692/),  |
-  | 51   | 3 May | 10 May | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-Energie-Paket](/ItemsDE/con_1693/),  |
-  | 52   | 3 May | 10 May | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-​Bewegungspaket](/ItemsDE/con_1723/),  |
-  | 53   | 3 May | 5 May | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **50** % |  |
-  | 54   | 3 May | 5 May | „Himmlischer Formstein“-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Himmlischen Formsteinen! Nicht verpassen! |  **20** % |  |
+  | 41   | 1 May | 6 May | „Schillernde Perle“-Sonderangebot | Schillernde Perlen sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **40** % | 20x [Schillernde Perle](/ItemsDE/con_527/),  |
+  | 42   | 1 May | 6 May | „Schillernde Perle“-Sonderangebot | Schillernde Perlen sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **25** % | 100x [Schillernde Perle](/ItemsDE/con_527/),  |
+  | 43   | 2 May | 5 May | „Orange Artefakte“-Sonderangebot | Orange Artefakte sind für begrenzte Zeit im Angebot. Nicht verpassen! |  |  **6480x** <i class="fas fa-gem"/>, 1x [Premium-Artefakt-Sonderangebot](/ItemsDE/con_1875/),  |
+  | 44   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **70** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket E](/ItemsDE/con_1621/),  |
+  | 45   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **80** % |  **300x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket C](/ItemsDE/con_1639/),  |
+  | 46   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **75** % |  **980x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket D](/ItemsDE/con_1640/),  |
+  | 47   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Tagesangebot-Paket A](/ItemsDE/con_1637/),  |
+  | 48   | 2 May | 5 May | „Schwert des Frostes“-Angebot | „Schwert des Frostes“-Komponenten sind für begrenzte Zeit im Sonderangebot! Nicht verpassen! |  **40** % |  **3880x** <i class="fas fa-gem"/>, 1x [„Schwert des Frostes“-Angebot](/ItemsDE/con_1758/),  |
+  | 49   | 2 May | 5 May | Fraktion-Sonderangebot-Pakete | Fraktion-Sonderangebot-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  **90** % |  **60x** <i class="fas fa-gem"/>, 1x [Tagesangebot-Paket B](/ItemsDE/con_1638/),  |
+  | 50   | 3 May | 5 May | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **60** % |  |
+  | 51   | 3 May | 5 May | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **50** % |  |
+  | 52   | 3 May | 5 May | „Himmlischer Formstein“-Sonderangebot | Fantastische Rabatte auf begrenzte Mengen von Himmlischen Formsteinen! Nicht verpassen! |  **20** % |  |
+  | 53   | 3 May | 10 May | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  |  **60x** <i class="fas fa-gem"/>, 1x [Energie-Paket](/ItemsDE/con_1692/),  |
+  | 54   | 3 May | 10 May | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-​Bewegungspaket](/ItemsDE/con_1723/),  |
   | 55   | 3 May | 10 May | Bewegung-Sonderangebot | Bewegung ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **40** % |  **60x** <i class="fas fa-gem"/>, 1x [Bewegungspaket](/ItemsDE/con_1722/),  |
-  | 56   | 3 May | 5 May | Alleskönner-Vorratspaket | Alleskönner-Vorratspakete werden in begrenzten Mengen verkauft. Komm und schnapp dir deins! |  **60** % |  |
-  | 57   | 5 May | 9 May | Mehrfachwahl- Formstein-Paket | Mehrfachwahl-Formstein-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **20** % | 1x [Mehrfachwahl- Formstein-Paket](/ItemsDE/con_1480/),  |
-  | 58   | 5 May | 9 May | Mehrfachwahl- Formstein-Paket | Mehrfachwahl-Formstein-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Mehrfachwahl- Formstein-Paket](/ItemsDE/con_1480/),  |
-  | 59   | 5 May | 10 May | „Lila Artefakt“-Sonderangebot | Bestimmte lila Artefakt-Komponententruhen sind im Angebot! Nicht verpassen! |  **95** % |  **60x** <i class="fas fa-gem"/>, 1x [„Episches Artefakt“-Auswahl-Sonderangebot](/ItemsDE/con_1925/),  |
+  | 56   | 3 May | 10 May | Energie-Sonderangebot | Energie ist als zeitbegrenztes Sonderangebot erhältlich. Nicht verpassen! |  **50** % |  **180x** <i class="fas fa-gem"/>, 1x [Premium-Energie-Paket](/ItemsDE/con_1693/),  |
+  | 57   | 5 May | 10 May | „Lila Artefakt“-Sonderangebot | Bestimmte lila Artefakt-Komponententruhen sind im Angebot! Nicht verpassen! |  **95** % |  **60x** <i class="fas fa-gem"/>, 1x [„Episches Artefakt“-Auswahl-Sonderangebot](/ItemsDE/con_1925/),  |
+  | 58   | 5 May | 9 May | Mehrfachwahl- Formstein-Paket | Mehrfachwahl-Formstein-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  A **20** % | 1x [Mehrfachwahl- Formstein-Paket](/ItemsDE/con_1480/),  |
+  | 59   | 5 May | 9 May | Mehrfachwahl- Formstein-Paket | Mehrfachwahl-Formstein-Pakete sind für begrenzte Zeit verfügbar. Schau sie dir im Shop an! |  | 1x [Mehrfachwahl- Formstein-Paket](/ItemsDE/con_1480/),  |

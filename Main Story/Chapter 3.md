@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 Schutzengel"
 permalink: /Main Story/Chapter 3/
 excerpt: "Kapitel 3. Era of Chaos  Hauptstory - Kapitel 3. Schutzengel"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 3.md"
 toc: false
@@ -30,35 +30,35 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **2 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **2 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **3 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **1500x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **1x** [Zentaur](/de/units/Centaur/)
+ Belohnung 1:  **1x** [Zentaur](/de/units/Centaur/)
 
- Reward 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **15000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **2000x** [Einheiten-ERF](/ItemsDE/con_902/)
 

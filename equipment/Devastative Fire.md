@@ -2,7 +2,7 @@
 title: "Verheerendes Feuer"
 permalink: /equipment/Devastative Fire/
 excerpt: "Era of Chaos Verheerendes Feuer. Verheerendes Feuer"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Devastative Fire.md"
 toc: false

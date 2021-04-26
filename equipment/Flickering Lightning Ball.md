@@ -2,7 +2,7 @@
 title: "Flackernder Kugelblitz"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "Era of Chaos Flackernder Kugelblitz. Flackernder Kugelblitz"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Flickering Lightning Ball.md"
 toc: false

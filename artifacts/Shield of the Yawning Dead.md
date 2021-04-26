@@ -2,7 +2,7 @@
 title: "Artefakt - Rüstung der Verdammten - Schild der gähnenden Toten"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "Era of Chaos  Rüstung der Verdammten - Schild der gähnenden Toten. Ein Schild aus Knochen von Untoten. Eine der Komponenten für die Rüstung der Verdammten."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Shield of the Yawning Dead.md"
 toc: false

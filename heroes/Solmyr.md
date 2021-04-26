@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr saß über tausend Jahre in einer Dschinnflasche fest und ist seinem Befreier, Gavin Magnus, dem ewigen Herrscher über das Hochland von Bracada, ewig dankbar und hat ihm immerwährende Treue geschworen."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Solmyr"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Zauberer](/images/h/h_prof_15.png)  [Zauberer](/de/heroes/Profession Wizard/)
 
- **Fraktion::** [Turm](/de/heroes/Faction Tower/)
+ **Fraktion:** [Turm](/de/heroes/Faction Tower/)
 
  **Rang:** [SR+](/de/heroes/Hero Rank SR+/)
 

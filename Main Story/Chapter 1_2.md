@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-2 Schlossruine"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Kapitel 1 - 2. Era of Chaos  Hauptstory - Kapitel 1_2. 1-2 Schlossruine"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 1_2.md"
 toc: false

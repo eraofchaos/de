@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-10 Schwefelstadt"
 permalink: /Main Story/Chapter 30_10/
 excerpt: "Kapitel 30 - 10. Era of Chaos  Hauptstory - Kapitel 30_10. 30-10 Schwefelstadt"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 30_10.md"
 toc: false

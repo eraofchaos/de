@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina war eine äußerst vielversprechende junge Dame, doch sie wurde aus Bracada verbannt, nachdem man entdeckte, dass sie Lebende mit ihrer Magie in Untote verwandelte. Ihr Ausschluss führte dazu, dass sie endgültig auf dem Pfad des Bösen wandelte."
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Vidomina"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Totenbeschwörer](/images/h/h_prof_6.png)  [Totenbeschwörer](/de/heroes/Profession Necromancer/)
 
- **Fraktion::** [Nekropolis](/de/heroes/Faction Necropolis/)
+ **Fraktion:** [Nekropolis](/de/heroes/Faction Necropolis/)
 
  **Rang:** [SR+](/de/heroes/Hero Rank SR+/)
 

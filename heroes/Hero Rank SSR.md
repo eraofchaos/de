@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "Era of Chaos Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Hero Rank SSR"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/de/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/de/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/de/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/de/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/de/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Name    |  Fraktion:   |  Profession   |  Rang  |    Specialty     | User Rate  | 
+  | Nr |  I |    Name    |  Fraktion  |  Profession   |  Rang  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Roland](/images/h/h_Roland.jpg) | [Roland](/de/heroes/Roland/) | Schloss | Ritter | **SSR** |  Erhöhte Moral | SR+ |
   | 2 | ![Ciele](/images/h/h_Ciele.jpg) | [Ciele](/de/heroes/Ciele/) | Konflux | Elementarist | **SSR** |  Elementar-Resonanz | SSR |

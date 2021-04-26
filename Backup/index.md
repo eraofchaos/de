@@ -2,7 +2,7 @@
 title: "Schlachtfeldreserve"
 permalink: /Backup/
 excerpt: "Era of Chaos  Schlachtfeldreserve - Magierinnen können ein Raumportal auf dem Schlachtfeld öffnen und 3 Hilfseinheiten dorthin holen, während sie eine starke Zauber-Aura erzeugen. Die Gegner werden erzittern."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "index.md"
 toc: false
@@ -13,14 +13,14 @@ classes: wide
 
   Magierinnen können ein Raumportal auf dem Schlachtfeld öffnen und 3 Hilfseinheiten dorthin holen, während sie eine starke Zauber-Aura erzeugen. Die Gegner werden erzittern.
 
-  |  Nr  | Schlachtfeldreserve | Open Level | Spezialfähigkeit | Schlachtfeldfähigkeit | Globale Fähigkeit |
-  |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Ansturmoffensive](/de/Backup/Charge Offensive/) |  | Ansturmsoffensive | Stürmischer Angriff | Speerspitze |
-  | 2  | [Lunas Segen](/de/Backup/Blessing of Luna/) | 80 | Lunas Segen | Heilen | Energiekraft |
-  | 3  | [Schlitzer des Todes](/de/Backup/Scythe of the Death/) | 85 | Schlitzer des Todes | Peinigen | Gelehrsamkeit |
-  | 4  | [Arktischer Befehl](/de/Backup/Arctic Coercion/) | 89 | Arktischer Befehl | Mächtige Energie | Nahrung |
-  | 5  | [Zauberbefehlskreis](/de/Backup/Spell Commandment/) | 93 | Zauberbefehlskreis | Kraftfeld | Erglühen |
-  | 6  | [Jagd im Wald](/de/Backup/Hunt in the Forest/) | 97 | Jagd im Wald | Ansporn | Ermächtigung |
+  |  Nr  | Icon | Schlachtfeldreserve | Open Level | Spezialfähigkeit | Schlachtfeldfähigkeit | Globale Fähigkeit |
+  |:-----|------|:---------------|:----------:|:--------------|:--------------|:-------------|
+  | 1  | ![Ansturmoffensive](/images/b/backupIcon_1.png) | [Ansturmoffensive](/de/Backup/Charge Offensive/) |  | Ansturmsoffensive | Stürmischer Angriff | Speerspitze |
+  | 2  | ![Lunas Segen](/images/b/backupIcon_2.png) | [Lunas Segen](/de/Backup/Blessing of Luna/) | 80 | Lunas Segen | Heilen | Energiekraft |
+  | 3  | ![Schlitzer des Todes](/images/b/backupIcon_3.png) | [Schlitzer des Todes](/de/Backup/Scythe of the Death/) | 85 | Schlitzer des Todes | Peinigen | Gelehrsamkeit |
+  | 4  | ![Arktischer Befehl](/images/b/backupIcon_4.png) | [Arktischer Befehl](/de/Backup/Arctic Coercion/) | 89 | Arktischer Befehl | Mächtige Energie | Nahrung |
+  | 5  | ![Zauberbefehlskreis](/images/b/backupIcon_6.png) | [Zauberbefehlskreis](/de/Backup/Spell Commandment/) | 93 | Zauberbefehlskreis | Kraftfeld | Erglühen |
+  | 6  | ![Jagd im Wald](/images/b/backupIcon_5.png) | [Jagd im Wald](/de/Backup/Hunt in the Forest/) | 97 | Jagd im Wald | Ansporn | Ermächtigung |
 
 
 ## Spezialfähigkeit Level up costs:

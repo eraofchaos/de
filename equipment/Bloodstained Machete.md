@@ -2,7 +2,7 @@
 title: "Blutverschmierte Machete"
 permalink: /equipment/Bloodstained Machete/
 excerpt: "Era of Chaos Blutverschmierte Machete. Blutverschmierte Machete"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Bloodstained Machete.md"
 toc: false

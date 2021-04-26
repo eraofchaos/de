@@ -2,7 +2,7 @@
 title: "Schutzriemen"
 permalink: /equipment/Protective Strap/
 excerpt: "Era of Chaos Schutzriemen. Schutzriemen"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Protective Strap.md"
 toc: false

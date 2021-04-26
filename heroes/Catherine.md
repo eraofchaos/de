@@ -4,7 +4,7 @@ permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Catherine ist die Königin von Erathia und deshalb gezwungen, Krieg zu führen, um das Königreich ihres Vaters zu beschützen. Sie wird bis zum finalen Showdown der Armageddonklinge kämpfen."
 heroID: 60102
 QR: hero_60102
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Catherine"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Ritter](/images/h/h_prof_1.png)  [Ritter](/de/heroes/Profession Knight/)
 
- **Fraktion::** [Schloss](/de/heroes/Faction Castle/)
+ **Fraktion:** [Schloss](/de/heroes/Faction Castle/)
 
  **Rang:** [R](/de/heroes/Hero Rank R/)
 

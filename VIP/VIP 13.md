@@ -2,7 +2,7 @@
 title: "VIP - VIP 13"
 permalink: /VIP/VIP 13/
 excerpt: "Era of Chaos  VIP-System. VIP 13"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "VIP 13.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
 
 ## Details
 
- **Reward:** **1x** [Premiumpaket V13](/ItemsDE/con_1309/)
+ **Belohnung:** **1x** [Premiumpaket V13](/ItemsDE/con_1309/)
 
  **EXP:** 80000
 

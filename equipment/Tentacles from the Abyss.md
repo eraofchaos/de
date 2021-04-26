@@ -2,7 +2,7 @@
 title: "Abgrundtentakel"
 permalink: /equipment/Tentacles from the Abyss/
 excerpt: "Era of Chaos Abgrundtentakel. Abgrundtentakel"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Tentacles from the Abyss.md"
 toc: false

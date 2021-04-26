@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 Tunnel und Troglodyten"
 permalink: /Main Story/Chapter 20/
 excerpt: "Kapitel 20. Era of Chaos  Hauptstory - Kapitel 20. Tunnel und Troglodyten"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 20.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Abschließen Kapitel 20
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Belohnung:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **15 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **15 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **50000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **5000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **20 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **20 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **80000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **8000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Belohnung 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2: **25 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **25 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **10000x** [Einheiten-ERF](/ItemsDE/con_902/)
 

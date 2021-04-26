@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-3 Jahreszeiten im Untergrund"
 permalink: /Main Story/Chapter 25_3/
 excerpt: "Kapitel 25 - 3. Era of Chaos  Hauptstory - Kapitel 25_3. 25-3 Jahreszeiten im Untergrund"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 25_3.md"
 toc: false

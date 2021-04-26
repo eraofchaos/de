@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 7 Grenzländer"
 permalink: /Underground/Chapter 7/
 excerpt: "Kapitel 7 Grenzländer. Era of Chaos  Untergrund - Kapitel 7. Grenzländer"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 7.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **350x** <i class="fas fa-gem"/>
+ Belohnung 1:  **350x** <i class="fas fa-gem"/>
 
- Reward 2:  **50000x** <i class="fas fa-coins"/>
+ Belohnung 2:  **50000x** <i class="fas fa-coins"/>
 
- Reward 3: **90 x** Star Points
+ Belohnung 3: **90 x** Star Points
 
- Reward 4: **15 x** [Rashka](/ItemsDE/her_384/){: .btn .btn--era5}
+ Belohnung 4: **15 x** [Rashka](/ItemsDE/her_384/){: .btn .btn--era5}
 

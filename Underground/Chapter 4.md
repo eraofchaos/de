@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 4 Ein teuflischer Plan"
 permalink: /Underground/Chapter 4/
 excerpt: "Kapitel 4 Ein teuflischer Plan. Era of Chaos  Untergrund - Kapitel 4. Ein teuflischer Plan"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 4.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **250x** <i class="fas fa-gem"/>
+ Belohnung 1:  **250x** <i class="fas fa-gem"/>
 
- Reward 2:  **30000x** <i class="fas fa-coins"/>
+ Belohnung 2:  **30000x** <i class="fas fa-coins"/>
 
- Reward 3: **60 x** Star Points
+ Belohnung 3: **60 x** Star Points
 
- Reward 4: **15 x** [Catherine](/ItemsDE/her_361/){: .btn .btn--era5}
+ Belohnung 4: **15 x** [Catherine](/ItemsDE/her_361/){: .btn .btn--era5}
 

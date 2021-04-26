@@ -2,7 +2,7 @@
 title: "Schulterschutz der Flamme"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "Era of Chaos Schulterschutz der Flamme. Schulterschutz der Flamme"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Pauldrons of Flame.md"
 toc: false

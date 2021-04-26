@@ -4,7 +4,7 @@ permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandras herausragende Kampffähigkeiten verdankt sie ihrer spartanischen Erziehung. Nachdem die Spartaner sie auf dem Berg Taygetos ihrem Tod überlassen hatten, wurde sie zur Söldnerin."
 heroID: 62001
 QR: hero_62001
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Kassandra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:**  [Unknown](/de/heroes/Profession Unknown/)
 
- **Fraktion::** [Neutrale Armee](/de/heroes/Faction Neutral Army/)
+ **Fraktion:** [Neutrale Armee](/de/heroes/Faction Neutral Army/)
 
  **Rang:** [SSR-](/de/heroes/Hero Rank SSR-/)
 

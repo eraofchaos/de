@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-6 Königsmeuchler"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "Kapitel 21 - 6. Era of Chaos  Hauptstory - Kapitel 21_6. 21-6 Königsmeuchler"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 21_6.md"
 toc: false

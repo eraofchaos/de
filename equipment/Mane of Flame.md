@@ -2,7 +2,7 @@
 title: "Flammenmähne"
 permalink: /equipment/Mane of Flame/
 excerpt: "Era of Chaos Flammenmähne. Flammenmähne"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Mane of Flame.md"
 toc: false

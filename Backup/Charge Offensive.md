@@ -2,7 +2,7 @@
 title: "Backup - Ansturmoffensive"
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Ansturmoffensive"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Charge Offensive.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
 
 
 ## Spezialfähigkeit - **Ansturmsoffensive** 
+
+  ![Ansturmsoffensive](/images/b/backupIcon_1.png)
 
  **Skill Power:** 1204
 
@@ -50,6 +52,8 @@ classes: wide
 
 ## Schlachtfeldfähigkeit - **Stürmischer Angriff** 
 
+  ![Stürmischer Angriff](/images/b/backupSkill1Icon_1.png)
+
  **Schlachtfeldfähigkeit Power:** 1060
 
  **Schlachtfeldfähigkeit Unlock:** 5x [Energierolle](/ItemsDE/con_830/)
@@ -74,6 +78,8 @@ classes: wide
 
 
 ## Globale Fähigkeit - **Speerspitze** 
+
+  ![Speerspitze](/images/b/backupSkill2Icon_1.png)
 
  **Globale Fähigkeit Power:** 1076
 

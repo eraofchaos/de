@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-14 Schmetterlingsflügel"
 permalink: /Main Story/Chapter 24_14/
 excerpt: "Kapitel 24 - 14. Era of Chaos  Hauptstory - Kapitel 24_14. 24-14 Schmetterlingsflügel"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 24_14.md"
 toc: false

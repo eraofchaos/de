@@ -2,7 +2,7 @@
 title: "Drachenschuppen-Rüstung"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "Era of Chaos Drachenschuppen-Rüstung. Drachenschuppen-Rüstung"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Dragon Scale Armor.md"
 toc: false

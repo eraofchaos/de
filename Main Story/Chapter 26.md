@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 Die Führung ausbauen"
 permalink: /Main Story/Chapter 26/
 excerpt: "Kapitel 26. Era of Chaos  Hauptstory - Kapitel 26. Die Führung ausbauen"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 26.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Abschließen Kapitel 26
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Belohnung:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Belohnung 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **30 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **30 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **200000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **50000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Belohnung 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **40 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **40 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **300000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **80000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **80000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1: **50 x** [Stein-Wasserspeier](/ItemsDE/unt_236/){: .btn .btn--era4}
+ Belohnung 1: **50 x** [Stein-Wasserspeier](/ItemsDE/unt_236/){: .btn .btn--era4}
 
- Reward 2: **50 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **50 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **500000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **500000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **100000x** [Einheiten-ERF](/ItemsDE/con_902/)
 

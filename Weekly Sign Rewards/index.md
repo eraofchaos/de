@@ -2,7 +2,7 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "index.md"
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 #### 2021 Week 18  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **3 May** | **5x [Imp](/ItemsDE/unt_226/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **4 May** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Gogs schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -23,7 +23,7 @@ toc: true
 
 #### 2021 Week 17  Buchtwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **26 Apr** | **3x [Meerelementar](/ItemsDE/unt_275/)**  | Ein Trupp von Meerelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **27 Apr** | **3x [Regnanpirat](/ItemsDE/unt_273/)**  | Ein Trupp von Regnanpiraten schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -36,7 +36,7 @@ toc: true
 
 #### 2021 Week 16  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **19 Apr** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **20 Apr** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Wolfsreitern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -49,7 +49,7 @@ toc: true
 
 #### 2021 Week 15  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **12 Apr** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **13 Apr** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -62,7 +62,7 @@ toc: true
 
 #### 2021 Week 14  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **5 Apr** | **3x [Skelett](/ItemsDE/unt_208/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **6 Apr** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Wandelnder Toter schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -75,7 +75,7 @@ toc: true
 
 #### 2021 Week 13  Dungeonwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **29 Mar** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **30 Mar** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Harpyien schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -88,7 +88,7 @@ toc: true
 
 #### 2021 Week 12  Festungswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **22 Mar** | **5x [Gnoll](/ItemsDE/unt_253/)**  | Ein Trupp von Gnolls schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **23 Mar** | **5x [Festung-Fraktion-Truhe](/ItemsDE/con_1277/)**  | Eure Festungstruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
@@ -101,7 +101,7 @@ toc: true
 
 #### 2021 Week 11  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **15 Mar** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **16 Mar** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -114,7 +114,7 @@ toc: true
 
 #### 2021 Week 10  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **8 Mar** | **5x [Imp](/ItemsDE/unt_226/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **9 Mar** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Gogs schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -127,7 +127,7 @@ toc: true
 
 #### 2021 Week 9  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **1 Mar** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **2 Mar** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -140,7 +140,7 @@ toc: true
 
 #### 2021 Week 8  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **22 Feb** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **23 Feb** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -153,7 +153,7 @@ toc: true
 
 #### 2021 Week 7  Buchtwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **15 Feb** | **3x [Meerelementar](/ItemsDE/unt_275/)**  | Ein Trupp von Meerelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **16 Feb** | **3x [Regnanpirat](/ItemsDE/unt_273/)**  | Ein Trupp von Regnanpiraten schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -166,7 +166,7 @@ toc: true
 
 #### 2021 Week 6  Schutzwallwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **8 Feb** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **9 Feb** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -179,7 +179,7 @@ toc: true
 
 #### 2021 Week 5  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **1 Feb** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **2 Feb** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Wolfsreitern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -192,7 +192,7 @@ toc: true
 
 #### 2021 Week 4  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **25 Jan** | **3x [Skelett](/ItemsDE/unt_208/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **26 Jan** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Wandelnder Toter schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -205,7 +205,7 @@ toc: true
 
 #### 2021 Week 3  Festungswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **18 Jan** | **5x [Gnoll](/ItemsDE/unt_253/)**  | Ein Trupp von Gnolls schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **19 Jan** | **5x [Festung-Fraktion-Truhe](/ItemsDE/con_1277/)**  | Eure Festungstruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
@@ -218,7 +218,7 @@ toc: true
 
 #### 2021 Week 2  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **11 Jan** | **5x [Imp](/ItemsDE/unt_226/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **12 Jan** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Gogs schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -231,7 +231,7 @@ toc: true
 
 #### 2021 Week 1  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **4 Jan** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **5 Jan** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -244,7 +244,7 @@ toc: true
 
 #### 2020 Week 52  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **28 Dec** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **29 Dec** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -257,7 +257,7 @@ toc: true
 
 #### 2020 Week 51  Dungeonwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **21 Dec** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **22 Dec** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Harpyien schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -270,7 +270,7 @@ toc: true
 
 #### 2020 Week 50  Schutzwallwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **14 Dec** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **15 Dec** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -283,7 +283,7 @@ toc: true
 
 #### 2020 Week 49  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **7 Dec** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **8 Dec** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -296,7 +296,7 @@ toc: true
 
 #### 2020 Week 48  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **30 Nov** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **1 Dec** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -309,7 +309,7 @@ toc: true
 
 #### 2020 Week 47  Buchtwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **23 Nov** | **3x [Meerelementar](/ItemsDE/unt_275/)**  | Ein Trupp von Meerelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **24 Nov** | **3x [Regnanpirat](/ItemsDE/unt_273/)**  | Ein Trupp von Regnanpiraten schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -322,7 +322,7 @@ toc: true
 
 #### 2020 Week 46  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **16 Nov** | **3x [Skelett](/ItemsDE/unt_208/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **17 Nov** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Wandelnder Toter schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -335,7 +335,7 @@ toc: true
 
 #### 2020 Week 45  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **9 Nov** | **5x [Imp](/ItemsDE/unt_226/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **10 Nov** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Gogs schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -348,7 +348,7 @@ toc: true
 
 #### 2020 Week 44  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **2 Nov** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **3 Nov** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Wolfsreitern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -361,7 +361,7 @@ toc: true
 
 #### 2020 Week 43  Dungeonwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **26 Oct** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **27 Oct** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Harpyien schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -374,7 +374,7 @@ toc: true
 
 #### 2020 Week 42  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **19 Oct** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **20 Oct** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -387,7 +387,7 @@ toc: true
 
 #### 2020 Week 41  Festungswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **12 Oct** | **5x [Gnoll](/ItemsDE/unt_253/)**  | Ein Trupp von Gnolls schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **13 Oct** | **5x [Festung-Fraktion-Truhe](/ItemsDE/con_1277/)**  | Eure Festungstruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
@@ -400,7 +400,7 @@ toc: true
 
 #### 2020 Week 40  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **5 Oct** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **6 Oct** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -413,7 +413,7 @@ toc: true
 
 #### 2020 Week 39  Schutzwallwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **28 Sep** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **29 Sep** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -426,7 +426,7 @@ toc: true
 
 #### 2020 Week 38  Dungeonwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **21 Sep** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **22 Sep** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Harpyien schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -439,7 +439,7 @@ toc: true
 
 #### 2020 Week 37  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **14 Sep** | **3x [Skelett](/ItemsDE/unt_208/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **15 Sep** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Wandelnder Toter schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -452,7 +452,7 @@ toc: true
 
 #### 2020 Week 36  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **7 Sep** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **8 Sep** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -465,7 +465,7 @@ toc: true
 
 #### 2020 Week 35  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **31 Aug** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **1 Sep** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Wolfsreitern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -478,7 +478,7 @@ toc: true
 
 #### 2020 Week 34  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **24 Aug** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **25 Aug** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -491,7 +491,7 @@ toc: true
 
 #### 2020 Week 33  Schutzwallwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **17 Aug** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **18 Aug** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -504,7 +504,7 @@ toc: true
 
 #### 2020 Week 32  Dungeonwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **10 Aug** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **11 Aug** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Harpyien schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -517,7 +517,7 @@ toc: true
 
 #### 2020 Week 31  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **3 Aug** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **4 Aug** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -530,7 +530,7 @@ toc: true
 
 #### 2020 Week 30  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **27 Jul** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **28 Jul** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -543,7 +543,7 @@ toc: true
 
 #### 2020 Week 29  Festungswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **20 Jul** | **5x [Gnoll](/ItemsDE/unt_253/)**  | Ein Trupp von Gnolls schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **21 Jul** | **5x [Festung-Fraktion-Truhe](/ItemsDE/con_1277/)**  | Eure Festungstruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
@@ -556,7 +556,7 @@ toc: true
 
 #### 2020 Week 28  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **13 Jul** | **5x [Imp](/ItemsDE/unt_226/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **14 Jul** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Gogs schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -569,7 +569,7 @@ toc: true
 
 #### 2020 Week 27  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **6 Jul** | **3x [Skelett](/ItemsDE/unt_208/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **7 Jul** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Wandelnder Toter schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -582,7 +582,7 @@ toc: true
 
 #### 2020 Week 26  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **29 Jun** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **30 Jun** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Wolfsreitern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -595,7 +595,7 @@ toc: true
 
 #### 2020 Week 25  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **22 Jun** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **23 Jun** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -608,7 +608,7 @@ toc: true
 
 #### 2020 Week 24  Schutzwallwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **15 Jun** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **16 Jun** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -621,7 +621,7 @@ toc: true
 
 #### 2020 Week 23  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **8 Jun** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **9 Jun** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -634,7 +634,7 @@ toc: true
 
 #### 2020 Week 22  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **1 Jun** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **2 Jun** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -647,7 +647,7 @@ toc: true
 
 #### 2020 Week 21  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **25 May** | **5x [Imp](/ItemsDE/unt_226/)**  | Held Zydar führt diese Infernoschergen zu Eurem Lager, nun gehören sie zu Euch! |
   | **26 May** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -660,7 +660,7 @@ toc: true
 
 #### 2020 Week 20  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **18 May** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Psy-Elementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **19 May** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -673,7 +673,7 @@ toc: true
 
 #### 2020 Week 19  Dungeonwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **11 May** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Dem Rat des uralten Drachen folgend, schloss Mutare sich Eurer Armee an! |
   | **12 May** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -686,7 +686,7 @@ toc: true
 
 #### 2020 Week 18  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **4 May** | **3x [Skelett](/ItemsDE/unt_208/)**  | Vidomina ist fasziniert von Euren untoten Kriegern, sie möchte sich Euch anschließen! |
   | **5 May** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -699,7 +699,7 @@ toc: true
 
 #### 2020 Week 17  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **27 Apr** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp Rocs schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **28 Apr** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -712,7 +712,7 @@ toc: true
 
 #### 2020 Week 16  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **20 Apr** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **21 Apr** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -725,7 +725,7 @@ toc: true
 
 #### 2020 Week 15  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **13 Apr** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Eure Erforschung des Arkanen brachte Solmyr dazu, sich Eurer Armee anzuschließen! |
   | **14 Apr** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -738,7 +738,7 @@ toc: true
 
 #### 2020 Week 14  Dungeonwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **6 Apr** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Dem Rat des uralten Drachen folgend, schloss Mutare sich Eurer Armee an! |
   | **7 Apr** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -751,7 +751,7 @@ toc: true
 
 #### 2020 Week 13  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **30 Mar** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Psy-Elementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **31 Mar** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -764,7 +764,7 @@ toc: true
 
 #### 2020 Week 12  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **23 Mar** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp Rocs schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **24 Mar** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -777,7 +777,7 @@ toc: true
 
 #### 2020 Week 11  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **16 Mar** | **5x [Imp](/ItemsDE/unt_226/)**  | Held Zydar führt diese Infernoschergen zu Eurem Lager, nun gehören sie zu Euch! |
   | **17 Mar** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -790,7 +790,7 @@ toc: true
 
 #### 2020 Week 10  Schutzwallwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **9 Mar** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Held Ryland schätzt Eure Taten zum Schutz der Natur, er möchte Euch dienen! |
   | **10 Mar** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -803,7 +803,7 @@ toc: true
 
 #### 2020 Week 9  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **2 Mar** | **3x [Skelett](/ItemsDE/unt_208/)**  | Vidomina ist fasziniert von Euren untoten Kriegern, sie möchte sich Euch anschließen! |
   | **3 Mar** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -816,7 +816,7 @@ toc: true
 
 #### 2020 Week 8  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **24 Feb** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Eure Erforschung des Arkanen brachte Solmyr dazu, sich Eurer Armee anzuschließen! |
   | **25 Feb** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -829,7 +829,7 @@ toc: true
 
 #### 2020 Week 7  Schlosswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **17 Feb** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Magier, der die Kraft des Schnees beherrscht, hat Euer Gebiet besucht! |
   | **18 Feb** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -842,7 +842,7 @@ toc: true
 
 #### 2020 Week 6  Konfluxwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **10 Feb** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Psy-Elementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **11 Feb** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -855,7 +855,7 @@ toc: true
 
 #### 2020 Week 5  Burgwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **3 Feb** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp Rocs schloss sich Eurer Armee an, Ihr werdet stärker! |
   | **4 Feb** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -868,7 +868,7 @@ toc: true
 
 #### 2020 Week 4  Infernowoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **27 Jan** | **5x [Imp](/ItemsDE/unt_226/)**  | Held Zydar führt diese Infernoschergen zu Eurem Lager, nun gehören sie zu Euch! |
   | **28 Jan** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -881,7 +881,7 @@ toc: true
 
 #### 2020 Week 3  Schutzwallwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **20 Jan** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Held Ryland schätzt Eure Taten zum Schutz der Natur, er möchte Euch dienen! |
   | **21 Jan** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -894,7 +894,7 @@ toc: true
 
 #### 2020 Week 2  Nekropoliswoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **13 Jan** | **3x [Skelett](/ItemsDE/unt_208/)**  | Vidomina ist fasziniert von Euren untoten Kriegern, sie möchte sich Euch anschließen! |
   | **14 Jan** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
@@ -907,7 +907,7 @@ toc: true
 
 #### 2020 Week 1  Turmwoche
 
-  |  Date  |      Reward    |    Reward Beschreibung    |
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
   |:-------|:---------------|:------------------------:|
   | **6 Jan** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Eure Erforschung des Arkanen brachte Solmyr dazu, sich Eurer Armee anzuschließen! |
   | **7 Jan** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |

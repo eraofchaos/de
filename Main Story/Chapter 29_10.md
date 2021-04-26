@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-10 Die Stadt namens Glück"
 permalink: /Main Story/Chapter 29_10/
 excerpt: "Kapitel 29 - 10. Era of Chaos  Hauptstory - Kapitel 29_10. 29-10 Die Stadt namens Glück"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 29_10.md"
 toc: false

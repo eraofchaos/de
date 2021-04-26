@@ -2,7 +2,7 @@
 title: "Artefakt - Edenapfel - Kristallschädel"
 permalink: /artifacts/Crystal Skull/
 excerpt: "Era of Chaos  Edenapfel - Kristallschädel. Ein Schädel aus Kristall, erschaffen von einer unbekannten Zivilisation. Mit ihm kann man in die Herzen der Menschen sehen."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Crystal Skull.md"
 toc: false

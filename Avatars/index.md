@@ -2,7 +2,7 @@
 title: "Avatarrahmen & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatarrahmen & Avatar. Avatarrahmen & Avatar"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "index.md"
 toc: false
@@ -92,7 +92,7 @@ classes: wide
   | 79 | ![Tiefeneis-Kristall](/images/a/avatarFrame_91.png) | [Tiefeneis-Kristall](/de/Avatars/Deep Ice Crystal/) | + | Tiefeneis-Kristall-Avatarrahmen |
   | 80 | ![Todesreich](/images/a/avatarFrame_86.png) | [Todesreich](/de/Avatars/Death Kingdom/) | - | Todesreich-Avatarrahmen |
   | 81 | ![Turm](/images/a/avatarFrame_5.png) | [Turm](/de/Avatars/Tower/) | - | Turm-Avatarrahmen |
-  | 82 |  | [Tödlicher Kommandant](/de/Avatars/Deadly Commander/) | + | „Tödlicher Kommandant“-Avatarrahmen |
+  | 82 | ![Tödlicher Kommandant](/images/a/avatarFrame_21.png) | [Tödlicher Kommandant](/de/Avatars/Deadly Commander/) | + | „Tödlicher Kommandant“-Avatarrahmen |
   | 83 | ![Unknown Avatar Frame 1007](/images/a/avatarFrame_7.png) | [Unknown Avatar Frame 1007](/de/Avatars/Unknown Avatar Frame 1007/) | - |  |
   | 84 | ![Unknown Avatar Frame 1008](/images/a/avatarFrame_8.png) | [Unknown Avatar Frame 1008](/de/Avatars/Unknown Avatar Frame 1008/) | - |  |
   | 85 | ![Unknown Avatar Frame 1016](/images/a/avatarFrame_16.png) | [Unknown Avatar Frame 1016](/de/Avatars/Unknown Avatar Frame 1016/) | - |  |

@@ -2,7 +2,7 @@
 title: "Backup - Zauberbefehlskreis"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Zauberbefehlskreis"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Spell Commandment.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Spezialfähigkeit - **Zauberbefehlskreis** 
 
+  ![Zauberbefehlskreis](/images/b/backupIcon_6.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Schlachtfeldfähigkeit - **Kraftfeld** 
 
+  ![Kraftfeld](/images/b/backupSkill1Icon_6.png)
+
  **Schlachtfeldfähigkeit Power:** 1060
 
  **Schlachtfeldfähigkeit Unlock:** 5x [Energierolle](/ItemsDE/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Globale Fähigkeit - **Erglühen** 
+
+  ![Erglühen](/images/b/backupSkill2Icon_6.png)
 
  **Globale Fähigkeit Power:** 1076
 

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-7 Anhänger der Leidenschaftslosen"
 permalink: /Main Story/Chapter 10_7/
 excerpt: "Kapitel 10 - 7. Era of Chaos  Hauptstory - Kapitel 10_7. 10-7 Anhänger der Leidenschaftslosen"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 10_7.md"
 toc: false

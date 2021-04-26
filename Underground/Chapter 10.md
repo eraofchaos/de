@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 10 Greifenherz"
 permalink: /Underground/Chapter 10/
 excerpt: "Kapitel 10 Greifenherz. Era of Chaos  Untergrund - Kapitel 10. Greifenherz"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 10.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **400x** <i class="fas fa-gem"/>
+ Belohnung 1:  **400x** <i class="fas fa-gem"/>
 
- Reward 2:  **80000x** <i class="fas fa-coins"/>
+ Belohnung 2:  **80000x** <i class="fas fa-coins"/>
 
- Reward 3: **120 x** Star Points
+ Belohnung 3: **120 x** Star Points
 
- Reward 4: **15 x** [Crag Hack](/ItemsDE/her_375/){: .btn .btn--era5}
+ Belohnung 4: **15 x** [Crag Hack](/ItemsDE/her_375/){: .btn .btn--era5}
 

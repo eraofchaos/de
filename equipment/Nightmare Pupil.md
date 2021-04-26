@@ -2,7 +2,7 @@
 title: "Albtraum-Pupille"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Era of Chaos Albtraum-Pupille. Albtraum-Pupille"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Nightmare Pupil.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Backup - Schlitzer des Todes"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Schlitzer des Todes"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Scythe of the Death.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Spezialfähigkeit - **Schlitzer des Todes** 
 
+  ![Schlitzer des Todes](/images/b/backupIcon_3.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Schlachtfeldfähigkeit - **Peinigen** 
 
+  ![Peinigen](/images/b/backupSkill1Icon_3.png)
+
  **Schlachtfeldfähigkeit Power:** 1060
 
  **Schlachtfeldfähigkeit Unlock:** 5x [Energierolle](/ItemsDE/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Globale Fähigkeit - **Gelehrsamkeit** 
+
+  ![Gelehrsamkeit](/images/b/backupSkill2Icon_3.png)
 
  **Globale Fähigkeit Power:** 1076
 

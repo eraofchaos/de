@@ -2,7 +2,7 @@
 title: "Backup - Jagd im Wald"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Era of Chaos  Jagd im Wald"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Hunt in the Forest.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Spezialfähigkeit - **Jagd im Wald** 
 
+  ![Jagd im Wald](/images/b/backupIcon_5.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Schlachtfeldfähigkeit - **Ansporn** 
 
+  ![Ansporn](/images/b/backupSkill1Icon_5.png)
+
  **Schlachtfeldfähigkeit Power:** 1060
 
  **Schlachtfeldfähigkeit Unlock:** 5x [Energierolle](/ItemsDE/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Globale Fähigkeit - **Ermächtigung** 
+
+  ![Ermächtigung](/images/b/backupSkill2Icon_5.png)
 
  **Globale Fähigkeit Power:** 1076
 

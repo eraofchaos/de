@@ -2,7 +2,7 @@
 title: "Mystische Rüstung"
 permalink: /equipment/Mystic Armor/
 excerpt: "Era of Chaos Mystische Rüstung. Mystische Rüstung"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Mystic Armor.md"
 toc: false

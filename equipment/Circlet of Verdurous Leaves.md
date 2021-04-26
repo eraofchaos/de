@@ -2,7 +2,7 @@
 title: "Reif der grünen Blätter"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "Era of Chaos Reif der grünen Blätter. Reif der grünen Blätter"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Circlet of Verdurous Leaves.md"
 toc: false

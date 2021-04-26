@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-10 Schwacher Widerstand"
 permalink: /Main Story/Chapter 9_10/
 excerpt: "Kapitel 9 - 10. Era of Chaos  Hauptstory - Kapitel 9_10. 9-10 Schwacher Widerstand"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 9_10.md"
 toc: false

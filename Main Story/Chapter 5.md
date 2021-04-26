@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 Byrds"
 permalink: /Main Story/Chapter 5/
 excerpt: "Kapitel 5. Era of Chaos  Hauptstory - Kapitel 5. Byrds"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 5.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Abschließen Kapitel 5
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Belohnung:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **3 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **15000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **1500x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **1x** [Wolfsreiter](/de/units/Wolf Rider/)
+ Belohnung 1:  **1x** [Wolfsreiter](/de/units/Wolf Rider/)
 
- Reward 2: **10 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **10 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **20000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **2000x** [Einheiten-ERF](/ItemsDE/con_902/)
 

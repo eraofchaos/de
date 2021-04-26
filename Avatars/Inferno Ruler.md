@@ -2,7 +2,7 @@
 title: "Avatar - Inferno-Herrscher"
 permalink: /Avatars/Inferno Ruler/
 excerpt: "Era of Chaos  Inferno-Herrscher"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Inferno Ruler.md"
 toc: false

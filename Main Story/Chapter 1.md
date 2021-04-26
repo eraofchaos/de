@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 Abendgraminsel"
 permalink: /Main Story/Chapter 1/
 excerpt: "Kapitel 1. Era of Chaos  Hauptstory - Kapitel 1. Abendgraminsel"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 1.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1: **10 x** [Pikenier](/ItemsDE/unt_190/){: .btn .btn--era3}
+ Belohnung 1: **10 x** [Pikenier](/ItemsDE/unt_190/){: .btn .btn--era3}
 
- Reward 2:  **150x** <i class="fas fa-gem"/>
+ Belohnung 2:  **150x** <i class="fas fa-gem"/>
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **1000x** [Einheiten-ERF](/ItemsDE/con_902/)
 

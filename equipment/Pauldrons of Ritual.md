@@ -2,7 +2,7 @@
 title: "Ritualschulterschutz"
 permalink: /equipment/Pauldrons of Ritual/
 excerpt: "Era of Chaos Ritualschulterschutz. Ritualschulterschutz"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Pauldrons of Ritual.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-12 Von bösem Wesen"
 permalink: /Main Story/Chapter 17_12/
 excerpt: "Kapitel 17 - 12. Era of Chaos  Hauptstory - Kapitel 17_12. 17-12 Von bösem Wesen"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 17_12.md"
 toc: false

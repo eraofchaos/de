@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 Grenzländer"
 permalink: /Main Story/Chapter 8/
 excerpt: "Kapitel 8. Era of Chaos  Hauptstory - Kapitel 8. Grenzländer"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Chapter 8.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Abschließen Kapitel 8
 
- **Reward:** [Rashka](/de/heroes/Rashka/)
+ **Belohnung:** [Rashka](/de/heroes/Rashka/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **5 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **20000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **2000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Belohnung 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **10 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **10 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **30000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **30000x** <i class="fas fa-coins"/>
 
- Reward 4:  **3000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **3000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Erhalt der Belohnung: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **450x** <i class="fas fa-gem"/>
+ Belohnung 1:  **450x** <i class="fas fa-gem"/>
 
- Reward 2: **15 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
+ Belohnung 2: **15 x** [Zauberspruchrollen](/ItemsDE/con_694/){: .btn .btn--era3}
 
- Reward 3:  **50000x** <i class="fas fa-coins"/>
+ Belohnung 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** [Einheiten-ERF](/ItemsDE/con_902/)
+ Belohnung 4:  **5000x** [Einheiten-ERF](/ItemsDE/con_902/)
 
