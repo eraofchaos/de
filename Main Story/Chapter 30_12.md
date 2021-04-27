@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-12 Feuerball-Zielübungen"
 permalink: /Main Story/Chapter 30_12/
 excerpt: "Kapitel 30 - 12. Era of Chaos  Hauptstory - Kapitel 30_12. 30-12 Feuerball-Zielübungen"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 30_12.md"
 toc: false

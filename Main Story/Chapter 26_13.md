@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-13 Vermehrung der Todesfeen"
 permalink: /Main Story/Chapter 26_13/
 excerpt: "Kapitel 26 - 13. Era of Chaos  Hauptstory - Kapitel 26_13. 26-13 Vermehrung der Todesfeen"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 26_13.md"
 toc: false

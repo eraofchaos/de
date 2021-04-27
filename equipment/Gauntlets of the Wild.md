@@ -2,7 +2,7 @@
 title: "Panzerhandschuhe der Wildnis"
 permalink: /equipment/Gauntlets of the Wild/
 excerpt: "Era of Chaos Panzerhandschuhe der Wildnis. Panzerhandschuhe der Wildnis"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Gauntlets of the Wild.md"
 toc: false

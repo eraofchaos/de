@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-15 Sieg oder Tod"
 permalink: /Main Story/Chapter 13_15/
 excerpt: "Kapitel 13 - 15. Era of Chaos  Hauptstory - Kapitel 13_15. 13-15 Sieg oder Tod"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 13_15.md"
 toc: false

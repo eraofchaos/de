@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-7 Windrufturm"
 permalink: /Main Story/Chapter 4_7/
 excerpt: "Kapitel 4 - 7. Era of Chaos  Hauptstory - Kapitel 4_7. 4-7 Windrufturm"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 4_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Dornen (Leprechaun)"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Dornen. Dornen. Era of Chaos Exklusiv Dornen. Leprechaun Exklusiv."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Leprechaun Dornen.md"
 toc: false

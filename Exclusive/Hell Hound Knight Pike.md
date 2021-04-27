@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Höllenhund Exklusiv."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Hell Hound Ritterpike.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Aufladung
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 
@@ -29,9 +29,9 @@ classes: wide
 
   |     Stars    |  Required to Up | Effekt |
   |:-------------|:---------------:|:---------------:|
-  |  Erwachen  | **100x** [Ritterpike-Token](/ItemsDE/con_916/) | Der Höllenhund greift mit allen 3 Köpfen an und erhöht das Angriffstempo um 300 %, verringert aber den SCHD (Einheit) um 20 %. |
+  |  Erwachen  | **100x** [Ritterpike-Token](/ItemsDE/con_916/) | Der Höllenhund greift mit allen 3 Köpfen an und erhöht das Angriffstempo um 200 %, verringert aber den SCHD (Einheit) um 20 %. |
   | **1x** <i class="fas fa-star"/> | **50x** [Ritterpike-Token](/ItemsDE/con_916/) | Erhöht den SCHD (Einheit) des Höllenhundes um 20 %. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ritterpike-Token](/ItemsDE/con_916/) | Erhöht jedes Mal, wenn der Höllenhund angreift, 3 Sek. lang den Krit. Gesamt-SCHD um 5 %. Bis zu 10 Mal stapelbar. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ritterpike-Token](/ItemsDE/con_916/) | Erhöht jedes Mal, wenn der Höllenhund angreift, 3 Sek. lang den Krit. Gesamt-SCHD um 3 %. Bis zu 10 Mal stapelbar. |
   | **3x** <i class="fas fa-star"/> | **130x** [Ritterpike-Token](/ItemsDE/con_916/) | <Lebendig tot> Wenn die LP des Höllenhundes zum ersten Mal unter 66 % und 33 % fallen, wird ein Kopf geopfert und entfernt. Er wird immun gegen alle abnormalen Status, wodurch für 5 Sek. Ausweichen um 2.000 und Zähigkeit um 1.000 erhöht werden. |
   | **4x** <i class="fas fa-star"/> | **170x** [Ritterpike-Token](/ItemsDE/con_916/) | <Anzünden> Der Höllenhund fügt Gegnern in einem bestimmten Radius um ihn herum kontinuierlich den Status Brennen zu und verringert gleichzeitig die Zähigkeit um 200. |
   | **5x** <i class="fas fa-star"/> | **210x** [Ritterpike-Token](/ItemsDE/con_916/) | Bei jedem Angriff des Höllenhundes wird die SCHD-Reduzierung (Einheit) des Ziels 3 Sek. lang um 3 % verringert. Bis zu 8 Mal stapelbar. |

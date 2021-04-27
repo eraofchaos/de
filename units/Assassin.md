@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassine. Assassine Einheiten. null. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Assassine"
 toc: true

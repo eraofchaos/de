@@ -2,7 +2,7 @@
 title: "Avatar - Burg"
 permalink: /Avatars/Stronghold/
 excerpt: "Era of Chaos  Burg"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Stronghold.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-1 Heimlichkeit"
 permalink: /Main Story/Chapter 14_1/
 excerpt: "Kapitel 14 - 1. Era of Chaos  Hauptstory - Kapitel 14_1. 14-1 Heimlichkeit"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 14_1.md"
 toc: false

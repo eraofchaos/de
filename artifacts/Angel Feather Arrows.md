@@ -2,7 +2,7 @@
 title: "Artefakt - Bogen des Meisterschützen - Engelsfedernpfeile"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Era of Chaos  Bogen des Meisterschützen - Engelsfedernpfeile. Ein von Elfen gefertigter magischer Pfeil. Eine der Komponenten für den Bogen des Meisterschützen."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Angel Feather Arrows.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Höllenhund"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Höllenhund. Höllenhund Einheiten. null. Era of Chaos Höllenhunde greifen den Feind mit drei Köpfen an. Ihr Körper ist von glühend heißer Lava überzogen, und ihre Spuren hinterlassen Flammen."
 unitID: 503
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Höllenhund"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Name:** [Ritterpike](/de/Exclusive/Hell Hound Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-6 Die Grenze wiederherstellen"
 permalink: /Main Story/Chapter 12_6/
 excerpt: "Kapitel 12 - 6. Era of Chaos  Hauptstory - Kapitel 12_6. 12-6 Die Grenze wiederherstellen"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 12_6.md"
 toc: false

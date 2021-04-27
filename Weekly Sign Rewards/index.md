@@ -2,11 +2,37 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 20  Schutzwallwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **17 May** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **18 May** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **19 May** | **3x [Pegasus](/ItemsDE/unt_202/)**  | Ein Trupp Pegasi schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **20 May** | **3x [Einhorn](/ItemsDE/unt_204/)**  | Ein Trupp Einhörner schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **21 May** | **3x [Zwerg](/ItemsDE/unt_200/)**  | Ein Trupp Zwerge schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **22 May** | **3x [Dendroidenwache](/ItemsDE/unt_203/)**  | Ein Trupp Dendroidenwachen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **23 May** | **5x [Ryland](/ItemsDE/her_368/)**  | Held Ryland schätzt Eure Taten zum Schutz der Natur, er möchte Euch dienen! |
+
+
+#### 2021 Week 19  Festungswoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **10 May** | **5x [Gnoll](/ItemsDE/unt_253/)**  | Ein Trupp von Gnolls schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **11 May** | **5x [Festung-Fraktion-Truhe](/ItemsDE/con_1277/)**  | Eure Festungstruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
+  | **12 May** | **100x <i class="fas fa-gem"/>**  | Eure Armee fand im dunklen Sumpf jede Menge Schätze! |
+  | **13 May** | **3x [Echsenmensch](/ItemsDE/unt_254/)**  | Ein Trupp von Echsenmenschen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **14 May** | **5x [Festung-Kaderrunen](/ItemsDE/con_818/)**  | Eure Infernotruppe überreicht Euch eine Reihe wertvoller Runen! |
+  | **15 May** | **3x [Schlangenfliege](/ItemsDE/unt_255/)**  | Ein Trupp von Schlangenfliegen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **16 May** | **5x [Korbac](/ItemsDE/her_394/)**  | Ein kühner Bestienmeister hat Euer Gebiet besucht! |
+
 
 #### 2021 Week 18  Infernowoche
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Faction Cove"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Regnanseherin](/images/u/ti_haihou.jpg) | [Regnanseherin](/de/units/Regnan Seer/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Gezeitenelementar  |
-  | 2 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
+  | 2 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
   | 3 | ![Hai-Ausbilder](/images/u/ti_xunshashi.jpg) | [Hai-Ausbilder](/de/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Hai-Reiter  |
   | 4 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 5 | ![Meerelementar](/images/u/ti_haiyuansu.jpg) | [Meerelementar](/de/units/Sea Elemental/) | Zauberer | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Gezeitenelementar  |

@@ -2,7 +2,7 @@
 title: "Artefakt - Engelsbund - Löwenschild des Mutes"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "Era of Chaos  Engelsbund - Löwenschild des Mutes. Ein Symbol der Militärmacht von Greifen-Einheiten. Eine der Komponenten für den Engelsbund."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Lion's Shield of Courage.md"
 toc: false

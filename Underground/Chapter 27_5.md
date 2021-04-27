@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 27 - 27-5 Wirbelgewitter"
 permalink: /Underground/Chapter 27_5/
 excerpt: "Kapitel 27 - 5. Era of Chaos  Untergrund - Kapitel 27_5. 27-5 Wirbelgewitter"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 27_5.md"
 toc: false

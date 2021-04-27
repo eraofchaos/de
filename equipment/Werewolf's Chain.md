@@ -2,7 +2,7 @@
 title: "Werwolfkette"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "Era of Chaos Werwolfkette. Werwolfkette"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Werewolf's Chain.md"
 toc: false

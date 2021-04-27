@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Star 2"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Oger](/images/u/ti_shirenmo.jpg) | [Oger](/de/units/Ogre/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogermagier  |
   | 3 | ![Zyklop](/images/u/ti_duyanjuren.jpg) | [Zyklop](/de/units/Cyclops/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Zyklopenkönig  |
   | 4 | ![Dämon](/images/u/ti_changjiaoemo.jpg) | [Dämon](/de/units/Demon/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Infernowache  |
-  | 5 | ![Höllenhund](/images/u/ti_santouquan.jpg) | [Höllenhund](/de/units/Hell Hound/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 5 | ![Höllenhund](/images/u/ti_santouquan.jpg) | [Höllenhund](/de/units/Hell Hound/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 6 | ![Grottenteufel](/images/u/ti_diyulingzhu.jpg) | [Grottenteufel](/de/units/Pit Fiend/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Foltermeister  |
   | 7 | ![Eisengolem](/images/u/ti_tieren.jpg) | [Eisengolem](/de/units/Iron Golem/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Goldgolem  |
   | 8 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/de/units/Efreeti/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreetsultan  |

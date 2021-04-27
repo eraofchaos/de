@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters - Drachenschild"
 permalink: /artifacts/Dragon Scale Shield/
 excerpt: "Era of Chaos  Macht des Drachenvaters - Drachenschild. Ein Schild, gesegnet mit der Magie des Drachenkönigs. Eine der Komponenten für die Macht des Drachenvaters."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Dragon Scale Shield.md"
 toc: false

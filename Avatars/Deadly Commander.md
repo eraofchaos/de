@@ -2,7 +2,7 @@
 title: "Avatar - Tödlicher Kommandant"
 permalink: /Avatars/Deadly Commander/
 excerpt: "Era of Chaos  Tödlicher Kommandant"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Deadly Commander.md"
 toc: false

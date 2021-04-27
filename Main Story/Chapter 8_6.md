@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-6 Bloßgelegtes Vorhaben"
 permalink: /Main Story/Chapter 8_6/
 excerpt: "Kapitel 8 - 6. Era of Chaos  Hauptstory - Kapitel 8_6. 8-6 Bloßgelegtes Vorhaben"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 8_6.md"
 toc: false

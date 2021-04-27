@@ -2,7 +2,7 @@
 title: "Albtraum-Schulterschutz"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "Era of Chaos Albtraum-Schulterschutz. Albtraum-Schulterschutz"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Nightmare Pauldrons.md"
 toc: false

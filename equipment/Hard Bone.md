@@ -2,7 +2,7 @@
 title: "Harter Knochen"
 permalink: /equipment/Hard Bone/
 excerpt: "Era of Chaos Harter Knochen. Harter Knochen"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Hard Bone.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 24 - 24-3 Die Kraft des Blitzes"
 permalink: /Underground/Chapter 24_3/
 excerpt: "Kapitel 24 - 3. Era of Chaos  Untergrund - Kapitel 24_3. 24-3 Die Kraft des Blitzes"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 24_3.md"
 toc: false

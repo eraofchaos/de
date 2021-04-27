@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 30 - 30-2  Blutiges Bankett"
 permalink: /Underground/Chapter 30_2/
 excerpt: "Kapitel 30 - 2. Era of Chaos  Untergrund - Kapitel 30_2. 30-2  Blutiges Bankett"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 30_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-11 Anbruch des Krieges"
 permalink: /Main Story/Chapter 13_11/
 excerpt: "Kapitel 13 - 11. Era of Chaos  Hauptstory - Kapitel 13_11. 13-11 Anbruch des Krieges"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 13_11.md"
 toc: false

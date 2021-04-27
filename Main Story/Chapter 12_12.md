@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-12 Untergrundduell"
 permalink: /Main Story/Chapter 12_12/
 excerpt: "Kapitel 12 - 12. Era of Chaos  Hauptstory - Kapitel 12_12. 12-12 Untergrundduell"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 12_12.md"
 toc: false

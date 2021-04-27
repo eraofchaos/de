@@ -2,7 +2,7 @@
 title: "Ewige Träne"
 permalink: /equipment/Eternal Tear/
 excerpt: "Era of Chaos Ewige Träne. Ewige Träne"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Eternal Tear.md"
 toc: false

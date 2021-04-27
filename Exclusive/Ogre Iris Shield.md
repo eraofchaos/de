@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Oger Exklusiv."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Ogre Irisschild.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/ItemsDE/con_913/) | Wenn der Oger das Schlachtfeld betritt, erhöht er das Angriffstempo aller verbündeten Burg-Einheiten um 10 %. Seine eigene ABW wird um 10 % erhöht. |
   | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/ItemsDE/con_913/) | Die Zähigkeit des Ogers wird um 500 erhöht. |
   | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/ItemsDE/con_913/) | Wenn der Oger das Schlachtfeld betritt, senkt er die ABW aller gegnerischen Einheiten um 10 % auf Kosten von 100 % Magieresistenz. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/ItemsDE/con_913/) | Für jede eingesetzte Abwehr-Einheit wird die ABW des Ogers um 5 % erhöht. Für jede eingesetzte Burg-Einheit werden die LP des Ogers um 1.000 erhöht. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/ItemsDE/con_913/) | Für jede eingesetzte Abwehr-Einheit wird die ABW des Ogers um 5 % erhöht. Für jede eingesetzte Burg-Einheit wird die LP-Regeneration des Ogers um 1.000 erhöht. |
 
 
 ## Stufenaufst.

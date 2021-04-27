@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-4 Überfall"
 permalink: /Main Story/Chapter 7_4/
 excerpt: "Kapitel 7 - 4. Era of Chaos  Hauptstory - Kapitel 7_4. 7-4 Überfall"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 7_4.md"
 toc: false

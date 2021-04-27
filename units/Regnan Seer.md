@@ -3,7 +3,7 @@ title: "Regnanseherin"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Regnanseherin. Regnanseherin Einheiten. Gezeitenelementar. Era of Chaos Der Gesandte der Tiefsee verkörpert die Majestät des Meeres. Er nutzt die Macht des Ozeans, um seine Feinde in die Flucht zu schlagen."
 unitID: 9907
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Regnanseherin"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Bucht-Einheiten sind geübt im Krieg auf hoher See. Wenn sie gegen Einheiten kämpfen, die nicht zur Bucht gehören, wird ihr Schaden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 6 : Zorn des Meeres
- **Beschreibung:** Werden 3 Bucht-Einheiten eingesetzt, erhöhen sich das Angriffstempo der Regnanseherin und die Schadensreduzierung. Nach 10 Sekunden Kampf entfesselt Regnanseherin Tiefe Furcht, um nach 15 Sekunden Domäne des Meeres zu bewirken. Die AKZ beträgt 30 Sekunden.
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Werden 3 Bucht-Einheiten eingesetzt, erhöhen sich das Angriffstempo der Regnanseherin um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und ihre SCHD-Reduzierung (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Wird Domäne des Meeres ausgelöst, wenn die Regnanseherin &lt;Tiefe Furcht&gt; wirkt. Hält 15 Sekunden an. Die AKZ beträgt 30 Sekunden.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -141,6 +141,8 @@ toc: true
     let str4 = "(LEVEL*0.1+0.5)"
     let str1 = "(LEVEL*2.5+12.5)"
     let str2 = "(LEVEL*0.1+1.5)"
+    let str10 = "(LEVEL*1+15)"
+    let str11 = "(LEVEL*1+15)"
     let str9 = "(LEVEL*1+5)"
     let res="ERR";
     try {
@@ -152,6 +154,8 @@ toc: true
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
      res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)

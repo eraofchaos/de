@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-14 Waldläufer-Dankbarkeit"
 permalink: /Main Story/Chapter 16_14/
 excerpt: "Kapitel 16 - 14. Era of Chaos  Hauptstory - Kapitel 16_14. 16-14 Waldläufer-Dankbarkeit"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 16_14.md"
 toc: false

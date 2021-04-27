@@ -2,7 +2,7 @@
 title: "Ritualrune"
 permalink: /equipment/Rune of Ritual/
 excerpt: "Era of Chaos Ritualrune. Ritualrune"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Rune of Ritual.md"
 toc: false

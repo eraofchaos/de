@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-2 Dämonenangriff"
 permalink: /Main Story/Chapter 5_2/
 excerpt: "Kapitel 5 - 2. Era of Chaos  Hauptstory - Kapitel 5_2. 5-2 Dämonenangriff"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 5_2.md"
 toc: false

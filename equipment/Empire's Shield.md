@@ -2,7 +2,7 @@
 title: "Schild des Imperiums"
 permalink: /equipment/Empire's Shield/
 excerpt: "Era of Chaos Schild des Imperiums. Schild des Imperiums"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Empire's Shield.md"
 toc: false

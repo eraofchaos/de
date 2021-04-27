@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 20 - 20-2 Wächter der Elementare"
 permalink: /Underground/Chapter 20_2/
 excerpt: "Kapitel 20 - 2. Era of Chaos  Untergrund - Kapitel 20_2. 20-2 Wächter der Elementare"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 20_2.md"
 toc: false

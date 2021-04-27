@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 29 - 29-1  Die Schönheit von Feuerwerken"
 permalink: /Underground/Chapter 29_1/
 excerpt: "Kapitel 29 - 1. Era of Chaos  Untergrund - Kapitel 29_1. 29-1  Die Schönheit von Feuerwerken"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 29_1.md"
 toc: false

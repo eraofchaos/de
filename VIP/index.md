@@ -2,7 +2,7 @@
 title: "VIP-System"
 permalink: /VIP/
 excerpt: "Era of Chaos  VIP-System - Mehrere dauerhafte Vorteile sind unterwegs!"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "index.md"
 toc: false

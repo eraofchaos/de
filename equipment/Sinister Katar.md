@@ -2,7 +2,7 @@
 title: "Düsteres Katar"
 permalink: /equipment/Sinister Katar/
 excerpt: "Era of Chaos Düsteres Katar. Düsteres Katar"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Sinister Katar.md"
 toc: false

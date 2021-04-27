@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Odem des Drachenkönigs"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Odem des Drachenkönigs. Odem des Drachenkönigs. Era of Chaos Heiliges Emblem Odem des Drachenkönigs. Era of Chaos Böse Odem des Drachenkönigs"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Dragon King's Breath.md"
 toc: false

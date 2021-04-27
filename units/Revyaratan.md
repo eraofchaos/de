@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Einheiten. Uraltes Seemonster. Era of Chaos Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Revyaratan"
 toc: true
@@ -190,40 +190,40 @@ toc: true
   ![Uraltes Seemonster](/images/u/tia_haiguai.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Uraltes Seemonster
 
- **Awaking Beschreibung:** 
+ **Awaking Beschreibung:** In den Tiefen des Ozeans, in einem Abgrund, der alles Licht verschluckt, wächst eine namenlose Kreatur still heran.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Setze Revyaratan und mindestens </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> Bucht-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia einmal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Monster im Gildenabenteuer.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> „Uraltes Seemonster“-Seelen im Untergrund: Phasen 15-2 und 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Setze Revyaratan und </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Bucht-Einheiten ein, um 3 Kämpfe in der Kampagne zu gewinnen. (Durchmärsche zählen nicht für die Mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Beschreibung:** 
+### 1st Skill (or 2nd): Knochenknall
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wildes Maul&gt;</span><span style="color: #645252;font-size:18px"> Der SCHD erhöht sich um 50 %. Belegt außerdem alle Gegnern der aktuellen Reihe mit „Verlangsamung“ und senkt ihre Zähigkeit um 100 sowie die SCHD-Reduzierung (Einheit) um 10 %. Hält 5 Sek. lang an.</span>
 
-### 2nd Skill (or 1st): null
- **Beschreibung:** 
+### 2nd Skill (or 1st): Klanjäger
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Wildes Maul&gt;</span><span style="color: #645252;font-size:18px"> Der SCHD erhöht sich um 50 %. Erhöht außerdem eigenen SCHD (Einheit) um 20 % und erhöht Krit. Treffer von verbündeten Einheiten der aktuellen Reihe um 100 sowie SCHD (Einheit) um 10 %. Hält 5 Sek. lang an.</span>
 
-### 3rd Skill (or 4th): null
- **Beschreibung:** 
+### 3rd Skill (or 4th): Vielfraß
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Skelettgier&gt;</span><span style="color: #645252;font-size:18px"> Attribute markierter Einheiten werden zusätzlich um 50 % gesenkt. Erhöht die Erholungschance durch &lt;Wildes Maul&gt; um 50 %.</span>
 
-### 4th Skill (or 3rd): null
- **Beschreibung:** 
+### 4th Skill (or 3rd): <Gemeinschaftsmahl>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Skelettgier&gt;</span><span style="color: #645252;font-size:18px"> Markiert eine zusätzliche gegnerische Einheit. Erhöht die LP-Erholung durch &lt;Wildes Maul&gt; um 50 %.</span>
 
-### 5th Skill (or 6th): null
- **Beschreibung:** 
+### 5th Skill (or 6th): Unbeugsamer Wille
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Die unbezähmbare Strömung&gt;</span><span style="color: #645252;font-size:18px"> Erhöht den Attributsbonus jedes Stapels zusätzlich um 50 %.</span>
 
-### 6th Skill (or 5th): null
- **Beschreibung:** 
+### 6th Skill (or 5th): Zorn der Seekreaturen
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Die unbezähmbare Strömung&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die max. Stapel auf 8.</span>
 
 ## Technical info
  **runart:** 1

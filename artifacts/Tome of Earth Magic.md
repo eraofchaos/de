@@ -2,7 +2,7 @@
 title: "Artefakt - Zauberhut - Buch der Erdmagie"
 permalink: /artifacts/Tome of Earth Magic/
 excerpt: "Era of Chaos  Zauberhut - Buch der Erdmagie. Ein Zauberbuch über höhere Erdmagie. Der Legende nach besiegte Jeddite damit die zum Drachen mutierte Mutare. Eine der Komponenten für den Zauberhut."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Tome of Earth Magic.md"
 toc: false

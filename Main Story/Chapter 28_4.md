@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-4 Der Menschenfresser"
 permalink: /Main Story/Chapter 28_4/
 excerpt: "Kapitel 28 - 4. Era of Chaos  Hauptstory - Kapitel 28_4. 28-4 Der Menschenfresser"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 28_4.md"
 toc: false

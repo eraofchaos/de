@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Star 3"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![Regnanseherin](/images/u/ti_haihou.jpg) | [Regnanseherin](/de/units/Regnan Seer/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Gezeitenelementar  |
   | 5 | ![Feuervogel](/images/u/ti_fenghuang.jpg) | [Feuervogel](/de/units/Firebird/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phönix  |
   | 6 | ![Dunkler Kämpe](/images/u/ti_sishen.jpg) | [Dunkler Kämpe](/de/units/Dark Champion/) | Offensiv | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
-  | 7 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
+  | 7 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
   | 8 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/de/units/Behemoth/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ur-Behemoth  |
   | 9 | ![Eisdämon](/images/u/ti_bingmo.jpg) | [Eisdämon](/de/units/Ice Demon/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 10 | ![Hai-Ausbilder](/images/u/ti_xunshashi.jpg) | [Hai-Ausbilder](/de/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Hai-Reiter  |

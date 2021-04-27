@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-11 Angreifer zurückschlagen"
 permalink: /Main Story/Chapter 7_11/
 excerpt: "Kapitel 7 - 11. Era of Chaos  Hauptstory - Kapitel 7_11. 7-11 Angreifer zurückschlagen"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 7_11.md"
 toc: false

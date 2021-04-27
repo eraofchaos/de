@@ -2,7 +2,7 @@
 title: "Schulterschutz aus purem Gold"
 permalink: /equipment/Pauldrons of Pure Gold/
 excerpt: "Era of Chaos Schulterschutz aus purem Gold. Schulterschutz aus purem Gold"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Pauldrons of Pure Gold.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Killerbiene"
 permalink: /equipment/Killer Bee/
 excerpt: "Era of Chaos Killerbiene. Killerbiene"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Killer Bee.md"
 toc: false

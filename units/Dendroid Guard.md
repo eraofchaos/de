@@ -3,7 +3,7 @@ title: "Dendroidenwache"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Dendroidenwache. Dendroidenwache Einheiten. Dendroidensoldat. Era of Chaos Dendroidenwachen sind die Verkörperung ihrer bewaldeten Heimat. Sie sind nicht sonderlich geschickt, aber extrem hart im Nehmen. Mit den Ranken des Waldes erwürgen sie arglose Gegner."
 unitID: 205
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Dendroidenwache"
 toc: true

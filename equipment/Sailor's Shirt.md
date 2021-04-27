@@ -2,7 +2,7 @@
 title: "Seemannshemd"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "Era of Chaos Seemannshemd. Seemannshemd"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Sailor's Shirt.md"
 toc: false

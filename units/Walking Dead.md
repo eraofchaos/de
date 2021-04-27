@@ -3,7 +3,7 @@ title: "Wandelnde Tote"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Wandelnde Tote. Wandelnde Tote Einheiten. Zombie. Era of Chaos Diese verwesenden Leichen, die von Totenbeschwörern wiedererweckt wurden, stolpern willenlos in die Schlacht. Ihre aufgedunsenen, stinkenden Leiber sind unberechenbar und entfesseln Chaos, wenn sie explodieren."
 unitID: 302
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Wandelnde Tote"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Irisschild](/de/Exclusive/Walking Dead Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 

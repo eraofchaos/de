@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "index.md"
 toc: false
@@ -57,7 +57,7 @@ classes: wide
   | 35 | ![Hai-Ausbilder](/images/u/ti_xunshashi.jpg) | [Hai-Ausbilder](/de/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Hai-Reiter  |
   | 36 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpyienhexe  |
   | 37 | ![Hydra](/images/u/ti_duotoulong.jpg) | [Hydra](/de/units/Hydra/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Chaoshydra  |
-  | 38 | ![Höllenhund](/images/u/ti_santouquan.jpg) | [Höllenhund](/de/units/Hell Hound/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 38 | ![Höllenhund](/images/u/ti_santouquan.jpg) | [Höllenhund](/de/units/Hell Hound/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 39 | ![Imp](/images/u/ti_xiaoemo.jpg) | [Imp](/de/units/Imp/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Intimus  |
   | 40 | ![Kavallerist](/images/u/ti_qishi.jpg) | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Heldenhafte Ritter  |
   | 41 | ![Knochendrache](/images/u/ti_gulong.jpg) | [Knochendrache](/de/units/Bone Dragon/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Geisterdrache  |
@@ -85,7 +85,7 @@ classes: wide
   | 63 | ![Regnanpirat](/images/u/ti_haidao.jpg) | [Regnanpirat](/de/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  König der Piraten  |
   | 64 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 65 | ![Regnanseherin](/images/u/ti_haihou.jpg) | [Regnanseherin](/de/units/Regnan Seer/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Gezeitenelementar  |
-  | 66 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
+  | 66 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
   | 67 | ![Richterin](/images/u/ti_shenpanguan.jpg) | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 68 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/de/units/Roc/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Donnervogel  |
   | 69 | ![Roter Drache](/images/u/ti_chilong.jpg) | [Roter Drache](/de/units/Red Dragon/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
@@ -104,7 +104,7 @@ classes: wide
   | 82 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/de/units/Troll/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 83 | ![Vampir](/images/u/ti_xixuegui.jpg) | [Vampir](/de/units/Vampire/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Vampirlord  |
   | 84 | ![Waldelfe](/images/u/ti_mujingling.jpg) | [Waldelfe](/de/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Großelf  |
-  | 85 | ![Wandelnde Tote](/images/u/ti_jiangshi.jpg) | [Wandelnde Tote](/de/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 85 | ![Wandelnde Tote](/images/u/ti_jiangshi.jpg) | [Wandelnde Tote](/de/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 86 | ![Weißer Tiger](/images/u/ti_baihu.jpg) | [Weißer Tiger](/de/units/White Tiger/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 87 | ![Wespenwurz](/images/u/ti_dufengcao.jpg) | [Wespenwurz](/de/units/Waspwort/) | Fernkampf | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
   | 88 | ![Wolfsreiter](/images/u/ti_langqibing.jpg) | [Wolfsreiter](/de/units/Wolf Rider/) | Ansturm | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Wolfskrieger  |

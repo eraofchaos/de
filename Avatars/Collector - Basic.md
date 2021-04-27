@@ -2,7 +2,7 @@
 title: "Avatar - Sammler – Einfach"
 permalink: /Avatars/Collector - Basic/
 excerpt: "Era of Chaos  Sammler – Einfach"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Collector - Basic.md"
 toc: false

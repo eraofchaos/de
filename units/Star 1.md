@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Star 1"
 toc: false
@@ -25,6 +25,6 @@ classes: wide
   | 11 | ![Kavallerist](/images/u/ti_qishi.jpg) | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Heldenhafte Ritter  |
   | 12 | ![Skelett](/images/u/ti_kulouzhanshi.jpg) | [Skelett](/de/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skelettkrieger  |
   | 13 | ![Pixie](/images/u/ti_mofaxianling.jpg) | [Pixie](/de/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 14 | ![Wandelnde Tote](/images/u/ti_jiangshi.jpg) | [Wandelnde Tote](/de/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 14 | ![Wandelnde Tote](/images/u/ti_jiangshi.jpg) | [Wandelnde Tote](/de/units/Walking Dead/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 15 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/de/units/Goblin/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 16 | ![Wolfsreiter](/images/u/ti_langqibing.jpg) | [Wolfsreiter](/de/units/Wolf Rider/) | Ansturm | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Wolfskrieger  |

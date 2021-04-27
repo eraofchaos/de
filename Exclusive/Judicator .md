@@ -2,7 +2,7 @@
 title: "Exklusiv -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Richterin Exklusiv."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Judicator .md"
 toc: false

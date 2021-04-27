@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 20 - 20-4 Vernichtung der Elementare"
 permalink: /Underground/Chapter 20_4/
 excerpt: "Kapitel 20 - 4. Era of Chaos  Untergrund - Kapitel 20_4. 20-4 Vernichtung der Elementare"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 20_4.md"
 toc: false

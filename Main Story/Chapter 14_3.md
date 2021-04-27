@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-3 Angriff auf die Festung"
 permalink: /Main Story/Chapter 14_3/
 excerpt: "Kapitel 14 - 3. Era of Chaos  Hauptstory - Kapitel 14_3. 14-3 Angriff auf die Festung"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Chapter 14_3.md"
 toc: false
