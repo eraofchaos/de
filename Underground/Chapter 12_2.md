@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 12 - 12-2 König der Untoten"
 permalink: /Underground/Chapter 12_2/
 excerpt: "Kapitel 12 - 2. Era of Chaos  Untergrund - Kapitel 12_2. 12-2 König der Untoten"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 12_2.md"
 toc: false

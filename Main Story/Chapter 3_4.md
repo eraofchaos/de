@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-4 Heldenkammer"
 permalink: /Main Story/Chapter 3_4/
 excerpt: "Kapitel 3 - 4. Era of Chaos  Hauptstory - Kapitel 3_4. 3-4 Heldenkammer"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 3_4.md"
 toc: false

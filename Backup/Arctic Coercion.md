@@ -2,7 +2,7 @@
 title: "Backup - Arktischer Befehl"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Era of Chaos  Arktischer Befehl"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Arctic Coercion.md"
 toc: false

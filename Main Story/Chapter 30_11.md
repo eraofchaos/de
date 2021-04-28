@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-11 Langbeiniges Zelt"
 permalink: /Main Story/Chapter 30_11/
 excerpt: "Kapitel 30 - 11. Era of Chaos  Hauptstory - Kapitel 30_11. 30-11 Langbeiniges Zelt"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 30_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-8 Bestrebungen des Feindes"
 permalink: /Main Story/Chapter 26_8/
 excerpt: "Kapitel 26 - 8. Era of Chaos  Hauptstory - Kapitel 26_8. 26-8 Bestrebungen des Feindes"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 26_8.md"
 toc: false

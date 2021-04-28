@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-7 Totenbeschwörer und Verräter"
 permalink: /Main Story/Chapter 16_7/
 excerpt: "Kapitel 16 - 7. Era of Chaos  Hauptstory - Kapitel 16_7. 16-7 Totenbeschwörer und Verräter"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 16_7.md"
 toc: false

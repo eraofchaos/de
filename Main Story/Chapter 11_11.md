@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-11 Land des Nebels"
 permalink: /Main Story/Chapter 11_11/
 excerpt: "Kapitel 11 - 11. Era of Chaos  Hauptstory - Kapitel 11_11. 11-11 Land des Nebels"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 11_11.md"
 toc: false

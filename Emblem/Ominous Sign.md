@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Ominöses Zeichen"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Era of Chaos Ominöses Zeichen. Ominöses Zeichen. Era of Chaos Heiliges Emblem Ominöses Zeichen. Era of Chaos Böse Ominöses Zeichen"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Ominous Sign.md"
 toc: false

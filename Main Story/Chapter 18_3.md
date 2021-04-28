@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-3 Orks auf der Brücke"
 permalink: /Main Story/Chapter 18_3/
 excerpt: "Kapitel 18 - 3. Era of Chaos  Hauptstory - Kapitel 18_3. 18-3 Orks auf der Brücke"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 18_3.md"
 toc: false

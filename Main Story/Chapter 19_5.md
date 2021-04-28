@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-5 Gavins Königreich"
 permalink: /Main Story/Chapter 19_5/
 excerpt: "Kapitel 19 - 5. Era of Chaos  Hauptstory - Kapitel 19_5. 19-5 Gavins Königreich"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 19_5.md"
 toc: false

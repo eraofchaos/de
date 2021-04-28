@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-6 Neue Opfer"
 permalink: /Main Story/Chapter 9_6/
 excerpt: "Kapitel 9 - 6. Era of Chaos  Hauptstory - Kapitel 9_6. 9-6 Neue Opfer"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 9_6.md"
 toc: false

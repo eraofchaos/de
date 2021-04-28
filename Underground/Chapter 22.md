@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 22 Die Straße nach Hause"
 permalink: /Underground/Chapter 22/
 excerpt: "Kapitel 22 Die Straße nach Hause. Era of Chaos  Untergrund - Kapitel 22. Die Straße nach Hause"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 22.md"
 toc: false

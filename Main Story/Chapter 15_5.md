@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-5 Arbeit für den Frieden"
 permalink: /Main Story/Chapter 15_5/
 excerpt: "Kapitel 15 - 5. Era of Chaos  Hauptstory - Kapitel 15_5. 15-5 Arbeit für den Frieden"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 15_5.md"
 toc: false

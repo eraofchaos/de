@@ -2,7 +2,7 @@
 title: "Schulterschutz der Wildnis"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "Era of Chaos Schulterschutz der Wildnis. Schulterschutz der Wildnis"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Pauldrons of Wild.md"
 toc: false

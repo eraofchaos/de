@@ -2,7 +2,7 @@
 title: "Uralte Schwingen"
 permalink: /equipment/Ancient Wings/
 excerpt: "Era of Chaos Uralte Schwingen. Uralte Schwingen"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Ancient Wings.md"
 toc: false

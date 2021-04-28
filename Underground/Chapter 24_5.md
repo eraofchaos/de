@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 24 - 24-5 Kein Weg zurück"
 permalink: /Underground/Chapter 24_5/
 excerpt: "Kapitel 24 - 5. Era of Chaos  Untergrund - Kapitel 24_5. 24-5 Kein Weg zurück"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 24_5.md"
 toc: false

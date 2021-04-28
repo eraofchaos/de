@@ -2,7 +2,7 @@
 title: "Uralte Bandage"
 permalink: /equipment/Ancient Bandage/
 excerpt: "Era of Chaos Uralte Bandage. Uralte Bandage"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Ancient Bandage.md"
 toc: false

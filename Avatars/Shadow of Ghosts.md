@@ -2,7 +2,7 @@
 title: "Avatar - Schatten der Geister"
 permalink: /Avatars/Shadow of Ghosts/
 excerpt: "Era of Chaos  Schatten der Geister"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Shadow of Ghosts.md"
 toc: false

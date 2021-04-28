@@ -4,7 +4,7 @@ permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac rettete den Gelehrten Valjean und gilt seither in Erathia als Held. Ob das nun stimmt oder nicht, Korbac hat auf jeden Fall sein Können im Dienste für Tatalia unter Beweis gestellt."
 heroID: 61502
 QR: hero_61502
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Korbac"
 toc: true

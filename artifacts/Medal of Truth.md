@@ -2,7 +2,7 @@
 title: "Artefakt - Lebendiges Falkenauge - Orden der Wahrheit"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Era of Chaos  Lebendiges Falkenauge - Orden der Wahrheit. Ein Hexen-Glücksbringer mit Augäpfeln. Eine der Komponenten für das Lebendige Falkenauge."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Medal of Truth.md"
 toc: false

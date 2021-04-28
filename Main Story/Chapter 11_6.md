@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-6 Untergrundkompromiss"
 permalink: /Main Story/Chapter 11_6/
 excerpt: "Kapitel 11 - 6. Era of Chaos  Hauptstory - Kapitel 11_6. 11-6 Untergrundkompromiss"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 11_6.md"
 toc: false

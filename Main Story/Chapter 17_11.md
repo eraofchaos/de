@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-11 Deyjas Soldaten"
 permalink: /Main Story/Chapter 17_11/
 excerpt: "Kapitel 17 - 11. Era of Chaos  Hauptstory - Kapitel 17_11. 17-11 Deyjas Soldaten"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 17_11.md"
 toc: false

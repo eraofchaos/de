@@ -2,7 +2,7 @@
 title: "Avatar - Schatten der Bestie"
 permalink: /Avatars/Shadow of Beast/
 excerpt: "Era of Chaos  Schatten der Bestie"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Shadow of Beast.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 24 - 24-1 Eisiges Land"
 permalink: /Underground/Chapter 24_1/
 excerpt: "Kapitel 24 - 1. Era of Chaos  Untergrund - Kapitel 24_1. 24-1 Eisiges Land"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 24_1.md"
 toc: false

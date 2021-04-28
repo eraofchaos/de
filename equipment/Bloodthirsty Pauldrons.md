@@ -2,7 +2,7 @@
 title: "Blutdürstiger Schulterschutz"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "Era of Chaos Blutdürstiger Schulterschutz. Blutdürstiger Schulterschutz"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Bloodthirsty Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Böse"
 permalink: /Emblem/Type Evil/
 excerpt: "Era of Chaos Heiliges Emblem. Heiliges Emblem. Era of Chaos Heiliges Emblem Böse. Era of Chaos Böse"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "typeBöse.md"
 toc: false

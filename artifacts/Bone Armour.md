@@ -2,7 +2,7 @@
 title: "Artefakt - Rüstung der Verdammten - Knochenrüstung"
 permalink: /artifacts/Bone Armour/
 excerpt: "Era of Chaos  Rüstung der Verdammten - Knochenrüstung. Ein Schild aus harten Knochen. Eine der Komponenten für die Rüstung der Verdammten."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Bone Armour.md"
 toc: false

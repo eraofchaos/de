@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 17 - 17-5 Blut und Schutz"
 permalink: /Underground/Chapter 17_5/
 excerpt: "Kapitel 17 - 5. Era of Chaos  Untergrund - Kapitel 17_5. 17-5 Blut und Schutz"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 17_5.md"
 toc: false

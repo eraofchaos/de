@@ -2,7 +2,7 @@
 title: "Artefakt - Bogen des Meisterschützen - Bogensehne der Einhornmähne"
 permalink: /artifacts/Bowstring of the Unicorn's Mane/
 excerpt: "Era of Chaos  Bogen des Meisterschützen - Bogensehne der Einhornmähne. Eine Mähne, die ein heiliges Tier den Elfen gab. Eine der Komponenten für den Bogen des Meisterschützen."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Bowstring of the Unicorn's Mane.md"
 toc: false

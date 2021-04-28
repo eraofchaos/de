@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-1 Gottesvision"
 permalink: /Main Story/Chapter 13_1/
 excerpt: "Kapitel 13 - 1. Era of Chaos  Hauptstory - Kapitel 13_1. 13-1 Gottesvision"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 13_1.md"
 toc: false

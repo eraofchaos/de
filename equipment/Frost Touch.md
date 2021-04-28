@@ -2,7 +2,7 @@
 title: "Frostberührung"
 permalink: /equipment/Frost Touch/
 excerpt: "Era of Chaos Frostberührung. Frostberührung"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Frost Touch.md"
 toc: false

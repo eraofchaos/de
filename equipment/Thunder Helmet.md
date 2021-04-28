@@ -2,7 +2,7 @@
 title: "Donnerhelm"
 permalink: /equipment/Thunder Helmet/
 excerpt: "Era of Chaos Donnerhelm. Donnerhelm"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Thunder Helmet.md"
 toc: false

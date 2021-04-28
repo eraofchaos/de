@@ -2,7 +2,7 @@
 title: "Avatar - Schutzwall"
 permalink: /Avatars/Rampart/
 excerpt: "Era of Chaos  Schutzwall"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Rampart.md"
 toc: false

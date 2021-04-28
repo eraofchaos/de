@@ -2,7 +2,7 @@
 title: "Durchbruchsrüstung"
 permalink: /equipment/Breach Armor/
 excerpt: "Era of Chaos Durchbruchsrüstung. Durchbruchsrüstung"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Breach Armor.md"
 toc: false

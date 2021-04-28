@@ -2,7 +2,7 @@
 title: "Avatar - Blühende Blumen und Vollmond"
 permalink: /Avatars/Blooming Flowers and Full Moon/
 excerpt: "Era of Chaos  Blühende Blumen und Vollmond"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Blooming Flowers and Full Moon.md"
 toc: false

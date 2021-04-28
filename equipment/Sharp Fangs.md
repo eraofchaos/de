@@ -2,7 +2,7 @@
 title: "Scharfe Fänge"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Era of Chaos Scharfe Fänge. Scharfe Fänge"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Sharp Fangs.md"
 toc: false

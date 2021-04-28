@@ -2,7 +2,7 @@
 title: "Veredelter stählerner Armschutz"
 permalink: /equipment/Refined Steel Bracer/
 excerpt: "Era of Chaos Veredelter stählerner Armschutz. Veredelter stählerner Armschutz"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Refined Steel Bracer.md"
 toc: false

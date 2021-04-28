@@ -2,7 +2,7 @@
 title: "Artefakt - Rüstung der Verdammten - Totenschädelhelm"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Era of Chaos  Rüstung der Verdammten - Totenschädelhelm. Ein in der Unterwelt gefundener Helm. Eine der Komponenten für die Rüstung der Verdammten."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Skull Helmet.md"
 toc: false

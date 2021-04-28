@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-2 Grab des Lichs"
 permalink: /Main Story/Chapter 29_2/
 excerpt: "Kapitel 29 - 2. Era of Chaos  Hauptstory - Kapitel 29_2. 29-2 Grab des Lichs"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 29_2.md"
 toc: false

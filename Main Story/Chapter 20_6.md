@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-6 Nekromantie"
 permalink: /Main Story/Chapter 20_6/
 excerpt: "Kapitel 20 - 6. Era of Chaos  Hauptstory - Kapitel 20_6. 20-6 Nekromantie"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 20_6.md"
 toc: false

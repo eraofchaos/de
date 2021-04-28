@@ -2,7 +2,7 @@
 title: "Avatar - Turm"
 permalink: /Avatars/Tower/
 excerpt: "Era of Chaos  Turm"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Tower.md"
 toc: false

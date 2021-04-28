@@ -2,7 +2,7 @@
 title: "Stab der Theokratie"
 permalink: /equipment/Staff of Theocracy/
 excerpt: "Era of Chaos Stab der Theokratie. Stab der Theokratie"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Staff of Theocracy.md"
 toc: false

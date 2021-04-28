@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-5 Rettung"
 permalink: /Main Story/Chapter 8_5/
 excerpt: "Kapitel 8 - 5. Era of Chaos  Hauptstory - Kapitel 8_5. 8-5 Rettung"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 8_5.md"
 toc: false

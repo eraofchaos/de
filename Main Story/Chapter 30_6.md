@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-6 Toter Baum und Steintafel"
 permalink: /Main Story/Chapter 30_6/
 excerpt: "Kapitel 30 - 6. Era of Chaos  Hauptstory - Kapitel 30_6. 30-6 Toter Baum und Steintafel"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 30_6.md"
 toc: false

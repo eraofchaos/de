@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-2 Verfallene Hütte"
 permalink: /Main Story/Chapter 30_2/
 excerpt: "Kapitel 30 - 2. Era of Chaos  Hauptstory - Kapitel 30_2. 30-2 Verfallene Hütte"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "Chapter 30_2.md"
 toc: false
