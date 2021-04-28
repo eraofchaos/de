@@ -71,7 +71,7 @@ sidebar:
   | **2** |  **1000x** [Drachenblutkristall](/ItemsDE/con_879/) | 1 | 10 | 20 |
   | **3** |  **30x** [Void Mithril](/ItemsDE/con_817/) | 1 | 10 | 20 |
   | **4** |  **15x** [„Heiliges Emblem“-Einlöseticket](/ItemsDE/con_513/) | 1 | 10 | 20 |
-  | **5** |  **10x** [Tool_10046](/ItemsDE/con_2135/) | 1 | 10 | 10 |
+  | **5** |  **10x** [Stille Perle](/ItemsDE/con_2135/) | 1 | 10 | 10 |
   | **6** |  **8x** [Orakelvertrag](/ItemsDE/con_816/) | 1 | 10 | 10 |
   | **7** |  **1x** [Epische Artefakt-Komponententruhe](/ItemsDE/con_1926/) | 2 | 2 | 5 |
   | **8** |  **8x** [Schillernde Perle](/ItemsDE/con_527/) | 2 | 15 | 10 |

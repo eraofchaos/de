@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/de/units/Star 3/)
 
- **Unit Soul:** [Tool_3709](/ItemsDE/unt_252/)
+ **Unit Soul:** [Böse Zauberin](/ItemsDE/unt_252/)
 
  **Short description:** Reflektiert Zaubersprüche. Domäne-Buffs.
 
