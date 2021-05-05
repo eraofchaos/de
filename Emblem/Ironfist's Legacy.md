@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Eisenfausts Vermächtnis"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Eisenfausts Vermächtnis. Eisenfausts Vermächtnis. Era of Chaos Heiliges Emblem Eisenfausts Vermächtnis. Era of Chaos Rechtschaffen Eisenfausts Vermächtnis"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Ironfist's Legacy.md"
 toc: false

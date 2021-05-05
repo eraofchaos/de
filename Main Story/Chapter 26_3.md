@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-3 See der Dunkelheit"
 permalink: /Main Story/Chapter 26_3/
 excerpt: "Kapitel 26 - 3. Era of Chaos  Hauptstory - Kapitel 26_3. 26-3 See der Dunkelheit"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 26_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Gut"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Heiliges Emblem. Heiliges Emblem. Era of Chaos Heiliges Emblem Gut. Era of Chaos Gut"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "typeGut.md"
 toc: false

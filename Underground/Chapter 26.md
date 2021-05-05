@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 26 Klang des Schicksals"
 permalink: /Underground/Chapter 26/
 excerpt: "Kapitel 26 Klang des Schicksals. Era of Chaos  Untergrund - Kapitel 26. Klang des Schicksals"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 26.md"
 toc: false

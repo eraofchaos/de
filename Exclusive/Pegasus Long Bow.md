@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen (Pegasus)"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Pegasus Exklusiv."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Pegasus Langbogen.md"
 toc: false

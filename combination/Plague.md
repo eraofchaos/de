@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Seuche"
 permalink: /combination/Plague/
 excerpt: "Kombinationsinfo - Seuche. Units and Heroes Formation."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Seuche.md"
 toc: false

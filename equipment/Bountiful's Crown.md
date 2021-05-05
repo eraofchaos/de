@@ -2,7 +2,7 @@
 title: "Krone der Fülle"
 permalink: /equipment/Bountiful's Crown/
 excerpt: "Era of Chaos Krone der Fülle. Krone der Fülle"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Bountiful's Crown.md"
 toc: false

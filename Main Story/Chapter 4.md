@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 Die Greifenklippe"
 permalink: /Main Story/Chapter 4/
 excerpt: "Kapitel 4. Era of Chaos  Hauptstory - Kapitel 4. Die Greifenklippe"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 4.md"
 toc: false

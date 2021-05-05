@@ -2,7 +2,7 @@
 title: "Avatar - Alles läuft wie gewünscht"
 permalink: /Avatars/All Goes as You Wish/
 excerpt: "Era of Chaos  Alles läuft wie gewünscht"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "All Goes as You Wish.md"
 toc: false

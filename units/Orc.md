@@ -3,7 +3,7 @@ title: "Ork"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Ork. Ork Einheiten. Ork-Kommandant. Era of Chaos Keiner weiß, wo die Orks all die Wurfäxte hernehmen. Scheinbar haben sie immer neue parat."
 unitID: 403
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Ork"
 toc: true

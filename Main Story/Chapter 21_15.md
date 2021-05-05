@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-15 Uraque"
 permalink: /Main Story/Chapter 21_15/
 excerpt: "Kapitel 21 - 15. Era of Chaos  Hauptstory - Kapitel 21_15. 21-15 Uraque"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 21_15.md"
 toc: false

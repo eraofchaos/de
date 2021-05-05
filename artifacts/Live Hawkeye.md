@@ -2,7 +2,7 @@
 title: "Artefakt - Lebendiges Falkenauge"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Era of Chaos  Lebendiges Falkenauge. Lebendiges Falkenauge Bleibt am Leben. Dann werdet Ihr größeren Wohlstand erfahren."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Live Hawkeye.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-7 Dunkle Nahrung"
 permalink: /Main Story/Chapter 27_7/
 excerpt: "Kapitel 27 - 7. Era of Chaos  Hauptstory - Kapitel 27_7. 27-7 Dunkle Nahrung"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 27_7.md"
 toc: false

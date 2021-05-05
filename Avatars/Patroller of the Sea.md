@@ -2,7 +2,7 @@
 title: "Avatar - Späher des Meeres"
 permalink: /Avatars/Patroller of the Sea/
 excerpt: "Era of Chaos  Späher des Meeres"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Patroller of the Sea.md"
 toc: false

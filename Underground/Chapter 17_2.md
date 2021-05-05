@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 17 - 17-2 Erinnerung des Magiers"
 permalink: /Underground/Chapter 17_2/
 excerpt: "Kapitel 17 - 2. Era of Chaos  Untergrund - Kapitel 17_2. 17-2 Erinnerung des Magiers"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 17_2.md"
 toc: false

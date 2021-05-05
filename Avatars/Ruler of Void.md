@@ -2,7 +2,7 @@
 title: "Avatar - Herrscher der Leere"
 permalink: /Avatars/Ruler of Void/
 excerpt: "Era of Chaos  Herrscher der Leere"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Ruler of Void.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-5 Seelensplitter"
 permalink: /Main Story/Chapter 10_5/
 excerpt: "Kapitel 10 - 5. Era of Chaos  Hauptstory - Kapitel 10_5. 10-5 Seelensplitter"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 10_5.md"
 toc: false

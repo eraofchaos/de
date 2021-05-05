@@ -2,7 +2,7 @@
 title: "Exklusiv - Basiliskenschwanz (Basilisk)"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Basiliskenschwanz. Basiliskenschwanz. Era of Chaos Exklusiv Basiliskenschwanz. Basilisk Exklusiv."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Basilisk Basiliskenschwanz.md"
 toc: false

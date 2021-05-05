@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-4 Das Unerwartete"
 permalink: /Main Story/Chapter 14_4/
 excerpt: "Kapitel 14 - 4. Era of Chaos  Hauptstory - Kapitel 14_4. 14-4 Das Unerwartete"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 14_4.md"
 toc: false

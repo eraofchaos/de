@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-10 Die Stadt Trailia"
 permalink: /Main Story/Chapter 2_10/
 excerpt: "Kapitel 2 - 10. Era of Chaos  Hauptstory - Kapitel 2_10. 2-10 Die Stadt Trailia"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 2_10.md"
 toc: false

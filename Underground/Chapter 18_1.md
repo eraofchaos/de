@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 18 - 18-1 Wirrköpfig"
 permalink: /Underground/Chapter 18_1/
 excerpt: "Kapitel 18 - 1. Era of Chaos  Untergrund - Kapitel 18_1. 18-1 Wirrköpfig"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 18_1.md"
 toc: false

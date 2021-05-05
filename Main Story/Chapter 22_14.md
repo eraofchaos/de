@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-14 Weisheit walten lassen"
 permalink: /Main Story/Chapter 22_14/
 excerpt: "Kapitel 22 - 14. Era of Chaos  Hauptstory - Kapitel 22_14. 22-14 Weisheit walten lassen"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 22_14.md"
 toc: false

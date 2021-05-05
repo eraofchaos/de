@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-8 Der Verbleib der Kundschafter"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "Kapitel 23 - 8. Era of Chaos  Hauptstory - Kapitel 23_8. 23-8 Der Verbleib der Kundschafter"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 23_8.md"
 toc: false

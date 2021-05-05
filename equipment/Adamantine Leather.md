@@ -2,7 +2,7 @@
 title: "Gehärtetes Leder"
 permalink: /equipment/Adamantine Leather/
 excerpt: "Era of Chaos Gehärtetes Leder. Gehärtetes Leder"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Adamantine Leather.md"
 toc: false

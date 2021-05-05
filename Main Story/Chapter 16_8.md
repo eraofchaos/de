@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-8 Zentaurenfalle"
 permalink: /Main Story/Chapter 16_8/
 excerpt: "Kapitel 16 - 8. Era of Chaos  Hauptstory - Kapitel 16_8. 16-8 Zentaurenfalle"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 16_8.md"
 toc: false

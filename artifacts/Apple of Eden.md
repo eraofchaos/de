@@ -2,7 +2,7 @@
 title: "Artefakt - Edenapfel"
 permalink: /artifacts/Apple of Eden/
 excerpt: "Era of Chaos  Edenapfel. Edenapfel Ein Geschenk der uralten Zivilisation der Vorläufer. Der Legende nach kann man mit diesem Artefakt alles Lebende manipulieren."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Apple of Eden.md"
 toc: false

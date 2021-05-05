@@ -2,7 +2,7 @@
 title: "Knochencollier"
 permalink: /equipment/Bone Necklet/
 excerpt: "Era of Chaos Knochencollier. Knochencollier"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Bone Necklet.md"
 toc: false

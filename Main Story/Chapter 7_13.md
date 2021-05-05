@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-13 Das Ziel erreichen"
 permalink: /Main Story/Chapter 7_13/
 excerpt: "Kapitel 7 - 13. Era of Chaos  Hauptstory - Kapitel 7_13. 7-13 Das Ziel erreichen"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "Chapter 7_13.md"
 toc: false
