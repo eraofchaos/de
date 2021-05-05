@@ -2,7 +2,7 @@
 title: "Kampfformation Burg"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Kampfformation Burg"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "BattleFormationFactionStronghold"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Erhöht die Einheitenmagieresistenz aller Burg-Einheiten um 10 %.** |
   | **8** | **Der Kritische Treffer von Burg-Einheiten erhöht sich um 50, wenn sie über weniger als 55 % LP verfügen.** |
   | **9** | **Erhöht das Angriffstempo aller Burg-Einheiten um 4 %.** |
+  | **10** | **Erhöht den ANG aller Burg-Einheiten um 15 %.** |
+  | **11** | **Erhöht die LP aller Burg-Einheiten um 17 %.** |
+  | **12** | **Der KRIT. SCHD von Burg-Einheiten erhöht sich um 12 %, wenn sie über weniger als 70 % LP verfügen.** |
 
 ## Kampfformation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Stronghold - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Ork](/de/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | ANG + **1** % | 80 |   |
+  
+
+
+## Kampfformation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Oger](/de/units/Ogre) |
+  | 2 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 3 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 4 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 5 | Stronghold - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Wolfsreiter](/de/units/Wolf Rider) |
+  | 6 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 7 | Stronghold - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 8 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 9 | Stronghold - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Oger](/de/units/Ogre) |
+  | 10 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 11 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
+  | 12 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
+  | 13 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Wolfsreiter](/de/units/Wolf Rider) |
+  | 14 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
+  | 15 | Stronghold - Physical Trials | LP + **1.2** % | 90 |   |
+  | 16 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 17 | Stronghold - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Oger](/de/units/Ogre) |
+  | 18 | Stronghold - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 19 | Stronghold - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 20 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 21 | Stronghold - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Wolfsreiter](/de/units/Wolf Rider) |
+  | 22 | Stronghold - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 23 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 24 | Stronghold - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  
+
+
+## Kampfformation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Stronghold - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **20** x [Zyklop](/de/units/Cyclops) |
+  | 2 | Stronghold - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 3 | Stronghold - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 4 | Stronghold - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 5 | Stronghold - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 6 | Stronghold - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Roc](/de/units/Roc) |
+  | 7 | Stronghold - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 8 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 9 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 10 | Stronghold - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 11 | Stronghold - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Zyklop](/de/units/Cyclops) |
+  | 12 | Stronghold - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 13 | Stronghold - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 14 | Stronghold - Physical Trials | LP + **1.4** % | 100 |   |
+  | 15 | Stronghold - Physical Trials | LP + **1.4** % | 100 |   |
+  | 16 | Stronghold - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Roc](/de/units/Roc) |
+  | 17 | Stronghold - Physical Trials | LP + **1.4** % | 100 |   |
+  | 18 | Stronghold - Physical Trials | LP + **1.4** % | 100 |   |
+  | 19 | Stronghold - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 20 | Stronghold - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 21 | Stronghold - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Zyklop](/de/units/Cyclops) |
+  | 22 | Stronghold - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 23 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 24 | Stronghold - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 25 | Stronghold - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 26 | Stronghold - Blaster | Kritischer Treffer + **7**  | 190 |  **20** x [Roc](/de/units/Roc) |
+  | 27 | Stronghold - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 28 | Stronghold - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 29 | Stronghold - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 30 | Stronghold - Storm Assaulter | ANG + **1.4** % | 100 |   |
   
 

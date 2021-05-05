@@ -2,7 +2,7 @@
 title: "Kampfformation Dungeon"
 permalink: /Battle Formation/Battle Formation Faction Dungeon
 excerpt: "Kampfformation Dungeon"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "BattleFormationFactionDungeon"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Erhöht die Einheitenmagieresistenz aller Dungeon-Einheiten um 10 %.** |
   | **8** | **Wenn ein gegnerischer Held einen Zauber wirkt, erhöht sich der KRIT. SCHD von Dungeon-Einheiten 6 Sekunden lang um 12 %.** |
   | **9** | **Erhöht das Angriffstempo aller Dungeon-Einheiten um 4 %.** |
+  | **10** | **Erhöht den ANG aller Dungeon-Einheiten um 15 %.** |
+  | **11** | **Erhöht die LP aller Dungeon-Einheiten um 17 %.** |
+  | **12** | **Wenn Dungeon-Einheiten blutenden Einheiten gegenüberstehen, erhöht sich der Einheitenschaden um 5 %.** |
 
 ## Kampfformation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Dungeon - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Troglodyt](/de/units/Troglodyte) |
   | 17 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Dungeon - Storm Assaulter | ANG + **1** % | 80 |   |
+  
+
+
+## Kampfformation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Dungeon - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Harpyie](/de/units/Harpy) |
+  | 2 | Dungeon - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 3 | Dungeon - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 4 | Dungeon - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 5 | Dungeon - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Troglodyt](/de/units/Troglodyte) |
+  | 6 | Dungeon - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 7 | Dungeon - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 8 | Dungeon - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 9 | Dungeon - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Minotaurus](/de/units/Minotaur) |
+  | 10 | Dungeon - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 11 | Dungeon - Physical Trials | LP + **1.2** % | 90 |   |
+  | 12 | Dungeon - Physical Trials | LP + **1.2** % | 90 |   |
+  | 13 | Dungeon - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Minotaurus](/de/units/Minotaur) |
+  | 14 | Dungeon - Physical Trials | LP + **1.2** % | 90 |   |
+  | 15 | Dungeon - Physical Trials | LP + **1.2** % | 90 |   |
+  | 16 | Dungeon - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 17 | Dungeon - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Troglodyt](/de/units/Troglodyte) |
+  | 18 | Dungeon - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 19 | Dungeon - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 20 | Dungeon - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 21 | Dungeon - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Harpyie](/de/units/Harpy) |
+  | 22 | Dungeon - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 23 | Dungeon - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 24 | Dungeon - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  
+
+
+## Kampfformation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Dungeon - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **20** x [Minotaurus](/de/units/Minotaur) |
+  | 2 | Dungeon - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 3 | Dungeon - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 4 | Dungeon - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 5 | Dungeon - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 6 | Dungeon - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Harpyie](/de/units/Harpy) |
+  | 7 | Dungeon - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 8 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 9 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 10 | Dungeon - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 11 | Dungeon - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Harpyie](/de/units/Harpy) |
+  | 12 | Dungeon - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 13 | Dungeon - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 14 | Dungeon - Physical Trials | LP + **1.4** % | 100 |   |
+  | 15 | Dungeon - Physical Trials | LP + **1.4** % | 100 |   |
+  | 16 | Dungeon - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Harpyie](/de/units/Harpy) |
+  | 17 | Dungeon - Physical Trials | LP + **1.4** % | 100 |   |
+  | 18 | Dungeon - Physical Trials | LP + **1.4** % | 100 |   |
+  | 19 | Dungeon - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 20 | Dungeon - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 21 | Dungeon - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Harpyie](/de/units/Harpy) |
+  | 22 | Dungeon - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 23 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 24 | Dungeon - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 25 | Dungeon - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 26 | Dungeon - Blaster | Kritischer Treffer + **7**  | 190 |  **20** x [Minotaurus](/de/units/Minotaur) |
+  | 27 | Dungeon - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 28 | Dungeon - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 29 | Dungeon - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 30 | Dungeon - Storm Assaulter | ANG + **1.4** % | 100 |   |
   
 

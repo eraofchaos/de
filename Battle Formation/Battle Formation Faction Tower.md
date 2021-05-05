@@ -2,7 +2,7 @@
 title: "Kampfformation Turm"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Kampfformation Turm"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "BattleFormationFactionTower"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Erhöht die Einheitenmagieresistenz aller Turm-Einheiten um 10 %.** |
   | **8** | **Erhöht den KRIT. SCHD aller verbündeten Turm-Einheiten 6 Sekunden lang um 12 %, wenn ein verbündeter Held einen Hilfszauber wirkt.** |
   | **9** | **Erhöht das Angriffstempo aller Turm-Einheiten um 4 %.** |
+  | **10** | **Erhöht den ANG aller Turm-Einheiten um 15 %.** |
+  | **11** | **Erhöht die LP aller Turm-Einheiten um 17 %.** |
+  | **12** | **Erhöht die ABW aller verbündeten Turm-Einheiten 6 Sekunden lang um 8 %, wenn ein verbündeter Held einen Hilfszauber wirkt.** |
 
 ## Kampfformation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Tower - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Gremlin](/de/units/Gremlin) |
   | 17 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Tower - Storm Assaulter | ANG + **1** % | 80 |   |
+  
+
+
+## Kampfformation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Tower - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Stein-Wasserspeier](/de/units/Stone Gargoyle) |
+  | 2 | Tower - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 3 | Tower - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 4 | Tower - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 5 | Tower - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Eisengolem](/de/units/Iron Golem) |
+  | 6 | Tower - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 7 | Tower - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 8 | Tower - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 9 | Tower - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Gremlin](/de/units/Gremlin) |
+  | 10 | Tower - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 11 | Tower - Physical Trials | LP + **1.2** % | 90 |   |
+  | 12 | Tower - Physical Trials | LP + **1.2** % | 90 |   |
+  | 13 | Tower - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Gremlin](/de/units/Gremlin) |
+  | 14 | Tower - Physical Trials | LP + **1.2** % | 90 |   |
+  | 15 | Tower - Physical Trials | LP + **1.2** % | 90 |   |
+  | 16 | Tower - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 17 | Tower - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Eisengolem](/de/units/Iron Golem) |
+  | 18 | Tower - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 19 | Tower - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 20 | Tower - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 21 | Tower - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Stein-Wasserspeier](/de/units/Stone Gargoyle) |
+  | 22 | Tower - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 23 | Tower - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 24 | Tower - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  
+
+
+## Kampfformation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Tower - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **20** x [Stein-Wasserspeier](/de/units/Stone Gargoyle) |
+  | 2 | Tower - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 3 | Tower - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 4 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 5 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 6 | Tower - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Magierin](/de/units/Mage) |
+  | 7 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 8 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 9 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 10 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 11 | Tower - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Magierin](/de/units/Mage) |
+  | 12 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 13 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 14 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
+  | 15 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
+  | 16 | Tower - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Magierin](/de/units/Mage) |
+  | 17 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
+  | 18 | Tower - Physical Trials | LP + **1.4** % | 100 |   |
+  | 19 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 20 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 21 | Tower - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Magierin](/de/units/Mage) |
+  | 22 | Tower - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 23 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 24 | Tower - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 25 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 26 | Tower - Blaster | Kritischer Treffer + **7**  | 190 |  **20** x [Stein-Wasserspeier](/de/units/Stone Gargoyle) |
+  | 27 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 28 | Tower - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 29 | Tower - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 30 | Tower - Storm Assaulter | ANG + **1.4** % | 100 |   |
   
 

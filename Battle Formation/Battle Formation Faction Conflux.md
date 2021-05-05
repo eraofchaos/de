@@ -2,7 +2,7 @@
 title: "Kampfformation Konflux"
 permalink: /Battle Formation/Battle Formation Faction Conflux
 excerpt: "Kampfformation Konflux"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "BattleFormationFactionConflux"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Erhöht die Einheitenmagieresistenz aller Konflux-Einheiten um 10 %.** |
   | **8** | **Wenn Konflux-Einheiten betäubten Einheiten gegenüberstehen, erhöht sich ihr Kritischer Treffer um 80.** |
   | **9** | **Erhöht das Angriffstempo aller Konflux-Einheiten um 4 %.** |
+  | **10** | **Erhöht den ANG aller Konflux-Einheiten um 15 %.** |
+  | **11** | **Erhöht die LP aller Konflux-Einheiten um 17 %.** |
+  | **12** | **Wenn Konflux-Einheiten brennenden oder verstummten Einheiten gegenüberstehen, erhöht sich ihre Einheitenschadensreduzierung pro aktivem Effekt um 4 %.** |
 
 ## Kampfformation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Conflux - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Pixie](/de/units/Sprite) |
   | 17 | Conflux - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Conflux - Storm Assaulter | ANG + **1** % | 80 |   |
+  
+
+
+## Kampfformation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Conflux - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Eiselementar](/de/units/Ice Elemental) |
+  | 2 | Conflux - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 3 | Conflux - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 4 | Conflux - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 5 | Conflux - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Pixie](/de/units/Sprite) |
+  | 6 | Conflux - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 7 | Conflux - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 8 | Conflux - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 9 | Conflux - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Sturmelementar](/de/units/Storm Elemental) |
+  | 10 | Conflux - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 11 | Conflux - Physical Trials | LP + **1.2** % | 90 |   |
+  | 12 | Conflux - Physical Trials | LP + **1.2** % | 90 |   |
+  | 13 | Conflux - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Sturmelementar](/de/units/Storm Elemental) |
+  | 14 | Conflux - Physical Trials | LP + **1.2** % | 90 |   |
+  | 15 | Conflux - Physical Trials | LP + **1.2** % | 90 |   |
+  | 16 | Conflux - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 17 | Conflux - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Pixie](/de/units/Sprite) |
+  | 18 | Conflux - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 19 | Conflux - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 20 | Conflux - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 21 | Conflux - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Eiselementar](/de/units/Ice Elemental) |
+  | 22 | Conflux - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 23 | Conflux - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 24 | Conflux - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  
+
+
+## Kampfformation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Conflux - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **20** x [Sturmelementar](/de/units/Storm Elemental) |
+  | 2 | Conflux - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 3 | Conflux - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 4 | Conflux - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 5 | Conflux - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 6 | Conflux - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Eiselementar](/de/units/Ice Elemental) |
+  | 7 | Conflux - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 8 | Conflux - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 9 | Conflux - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 10 | Conflux - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 11 | Conflux - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Eiselementar](/de/units/Ice Elemental) |
+  | 12 | Conflux - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 13 | Conflux - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 14 | Conflux - Physical Trials | LP + **1.4** % | 100 |   |
+  | 15 | Conflux - Physical Trials | LP + **1.4** % | 100 |   |
+  | 16 | Conflux - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Eiselementar](/de/units/Ice Elemental) |
+  | 17 | Conflux - Physical Trials | LP + **1.4** % | 100 |   |
+  | 18 | Conflux - Physical Trials | LP + **1.4** % | 100 |   |
+  | 19 | Conflux - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 20 | Conflux - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 21 | Conflux - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Eiselementar](/de/units/Ice Elemental) |
+  | 22 | Conflux - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 23 | Conflux - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 24 | Conflux - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 25 | Conflux - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 26 | Conflux - Blaster | Kritischer Treffer + **7**  | 190 |  **20** x [Sturmelementar](/de/units/Storm Elemental) |
+  | 27 | Conflux - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 28 | Conflux - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 29 | Conflux - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 30 | Conflux - Storm Assaulter | ANG + **1.4** % | 100 |   |
   
 

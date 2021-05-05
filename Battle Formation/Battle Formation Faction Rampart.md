@@ -2,7 +2,7 @@
 title: "Kampfformation Schutzwall"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "Kampfformation Schutzwall"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Erhöht die Einheitenmagieresistenz aller Schutzwall-Einheiten um 10 %.** |
   | **8** | **Wenn Schutzwall-Einheiten blutenden oder verlangsamten Einheiten gegenüberstehen, erhöht sich ihre ABW pro aktivem Effekt um 4 %.** |
   | **9** | **Erhöht das Angriffstempo aller Schutzwall-Einheiten um 4 %.** |
+  | **10** | **Erhöht den ANG aller Schutzwall-Einheiten um 15 %.** |
+  | **11** | **Erhöht die LP aller Schutzwall-Einheiten um 17 %.** |
+  | **12** | **Wenn Schutzwall-Einheiten blutenden oder verlangsamten Einheiten gegenüberstehen, erhöht sich der Einheitenschaden pro aktivem Effekt um 2,5 %.** |
 
 ## Kampfformation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Rampart - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Waldelfe](/de/units/Wood Elf) |
   | 17 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Rampart - Storm Assaulter | ANG + **1** % | 80 |   |
+  
+
+
+## Kampfformation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Zentaur](/de/units/Centaur) |
+  | 2 | Rampart - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 3 | Rampart - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 4 | Rampart - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 5 | Rampart - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Zwerg](/de/units/Dwarf) |
+  | 6 | Rampart - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 7 | Rampart - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 8 | Rampart - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 9 | Rampart - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Einhorn](/de/units/Unicorn) |
+  | 10 | Rampart - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 11 | Rampart - Physical Trials | LP + **1.2** % | 90 |   |
+  | 12 | Rampart - Physical Trials | LP + **1.2** % | 90 |   |
+  | 13 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Zwerg](/de/units/Dwarf) |
+  | 14 | Rampart - Physical Trials | LP + **1.2** % | 90 |   |
+  | 15 | Rampart - Physical Trials | LP + **1.2** % | 90 |   |
+  | 16 | Rampart - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 17 | Rampart - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Einhorn](/de/units/Unicorn) |
+  | 18 | Rampart - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 19 | Rampart - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 20 | Rampart - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 21 | Rampart - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Waldelfe](/de/units/Wood Elf) |
+  | 22 | Rampart - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 23 | Rampart - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 24 | Rampart - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  
+
+
+## Kampfformation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Rampart - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **20** x [Dendroidenwache](/de/units/Dendroid Guard) |
+  | 2 | Rampart - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 3 | Rampart - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 4 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 5 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 6 | Rampart - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Pegasus](/de/units/Pegasus) |
+  | 7 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 8 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 9 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 10 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 11 | Rampart - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Dendroidenwache](/de/units/Dendroid Guard) |
+  | 12 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 13 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 14 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
+  | 15 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
+  | 16 | Rampart - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Pegasus](/de/units/Pegasus) |
+  | 17 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
+  | 18 | Rampart - Physical Trials | LP + **1.4** % | 100 |   |
+  | 19 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 20 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 21 | Rampart - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Dendroidenwache](/de/units/Dendroid Guard) |
+  | 22 | Rampart - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 23 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 24 | Rampart - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 25 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 26 | Rampart - Blaster | Kritischer Treffer + **7**  | 190 |  **20** x [Pegasus](/de/units/Pegasus) |
+  | 27 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 28 | Rampart - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 29 | Rampart - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 30 | Rampart - Storm Assaulter | ANG + **1.4** % | 100 |   |
   
 

@@ -2,7 +2,7 @@
 title: "Kampfformation Schloss"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "Kampfformation Schloss"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: de
 ref: "BattleFormationFactionCastle"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Erhöht die Einheitenmagieresistenz aller Schloss-Einheiten um 10 %.** |
   | **8** | **Bei Hoher Moral erhöht sich der KRIT. SCHD aller Schloss-Einheiten um 12 %.** |
   | **9** | **Erhöht das Angriffstempo aller Schloss-Einheiten um 4 %.** |
+  | **10** | **Erhöht den ANG aller Schloss-Einheiten um 15 %.** |
+  | **11** | **Erhöht die LP aller Schloss-Einheiten um 17 %.** |
+  | **12** | **Bei Hoher Moral erhöht sich der Kritische Treffer von allen Schloss-Einheiten um 50.** |
 
 ## Kampfformation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Castle - Blaster | Kritischer Treffer + **5**  | 160 |  **10** x [Scharfschütze](/de/units/Marksman) |
   | 17 | Castle - Storm Assaulter | ANG + **0.7** %, LP + **0.3** % | 80 |   |
   | 18 | Castle - Storm Assaulter | ANG + **1** % | 80 |   |
+  
+
+
+## Kampfformation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Castle - Damage Amplification | SCHD (Einheit) + **0.4** % | 180 |  **10** x [Pikenier](/de/units/Pikeman) |
+  | 2 | Castle - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 3 | Castle - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 4 | Castle - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 5 | Castle - A Strike Hit | Präzision + **7**  | 180 |  **10** x [Mönch](/de/units/Monk) |
+  | 6 | Castle - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 7 | Castle - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 8 | Castle - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 9 | Castle - Ingeniousness | Ausweichen + **7**  | 180 |  **10** x [Schwertkämpfer](/de/units/Swordsman) |
+  | 10 | Castle - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 11 | Castle - Physical Trials | LP + **1.2** % | 90 |   |
+  | 12 | Castle - Physical Trials | LP + **1.2** % | 90 |   |
+  | 13 | Castle - Shield Practice | SCHD-Reduzierung (Einheit) + **0.4** % | 180 |  **10** x [Mönch](/de/units/Monk) |
+  | 14 | Castle - Physical Trials | LP + **1.2** % | 90 |   |
+  | 15 | Castle - Physical Trials | LP + **1.2** % | 90 |   |
+  | 16 | Castle - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 17 | Castle - Rocklike Skin | Zähigkeit + **8**  | 180 |  **10** x [Schwertkämpfer](/de/units/Swordsman) |
+  | 18 | Castle - Physical Trials | ANG + **0.4** %, LP + **0.8** % | 90 |   |
+  | 19 | Castle - Storm Assaulter | ANG + **0.6** %, LP + **0.6** % | 90 |   |
+  | 20 | Castle - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 21 | Castle - Blaster | Kritischer Treffer + **6**  | 180 |  **10** x [Scharfschütze](/de/units/Marksman) |
+  | 22 | Castle - Storm Assaulter | ANG + **0.8** %, LP + **0.4** % | 90 |   |
+  | 23 | Castle - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  | 24 | Castle - Storm Assaulter | ANG + **1.2** % | 90 |   |
+  
+
+
+## Kampfformation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Castle - Damage Amplification | SCHD (Einheit) + **0.5** % | 190 |  **20** x [Greif](/de/units/Griffin) |
+  | 2 | Castle - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 3 | Castle - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 4 | Castle - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 5 | Castle - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 6 | Castle - A Strike Hit | Präzision + **8**  | 190 |  **20** x [Kavallerist](/de/units/Cavalier ) |
+  | 7 | Castle - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 8 | Castle - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 9 | Castle - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 10 | Castle - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 11 | Castle - Ingeniousness | Ausweichen + **8**  | 190 |  **20** x [Greif](/de/units/Griffin) |
+  | 12 | Castle - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 13 | Castle - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 14 | Castle - Physical Trials | LP + **1.4** % | 100 |   |
+  | 15 | Castle - Physical Trials | LP + **1.4** % | 100 |   |
+  | 16 | Castle - Shield Practice | SCHD-Reduzierung (Einheit) + **0.5** % | 190 |  **20** x [Kavallerist](/de/units/Cavalier ) |
+  | 17 | Castle - Physical Trials | LP + **1.4** % | 100 |   |
+  | 18 | Castle - Physical Trials | LP + **1.4** % | 100 |   |
+  | 19 | Castle - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 20 | Castle - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 21 | Castle - Rocklike Skin | Zähigkeit + **10**  | 190 |  **20** x [Greif](/de/units/Griffin) |
+  | 22 | Castle - Physical Trials | ANG + **0.5** %, LP + **0.9** % | 100 |   |
+  | 23 | Castle - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 24 | Castle - Storm Assaulter | ANG + **0.7** %, LP + **0.7** % | 100 |   |
+  | 25 | Castle - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 26 | Castle - Blaster | Kritischer Treffer + **7**  | 190 |  **20** x [Kavallerist](/de/units/Cavalier ) |
+  | 27 | Castle - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 28 | Castle - Storm Assaulter | ANG + **0.9** %, LP + **0.5** % | 100 |   |
+  | 29 | Castle - Storm Assaulter | ANG + **1.4** % | 100 |   |
+  | 30 | Castle - Storm Assaulter | ANG + **1.4** % | 100 |   |
   
 
