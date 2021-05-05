@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Einsamer Wolf](/de/PeakTalent/Lone Wolf/)
+  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Einsamer Wolf](/images/pt/talent_2001.png) [Einsamer Wolf](/de/PeakTalent/Lone Wolf/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | LP (1/4/9): +1800/540/270 | Ausweichen: +20 | Grundwert Angriff (Held): +1 | Grundwert Wissen (Held): +1 |
   | 2 | LP (1/4/9): +3600/1080/540 | Ausweichen: +40 | Grundwert Angriff (Held): +2 | Grundwert Wissen (Held): +2 |
   | 3 | LP (1/4/9): +5400/1620/810 | Ausweichen: +60 | Grundwert Angriff (Held): +4 | Grundwert Wissen (Held): +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Spitzentalentpunkt](/ItemsDE/con_934/) | 200000 | 4 |

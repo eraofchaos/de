@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Rittertum](/de/PeakTalent/Chivalry/)
+  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Rittertum](/images/pt/talent_3006.png) [Rittertum](/de/PeakTalent/Chivalry/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | Magieresistenz: +2 | SCHD-Reflexion: +1 | Grundwert Angriff (Held): +1 | Grundwert Intelligenz (Held): +1 |
   | 2 | Magieresistenz: +4 | SCHD-Reflexion: +2 | Grundwert Angriff (Held): +2 | Grundwert Intelligenz (Held): +2 |
   | 3 | Magieresistenz: +6 | SCHD-Reflexion: +3 | Grundwert Angriff (Held): +4 | Grundwert Intelligenz (Held): +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Spitzentalentpunkt](/ItemsDE/con_934/) | 200000 | 4 |

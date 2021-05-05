@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Ruhmesschwert](/de/PeakTalent/Sword of Glory/)
+  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Ruhmesschwert](/images/pt/talent_4201.png) [Ruhmesschwert](/de/PeakTalent/Sword of Glory/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | LP: +10% | ABW: +20 | Grundwert Angriff (Held): +2 | - |
   | 2 | LP: +20% | ABW: +40 | Grundwert Angriff (Held): +4 | - |
   | 3 | LP: +30% | ABW: +60 | Grundwert Angriff (Held): +8 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Spitzentalentpunkt](/ItemsDE/con_934/) | 200000 | 4 |

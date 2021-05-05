@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Offas Herz](/de/PeakTalent/Heart of Offa/)
+  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Offas Herz](/images/pt/talent_3008.png) [Offas Herz](/de/PeakTalent/Heart of Offa/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | SCHD (Einheit): +0.5% | SCHD-Reduzierung (Einheit): +1% | Grundwert Angriff (Held): +1 | Grundwert Wissen (Held): +1 |
   | 2 | SCHD (Einheit): +1% | SCHD-Reduzierung (Einheit): +2% | Grundwert Angriff (Held): +2 | Grundwert Wissen (Held): +2 |
   | 3 | SCHD (Einheit): +1.5% | SCHD-Reduzierung (Einheit): +3% | Grundwert Angriff (Held): +4 | Grundwert Wissen (Held): +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Spitzentalentpunkt](/ItemsDE/con_934/) | 200000 | 4 |

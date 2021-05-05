@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Aggressor](/de/PeakTalent/Aggressor/)
+  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Aggressor](/images/pt/talent_3004.png) [Aggressor](/de/PeakTalent/Aggressor/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | SCHD-Reduzierung (Einheit): +0.5% | Kritischer Treffer: +20 | Grundwert Angriff (Held): +1 | Grundwert Abwehr (Held): +1 |
   | 2 | SCHD-Reduzierung (Einheit): +1% | Kritischer Treffer: +40 | Grundwert Angriff (Held): +2 | Grundwert Abwehr (Held): +2 |
   | 3 | SCHD-Reduzierung (Einheit): +1.5% | Kritischer Treffer: +60 | Grundwert Angriff (Held): +4 | Grundwert Abwehr (Held): +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Spitzentalentpunkt](/ItemsDE/con_934/) | 200000 | 4 |

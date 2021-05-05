@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 8x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Mitternachtspuls](/de/PeakTalent/Midnight Pulse/)
+  **UNLOCK: 8x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Mitternachtspuls](/images/pt/talent_3009.png) [Mitternachtspuls](/de/PeakTalent/Midnight Pulse/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | Magieresistenz: +2 | Kritischer SCHD: +2 | Grundwert Angriff (Held): +1 | Grundwert Wissen (Held): +1 |
   | 2 | Magieresistenz: +4 | Kritischer SCHD: +4 | Grundwert Angriff (Held): +2 | Grundwert Wissen (Held): +2 |
   | 3 | Magieresistenz: +6 | Kritischer SCHD: +6 | Grundwert Angriff (Held): +4 | Grundwert Wissen (Held): +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Spitzentalentpunkt](/ItemsDE/con_934/) | 200000 | 4 |

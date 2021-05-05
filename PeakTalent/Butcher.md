@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Ausdauerndes Herz](/de/PeakTalent/Heart of Endurance/)
+  **UNLOCK: 7x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Ausdauerndes Herz](/images/pt/talent_1002.png) [Ausdauerndes Herz](/de/PeakTalent/Heart of Endurance/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ANG (1/4/9): +200/60/30 | ANG: +3.5% | Grundwert Angriff (Held): +1 | Grundwert Abwehr (Held): +1 |
   | 2 | ANG (1/4/9): +400/120/60 | ANG: +7% | Grundwert Angriff (Held): +2 | Grundwert Abwehr (Held): +2 |
   | 3 | ANG (1/4/9): +600/180/90 | ANG: +10.5% | Grundwert Angriff (Held): +3 | Grundwert Abwehr (Held): +3 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 150000 | 3 |

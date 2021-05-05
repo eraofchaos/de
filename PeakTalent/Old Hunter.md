@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 8x** [Spitzentalentpunkt](/ItemsDE/con_934/) at [Schusswaffenausbildung](/de/PeakTalent/Gunnery Training/)
+  **UNLOCK: 8x** [Spitzentalentpunkt](/ItemsDE/con_934/) at ![Schusswaffenausbildung](/images/pt/talent_2008.png) [Schusswaffenausbildung](/de/PeakTalent/Gunnery Training/)
 
   [Höchstes Talent EXP](/de/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ANG: +5% | LP: +5% | Grundwert Intelligenz (Held): +1 | Grundwert Wissen (Held): +1 |
   | 2 | ANG: +10% | LP: +10% | Grundwert Intelligenz (Held): +2 | Grundwert Wissen (Held): +2 |
   | 3 | ANG: +15% | LP: +15% | Grundwert Intelligenz (Held): +4 | Grundwert Wissen (Held): +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Spitzentalentpunkt](/ItemsDE/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Spitzentalentpunkt](/ItemsDE/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Spitzentalentpunkt](/ItemsDE/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Spitzentalentpunkt](/ItemsDE/con_934/) | 200000 | 4 |
