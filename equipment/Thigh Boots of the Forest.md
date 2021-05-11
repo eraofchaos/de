@@ -2,7 +2,7 @@
 title: "Hohe Stiefel des Waldes"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "Era of Chaos Hohe Stiefel des Waldes. Hohe Stiefel des Waldes"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Thigh Boots of the Forest.md"
 toc: false

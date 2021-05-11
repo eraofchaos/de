@@ -2,7 +2,7 @@
 title: "Avatar - Schatten der Bestie"
 permalink: /Avatars/Shadow of Beast/
 excerpt: "Era of Chaos  Schatten der Bestie"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Shadow of Beast.md"
 toc: false
@@ -16,5 +16,5 @@ classes: wide
 
  **Tips:** Erhältlich durch Teilnahme am Ereignis. 
 
- **Is available:**  - 
+ **Is available:**  + 
 

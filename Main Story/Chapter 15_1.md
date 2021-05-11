@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-1 Letzte Worte eines Dämons"
 permalink: /Main Story/Chapter 15_1/
 excerpt: "Kapitel 15 - 1. Era of Chaos  Hauptstory - Kapitel 15_1. 15-1 Letzte Worte eines Dämons"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 15_1.md"
 toc: false

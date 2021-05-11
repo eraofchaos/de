@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Gorgone. Gorgone Einheiten. Mächtige Gorgone. Era of Chaos Üble Kreaturen mit tödlichen Augen. Haben sie sich ein Ziel auserkoren, verlässt dieses den Sumpf nicht mehr."
 unitID: 805
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Gorgone"
 toc: true
@@ -194,7 +194,7 @@ toc: true
   ![Mächtige Gorgone](/images/u/tia_manniu.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Mächtige Gorgone
 
@@ -224,10 +224,10 @@ toc: true
  **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Unzivilisierter Fluch&gt;</span><span style="color: #645252;font-size:18px">Reduziert das Angriffstempo gegnerischer Einheiten um 20 %. Beim Tod werden alle umstehenden Einheiten in einem bestimmten Gebiet mit einer gewissen Wahrscheinlichkeit 8 Sek. lang versteinert, und das Angriffstempo aller gegnerischen Einheiten – außer Festung – wird um 3 % reduziert. 4 Mal stapelbar.</span>
 
 ### 5th Skill (or 6th): Moorkönig
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Reduziert das Angriffstempo gegnerischer Einheiten – außer Festung – um 10 % und die Heilung um 30 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Moor-Overlord&gt;</span><span style="color: #645252;font-size:18px"> Die Gorgone erhöht ihre ABW um 10 % und verringert bei gegnerischen Einheiten – außer Festung – das Angriffstempo um 20 % und die erhaltene Heilung um 30 %, wenn die Gorgone sich auf dem Schlachtfeld befindet.</span>
 
 ### 6th Skill (or 5th): Sumpf-Lord
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Sumpf-Overlord&gt;</span><span style="color: #645252;font-size:18px">Wenn die Gorgone durch einen einzelnen Angriff mehr als 20 % ihrer max. LP erleiden würde, wird der Schaden auf 20 % reduziert. Erhöht das Angriffstempo aller verbündeten Einheiten um 20 %, solange die Gorgone auf dem Schlachtfeld ist.</span>
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Moor-Overlord&gt;</span><span style="color: #645252;font-size:18px"> Die Gorgone erhöht ihre ABW um 10 % und das Angriffstempo aller verbündeten Einheiten um 35 %, wenn die Gorgone sich auf dem Schlachtfeld befindet.</span>
 
 ## Technical info
  **runart:** 1

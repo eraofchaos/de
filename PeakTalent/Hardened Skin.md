@@ -2,7 +2,7 @@
 title: "Abgehärtete Haut. Höchstes Talent - Abgehärtete Haut"
 permalink: /PeakTalent/Hardened Skin/
 excerpt: "Era of Chaos Höchstes Talent Abgehärtete Haut. Höchstes Talent Abgehärtete Haut. Abgehärtete Haut"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Hardened Skin.md"
 toc: false

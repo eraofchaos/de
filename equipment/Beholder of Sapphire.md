@@ -2,7 +2,7 @@
 title: "Saphirbetrachter"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "Era of Chaos Saphirbetrachter. Saphirbetrachter"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Beholder of Sapphire.md"
 toc: false

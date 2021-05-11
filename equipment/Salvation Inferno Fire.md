@@ -2,7 +2,7 @@
 title: "Rettendes Infernofeuer"
 permalink: /equipment/Salvation Inferno Fire/
 excerpt: "Era of Chaos Rettendes Infernofeuer. Rettendes Infernofeuer"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Salvation Inferno Fire.md"
 toc: false

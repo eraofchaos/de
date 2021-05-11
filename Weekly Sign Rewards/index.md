@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 21  Turmwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **24 May** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **25 May** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **26 May** | **100x <i class="fas fa-gem"/>**  | Während Eures Studiums der Alchemie ereilten Euch einige Überraschungen! |
+  | **27 May** | **3x [Eisengolem](/ItemsDE/unt_237/)**  | Ein Trupp von Eisengolems schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **28 May** | **3x [Einheitentruhe (Turm)](/ItemsDE/con_1274/)**  | Du hast mehrere wunderschöne Truhen im arkanen Laboratorium des Turms gefunden! |
+  | **29 May** | **3x [Magierin](/ItemsDE/unt_238/)**  | Ein Trupp Magierinnen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **30 May** | **5x [Solmyr](/ItemsDE/her_386/)**  | Eure Erforschung des Arkanen brachte Solmyr dazu, sich Eurer Armee anzuschließen! |
+
 
 #### 2021 Week 20  Schutzwallwoche
 

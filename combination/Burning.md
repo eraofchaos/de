@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Verbrennung"
 permalink: /combination/Burning/
 excerpt: "Kombinationsinfo - Verbrennung. Units and Heroes Formation."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Verbrennung.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Wespenwurzblatt (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Wespenwurzblatt. Wespenwurzblatt. Era of Chaos Exklusiv Wespenwurzblatt. Wespenwurz Exklusiv."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Waspwort Wespenwurzblatt.md"
 toc: false

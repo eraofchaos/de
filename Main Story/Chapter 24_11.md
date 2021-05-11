@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-11 Die Prinzessin und der Drache"
 permalink: /Main Story/Chapter 24_11/
 excerpt: "Kapitel 24 - 11. Era of Chaos  Hauptstory - Kapitel 24_11. 24-11 Die Prinzessin und der Drache"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 24_11.md"
 toc: false

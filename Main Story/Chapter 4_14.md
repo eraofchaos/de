@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-14 Heiligtum"
 permalink: /Main Story/Chapter 4_14/
 excerpt: "Kapitel 4 - 14. Era of Chaos  Hauptstory - Kapitel 4_14. 4-14 Heiligtum"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 4_14.md"
 toc: false

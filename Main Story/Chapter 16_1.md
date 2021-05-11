@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-1 Uralte Seele"
 permalink: /Main Story/Chapter 16_1/
 excerpt: "Kapitel 16 - 1. Era of Chaos  Hauptstory - Kapitel 16_1. 16-1 Uralte Seele"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 16_1.md"
 toc: false

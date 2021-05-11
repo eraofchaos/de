@@ -2,7 +2,7 @@
 title: "Wellenstrom"
 permalink: /equipment/Wavy Flow/
 excerpt: "Era of Chaos Wellenstrom. Wellenstrom"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Wavy Flow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Wunderrüstung"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Era of Chaos Wunderrüstung. Wunderrüstung"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Armor of Wonder.md"
 toc: false

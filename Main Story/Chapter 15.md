@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 Vereinigte Front"
 permalink: /Main Story/Chapter 15/
 excerpt: "Kapitel 15. Era of Chaos  Hauptstory - Kapitel 15. Vereinigte Front"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 15.md"
 toc: false

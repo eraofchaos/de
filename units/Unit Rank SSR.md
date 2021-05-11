@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Unit Rank SSR"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | ![Schwarzer Drache](/images/u/ti_heilong.jpg) | [Schwarzer Drache](/de/units/Black Dragon/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Schwarzer Drachenkönig  |
   | 14 | ![Roter Drache](/images/u/ti_chilong.jpg) | [Roter Drache](/de/units/Red Dragon/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 15 | ![Grüner Drache](/images/u/ti_lvlong.jpg) | [Grüner Drache](/de/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Goldener Drache  |
-  | 16 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/de/units/Gorgon/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |
+  | 16 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/de/units/Gorgon/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |
   | 17 | ![Assassine](/images/u/ti_cishazhe.jpg) | [Assassine](/de/units/Assassin/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 18 | ![Schwarzer Ritter](/images/u/ti_siwangqishi.jpg) | [Schwarzer Ritter](/de/units/Black Knight/) | Ansturm | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Schattenritter  |
   | 19 | ![Hydra](/images/u/ti_duotoulong.jpg) | [Hydra](/de/units/Hydra/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Chaoshydra  |

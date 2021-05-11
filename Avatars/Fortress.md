@@ -2,7 +2,7 @@
 title: "Avatar - Festung"
 permalink: /Avatars/Fortress/
 excerpt: "Era of Chaos  Festung"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Fortress.md"
 toc: false

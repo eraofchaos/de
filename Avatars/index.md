@@ -2,7 +2,7 @@
 title: "Avatarrahmen & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatarrahmen & Avatar. Avatarrahmen & Avatar"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "index.md"
 toc: false
@@ -80,7 +80,7 @@ classes: wide
   | 67 | ![Sammler – Einfach](/images/a/avatarFrame_71.png) | [Sammler – Einfach](/de/Avatars/Collector - Basic/) | + | Sammler – Einfach |
   | 68 | ![Sammler – Experte](/images/a/avatarFrame_59.png) | [Sammler – Experte](/de/Avatars/Collector - Expert/) | + | Exklusiver „Prüfung des Heiligen Emblems“-Avatarrahmen |
   | 69 | ![Sammler – Fortgeschritten](/images/a/avatarFrame_72.png) | [Sammler – Fortgeschritten](/de/Avatars/Collector - Advanced/) | + | Sammler – Fortgeschritten |
-  | 70 | ![Schatten der Bestie](/images/a/avatarFrame_79.png) | [Schatten der Bestie](/de/Avatars/Shadow of Beast/) | - | „Schatten der Bestie“-Avatarrahmen |
+  | 70 | ![Schatten der Bestie](/images/a/avatarFrame_79.png) | [Schatten der Bestie](/de/Avatars/Shadow of Beast/) | + | „Schatten der Bestie“-Avatarrahmen |
   | 71 | ![Schatten der Geister](/images/a/avatarFrame_78.png) | [Schatten der Geister](/de/Avatars/Shadow of Ghosts/) | - | „Schatten der Geister“-Avatarrahmen |
   | 72 | ![Schatzsammler](/images/a/avatarFrame_19.png) | [Schatzsammler](/de/Avatars/Treasure Collector/) | + | Schatzsammler-Avatarrahmen |
   | 73 | ![Schloss](/images/a/avatarFrame_11.png) | [Schloss](/de/Avatars/Castle/) | - | Schloss-Avatarrahmen |

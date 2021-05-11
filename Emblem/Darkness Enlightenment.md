@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Erleuchtung der Dunkelheit"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Erleuchtung der Dunkelheit. Erleuchtung der Dunkelheit. Era of Chaos Heiliges Emblem Erleuchtung der Dunkelheit. Era of Chaos Böse Erleuchtung der Dunkelheit"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Darkness Enlightenment.md"
 toc: false

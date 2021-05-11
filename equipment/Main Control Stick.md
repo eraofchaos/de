@@ -2,7 +2,7 @@
 title: "Hauptsteuerknüppel"
 permalink: /equipment/Main Control Stick/
 excerpt: "Era of Chaos Hauptsteuerknüppel. Hauptsteuerknüppel"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Main Control Stick.md"
 toc: false

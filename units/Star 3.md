@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Star 3"
 toc: false
@@ -47,7 +47,7 @@ classes: wide
   | 33 | ![Richterin](/images/u/ti_shenpanguan.jpg) | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 34 | ![Roter Drache](/images/u/ti_chilong.jpg) | [Roter Drache](/de/units/Red Dragon/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 35 | ![Grüner Drache](/images/u/ti_lvlong.jpg) | [Grüner Drache](/de/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Goldener Drache  |
-  | 36 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/de/units/Gorgon/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |
+  | 36 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/de/units/Gorgon/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |
   | 37 | ![Böse Zauberin](/images/u/ti_xiemonv.jpg) | [Böse Zauberin](/de/units/Evil Sorceress/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 38 | ![Wyvern](/images/u/ti_feilong.jpg) | [Wyvern](/de/units/Wyvern/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Wyvernkönig  |
   | 39 | ![Assassine](/images/u/ti_cishazhe.jpg) | [Assassine](/de/units/Assassin/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |

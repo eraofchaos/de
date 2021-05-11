@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Versteinerung"
 permalink: /combination/Petrify/
 excerpt: "Kombinationsinfo - Versteinerung. Units and Heroes Formation."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Versteinerung.md"
 toc: false

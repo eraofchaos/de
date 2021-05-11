@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 10 - 10-3 Der Leichnam des Königs"
 permalink: /Underground/Chapter 10_3/
 excerpt: "Kapitel 10 - 3. Era of Chaos  Untergrund - Kapitel 10_3. 10-3 Der Leichnam des Königs"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 10_3.md"
 toc: false

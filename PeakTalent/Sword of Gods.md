@@ -2,7 +2,7 @@
 title: "Götterschwert. Höchstes Talent - Götterschwert"
 permalink: /PeakTalent/Sword of Gods/
 excerpt: "Era of Chaos Höchstes Talent Götterschwert. Höchstes Talent Götterschwert. Götterschwert"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Sword of Gods.md"
 toc: false

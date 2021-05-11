@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-8 Kampftaktiken"
 permalink: /Main Story/Chapter 8_8/
 excerpt: "Kapitel 8 - 8. Era of Chaos  Hauptstory - Kapitel 8_8. 8-8 Kampftaktiken"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 8_8.md"
 toc: false

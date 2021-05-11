@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-13 Werkstatt"
 permalink: /Main Story/Chapter 28_13/
 excerpt: "Kapitel 28 - 13. Era of Chaos  Hauptstory - Kapitel 28_13. 28-13 Werkstatt"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 28_13.md"
 toc: false

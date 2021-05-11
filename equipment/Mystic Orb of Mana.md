@@ -2,7 +2,7 @@
 title: "Mystische Manakugel"
 permalink: /equipment/Mystic Orb of Mana/
 excerpt: "Era of Chaos Mystische Manakugel. Mystische Manakugel"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Mystic Orb of Mana.md"
 toc: false

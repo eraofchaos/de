@@ -2,7 +2,7 @@
 title: "Artefakt - Spiegel der Rache - Eisschuppe"
 permalink: /artifacts/Ice Scale/
 excerpt: "Era of Chaos  Spiegel der Rache - Eisschuppe. Mit diesem Gegenstand kann mächtige Frostmagie reguliert werden. Eine der Komponenten für den Spiegel der Rache."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Ice Scale.md"
 toc: false

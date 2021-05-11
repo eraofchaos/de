@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 Eismeer"
 permalink: /Main Story/Chapter 12/
 excerpt: "Kapitel 12. Era of Chaos  Hauptstory - Kapitel 12. Eismeer"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 12.md"
 toc: false

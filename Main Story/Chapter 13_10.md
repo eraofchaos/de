@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-10 Verstärkungen"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Kapitel 13 - 10. Era of Chaos  Hauptstory - Kapitel 13_10. 13-10 Verstärkungen"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 13_10.md"
 toc: false

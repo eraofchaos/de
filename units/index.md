@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "index.md"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
   | 11 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
   | 12 | ![Dunkler Kämpe](/images/u/ti_sishen.jpg) | [Dunkler Kämpe](/de/units/Dark Champion/) | Offensiv | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 13 | ![Dämon](/images/u/ti_changjiaoemo.jpg) | [Dämon](/de/units/Demon/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Infernowache  |
-  | 14 | ![Echsenmensch](/images/u/ti_xiyiren.jpg) | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 14 | ![Echsenmensch](/images/u/ti_xiyiren.jpg) | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 15 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/de/units/Efreeti/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreetsultan  |
   | 16 | ![Einhorn](/images/u/ti_dujiaoshou.jpg) | [Einhorn](/de/units/Unicorn/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Kriegseinhorn  |
   | 17 | ![Eisdämon](/images/u/ti_bingmo.jpg) | [Eisdämon](/de/units/Ice Demon/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
@@ -49,7 +49,7 @@ classes: wide
   | 27 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnollkrieger  |
   | 28 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/de/units/Goblin/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 29 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/de/units/Gog/) | Zauberer | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
-  | 30 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/de/units/Gorgon/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |
+  | 30 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/de/units/Gorgon/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |
   | 31 | ![Greif](/images/u/ti_shijiu.jpg) | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Königlicher Greif  |
   | 32 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/de/units/Gremlin/) | Fernkampf | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 33 | ![Grottenteufel](/images/u/ti_diyulingzhu.jpg) | [Grottenteufel](/de/units/Pit Fiend/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Foltermeister  |

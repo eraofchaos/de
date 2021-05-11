@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-3 Eine Klage"
 permalink: /Main Story/Chapter 8_3/
 excerpt: "Kapitel 8 - 3. Era of Chaos  Hauptstory - Kapitel 8_3. 8-3 Eine Klage"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 8_3.md"
 toc: false

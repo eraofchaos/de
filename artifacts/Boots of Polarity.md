@@ -2,7 +2,7 @@
 title: "Artefakt - Antimagie-Runenstein - Stiefel der Polarität"
 permalink: /artifacts/Boots of Polarity/
 excerpt: "Era of Chaos  Antimagie-Runenstein - Stiefel der Polarität. Stiefel mit geprägtem Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Boots of Polarity.md"
 toc: false

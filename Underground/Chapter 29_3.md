@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 29 - 29-3  Furchtloser Ansturm"
 permalink: /Underground/Chapter 29_3/
 excerpt: "Kapitel 29 - 3. Era of Chaos  Untergrund - Kapitel 29_3. 29-3  Furchtloser Ansturm"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 29_3.md"
 toc: false

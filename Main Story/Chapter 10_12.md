@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-12 Bürgerkrieg in der Burg"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Kapitel 10 - 12. Era of Chaos  Hauptstory - Kapitel 10_12. 10-12 Bürgerkrieg in der Burg"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 10_12.md"
 toc: false

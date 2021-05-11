@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-7 Der Blutsumpf"
 permalink: /Main Story/Chapter 6_7/
 excerpt: "Kapitel 6 - 7. Era of Chaos  Hauptstory - Kapitel 6_7. 6-7 Der Blutsumpf"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 6_7.md"
 toc: false

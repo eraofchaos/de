@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-2 Die Macht des Waldes"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Kapitel 28 - 2. Era of Chaos  Hauptstory - Kapitel 28_2. 28-2 Die Macht des Waldes"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 28_2.md"
 toc: false

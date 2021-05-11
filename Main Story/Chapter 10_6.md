@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-6 Splitter suchen"
 permalink: /Main Story/Chapter 10_6/
 excerpt: "Kapitel 10 - 6. Era of Chaos  Hauptstory - Kapitel 10_6. 10-6 Splitter suchen"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 10_6.md"
 toc: false

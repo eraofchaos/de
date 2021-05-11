@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-14 Ausbruch"
 permalink: /Main Story/Chapter 6_14/
 excerpt: "Kapitel 6 - 14. Era of Chaos  Hauptstory - Kapitel 6_14. 6-14 Ausbruch"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 6_14.md"
 toc: false

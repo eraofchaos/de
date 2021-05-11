@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Era of Chaos Exklusiv Fortress. Exklusiv Fortress. List of Exklusiv Fortress in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Exclusive Fortress"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gnoll](/de/units/Gnoll/) | [Schwert](/de/Exclusive/Gnoll Sword/) | - | Aufladung | [Schwert-Token](/ItemsDE/con_912/) | - |
-  | 2  | [Echsenmensch](/de/units/Lizardman/) | [Langbogen](/de/Exclusive/Lizardman Long Bow/) | - | Aufladung | [Langbogen-Token](/ItemsDE/con_914/) | - |
+  | 2  | [Echsenmensch](/de/units/Lizardman/) | [Langbogen](/de/Exclusive/Lizardman Long Bow/) | + | Aufladung | [Langbogen-Token](/ItemsDE/con_914/) | - |
   | 3  | [Schlangenfliege](/de/units/Serpent Fly/) | [Arkangesang](/de/Exclusive/Serpent Fly Arcane Chant/) | + | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
   | 4  | [Basilisk](/de/units/Basilisk/) | [Basiliskenschwanz](/de/Exclusive/Basilisk Basilisk's Tail/) | - | Fernkampf | [Basiliskenschwanz-Token](/ItemsDE/con_994/) | [„Feuerenergie“-Spezialskin](/ItemsDE/con_662/) |
   | 5  | [Gorgone](/de/units/Gorgon/) | [Gorgonenhorn](/de/Exclusive/Gorgon Gorgon's Horn/) | - | Unterstützung | [Gorgonenhorn-Token](/ItemsDE/con_995/) | [Gorgonenhorn-Spezialskin](/ItemsDE/con_663/) |

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 18 - 18-3 Völkervorbehalte"
 permalink: /Underground/Chapter 18_3/
 excerpt: "Kapitel 18 - 3. Era of Chaos  Untergrund - Kapitel 18_3. 18-3 Völkervorbehalte"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 18_3.md"
 toc: false

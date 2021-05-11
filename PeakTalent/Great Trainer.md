@@ -2,7 +2,7 @@
 title: "Großartiger Ausbilder. Höchstes Talent - Großartiger Ausbilder"
 permalink: /PeakTalent/Great Trainer/
 excerpt: "Era of Chaos Höchstes Talent Großartiger Ausbilder. Höchstes Talent Großartiger Ausbilder. Großartiger Ausbilder"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Great Trainer.md"
 toc: false

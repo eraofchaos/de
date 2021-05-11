@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 23 - 23-4 Wiedergeburt der Ewigen Flamme"
 permalink: /Underground/Chapter 23_4/
 excerpt: "Kapitel 23 - 4. Era of Chaos  Untergrund - Kapitel 23_4. 23-4 Wiedergeburt der Ewigen Flamme"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 23_4.md"
 toc: false

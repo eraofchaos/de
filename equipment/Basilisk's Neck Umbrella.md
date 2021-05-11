@@ -2,7 +2,7 @@
 title: "Kragen des Basilisken"
 permalink: /equipment/Basilisk's Neck Umbrella/
 excerpt: "Era of Chaos Kragen des Basilisken. Kragen des Basilisken"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Basilisk's Neck Umbrella.md"
 toc: false

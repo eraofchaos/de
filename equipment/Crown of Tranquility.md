@@ -2,7 +2,7 @@
 title: "Krone der Gelassenheit"
 permalink: /equipment/Crown of Tranquility/
 excerpt: "Era of Chaos Krone der Gelassenheit. Krone der Gelassenheit"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Crown of Tranquility.md"
 toc: false

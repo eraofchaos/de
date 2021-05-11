@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-9 Jagdsitz"
 permalink: /Main Story/Chapter 29_9/
 excerpt: "Kapitel 29 - 9. Era of Chaos  Hauptstory - Kapitel 29_9. 29-9 Jagdsitz"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Chapter 29_9.md"
 toc: false

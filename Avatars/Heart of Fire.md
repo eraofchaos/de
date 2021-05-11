@@ -2,7 +2,7 @@
 title: "Avatar - Feuerherz"
 permalink: /Avatars/Heart of Fire/
 excerpt: "Era of Chaos  Feuerherz"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Heart of Fire.md"
 toc: false
