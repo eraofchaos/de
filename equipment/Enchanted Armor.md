@@ -2,7 +2,7 @@
 title: "Verzauberte Rüstung"
 permalink: /equipment/Enchanted Armor/
 excerpt: "Era of Chaos Verzauberte Rüstung. Verzauberte Rüstung"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Enchanted Armor.md"
 toc: false

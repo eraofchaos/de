@@ -2,7 +2,7 @@
 title: "Stachelknüppel"
 permalink: /equipment/Spiked Club/
 excerpt: "Era of Chaos Stachelknüppel. Stachelknüppel"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Spiked Club.md"
 toc: false

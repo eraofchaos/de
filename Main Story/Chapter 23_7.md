@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-7 Der Drachentöter"
 permalink: /Main Story/Chapter 23_7/
 excerpt: "Kapitel 23 - 7. Era of Chaos  Hauptstory - Kapitel 23_7. 23-7 Der Drachentöter"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 23_7.md"
 toc: false

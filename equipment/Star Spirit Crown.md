@@ -2,7 +2,7 @@
 title: "Sternengeist-Krone"
 permalink: /equipment/Star Spirit Crown/
 excerpt: "Era of Chaos Sternengeist-Krone. Sternengeist-Krone"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Star Spirit Crown.md"
 toc: false

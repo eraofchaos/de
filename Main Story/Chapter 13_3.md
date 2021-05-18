@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-3 Unterstützung"
 permalink: /Main Story/Chapter 13_3/
 excerpt: "Kapitel 13 - 3. Era of Chaos  Hauptstory - Kapitel 13_3. 13-3 Unterstützung"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 13_3.md"
 toc: false

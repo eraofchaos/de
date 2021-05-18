@@ -2,7 +2,7 @@
 title: "Träumersteine"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "Era of Chaos Träumersteine. Träumersteine"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Dreamer's Stones.md"
 toc: false

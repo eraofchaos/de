@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 22 - 22-1 Der Samen des Lebens"
 permalink: /Underground/Chapter 22_1/
 excerpt: "Kapitel 22 - 1. Era of Chaos  Untergrund - Kapitel 22_1. 22-1 Der Samen des Lebens"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 22_1.md"
 toc: false

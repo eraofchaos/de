@@ -2,7 +2,7 @@
 title: "Die instabile Form. Höchstes Talent - Die instabile Form"
 permalink: /PeakTalent/The Unstable Form/
 excerpt: "Era of Chaos Höchstes Talent Die instabile Form. Höchstes Talent Die instabile Form. Die instabile Form"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "The Unstable Form.md"
 toc: false

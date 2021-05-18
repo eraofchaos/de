@@ -2,7 +2,7 @@
 title: "Drakonischer Schädel"
 permalink: /equipment/Draconic Skull/
 excerpt: "Era of Chaos Drakonischer Schädel. Drakonischer Schädel"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Draconic Skull.md"
 toc: false

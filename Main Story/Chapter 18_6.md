@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-6 Monsterstein"
 permalink: /Main Story/Chapter 18_6/
 excerpt: "Kapitel 18 - 6. Era of Chaos  Hauptstory - Kapitel 18_6. 18-6 Monsterstein"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 18_6.md"
 toc: false

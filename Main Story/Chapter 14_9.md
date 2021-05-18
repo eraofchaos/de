@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-9 Ein Unglück kommt selten allein"
 permalink: /Main Story/Chapter 14_9/
 excerpt: "Kapitel 14 - 9. Era of Chaos  Hauptstory - Kapitel 14_9. 14-9 Ein Unglück kommt selten allein"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 14_9.md"
 toc: false

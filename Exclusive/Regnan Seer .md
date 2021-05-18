@@ -2,7 +2,7 @@
 title: "Exklusiv -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Regnanseherin Exklusiv."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Regnan Seer .md"
 toc: false

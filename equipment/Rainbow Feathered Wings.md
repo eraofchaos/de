@@ -2,7 +2,7 @@
 title: "Regenbogenfarbene Schwingen"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "Era of Chaos Regenbogenfarbene Schwingen. Regenbogenfarbene Schwingen"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Rainbow Feathered Wings.md"
 toc: false

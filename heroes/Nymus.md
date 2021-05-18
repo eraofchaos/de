@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus ist ein Phantom mit reichlich Kampferfahrung. Deswegen hat der Erzteufel sie zur Lehrmeisterin der Grottenteufel ernannt. Kehrt sie auf das Schlachtfeld zurück, werden die Herzen ihrer Gegner vor Angst erzittern."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Nymus"
 toc: true

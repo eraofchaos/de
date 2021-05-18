@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Arch Mage)"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Erzmagier Exklusiv."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Arch Mage Arkangesang.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Zorn der Wildnis"
 permalink: /Avatars/Fury of the Wilderness/
 excerpt: "Era of Chaos  Zorn der Wildnis"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Fury of the Wilderness.md"
 toc: false

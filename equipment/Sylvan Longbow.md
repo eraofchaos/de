@@ -2,7 +2,7 @@
 title: "Sylvanischer Langbogen"
 permalink: /equipment/Sylvan Longbow/
 excerpt: "Era of Chaos Sylvanischer Langbogen. Sylvanischer Langbogen"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Sylvan Longbow.md"
 toc: false

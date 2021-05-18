@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 22  Schlosswoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **31 May** | **5x [Pikenier](/ItemsDE/unt_190/)**  | Ein Trupp Pikeniere schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **1 Jun** | **5x [Scharfschütze](/ItemsDE/unt_191/)**  | Ein Trupp Scharfschützen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **2 Jun** | **3x [Schwertkämpfer](/ItemsDE/unt_193/)**  | Ein Trupp Schwertkämpfer schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **3 Jun** | **3x [Greif](/ItemsDE/unt_192/)**  | Ein Trupp Greifen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **4 Jun** | **3x [Mönch](/ItemsDE/unt_194/)**  | Ein Trupp Mönche schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **5 Jun** | **3x [Kavallerist](/ItemsDE/unt_195/)**  | Ein Trupp Kavalleristen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **6 Jun** | **5x [Adelaide](/ItemsDE/her_359/)**  | Ein Magier, der die Kraft des Schnees beherrscht, hat Euer Gebiet besucht! |
+
 
 #### 2021 Week 21  Turmwoche
 

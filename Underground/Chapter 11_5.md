@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 11 - 11-5 Kampf gegen die Untoten"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Kapitel 11 - 5. Era of Chaos  Untergrund - Kapitel 11_5. 11-5 Kampf gegen die Untoten"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 11_5.md"
 toc: false

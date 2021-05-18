@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-6 Banditenlager"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Kapitel 3 - 6. Era of Chaos  Hauptstory - Kapitel 3_6. 3-6 Banditenlager"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 3_6.md"
 toc: false

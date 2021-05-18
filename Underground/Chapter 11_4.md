@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 11 - 11-4 Kampfgefährten"
 permalink: /Underground/Chapter 11_4/
 excerpt: "Kapitel 11 - 4. Era of Chaos  Untergrund - Kapitel 11_4. 11-4 Kampfgefährten"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 11_4.md"
 toc: false

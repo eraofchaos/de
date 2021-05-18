@@ -2,7 +2,7 @@
 title: "Lebenswächter"
 permalink: /equipment/Life Guardian/
 excerpt: "Era of Chaos Lebenswächter. Lebenswächter"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Life Guardian.md"
 toc: false

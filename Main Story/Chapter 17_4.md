@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-4 Krone des Herzens"
 permalink: /Main Story/Chapter 17_4/
 excerpt: "Kapitel 17 - 4. Era of Chaos  Hauptstory - Kapitel 17_4. 17-4 Krone des Herzens"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 17_4.md"
 toc: false

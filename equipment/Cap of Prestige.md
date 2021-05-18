@@ -2,7 +2,7 @@
 title: "Kappe des Ansehens"
 permalink: /equipment/Cap of Prestige/
 excerpt: "Era of Chaos Kappe des Ansehens. Kappe des Ansehens"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Cap of Prestige.md"
 toc: false

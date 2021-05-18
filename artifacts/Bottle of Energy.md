@@ -2,7 +2,7 @@
 title: "Artefakt - Elixier des Lebens - Energieflasche"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Era of Chaos  Elixier des Lebens - Energieflasche. Ein Flasche, mit der sich der Träger energiegeladen fühlt. Eine der Komponenten für das Elixier des Lebens."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Bottle of Energy.md"
 toc: false

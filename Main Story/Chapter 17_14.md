@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-14 Die Überlebenden"
 permalink: /Main Story/Chapter 17_14/
 excerpt: "Kapitel 17 - 14. Era of Chaos  Hauptstory - Kapitel 17_14. 17-14 Die Überlebenden"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 17_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-9 Magieaustausch"
 permalink: /Main Story/Chapter 20_9/
 excerpt: "Kapitel 20 - 9. Era of Chaos  Hauptstory - Kapitel 20_9. 20-9 Magieaustausch"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 20_9.md"
 toc: false

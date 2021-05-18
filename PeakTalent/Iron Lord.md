@@ -2,7 +2,7 @@
 title: "Eisenlord. Höchstes Talent - Eisenlord"
 permalink: /PeakTalent/Iron Lord/
 excerpt: "Era of Chaos Höchstes Talent Eisenlord. Höchstes Talent Eisenlord. Eisenlord"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Iron Lord.md"
 toc: false

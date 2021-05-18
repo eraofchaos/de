@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-7 Drachenflüsterer"
 permalink: /Main Story/Chapter 22_7/
 excerpt: "Kapitel 22 - 7. Era of Chaos  Hauptstory - Kapitel 22_7. 22-7 Drachenflüsterer"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 22_7.md"
 toc: false

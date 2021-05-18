@@ -2,7 +2,7 @@
 title: "Avatar - Zaubermeister"
 permalink: /Avatars/Spell Master/
 excerpt: "Era of Chaos  Zaubermeister"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Spell Master.md"
 toc: false

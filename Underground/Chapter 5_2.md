@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 5 - 5-2 Die Armee naht heran"
 permalink: /Underground/Chapter 5_2/
 excerpt: "Kapitel 5 - 2. Era of Chaos  Untergrund - Kapitel 5_2. 5-2 Die Armee naht heran"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 5_2.md"
 toc: false

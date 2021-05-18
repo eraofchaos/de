@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-8 Geist der Unterdrückung"
 permalink: /Main Story/Chapter 10_8/
 excerpt: "Kapitel 10 - 8. Era of Chaos  Hauptstory - Kapitel 10_8. 10-8 Geist der Unterdrückung"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 10_8.md"
 toc: false

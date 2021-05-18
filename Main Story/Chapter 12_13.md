@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-13 Das verborgene Geheimnis"
 permalink: /Main Story/Chapter 12_13/
 excerpt: "Kapitel 12 - 13. Era of Chaos  Hauptstory - Kapitel 12_13. 12-13 Das verborgene Geheimnis"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 12_13.md"
 toc: false

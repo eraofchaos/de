@@ -3,7 +3,7 @@ title: "Stein-Wasserspeier"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Stein-Wasserspeier. Stein-Wasserspeier Einheiten. . Era of Chaos Diese verzauberten Dämonenstatuen bewachen die privaten Anwesen von Magiern. Sie lieben es, in der Schlacht die Feinde unter sich zu verspotten."
 unitID: 602
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Stein-Wasserspeier"
 toc: true

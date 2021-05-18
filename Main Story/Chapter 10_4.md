@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-4 Zum Grab"
 permalink: /Main Story/Chapter 10_4/
 excerpt: "Kapitel 10 - 4. Era of Chaos  Hauptstory - Kapitel 10_4. 10-4 Zum Grab"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 10_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-14 Die Berge"
 permalink: /Main Story/Chapter 20_14/
 excerpt: "Kapitel 20 - 14. Era of Chaos  Hauptstory - Kapitel 20_14. 20-14 Die Berge"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 20_14.md"
 toc: false

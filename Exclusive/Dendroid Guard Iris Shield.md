@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild (Dendroid Guard)"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Dendroidenwache Exklusiv."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Dendroid Guard Irisschild.md"
 toc: false

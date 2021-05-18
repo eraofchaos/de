@@ -2,7 +2,7 @@
 title: "Jagdbogen"
 permalink: /equipment/Hunting Longbow/
 excerpt: "Era of Chaos Jagdbogen. Jagdbogen"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Hunting Longbow.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, der uralte König der Lava, hat Hunderte von Jahren in den Bergen an der Grenze zu Eeofol geschlafen. Jetzt wacht er auf und schließt sich den Elementaren an. Erdamon ist mehr als bereit, der Welt zu helfen, und sich der Kreeganer mithilfe eines Kriegs zu entledigen."
 heroID: 60703
 QR: hero_60703
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Erdamon"
 toc: true

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-10 Die Stille brechen"
 permalink: /Main Story/Chapter 5_10/
 excerpt: "Kapitel 5 - 10. Era of Chaos  Hauptstory - Kapitel 5_10. 5-10 Die Stille brechen"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 5_10.md"
 toc: false

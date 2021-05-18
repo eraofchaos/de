@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-10 Dem Wolf das Fressen wegschnappen"
 permalink: /Main Story/Chapter 17_10/
 excerpt: "Kapitel 17 - 10. Era of Chaos  Hauptstory - Kapitel 17_10. 17-10 Dem Wolf das Fressen wegschnappen"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 17_10.md"
 toc: false

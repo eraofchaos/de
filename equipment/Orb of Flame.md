@@ -2,7 +2,7 @@
 title: "Flammenkugel"
 permalink: /equipment/Orb of Flame/
 excerpt: "Era of Chaos Flammenkugel. Flammenkugel"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Orb of Flame.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Ozean-Overlord"
 permalink: /Avatars/Ocean Overlord/
 excerpt: "Era of Chaos  Ozean-Overlord"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Ocean Overlord.md"
 toc: false

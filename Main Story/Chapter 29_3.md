@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-3 Verlassene Bibliothek"
 permalink: /Main Story/Chapter 29_3/
 excerpt: "Kapitel 29 - 3. Era of Chaos  Hauptstory - Kapitel 29_3. 29-3 Verlassene Bibliothek"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 29_3.md"
 toc: false

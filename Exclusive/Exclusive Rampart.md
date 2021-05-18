@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exklusiv Rampart. Exklusiv Rampart. List of Exklusiv Rampart in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Exclusive Rampart"
 toc: false
@@ -23,6 +23,6 @@ classes: wide
   | 4  | [Pegasus](/de/units/Pegasus/) | [Langbogen](/de/Exclusive/Pegasus Long Bow/) | + | Aufladung | [Langbogen-Token](/ItemsDE/con_914/) | - |
   | 5  | [Dendroidenwache](/de/units/Dendroid Guard/) | [Irisschild](/de/Exclusive/Dendroid Guard Iris Shield/) | - | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
   | 6  | [Einhorn](/de/units/Unicorn/) | [Ritterpike](/de/Exclusive/Unicorn Knight Pike/) | - | Aufladung | [Ritterpike-Token](/ItemsDE/con_916/) | - |
-  | 7  | [Grüner Drache](/de/units/Green Dragon/) | [Prächtiger Drachenflügel](/de/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Unterstützung | [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | [Prächtiger-Drachenflügel-Spezialskin](/ItemsDE/con_644/) |
+  | 7  | [Grüner Drache](/de/units/Green Dragon/) | [Prächtiger Drachenflügel](/de/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Unterstützung | [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/) | [Prächtiger-Drachenflügel-Spezialskin](/ItemsDE/con_644/) |
   | 8  | [Druidin](/de/units/Druid/) | [Stab des Nachwachsens](/de/Exclusive/Druid Staff of Regrowth/) | - | Fernkampf | [„Stab des Nachwachsens“-Token](/ItemsDE/con_977/) | [„Stab des Nachwachsens“-Spezialskin](/ItemsDE/con_645/) |
   | 9  | [Mantis](/de/units/Mantis/) | - | - | - | none | none |

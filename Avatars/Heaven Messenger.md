@@ -2,7 +2,7 @@
 title: "Avatar - Himmelsbote"
 permalink: /Avatars/Heaven Messenger/
 excerpt: "Era of Chaos  Himmelsbote"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Heaven Messenger.md"
 toc: false

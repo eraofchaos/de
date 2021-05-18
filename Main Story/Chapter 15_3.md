@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-3 Suche nach Frieden"
 permalink: /Main Story/Chapter 15_3/
 excerpt: "Kapitel 15 - 3. Era of Chaos  Hauptstory - Kapitel 15_3. 15-3 Suche nach Frieden"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 15_3.md"
 toc: false

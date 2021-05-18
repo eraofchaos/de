@@ -2,7 +2,7 @@
 title: "Horn des roten Feuers"
 permalink: /equipment/Horn of Red Fire/
 excerpt: "Era of Chaos Horn des roten Feuers. Horn des roten Feuers"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Horn of Red Fire.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefakt - Mantel des untoten Königs - Totenstiefel"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "Era of Chaos  Mantel des untoten Königs - Totenstiefel. Ein Paar Stiefel, mit dem der Träger schnell wie der Wind ist. Eine der Komponenten für den Umhang des untoten Königs."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Dead Man's Boots.md"
 toc: false

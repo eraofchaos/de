@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 13 - 13-5 Die Abrechnung des siebten Tages"
 permalink: /Underground/Chapter 13_5/
 excerpt: "Kapitel 13 - 5. Era of Chaos  Untergrund - Kapitel 13_5. 13-5 Die Abrechnung des siebten Tages"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 13_5.md"
 toc: false

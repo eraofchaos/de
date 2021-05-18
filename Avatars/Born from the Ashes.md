@@ -2,7 +2,7 @@
 title: "Avatar - Geboren aus der Asche"
 permalink: /Avatars/Born from the Ashes/
 excerpt: "Era of Chaos  Geboren aus der Asche"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Born from the Ashes.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 19 - 19-1 Eisen und Blut"
 permalink: /Underground/Chapter 19_1/
 excerpt: "Kapitel 19 - 1. Era of Chaos  Untergrund - Kapitel 19_1. 19-1 Eisen und Blut"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 19_1.md"
 toc: false

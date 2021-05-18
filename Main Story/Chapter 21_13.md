@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-13 Brüder im Leid"
 permalink: /Main Story/Chapter 21_13/
 excerpt: "Kapitel 21 - 13. Era of Chaos  Hauptstory - Kapitel 21_13. 21-13 Brüder im Leid"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Chapter 21_13.md"
 toc: false

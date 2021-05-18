@@ -2,7 +2,7 @@
 title: "Exklusiv - Dunkler Blick (Beholder)"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Dunkler Blick. Dunkler Blick. Era of Chaos Exklusiv Dunkler Blick. Betrachter Exklusiv."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "Beholder Dunkler Blick.md"
 toc: false
