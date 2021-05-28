@@ -3,7 +3,7 @@ title: "Dschinn"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Dschinn. Dschinn Einheiten. Meisterdschinn. Era of Chaos Magische Kreaturen, die nur existieren, um Sterblichen Wünsche zu gewähren. Die Magie, an die sie gebunden sind, ist sowohl Zuhause als auch Gefängnis."
 unitID: 605
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Dschinn"
 toc: true
@@ -186,7 +186,7 @@ toc: true
   ![Meisterdschinn](/images/u/tia_shendeng.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Meisterdschinn
 

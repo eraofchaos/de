@@ -2,7 +2,7 @@
 title: "Artefakt - Mantel des untoten Königs - Vampirkutte"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "Era of Chaos  Mantel des untoten Königs - Vampirkutte. Der kostbare Umhang eines Vampirs. Eine der Komponenten für den Umhang des untoten Königs."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Vampire's Cowl.md"
 toc: false

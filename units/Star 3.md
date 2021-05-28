@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Star 3"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
   | 15 | ![Teufel](/images/u/ti_daemo.jpg) | [Teufel](/de/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzteufel  |
   | 16 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 17 | ![Nachtmahr](/images/u/ti_mengyanshou.jpg) | [Nachtmahr](/de/units/Nightmare/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nachtmahr-König  |
-  | 18 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
+  | 18 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
   | 19 | ![Meerjungfrau](/images/u/ti_meirenyu.jpg) | [Meerjungfrau](/de/units/Mermaid/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 20 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
   | 21 | ![Betrachter](/images/u/ti_xieyan.jpg) | [Betrachter](/de/units/Beholder/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Böses Auge  |

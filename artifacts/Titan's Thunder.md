@@ -2,7 +2,7 @@
 title: "Artefakt - Titanendonner"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Titanendonner. Titanendonner Eine legendäre heilige Reliquie aus Gigantenschätzen. Entfesselt Blitze auf den Gegner."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Titan's Thunder.md"
 toc: false
@@ -43,14 +43,14 @@ classes: wide
 
  **Name: Titanendonner**
 
- **Effect:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}.</span>
+ **Effect:** Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}.</span>
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}.</span> | 
-  | **5** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}.</span> | 
-  | **8** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}.</span> | 
-  | **11** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}.</span> | 
-  | **14** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}.</span> | 
+  | **2** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}.</span> | 
+  | **5** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}.</span> | 
+  | **8** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs Luftschaden zu in Höhe von <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}.</span> | 
+  | **11** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Zauber-SCHD durch Luft zu und verringert die Präzision des Ziels um 30 %. | 
+  | **14** | Fügt gegnerischen Einheiten innerhalb eines bestimmten Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Zauber-SCHD durch Luft zu. Fügt außerdem zusätzlichen Schaden in Höhe von 15 % der max. LP zu und verringert die Präzision des Ziels um 30 %. | 
   | **17** | Fügt gegnerischen Einheiten innerhalb eines großen Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Luftschaden und Zusatzschaden entsprechend 15 % ihrer max. Gesundheit zu. Verringert außerdem ihre Präzision um 30 % und belegt sie mit <span style="color: #e07c44;font-size:20px">Schock.</span> | 
   | **20** | Fügt gegnerischen Einheiten innerhalb eines großen Bereichs <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Luftschaden und Zusatzschaden entsprechend 15 % ihrer max. Gesundheit zu. Verringert außerdem ihre Präzision um 60 % und belegt sie mit <span style="color: #e07c44;font-size:20px">Schock.</span> | 

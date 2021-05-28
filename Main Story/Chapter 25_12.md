@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-12 Kampfakademie"
 permalink: /Main Story/Chapter 25_12/
 excerpt: "Kapitel 25 - 12. Era of Chaos  Hauptstory - Kapitel 25_12. 25-12 Kampfakademie"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 25_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 30 - 30-3 Meisterschützin"
 permalink: /Underground/Chapter 30_3/
 excerpt: "Kapitel 30 - 3. Era of Chaos  Untergrund - Kapitel 30_3. 30-3 Meisterschützin"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 30_3.md"
 toc: false

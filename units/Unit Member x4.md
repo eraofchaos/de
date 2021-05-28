@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Unit Member x4"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 10 | ![Erzmagier](/images/u/ti_dafashi.jpg) | [Erzmagier](/de/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Erzmagier  |
   | 11 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 12 | ![Nachtmahr](/images/u/ti_mengyanshou.jpg) | [Nachtmahr](/de/units/Nightmare/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nachtmahr-König  |
-  | 13 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
+  | 13 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
   | 14 | ![Meerjungfrau](/images/u/ti_meirenyu.jpg) | [Meerjungfrau](/de/units/Mermaid/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | ![Schwertkämpfer](/images/u/ti_shizijun.jpg) | [Schwertkämpfer](/de/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kreuzritter  |
   | 16 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/de/units/Medusa/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusenkönigin  |

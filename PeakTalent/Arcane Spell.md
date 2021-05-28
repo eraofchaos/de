@@ -2,7 +2,7 @@
 title: "Arkaner Zauber. Höchstes Talent - Arkaner Zauber"
 permalink: /PeakTalent/Arcane Spell/
 excerpt: "Era of Chaos Höchstes Talent Arkaner Zauber. Höchstes Talent Arkaner Zauber. Arkaner Zauber"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Arcane Spell.md"
 toc: false

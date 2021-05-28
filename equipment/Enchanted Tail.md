@@ -2,7 +2,7 @@
 title: "Verzauberter Schweif"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Era of Chaos Verzauberter Schweif. Verzauberter Schweif"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Enchanted Tail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ruhmesschwert. Höchstes Talent - Ruhmesschwert"
 permalink: /PeakTalent/Sword of Glory/
 excerpt: "Era of Chaos Höchstes Talent Ruhmesschwert. Höchstes Talent Ruhmesschwert. Ruhmesschwert"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Sword of Glory.md"
 toc: false

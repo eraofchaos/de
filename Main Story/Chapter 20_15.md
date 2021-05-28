@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-15 Groya"
 permalink: /Main Story/Chapter 20_15/
 excerpt: "Kapitel 20 - 15. Era of Chaos  Hauptstory - Kapitel 20_15. 20-15 Groya"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 20_15.md"
 toc: false

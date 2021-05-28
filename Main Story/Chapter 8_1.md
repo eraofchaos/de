@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-1 Dunkle Nacht"
 permalink: /Main Story/Chapter 8_1/
 excerpt: "Kapitel 8 - 1. Era of Chaos  Hauptstory - Kapitel 8_1. 8-1 Dunkle Nacht"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 8_1.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Drachengolem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Drachengolem. Drachengolem Einheiten. null. Era of Chaos Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Drachengolem"
 toc: true
@@ -45,28 +45,28 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Grün | 198.0 | 16.5 | 7212.525 |
-  | Blau | 396.0 | 33.0 | 14425.05 |
-  | Blau +1 | 594.0 | 49.5 | 21637.575 |
-  | Blau +2 | 831.6 | 69.3 | 30292.605 |
-  | Lila | 1069.2 | 89.1 | 38947.635 |
-  | Lila +1 | 1306.8 | 108.9 | 47602.665 |
-  | Lila +2 | 1584.0 | 132.0 | 57700.2 |
-  | Lila +3 | 1861.2 | 155.1 | 67797.735 |
-  | Orange | 2138.4 | 178.2 | 77895.27 |
-  | Orange +1 | 2455.2 | 204.6 | 89435.31 |
-  | Orange +2 | 2772.0 | 231.0 | 100975.35 |
-  | Orange +3 | 3088.8 | 257.4 | 112515.39 |
-  | Orange +4 | 3405.6 | 283.8 | 124055.43 |
-  | Orange +5 | 3880.8 | 323.4 | 141365.49 |
-  | Rot | 4514.4 | 376.2 | 164445.57 |
+  | Grün | 198.0 | 17.5 | 7212.525 |
+  | Blau | 396.0 | 35.0 | 14425.05 |
+  | Blau +1 | 594.0 | 52.5 | 21637.575 |
+  | Blau +2 | 831.6 | 73.5 | 30292.605 |
+  | Lila | 1069.2 | 94.5 | 38947.635 |
+  | Lila +1 | 1306.8 | 115.5 | 47602.665 |
+  | Lila +2 | 1584.0 | 140.0 | 57700.2 |
+  | Lila +3 | 1861.2 | 164.5 | 67797.735 |
+  | Orange | 2138.4 | 189.0 | 77895.27 |
+  | Orange +1 | 2455.2 | 217.0 | 89435.31 |
+  | Orange +2 | 2772.0 | 245.0 | 100975.35 |
+  | Orange +3 | 3088.8 | 273.0 | 112515.39 |
+  | Orange +4 | 3405.6 | 301.0 | 124055.43 |
+  | Orange +5 | 3880.8 | 343.0 | 141365.49 |
+  | Rot | 4514.4 | 399.0 | 164445.57 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 55.44 | 0.44 | 8.26 | 1346.338 |
-  | **4x** <i class="fas fa-star"/> | 63.36 | 0.46 | 9.09 | 1538.672 |
-  | **5x** <i class="fas fa-star"/> | 71.28 | 0.48 | 9.92 | 1731.006 |
-  | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 10.75 | 1923.34 |
+  | **3x** <i class="fas fa-star"/> | 55.44 | 0.44 | 8.7 | 1346.338 |
+  | **4x** <i class="fas fa-star"/> | 63.36 | 0.46 | 9.55 | 1538.672 |
+  | **5x** <i class="fas fa-star"/> | 71.28 | 0.48 | 10.4 | 1731.006 |
+  | **6x** <i class="fas fa-star"/> | 79.2 | 0.5 | 11.25 | 1923.34 |
 
 ## Ausrüstung
 
@@ -100,42 +100,43 @@ toc: true
   <p id="log"></p>
   </form>
 ### Ultimative Fähigkeit: Puls-Vertigo
- **Beschreibung:** <span style="color: #645252;font-size:20px">Der Drachengolem wirkt alle 15 Sek einen Puls-Vertigo, der allen gegnerischen Nahkampfeinheiten </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> Schaden zufügt und sie 2 Sek. lang <span style="color: #48b946;font-size:20px">„betäubt“</span><span style="color: black"> sowie 5 Sek. lang <span style="color: #48b946;font-size:20px">„lähmt“</span><span style="color: black">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Der Drachengolem wirkt alle 15 Sek. &lt;Puls-Vertigo&gt;, was allen gegnerischen Nahkampfeinheiten Schaden in Höhe von </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des eigenen ANG zufügt sowie sie für 2 Sek. <span style="color: #48b946;font-size:20px">betäubt</span><span style="color: black"> und für 5 Sek. <span style="color: #48b946;font-size:20px">lähmt</span><span style="color: black">. Wenn <Puls-Vertigo> gewirkt wird, werden Einheiten, die nicht dem Dungeon angehören, in einem großen Radius um eine gewisse Menge an LP geheilt, die </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> des ANG des Drachengolems entsprechen. Zusätzlich werden 10 Sek. lang die ABW verbündeter Einheiten, die nicht dem Dungeon angehören, um 10 % sowie das Angriffstempo um 20 % erhöht.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 1 : Eisernes Bauwerk
- **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Drachengolems steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Dungeon-Einheiten wird um 100 % erhöht. Zu Beginn der Schlacht erzeugt der Drachengolem ein <span style="color: #F0F000;font-size:20px">&lt;Eisernes Bauwerk&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die LP des Drachengolems steigen um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">, die Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> und die Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Schaden gegen Dungeon-Einheiten wird um 100 % erhöht. Zu Beginn der Schlacht erzeugt der Drachengolem ein <span style="color: #F0F000;font-size:20px">&lt;Eisernes Bauwerk&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 2 : Magisches Erwachen
- **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn er vom Hilfszauber eines verbündeten Helden erweckt wird, wird ein &lt;Magiesturm&gt; ausgelöst, der alle gegnerischen Einheiten innerhalb der Reichweite 2 Sek. lang &lt;verstummen&gt; lässt und sie 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;lähmt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Außerdem steigt die ABW des Drachengolems um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht über an, bis zu 3 Stapel. Der Drachengolem erweckt sich alle 25 Sek. selbst.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn er vom Hilfszauber eines verbündeten Helden erweckt wird, wird ein &lt;Magiesturm&gt; ausgelöst, der alle gegnerischen Einheiten innerhalb der Reichweite 2 Sek. lang &lt;verstummen&gt; lässt und sie 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;lähmt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Außerdem steigt die ABW des Drachengolems um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Schadensreduzierung um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Der Effekt hält die gesamte Schlacht über an, bis zu 3 Stapel. Der Drachengolem erweckt sich alle 25 Sek. selbst.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Magische Reparatur
- **Beschreibung:** <span style="color: #645252;font-size:20px">Bei 40 % und 20 % seiner LP erzeugt der Drachengolem eine Schlachtfeldreparatur, die </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang anhält. Während der Reparatur wird Schaden, den der Drachengolem erleidet, in LP-Regeneration umgewandelt. Wenn der Drachengolem getötet wird, fügt die entweichende Energie gegnerische Einheiten in einem hohen Radius 30 % der max. LP als Schaden zu; außerdem verursacht sie bei den Zielen 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Zeitstopp&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Bei 40 % und 20 % seiner LP erzeugt der Drachengolem eine Schlachtfeldreparatur, die </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang anhält. Während der Reparatur wird Schaden, den der Drachengolem erleidet, in LP-Regeneration umgewandelt. Wenn der Drachengolem getötet wird, fügt die entweichende Energie gegnerische Einheiten in einem hohen Radius 30 % der max. LP als Schaden zu; außerdem verursacht sie bei den Zielen 5 Sek. lang </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Zeitstopp&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Nüchterner Geist
- **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten widerstehen der Stille. Die Dauer von erlittener „Stille“ wird daher um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit II : Explosive Energie
- **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Turm-Einheiten sind geübt darin, Energie umzuwandeln; Kritischer Schaden steigt um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 6 : Rad der Zeit
- **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn 3 Turm-Einheiten eingesetzt werden, wird die Schadensreduzierung des Drachengolems erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Drachengolem &lt;Magisches Erwachen&gt; auslöst, kann er eine </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Domäne der Zeit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> wirken, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne bleibt 15 Sek. lang bestehen, AKZ 30 Sek.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn 3 Turm-Einheiten eingesetzt werden, wird die Schadensreduzierung des Drachengolems erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> und seine Zähigkeit um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Wenn der Drachengolem &lt;Magisches Erwachen&gt; auslöst, kann er eine </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Domäne der Zeit&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> wirken, deren Wirkungsbereich mit der Fähigkeitsstufe steigt. Die Domäne bleibt 15 Sek. lang bestehen, AKZ 30 Sek.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str7 = "(LEVEL*0.2+2.8)"
-    let str8 = "(LEVEL*2+10)"
-    let str5 = "(LEVEL*0.1+14.9)"
-    let str6 = "(LEVEL*0.1+9.9)"
-    let str3 = "(LEVEL*10+150)"
-    let str4 = "(LEVEL*1+10)"
-    let str1 = "(LEVEL*5+25)"
-    let str2 = "(LEVEL*5+25)"
-    let str10 = "(LEVEL*2+5)"
-    let str11 = "(LEVEL*20+100)"
-    let str9 = "(LEVEL*1.5+4)"
+    let str7 = "(LEVEL*0.1+9.9)"
+    let str8 = "(LEVEL*0.2+2.8)"
+    let str5 = "(LEVEL*1+10)"
+    let str6 = "(LEVEL*0.1+14.9)"
+    let str3 = "(LEVEL*5+25)"
+    let str4 = "(LEVEL*10+150)"
+    let str1 = "(LEVEL*3+5)"
+    let str2 = "(LEVEL*3+5)"
+    let str12 = "(LEVEL*20+100)"
+    let str10 = "(LEVEL*1.5+4)"
+    let str11 = "(LEVEL*2+5)"
+    let str9 = "(LEVEL*2+10)"
     let res="ERR";
     try {
      res = eval(str7); document.getElementById('str7').textContent = res;
@@ -146,6 +147,7 @@ toc: true
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
      res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
      res = eval(str10); document.getElementById('str10').textContent = res;
      res = eval(str11); document.getElementById('str11').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
@@ -174,7 +176,7 @@ toc: true
 * Angriff
 * LP
 * SCHD-Reduzierung (Einheit)
-* Magieresistenz
+* Abwehr
 
  **Talentverbesserung:** [Abwehr-Talenttrank](/ItemsDE/con_787/)
 

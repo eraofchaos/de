@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-4 Drachengottglaube"
 permalink: /Main Story/Chapter 22_4/
 excerpt: "Kapitel 22 - 4. Era of Chaos  Hauptstory - Kapitel 22_4. 22-4 Drachengottglaube"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 22_4.md"
 toc: false

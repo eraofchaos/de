@@ -2,7 +2,7 @@
 title: "Aaskrone"
 permalink: /equipment/Carrion Crown/
 excerpt: "Era of Chaos Aaskrone. Aaskrone"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Carrion Crown.md"
 toc: false

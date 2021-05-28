@@ -2,7 +2,7 @@
 title: "Zielen. Höchstes Talent - Zielen"
 permalink: /PeakTalent/Aiming/
 excerpt: "Era of Chaos Höchstes Talent Zielen. Höchstes Talent Zielen. Zielen"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Aiming.md"
 toc: false

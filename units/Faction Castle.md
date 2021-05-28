@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Era of Chaos Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Faction Castle"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Pikenier](/images/u/ti_jibing.jpg) | [Pikenier](/de/units/Pikeman/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hellebardenträger  |
-  | 2 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Meisterbogenschütze  |
+  | 2 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Meisterbogenschütze  |
   | 3 | ![Greif](/images/u/ti_shijiu.jpg) | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Königlicher Greif  |
   | 4 | ![Schwertkämpfer](/images/u/ti_shizijun.jpg) | [Schwertkämpfer](/de/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kreuzritter  |
   | 5 | ![Mönch](/images/u/ti_senglv.jpg) | [Mönch](/de/units/Monk/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zelot  |

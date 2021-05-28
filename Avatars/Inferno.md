@@ -2,7 +2,7 @@
 title: "Avatar - Inferno"
 permalink: /Avatars/Inferno/
 excerpt: "Era of Chaos  Inferno"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Inferno.md"
 toc: false

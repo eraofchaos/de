@@ -2,7 +2,7 @@
 title: "Panzerhandschuhe der Rosen"
 permalink: /equipment/Gauntlets of Roses/
 excerpt: "Era of Chaos Panzerhandschuhe der Rosen. Panzerhandschuhe der Rosen"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Gauntlets of Roses.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 23  Konfluxwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **7 Jun** | **5x [Pixie](/ItemsDE/unt_262/)**  | Ein Trupp von Pixies schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **8 Jun** | **3x [Eiselementar](/ItemsDE/unt_264/)**  | Ein Trupp von Eiselementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **9 Jun** | **100x <i class="fas fa-gem"/>**  | Die Kreaturen der Konflux-Ebene überreichen Euch einen kleinen Haufen Diamanten! |
+  | **10 Jun** | **3x [Steinelementar](/ItemsDE/unt_266/)**  | Ein Trupp von Steinelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **11 Jun** | **3x [Sturmelementar](/ItemsDE/unt_263/)**  | Ein Trupp von Sturmelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **12 Jun** | **5x [Einheitentruhe (Konflux)](/ItemsDE/con_1275/)**  | Deine Truppen haben dir mehrere Kisten voller Elementarkraft gebracht! |
+  | **13 Jun** | **5x [Luna](/ItemsDE/her_378/)**  | Die in Eurem Gebiet angesammelte Elementarkraft führte zum Besuch eines Elementarmagiers! |
+
 
 #### 2021 Week 22  Schlosswoche
 

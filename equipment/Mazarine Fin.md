@@ -2,7 +2,7 @@
 title: "Mazarinflosse"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Era of Chaos Mazarinflosse. Mazarinflosse"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Mazarine Fin.md"
 toc: false

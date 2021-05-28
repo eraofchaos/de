@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Unit Member x9"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 6 | ![Meerelementar](/images/u/ti_haiyuansu.jpg) | [Meerelementar](/de/units/Sea Elemental/) | Zauberer | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Gezeitenelementar  |
   | 7 | ![Stein-Wasserspeier](/images/u/ti_shixianggui.jpg) | [Stein-Wasserspeier](/de/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | ![Pikenier](/images/u/ti_jibing.jpg) | [Pikenier](/de/units/Pikeman/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hellebardenträger  |
-  | 9 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Meisterbogenschütze  |
+  | 9 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Meisterbogenschütze  |
   | 10 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpyienhexe  |
   | 11 | ![Troglodyt](/images/u/ti_dongxueren.jpg) | [Troglodyt](/de/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dunkler Troglodyt  |
   | 12 | ![Greif](/images/u/ti_shijiu.jpg) | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Königlicher Greif  |

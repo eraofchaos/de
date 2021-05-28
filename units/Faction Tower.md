@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Tower -  Units"
 permalink: /units/Faction Tower/
 excerpt: "Era of Chaos Faction Tower. Faction Tower. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Faction Tower"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![Eisengolem](/images/u/ti_tieren.jpg) | [Eisengolem](/de/units/Iron Golem/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Goldgolem  |
   | 3 | ![Stein-Wasserspeier](/images/u/ti_shixianggui.jpg) | [Stein-Wasserspeier](/de/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 4 | ![Erzmagier](/images/u/ti_dafashi.jpg) | [Erzmagier](/de/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Erzmagier  |
-  | 5 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
+  | 5 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
   | 6 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/de/units/Naga/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Nagakönigin  |
   | 7 | ![Gigant](/images/u/ti_taitan.jpg) | [Gigant](/de/units/Giant/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |
   | 8 | ![Magisches Luftschiff](/images/u/ti_reqiqiu.jpg) | [Magisches Luftschiff](/de/units/Magic Airship/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |

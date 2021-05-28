@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-12 Verlassener Tempel"
 permalink: /Main Story/Chapter 28_12/
 excerpt: "Kapitel 28 - 12. Era of Chaos  Hauptstory - Kapitel 28_12. 28-12 Verlassener Tempel"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 28_12.md"
 toc: false

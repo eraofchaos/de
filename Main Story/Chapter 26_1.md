@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-1 Nationalbewusstsein"
 permalink: /Main Story/Chapter 26_1/
 excerpt: "Kapitel 26 - 1. Era of Chaos  Hauptstory - Kapitel 26_1. 26-1 Nationalbewusstsein"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 26_1.md"
 toc: false

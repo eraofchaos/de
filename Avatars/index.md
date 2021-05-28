@@ -2,7 +2,7 @@
 title: "Avatarrahmen & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatarrahmen & Avatar. Avatarrahmen & Avatar"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "index.md"
 toc: false

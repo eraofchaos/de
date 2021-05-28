@@ -2,7 +2,7 @@
 title: "Gewand von Mond und Sternen"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Era of Chaos Gewand von Mond und Sternen. Gewand von Mond und Sternen"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Gown of Moon and Stars.md"
 toc: false

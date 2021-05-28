@@ -2,7 +2,7 @@
 title: "Robuste und geschmeidige Hüftplatte"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Era of Chaos Robuste und geschmeidige Hüftplatte. Robuste und geschmeidige Hüftplatte"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Strong and Flexible Waistplate.md"
 toc: false

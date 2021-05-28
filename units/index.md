@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "index.md"
 toc: false
@@ -30,7 +30,7 @@ classes: wide
   | 8 | ![Drachengolem](/images/u/ti_kuileilong.jpg) | [Drachengolem](/de/units/Dragon Golem/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 9 | ![Drachenschildkröte](/images/u/ti_longgui.jpg) | [Drachenschildkröte](/de/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Urzeit-Drachenschildkröte  |
   | 10 | ![Druidin](/images/u/ti_deluyi.jpg) | [Druidin](/de/units/Druid/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Erzdruide  |
-  | 11 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
+  | 11 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
   | 12 | ![Dunkler Kämpe](/images/u/ti_sishen.jpg) | [Dunkler Kämpe](/de/units/Dark Champion/) | Offensiv | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 13 | ![Dämon](/images/u/ti_changjiaoemo.jpg) | [Dämon](/de/units/Demon/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Infernowache  |
   | 14 | ![Echsenmensch](/images/u/ti_xiyiren.jpg) | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
@@ -89,7 +89,7 @@ classes: wide
   | 67 | ![Richterin](/images/u/ti_shenpanguan.jpg) | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 68 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/de/units/Roc/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Donnervogel  |
   | 69 | ![Roter Drache](/images/u/ti_chilong.jpg) | [Roter Drache](/de/units/Red Dragon/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 70 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Meisterbogenschütze  |
+  | 70 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Meisterbogenschütze  |
   | 71 | ![Schlangenfliege](/images/u/ti_longying.jpg) | [Schlangenfliege](/de/units/Serpent Fly/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Drachenfliege  |
   | 72 | ![Schwarzer Drache](/images/u/ti_heilong.jpg) | [Schwarzer Drache](/de/units/Black Dragon/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Schwarzer Drachenkönig  |
   | 73 | ![Schwarzer Ritter](/images/u/ti_siwangqishi.jpg) | [Schwarzer Ritter](/de/units/Black Knight/) | Ansturm | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Schattenritter  |

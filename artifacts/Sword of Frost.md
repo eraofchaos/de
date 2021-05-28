@@ -2,7 +2,7 @@
 title: "Artefakt - Schwert des Frostes"
 permalink: /artifacts/Sword of Frost/
 excerpt: "Era of Chaos  Schwert des Frostes. Schwert des Frostes Der riesige Gletscher zerstört die Stadt, die an seinem Ursprung steht."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Sword of Frost.md"
 toc: false

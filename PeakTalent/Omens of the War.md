@@ -2,7 +2,7 @@
 title: "Vorzeichen des Krieges. Höchstes Talent - Vorzeichen des Krieges"
 permalink: /PeakTalent/Omens of the War/
 excerpt: "Era of Chaos Höchstes Talent Vorzeichen des Krieges. Höchstes Talent Vorzeichen des Krieges. Vorzeichen des Krieges"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Omens of the War.md"
 toc: false

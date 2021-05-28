@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-15 Einladung zum eigenen Begräbnis"
 permalink: /Main Story/Chapter 10_15/
 excerpt: "Kapitel 10 - 15. Era of Chaos  Hauptstory - Kapitel 10_15. 10-15 Einladung zum eigenen Begräbnis"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 10_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike (Wolf Rider)"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Wolfsreiter Exklusiv."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Wolf Rider Ritterpike.md"
 toc: false

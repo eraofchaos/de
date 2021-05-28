@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-7 Die herrschende Familie"
 permalink: /Main Story/Chapter 25_7/
 excerpt: "Kapitel 25 - 7. Era of Chaos  Hauptstory - Kapitel 25_7. 25-7 Die herrschende Familie"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 25_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-7 Geschenk eines Weisen"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "Kapitel 26 - 7. Era of Chaos  Hauptstory - Kapitel 26_7. 26-7 Geschenk eines Weisen"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 26_7.md"
 toc: false

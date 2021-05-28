@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-2 Verlassenes Haus"
 permalink: /Main Story/Chapter 4_2/
 excerpt: "Kapitel 4 - 2. Era of Chaos  Hauptstory - Kapitel 4_2. 4-2 Verlassenes Haus"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 4_2.md"
 toc: false

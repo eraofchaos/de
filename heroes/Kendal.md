@@ -4,7 +4,7 @@ permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Ein General, der der Königsfamilie von Erathia treu ergeben ist. Seit dem Tod von König Greifenherz kümmert sich Morgan Kendal bis zur Rückkehr des rechtmäßigen Erben um das Land."
 heroID: 60104
 QR: hero_60104
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Kendal"
 toc: true

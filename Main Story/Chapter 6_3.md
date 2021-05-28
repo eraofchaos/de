@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-3 Anbruch des Krieges"
 permalink: /Main Story/Chapter 6_3/
 excerpt: "Kapitel 6 - 3. Era of Chaos  Hauptstory - Kapitel 6_3. 6-3 Anbruch des Krieges"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 6_3.md"
 toc: false

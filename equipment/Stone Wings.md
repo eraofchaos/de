@@ -2,7 +2,7 @@
 title: "Steinflügel"
 permalink: /equipment/Stone Wings/
 excerpt: "Era of Chaos Steinflügel. Steinflügel"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Stone Wings.md"
 toc: false

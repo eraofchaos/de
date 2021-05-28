@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-2 Flüchtiger Magier"
 permalink: /Main Story/Chapter 22_2/
 excerpt: "Kapitel 22 - 2. Era of Chaos  Hauptstory - Kapitel 22_2. 22-2 Flüchtiger Magier"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 22_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Natur-Elf. Höchstes Talent - Natur-Elf"
 permalink: /PeakTalent/Nature Elf/
 excerpt: "Era of Chaos Höchstes Talent Natur-Elf. Höchstes Talent Natur-Elf. Natur-Elf"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Nature Elf.md"
 toc: false

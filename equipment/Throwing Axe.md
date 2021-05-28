@@ -2,7 +2,7 @@
 title: "Wurfaxt"
 permalink: /equipment/Throwing Axe/
 excerpt: "Era of Chaos Wurfaxt. Wurfaxt"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Throwing Axe.md"
 toc: false

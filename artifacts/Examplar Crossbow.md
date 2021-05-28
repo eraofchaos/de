@@ -2,7 +2,7 @@
 title: "Artefakt - Armageddonklinge - Muster-Armbrust"
 permalink: /artifacts/Examplar Crossbow/
 excerpt: "Era of Chaos  Armageddonklinge - Muster-Armbrust. Ein Artefakt, das der Held Gelu als Kind trug. Eine der Komponenten für die Armageddonklinge."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Examplar Crossbow.md"
 toc: false

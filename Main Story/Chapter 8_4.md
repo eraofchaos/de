@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-4 Knapp entkommen"
 permalink: /Main Story/Chapter 8_4/
 excerpt: "Kapitel 8 - 4. Era of Chaos  Hauptstory - Kapitel 8_4. 8-4 Knapp entkommen"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 8_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 29 - 29-2  Stierkämpfer"
 permalink: /Underground/Chapter 29_2/
 excerpt: "Kapitel 29 - 2. Era of Chaos  Untergrund - Kapitel 29_2. 29-2  Stierkämpfer"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Chapter 29_2.md"
 toc: false

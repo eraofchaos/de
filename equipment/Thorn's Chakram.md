@@ -2,7 +2,7 @@
 title: "Dornenchakram"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "Era of Chaos Dornenchakram. Dornenchakram"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Thorn's Chakram.md"
 toc: false
