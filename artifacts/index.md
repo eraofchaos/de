@@ -2,7 +2,7 @@
 title: "Artefakt"
 permalink: /artifacts/
 excerpt: "Era of Chaos  List of all Artefakt. Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Zaubererbrunnen](/images/t/icon_artifact_21.png) [Zaubererbrunnen](/de/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Magischer Gegenstand zum Kampf gegen Dämonen. Kann das Mana-Regenerationstempo erhöhen. |
   | 4   | ![Ring des Magiers](/images/t/icon_artifact_22.png) [Ring des Magiers](/de/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Magischer Ring, aus verzauberten Gegenständen geschmiedet. Kann Zauberschaden erhöhen. |
   | 5   | ![Antimagie-Runenstein](/images/t/icon_artifact_23.png) [Antimagie-Runenstein](/de/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Antimagie-Runenstein, aus verzauberten Gegenständen gefertigt. Kann Zauberschaden widerstehen. |
-  | 6   | ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) [Rüstung der Verdammten](/de/artifacts/Armour of the Damned/){: .btn .btn--era4} | 4 | 1 | Aus magischen Reliquien von Untoten geschmiedet. Befähigt den Träger, die Fähigkeiten eines Gegners zu schwächen. |
+  | 6   | ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) [Rüstung der Verdammten](/de/artifacts/Armor of the Damned/){: .btn .btn--era4} | 4 | 1 | Aus magischen Reliquien von Untoten geschmiedet. Befähigt den Träger, die Fähigkeiten eines Gegners zu schwächen. |
   | 7   | ![Axt der Wildheit](/images/t/icon_artifact_31.png) [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4} | 4 | 35 | Eine aus heiligen Reliquien verschiedener Völker geschmiedete Waffe. Kann die Nahkampffähigkeit verbessern. |
   | 8   | ![Bogen des Meisterschützen](/images/t/icon_artifact_10.png) [Bogen des Meisterschützen](/de/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | Eine heilige Reliquie, von den Elfen aus Schätzen geschmiedet. Kann den Fernangriff verstärken. |
   | 9   | ![Mantel des untoten Königs](/images/t/icon_artifact_32.png) [Mantel des untoten Königs](/de/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | Eine heilige Reliquie, von einem großen Untotenkönig angefertigt, um sein Gesicht zu verbergen. Kann eine Skelettarmee herbeirufen. |
@@ -31,6 +31,7 @@ classes: wide
   | 16   | ![Armageddonklinge](/images/t/icon_artifact_44.png) [Armageddonklinge](/de/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 | 60 | Das kuppelförmige Feuer wird Eure Seele verzehren. |
   | 17   | ![Engelsbund](/images/t/icon_artifact_41.png) [Engelsbund](/de/artifacts/Angelic Alliance/){: .btn .btn--era5} | 6 | 60 | Eine heilige Reliquie, durch Engelskraft aus kostbaren Gegenständen geschmiedet. Kann die Macht Eurer Verbündeten erhöhen. |
   | 18   | ![Edenapfel](/images/t/icon_artifact_49.png) [Edenapfel](/de/artifacts/Apple of Eden/){: .btn .btn--era5} | 6 | 35 | Ein Geschenk der uralten Zivilisation der Vorläufer. Der Legende nach kann man mit diesem Artefakt alles Lebende manipulieren. |
+  | 19   | [Gesandten-Füllhalter](/de/artifacts/Envoy's Pen/) | 4 | 1 | Ein Symbol der Macht und Stärke. Ein verehrtes Relikt, das Siegern vorbehalten ist. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/de/artifacts/Artifacts Upgrade/)

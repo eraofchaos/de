@@ -2,7 +2,7 @@
 title: "Alter Jäger. Höchstes Talent - Alter Jäger"
 permalink: /PeakTalent/Old Hunter/
 excerpt: "Era of Chaos Höchstes Talent Alter Jäger. Höchstes Talent Alter Jäger. Alter Jäger"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Old Hunter.md"
 toc: false

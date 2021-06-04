@@ -3,7 +3,7 @@ title: "Mönch"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Mönch. Mönch Einheiten. Zelot. Era of Chaos Mönche sind fromme Gläubige, die vor allem für ihre Segen bekannt sind, mit denen sie ihre Verbündeten beschützen, aber sie stürzen sich auch tapfer in die Schlacht."
 unitID: 105
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Mönch"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Arkangesang](/de/Exclusive/Monk Arcane Chant/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Arkangesang-Token](/ItemsDE/con_915/)
 
@@ -95,6 +95,7 @@ toc: true
 
 * [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
 * [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Quell der Unsterblichkeit](/de/Emblem/Spring of Immortality/) (Gut)
 
 ## Kombinationsinfo
 

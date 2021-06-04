@@ -2,7 +2,7 @@
 title: "Orange Artifact Components"
 permalink: /artifacts/Orange Artifact Components/
 excerpt: "Era of Chaos  List of all Orange Artifact Components . Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Orange Artifact Components.md"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
  | [Knochenschienen](/de/artifacts/Dragonbone Greaves/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 8+(LEVEL\*3.2) %<br/>**Zauberschaden**: 2+(LEVEL\*0.8) %<br/>**Wissen (Held)**: 12+(LEVEL\*4.8) | Beinschienen aus den Schienbeinknochen des Drachenkönigs. Eine der Komponenten für die Macht des Drachenvaters. | 
  | [Feuerzunge des Roten Drachen](/de/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} | **Angriff (Einheit)**: 6+(LEVEL\*2.4) %<br/>**Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Angriff (Held)**: 10+(LEVEL\*4) | Ein Schwert, geschmiedet aus Flammendrachenkristallen. Eine der Komponenten für die Macht des Drachenvaters. | 
  | [Drachenzahnkrone](/de/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 3+(LEVEL\*1.2) %<br/>**Zauberschaden**: 6+(LEVEL\*2.4) %<br/>**Abwehr (Held)**: 10+(LEVEL\*4) | Ein Helm aus Drachenzähnen. Eine der Komponenten für die Macht des Drachenvaters. | 
- | [Drachenschuppen-Rüstung](/de/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Abwehr (Held)**: 6+(LEVEL\*2.4)<br/>**Wissen (Held)**: 16+(LEVEL\*6.4) | Eine vom heiligen Drachen gesegnete Rüstung. Eine der Komponenten für die Macht des Drachenvaters. | 
+ | [Drachenschuppen-Rüstung](/de/artifacts/Dragon Scale Armor/){: .btn .btn--era5} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Abwehr (Held)**: 6+(LEVEL\*2.4)<br/>**Wissen (Held)**: 16+(LEVEL\*6.4) | Eine vom heiligen Drachen gesegnete Rüstung. Eine der Komponenten für die Macht des Drachenvaters. | 
  | [Drachenzahnkette](/de/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | **Angriff (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Zauberschaden**: 4+(LEVEL\*1.6) %<br/>**Abwehr (Held)**: 12+(LEVEL\*4.8) | Eine vom heiligen Drachen gesegnete Halskette. Eine der Komponenten für die Macht des Drachenvaters. | 
  | [Titanengladius](/de/artifacts/Titan's Gladius/){: .btn .btn--era5} | **Zauberschaden**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4)<br/>**Intelligenz (Held)**: 10+(LEVEL\*4) | Das Schwert eines uralten Giganten. Eine der Komponenten für den Titanendonner. | 
  | [Schild der Wache](/de/artifacts/Sentinel's Shield/){: .btn .btn--era5} | **Gesundheit (Einheit)**: 6+(LEVEL\*2.4) %<br/>**Wissen (Held)**: 12+(LEVEL\*4.8) | Ein mit heiliger Kraft gesegneter Schild. Eine der Komponenten für den Titanendonner. | 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Unit Rank R"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | 1 | ![Imp](/images/u/ti_xiaoemo.jpg) | [Imp](/de/units/Imp/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Intimus  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/de/units/Gog/) | Zauberer | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 3 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/de/units/Gremlin/) | Fernkampf | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 4 | ![Meerelementar](/images/u/ti_haiyuansu.jpg) | [Meerelementar](/de/units/Sea Elemental/) | Zauberer | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Gezeitenelementar  |
+  | 4 | ![Meerelementar](/images/u/ti_haiyuansu.jpg) | [Meerelementar](/de/units/Sea Elemental/) | Zauberer | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Gezeitenelementar  |
   | 5 | ![Pikenier](/images/u/ti_jibing.jpg) | [Pikenier](/de/units/Pikeman/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hellebardenträger  |
   | 6 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Meisterbogenschütze  |
   | 7 | ![Troglodyt](/images/u/ti_dongxueren.jpg) | [Troglodyt](/de/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dunkler Troglodyt  |

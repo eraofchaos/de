@@ -2,7 +2,7 @@
 title: "Violet Artifacts"
 permalink: /artifacts/Violet Artifacts/
 excerpt: "Era of Chaos  List of all Violet Artifacts . Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Violet Artifacts.md"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
 
   |  Nr  |    Artifact    | Pieces |  Level | Beschreibung   |
   |:-----|:---------------|:------:|:------:|:--------------:|
-  | 1   | ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) [Rüstung der Verdammten](/de/artifacts/Armour of the Damned/){: .btn .btn--era4} | 4 | 1 | Aus magischen Reliquien von Untoten geschmiedet. Befähigt den Träger, die Fähigkeiten eines Gegners zu schwächen. |
+  | 1   | ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) [Rüstung der Verdammten](/de/artifacts/Armor of the Damned/){: .btn .btn--era4} | 4 | 1 | Aus magischen Reliquien von Untoten geschmiedet. Befähigt den Träger, die Fähigkeiten eines Gegners zu schwächen. |
   | 2   | ![Axt der Wildheit](/images/t/icon_artifact_31.png) [Axt der Wildheit](/de/artifacts/Axe of Ferocity/){: .btn .btn--era4} | 4 | 35 | Eine aus heiligen Reliquien verschiedener Völker geschmiedete Waffe. Kann die Nahkampffähigkeit verbessern. |
   | 3   | ![Bogen des Meisterschützen](/images/t/icon_artifact_10.png) [Bogen des Meisterschützen](/de/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | Eine heilige Reliquie, von den Elfen aus Schätzen geschmiedet. Kann den Fernangriff verstärken. |
   | 4   | ![Mantel des untoten Königs](/images/t/icon_artifact_32.png) [Mantel des untoten Königs](/de/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | Eine heilige Reliquie, von einem großen Untotenkönig angefertigt, um sein Gesicht zu verbergen. Kann eine Skelettarmee herbeirufen. |

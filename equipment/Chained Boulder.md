@@ -2,7 +2,7 @@
 title: "Kettenfels"
 permalink: /equipment/Chained Boulder/
 excerpt: "Era of Chaos Kettenfels. Kettenfels"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chained Boulder.md"
 toc: false

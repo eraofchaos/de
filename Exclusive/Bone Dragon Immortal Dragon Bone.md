@@ -2,7 +2,7 @@
 title: "Exklusiv - Knochen des unsterblichen Drachen (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Knochen des unsterblichen Drachen. Knochen des unsterblichen Drachen. Era of Chaos Exklusiv Knochen des unsterblichen Drachen. Knochendrache Exklusiv."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Bone Dragon Knochen des unsterblichen Drachen.md"
 toc: false

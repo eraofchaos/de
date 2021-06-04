@@ -1,8 +1,8 @@
 ---
 title: "Fischermeister"
 permalink: /Fishing Master/
-excerpt: "Era of Chaos  Fischermeister - 　　Geehrter Lord, hier sind die Abschlussbelohnungen für den Fischermeister-Versuch. Jetzt ansehen."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Fischermeister - []　　Geehrter Lord, hier sind die Abschlussbelohnungen für den Fischermeister-Versuch. Jetzt ansehen.[]"
+last_modified_at: 2021-06-03
 locale: de
 ref: "index.md"
 toc: false
@@ -28,7 +28,7 @@ sidebar:
 
 <br/>  <span style="color: #3c2a1e">4. Tippe auf die Aktualisieren-Schaltfläche, um den Preispool zurückzusetzen. Die Anzahl der Diamanten, die das Zurücksetzen kostet, erhöht sich mit jeder Aktualisierung. Die Kosten kehren zu ihrem ursprünglichen Wert zurück, wenn du eine Belohnung mit orangefarbener Qualität erlangst.</span><br/>
 
-<br/>  <span style="color: #3c2a1e">5. Nachdem du die maximale Anzahl einer Belohnung erhalten hast, wird dieser Gegenstand nach dem Aktualisieren nicht mehr erscheinen. Sobald du alle hochwertigen Belohnungen erhalten hast, werden Belohnungen der zweithöchsten Qualität beim Aktualisieren des Preispools wiederaufgefüllt – 10 Belohnungen pro Runde.</span><br/>
+<br/>  <span style="color: #3c2a1e">5. Nachdem du die maximale Anzahl einer Belohnung erhalten hast, wird dieser Gegenstand nach dem Aktualisieren nicht mehr erscheinen. Sobald du alle hochwertigen Belohnungen erhalten hast, werden Belohnungen der zweithöchsten Qualität beim Aktualisieren des Preispools wiederaufgefüllt – 10 Belohnungen pro Runde.</span>
 
 <br/>  <span style="color: #3c2a1e">6. Die Hauptbelohnungen des derzeitigen Preispools werden oben links auf der Ereignisseite angezeigt. Tippe auf die Vorschau-Schaltfläche, um dir die Belohnungen der derzeitigen Runde und auch alle Belohnungen insgesamt anzusehen.</span><br/>
 

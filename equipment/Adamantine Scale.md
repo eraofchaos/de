@@ -2,7 +2,7 @@
 title: "Gehärtete Schuppe"
 permalink: /equipment/Adamantine Scale/
 excerpt: "Era of Chaos Gehärtete Schuppe. Gehärtete Schuppe"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Adamantine Scale.md"
 toc: false

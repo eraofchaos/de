@@ -2,7 +2,7 @@
 title: "Blitzkrallen"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Era of Chaos Blitzkrallen. Blitzkrallen"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Claws of Lightning.md"
 toc: false

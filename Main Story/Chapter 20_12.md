@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-12 Magiefraktion"
 permalink: /Main Story/Chapter 20_12/
 excerpt: "Kapitel 20 - 12. Era of Chaos  Hauptstory - Kapitel 20_12. 20-12 Magiefraktion"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 20_12.md"
 toc: false

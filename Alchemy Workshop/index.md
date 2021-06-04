@@ -2,7 +2,7 @@
 title: "Alchemiewerkstatt"
 permalink: /Alchemy Workshop/
 excerpt: "Alchemiewerkstatt.Die Alchemiewerkstatt ist ein wahrlich wundervoller Ort. Sie beherbergt nicht nur das Wissen verschiedener Völker, sondern produziert laufend verblüffende neue Dinge."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "index.md"
 toc: false

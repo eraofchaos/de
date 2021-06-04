@@ -2,7 +2,7 @@
 title: "Zum Herrschen geboren. Höchstes Talent - Zum Herrschen geboren"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Höchstes Talent Zum Herrschen geboren. Höchstes Talent Zum Herrschen geboren. Zum Herrschen geboren"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Born to Be King.md"
 toc: false
@@ -30,6 +30,13 @@ sidebar:
   | 1 | ![Ruhmesschwert](/images/pt/talent_4201.png) | [Ruhmesschwert](/de/PeakTalent/Sword of Glory/) | Der Ruhm gehört dem Kämpfer und den schwertgewandten Gladiatoren. |
   | 2 | ![Ruhmesschild](/images/pt/talent_4202.png) | [Ruhmesschild](/de/PeakTalent/Shield of Glory/) | Der Ruhm gehört den Gladiatoren, die allen Angriffen widerstehen. |
   | 3 | ![Ruhmesorden](/images/pt/talent_4203.png) | [Ruhmesorden](/de/PeakTalent/Medal of Glory/) | Der Ruhm gehört den furchtlosen Gladiatoren. |
+
+
+  | Nr | Icon | Name | Beschreibung |
+  |:---|------|:-----------|:-----------|
+  | 1 | ![Schwert des Lords](/images/pt/talent_4301.png) | [Schwert des Lords](/de/PeakTalent/Sword of Lords/) | Der Sieg gehört dem Kämpfer und den schwertgewandten Lords. |
+  | 2 | ![Schild des Lords](/images/pt/talent_4302.png) | [Schild des Lords](/de/PeakTalent/Shield of Lords/) | Der Sieg gehört den Lords, die allen Angriffen widerstehen. |
+  | 3 | ![Orden des Lords](/images/pt/talent_4303.png) | [Orden des Lords](/de/PeakTalent/Medal of Lords/) | Der Sieg gehört den furchtlosen Lords. |
 
 
   | Nr | Icon | Name | Beschreibung |

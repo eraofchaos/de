@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "index.md"
 QR: heroes
@@ -44,7 +44,7 @@ classes: wide
   | 25 | ![Monere](/images/h/h_Monere.jpg) | [Monere](/de/heroes/Monere/) | Konflux | Ebenenwandler | **SR** |  Psy-Elementar | R |
   | 26 | ![Mullich](/images/h/h_Mullich.jpg) | [Mullich](/de/heroes/Mullich/) | Schloss | Ritter | **R** |  Sturmangriff | R+ |
   | 27 | ![Mutare](/images/h/h_Mutare.jpg) | [Mutare](/de/heroes/Mutare/) | Dungeon | Overlord | **R** |  Dungeon-Flut | R |
-  | 28 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/de/heroes/Nymus/) | Inferno | Dämoniker | **SR** |  Inferno-Phantoms | R+ |
+  | 28 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/de/heroes/Nymus/) | Inferno | Dämoniker | **SR** |  Inferno-Phantom | R+ |
   | 29 | ![Peter Lee](/images/h/h_PeterLee.jpg) | [Peter Lee](/de/heroes/Peter Lee/) | Bucht | Pirat | **SR+** |  Segel setzen | R+ |
   | 30 | ![Rashka](/images/h/h_Rashka.jpg) | [Rashka](/de/heroes/Rashka/) | Inferno | Dämoniker | **SR** |  Feuer-Lord | R |
   | 31 | ![Roland](/images/h/h_Roland.jpg) | [Roland](/de/heroes/Roland/) | Schloss | Ritter | **SSR** |  Erhöhte Moral | SR+ |

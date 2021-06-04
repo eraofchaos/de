@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-8 Untergrundmagie"
 permalink: /Main Story/Chapter 27_8/
 excerpt: "Kapitel 27 - 8. Era of Chaos  Hauptstory - Kapitel 27_8. 27-8 Untergrundmagie"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 27_8.md"
 toc: false

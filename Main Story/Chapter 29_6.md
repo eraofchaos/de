@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-6 Elfen-Hofstatt"
 permalink: /Main Story/Chapter 29_6/
 excerpt: "Kapitel 29 - 6. Era of Chaos  Hauptstory - Kapitel 29_6. 29-6 Elfen-Hofstatt"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 29_6.md"
 toc: false

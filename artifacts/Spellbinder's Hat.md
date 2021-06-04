@@ -2,7 +2,7 @@
 title: "Artefakt - Zauberhut"
 permalink: /artifacts/Spellbinder's Hat/
 excerpt: "Era of Chaos  Zauberhut. Zauberhut Ein Zauberhut, höchstes Ehrenzeichen für Magier. Nur erfahrene Magier, die Feuer, Wasser, Luft und Erde gemeistert haben, dürfen ihn tragen. Kann die Affinität zu magischen Elementen stark verbessern."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Spellbinder's Hat.md"
 toc: false

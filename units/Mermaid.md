@@ -3,7 +3,7 @@ title: "Meerjungfrau"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Meerjungfrau. Meerjungfrau Einheiten. null. Era of Chaos Die Tochter des Meeres, die von den Wellen beschützt wird, heilt ihre Gefährten mit der Macht des Ozeans."
 unitID: 9905
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Meerjungfrau"
 toc: true
@@ -87,6 +87,7 @@ toc: true
 
 ## Empfohlene Heilige Embleme
 
+* [Quell der Unsterblichkeit](/de/Emblem/Spring of Immortality/) (Gut)
 * [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/) (Neutral)
 * [Rechtsprinzip der Erben](/de/Emblem/Successors' Legal Principles/) (Neutral)
 

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-2 Flüchtiger Glanz"
 permalink: /Main Story/Chapter 21_2/
 excerpt: "Kapitel 21 - 2. Era of Chaos  Hauptstory - Kapitel 21_2. 21-2 Flüchtiger Glanz"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 21_2.md"
 toc: false

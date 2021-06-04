@@ -2,7 +2,7 @@
 title: "Blitzharnisch"
 permalink: /equipment/Breastplate of Lightning/
 excerpt: "Era of Chaos Blitzharnisch. Blitzharnisch"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Breastplate of Lightning.md"
 toc: false

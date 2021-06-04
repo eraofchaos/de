@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 2 - 2-5 Verbündetensuche"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Kapitel 2 - 5. Era of Chaos  Untergrund - Kapitel 2_5. 2-5 Verbündetensuche"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 2_5.md"
 toc: false

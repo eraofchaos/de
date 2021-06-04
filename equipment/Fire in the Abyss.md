@@ -2,7 +2,7 @@
 title: "Abgrundfeuer"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Era of Chaos Abgrundfeuer. Abgrundfeuer"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Fire in the Abyss.md"
 toc: false

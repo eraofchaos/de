@@ -2,7 +2,7 @@
 title: "Heiliges Emblem"
 permalink: /Emblem/
 excerpt: "Era of Chaos Heiliges Emblem. Heiliges Emblem. Heilige Embleme auszurüsten, kann die Einheitenkraft stark erhöhen. Verschiedene Kombinationen aus Fraktion und Qualität sind für Heilige Embleme möglich. Sets aus Heiligen Emblemen gewähren großartige Zusatzattribute."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "index.md"
 toc: false
@@ -27,28 +27,30 @@ classes: wide
   | 5 | ![Aksoe-Token](/images/r/rune_icon_303.png) | [Aksoe-Token](/de/Emblem/Aksoe Token/) | Neutral | Empfohlen für Einheiten, die Gegnern Verlangsamung zufügen. | 
   | 6 | ![Hochmut](/images/r/rune_icon_402.png) | [Hochmut](/de/Emblem/Arrogance/) | Chaos | Empf. für Einh. mit hohem DPS. | 
   | 7 | ![Kosmos-Heiligtum](/images/r/rune_icon_307.png) | [Kosmos-Heiligtum](/de/Emblem/Sanctuary of Kosmos/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
-  | 8 | ![Vergessenes Autonym](/images/r/rune_icon_501.png) | [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) | Böse | Geeignet für alle Einheiten. | 
-  | 9 | ![Tarnums Schuld](/images/r/rune_icon_305.png) | [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/) | Neutral | Geeignet für alle Einheiten. | 
-  | 10 | ![Habgier](/images/r/rune_icon_404.png) | [Habgier](/de/Emblem/Greed/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
-  | 11 | ![Segen der Königin](/images/r/rune_icon_105.png) | [Segen der Königin](/de/Emblem/Queen's Blessing/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
-  | 12 | ![Grüner Prophet](/images/r/rune_icon_204.png) | [Grüner Prophet](/de/Emblem/Green Prophet/) | Gut | Geeignet für alle Einheiten. | 
-  | 13 | ![Gebrochene Prophez.](/images/r/rune_icon_503.png) | [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) | Böse | Empfohlen für 9-Mann-Einheiten. | 
-  | 14 | ![Eisenfausts Vermächtnis](/images/r/rune_icon_103.png) | [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
-  | 15 | ![Wall der Weisheit](/images/r/rune_icon_202.png) | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/) | Gut | Geeignet für alle Einheiten. | 
-  | 16 | ![Das Urteil der Väter](/images/r/rune_icon_301.png) | [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) | Neutral | Empfohlen für Einheiten, die Gegner betäuben. | 
-  | 17 | ![Uraltes Feuer](/images/r/rune_icon_101.png) | [Uraltes Feuer](/de/Emblem/Ancient Fire/) | Rechtschaffen | Geeignet für alle Einheiten. | 
-  | 18 | ![Assassinenweg](/images/r/rune_icon_107.png) | [Assassinenweg](/de/Emblem/Path of an Assassin/) | Neutral | Empf. für Einh. mit hohem DPS. | 
-  | 19 | ![Odem des Drachenkönigs](/images/r/rune_icon_505.png) | [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) | Böse | Empfohlen für Abwehr-Einheiten. | 
-  | 20 | ![Zahnrad der Zeit](/images/r/rune_icon_205.png) | [Zahnrad der Zeit](/de/Emblem/Gear of Time/) | Gut | Empfohlen für Abwehr-Einheiten. | 
-  | 21 | ![Steinschlüssel zu den Toren](/images/r/rune_icon_302.png) | [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) | Neutral | Empfohlen für Einheiten, die Gegnern Blutung zufügen. | 
-  | 22 | ![Neid](/images/r/rune_icon_401.png) | [Neid](/de/Emblem/Jealousy/) | Chaos | Empf. für Einh. mit hohem DPS. | 
-  | 23 | ![Immerwährendes Geheimnis](/images/r/rune_icon_104.png) | [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) | Rechtschaffen | Geeignet für alle Einheiten. | 
-  | 24 | ![Schutzengel](/images/r/rune_icon_203.png) | [Schutzengel](/de/Emblem/Guardian Angel/) | Gut | Empf. für Einh. mit hohem DPS. | 
-  | 25 | ![Misere des Königs](/images/r/rune_icon_502.png) | [Misere des Königs](/de/Emblem/King's Calamity/) | Böse | Empfohlen für Einheiten, die Gegnern Verbrennung zufügen. | 
-  | 26 | ![Kern des weltweiten Netzwerks](/images/r/rune_icon_304.png) | [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) | Neutral | Geeignet für alle Einheiten. | 
-  | 27 | ![Zorn](/images/r/rune_icon_403.png) | [Zorn](/de/Emblem/Anger/) | Chaos | Geeignet für alle Einheiten. | 
-  | 28 | ![Greifenflügel](/images/r/rune_icon_102.png) | [Greifenflügel](/de/Emblem/Griffin Wings/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
-  | 29 | ![Zeuge](/images/r/rune_icon_201.png) | [Zeuge](/de/Emblem/Witness/) | Gut | Empf. für Einh. mit hohem DPS. | 
+  | 8 | ![Quell der Unsterblichkeit](/images/r/rune_icon_206.png) | [Quell der Unsterblichkeit](/de/Emblem/Spring of Immortality/) | Gut | null | 
+  | 9 | ![Vergessenes Autonym](/images/r/rune_icon_501.png) | [Vergessenes Autonym](/de/Emblem/Forgotten Autonym/) | Böse | Geeignet für alle Einheiten. | 
+  | 10 | ![Tarnums Schuld](/images/r/rune_icon_305.png) | [Tarnums Schuld](/de/Emblem/Tarnum's Culpability/) | Neutral | Geeignet für alle Einheiten. | 
+  | 11 | ![Habgier](/images/r/rune_icon_404.png) | [Habgier](/de/Emblem/Greed/) | Chaos | Empfohlen für Abwehr-Einheiten. | 
+  | 12 | ![Segen der Königin](/images/r/rune_icon_105.png) | [Segen der Königin](/de/Emblem/Queen's Blessing/) | Rechtschaffen | Empfohlen für Abwehr-Einheiten. | 
+  | 13 | ![Grüner Prophet](/images/r/rune_icon_204.png) | [Grüner Prophet](/de/Emblem/Green Prophet/) | Gut | Geeignet für alle Einheiten. | 
+  | 14 | ![Gebrochene Prophez.](/images/r/rune_icon_503.png) | [Gebrochene Prophez.](/de/Emblem/Broken Prophecy/) | Böse | Empfohlen für 9-Mann-Einheiten. | 
+  | 15 | ![Eisenfausts Vermächtnis](/images/r/rune_icon_103.png) | [Eisenfausts Vermächtnis](/de/Emblem/Ironfist's Legacy/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
+  | 16 | ![Wall der Weisheit](/images/r/rune_icon_202.png) | [Wall der Weisheit](/de/Emblem/Wall of Knowledge/) | Gut | Geeignet für alle Einheiten. | 
+  | 17 | ![Das Urteil der Väter](/images/r/rune_icon_301.png) | [Das Urteil der Väter](/de/Emblem/The Judgment of Fathers/) | Neutral | Empfohlen für Einheiten, die Gegner betäuben. | 
+  | 18 | ![Uraltes Feuer](/images/r/rune_icon_101.png) | [Uraltes Feuer](/de/Emblem/Ancient Fire/) | Rechtschaffen | Geeignet für alle Einheiten. | 
+  | 19 | ![Assassinenweg](/images/r/rune_icon_107.png) | [Assassinenweg](/de/Emblem/Path of an Assassin/) | Neutral | Empf. für Einh. mit hohem DPS. | 
+  | 20 | ![Odem des Drachenkönigs](/images/r/rune_icon_505.png) | [Odem des Drachenkönigs](/de/Emblem/Dragon King's Breath/) | Böse | Empfohlen für Abwehr-Einheiten. | 
+  | 21 | ![Der Preis der Loyalität](/images/r/rune_icon_106.png) | [Der Preis der Loyalität](/de/Emblem/The Price of Loyalty/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
+  | 22 | ![Zahnrad der Zeit](/images/r/rune_icon_205.png) | [Zahnrad der Zeit](/de/Emblem/Gear of Time/) | Gut | Empfohlen für Abwehr-Einheiten. | 
+  | 23 | ![Steinschlüssel zu den Toren](/images/r/rune_icon_302.png) | [Steinschlüssel zu den Toren](/de/Emblem/Stone Key to the Gates/) | Neutral | Empfohlen für Einheiten, die Gegnern Blutung zufügen. | 
+  | 24 | ![Neid](/images/r/rune_icon_401.png) | [Neid](/de/Emblem/Jealousy/) | Chaos | Empf. für Einh. mit hohem DPS. | 
+  | 25 | ![Immerwährendes Geheimnis](/images/r/rune_icon_104.png) | [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) | Rechtschaffen | Geeignet für alle Einheiten. | 
+  | 26 | ![Schutzengel](/images/r/rune_icon_203.png) | [Schutzengel](/de/Emblem/Guardian Angel/) | Gut | Empf. für Einh. mit hohem DPS. | 
+  | 27 | ![Misere des Königs](/images/r/rune_icon_502.png) | [Misere des Königs](/de/Emblem/King's Calamity/) | Böse | Empfohlen für Einheiten, die Gegnern Verbrennung zufügen. | 
+  | 28 | ![Kern des weltweiten Netzwerks](/images/r/rune_icon_304.png) | [Kern des weltweiten Netzwerks](/de/Emblem/Core of the Global Network/) | Neutral | Geeignet für alle Einheiten. | 
+  | 29 | ![Zorn](/images/r/rune_icon_403.png) | [Zorn](/de/Emblem/Anger/) | Chaos | Geeignet für alle Einheiten. | 
+  | 30 | ![Greifenflügel](/images/r/rune_icon_102.png) | [Greifenflügel](/de/Emblem/Griffin Wings/) | Rechtschaffen | Empf. für Einh. mit hohem DPS. | 
+  | 31 | ![Zeuge](/images/r/rune_icon_201.png) | [Zeuge](/de/Emblem/Witness/) | Gut | Empf. für Einh. mit hohem DPS. | 
 
 ## Regeln
 

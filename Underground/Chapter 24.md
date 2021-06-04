@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 24 Gezeiten der Elemente"
 permalink: /Underground/Chapter 24/
 excerpt: "Kapitel 24 Gezeiten der Elemente. Era of Chaos  Untergrund - Kapitel 24. Gezeiten der Elemente"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 24.md"
 toc: false

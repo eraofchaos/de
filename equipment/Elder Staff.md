@@ -2,7 +2,7 @@
 title: "Ältestenstab"
 permalink: /equipment/Elder Staff/
 excerpt: "Era of Chaos Ältestenstab. Ältestenstab"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Elder Staff.md"
 toc: false

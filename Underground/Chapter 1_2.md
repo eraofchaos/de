@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 1 - 1-2 Spuren finsterer Schatten"
 permalink: /Underground/Chapter 1_2/
 excerpt: "Kapitel 1 - 2. Era of Chaos  Untergrund - Kapitel 1_2. 1-2 Spuren finsterer Schatten"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 1_2.md"
 toc: false

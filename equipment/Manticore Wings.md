@@ -2,7 +2,7 @@
 title: "Mantikorflügel"
 permalink: /equipment/Manticore Wings/
 excerpt: "Era of Chaos Mantikorflügel. Mantikorflügel"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Manticore Wings.md"
 toc: false

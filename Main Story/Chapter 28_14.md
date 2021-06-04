@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-14 Heiligtum"
 permalink: /Main Story/Chapter 28_14/
 excerpt: "Kapitel 28 - 14. Era of Chaos  Hauptstory - Kapitel 28_14. 28-14 Heiligtum"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 28_14.md"
 toc: false

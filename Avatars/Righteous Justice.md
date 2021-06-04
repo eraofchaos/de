@@ -2,7 +2,7 @@
 title: "Avatar - Rechtschaffene Gerechtigkeit"
 permalink: /Avatars/Righteous Justice/
 excerpt: "Era of Chaos  Rechtschaffene Gerechtigkeit"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Righteous Justice.md"
 toc: false

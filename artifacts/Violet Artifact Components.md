@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Era of Chaos  List of all Violet Artifact Components . Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Violet Artifact Components.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
  | ![Schwert des Höllenfeuers](/images/t/artifact_40301.png) [Schwert des Höllenfeuers](/de/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Zauberschaden**: 4+(LEVEL\*1.6) %<br/>**Angriff (Held)**: 6+(LEVEL\*2.4) | Ein Schwert, das dunkle Kräfte birgt. Eine der Komponenten für die Rüstung der Verdammten. | 
  | ![Schild der gähnenden Toten](/images/t/artifact_40302.png) [Schild der gähnenden Toten](/de/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Abwehr (Held)**: 6+(LEVEL\*2.4) | Ein Schild aus Knochen von Untoten. Eine der Komponenten für die Rüstung der Verdammten. | 
  | ![Totenschädelhelm](/images/t/artifact_40303.png) [Totenschädelhelm](/de/artifacts/Skull Helmet/){: .btn .btn--era4} | **Zauberschaden**: 4+(LEVEL\*1.6) %<br/>**Intelligenz (Held)**: 6+(LEVEL\*2.4) | Ein in der Unterwelt gefundener Helm. Eine der Komponenten für die Rüstung der Verdammten. | 
- | ![Knochenrüstung](/images/t/artifact_40304.png) [Knochenrüstung](/de/artifacts/Bone Armour/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Wissen (Held)**: 6+(LEVEL\*2.4) | Ein Schild aus harten Knochen. Eine der Komponenten für die Rüstung der Verdammten. | 
+ | ![Knochenrüstung](/images/t/artifact_40304.png) [Knochenrüstung](/de/artifacts/Bone Armor/){: .btn .btn--era4} | **Gesundheit (Einheit)**: 4+(LEVEL\*1.6) %<br/>**Wissen (Held)**: 6+(LEVEL\*2.4) | Ein Schild aus harten Knochen. Eine der Komponenten für die Rüstung der Verdammten. | 
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/de/artifacts/Artifacts Upgrade/)

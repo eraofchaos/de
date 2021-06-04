@@ -2,7 +2,7 @@
 title: "Artefakt - Antimagie-Runenstein - Schmuck der Interferenz"
 permalink: /artifacts/Garniture of Interference/
 excerpt: "Era of Chaos  Antimagie-Runenstein - Schmuck der Interferenz. Eine Halskette mit eingraviertem Yin-Yang-Symbol. Eine der Komponenten für den Antimagie-Runenstein."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Garniture of Interference.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 26 - 26-1 Harpyie"
 permalink: /Underground/Chapter 26_1/
 excerpt: "Kapitel 26 - 1. Era of Chaos  Untergrund - Kapitel 26_1. 26-1 Harpyie"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 26_1.md"
 toc: false

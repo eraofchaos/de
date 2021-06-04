@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-12 Die Klippe des Grünen Drachen"
 permalink: /Main Story/Chapter 29_12/
 excerpt: "Kapitel 29 - 12. Era of Chaos  Hauptstory - Kapitel 29_12. 29-12 Die Klippe des Grünen Drachen"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 29_12.md"
 toc: false

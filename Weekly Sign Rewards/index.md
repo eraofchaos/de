@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 24  Dungeonwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **14 Jun** | **5x [Troglodyt](/ItemsDE/unt_244/)**  | Ein Trupp von Troglodyten schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **15 Jun** | **3x [Harpyie](/ItemsDE/unt_245/)**  | Ein Trupp von Harpyien schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **16 Jun** | **100x <i class="fas fa-gem"/>**  | Die Kreaturen des dunklen Untergrunds überreichen Euch einen kleinen Haufen Diamanten! |
+  | **17 Jun** | **3x [Minotaurus](/ItemsDE/unt_248/)**  | Ein Trupp von Minotauren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **18 Jun** | **5x [Dungeon-Fraktion-Truhe](/ItemsDE/con_1276/)**  | Eure Armee suchte nach diversen verlorenen Schatztruhen im Untergrund. |
+  | **19 Jun** | **3x [Mantikor](/ItemsDE/unt_249/)**  | Ein Trupp von Mantikoren hat sich deiner Armee angeschlossen. Du bist stärker geworden! |
+  | **20 Jun** | **5x [Mutare](/ItemsDE/her_389/)**  | Dem Rat des uralten Drachen folgend, schloss Mutare sich Eurer Armee an! |
+
 
 #### 2021 Week 23  Konfluxwoche
 

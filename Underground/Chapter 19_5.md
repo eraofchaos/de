@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 19 - 19-5 Gesetz der Welt"
 permalink: /Underground/Chapter 19_5/
 excerpt: "Kapitel 19 - 5. Era of Chaos  Untergrund - Kapitel 19_5. 19-5 Gesetz der Welt"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 19_5.md"
 toc: false

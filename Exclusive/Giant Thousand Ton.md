@@ -2,7 +2,7 @@
 title: "Exklusiv - Tausend Tonnen (Giant)"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Tausend Tonnen. Tausend Tonnen. Era of Chaos Exklusiv Tausend Tonnen. Gigant Exklusiv."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Giant Tausend Tonnen.md"
 toc: false

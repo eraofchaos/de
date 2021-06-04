@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-5 Kerr, der Barbarenkönig"
 permalink: /Main Story/Chapter 21_5/
 excerpt: "Kapitel 21 - 5. Era of Chaos  Hauptstory - Kapitel 21_5. 21-5 Kerr, der Barbarenkönig"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 21_5.md"
 toc: false

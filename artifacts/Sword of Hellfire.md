@@ -2,7 +2,7 @@
 title: "Artefakt - Rüstung der Verdammten - Schwert des Höllenfeuers"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "Era of Chaos  Rüstung der Verdammten - Schwert des Höllenfeuers. Ein Schwert, das dunkle Kräfte birgt. Eine der Komponenten für die Rüstung der Verdammten."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Sword of Hellfire.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Beschreibung:** Ein Schwert, das dunkle Kräfte birgt. Eine der Komponenten für die Rüstung der Verdammten.
 
- **Part of Artifact:** ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) [Rüstung der Verdammten](/de/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Rüstung der Verdammten](/images/t/icon_artifact_30.png) [Rüstung der Verdammten](/de/artifacts/Armor of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artefaktessenz](/ItemsDE/con_905/)
 

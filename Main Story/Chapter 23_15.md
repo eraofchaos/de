@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-15 Stadt des Schwefels und der Flamme"
 permalink: /Main Story/Chapter 23_15/
 excerpt: "Kapitel 23 - 15. Era of Chaos  Hauptstory - Kapitel 23_15. 23-15 Stadt des Schwefels und der Flamme"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Chapter 23_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Exklusiv Cove. Exklusiv Cove. List of Exklusiv Cove in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Exclusive Cove"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Regnanpirat](/de/units/Regnan Pirates/) | [Schwert](/de/Exclusive/Regnan Pirates Sword/) | + | Aufladung | [Schwert-Token](/ItemsDE/con_912/) | - |
   | 2  | [Regnanbogensch.](/de/units/Regnan Archer/) | [Wunder](/de/Exclusive/Regnan Archer Miracle/) | - | Unterstützung | - | - |
-  | 3  | [Meerelementar](/de/units/Sea Elemental/) | [Arkangesang](/de/Exclusive/Sea Elemental Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
+  | 3  | [Meerelementar](/de/units/Sea Elemental/) | [Arkangesang](/de/Exclusive/Sea Elemental Arcane Chant/) | + | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
   | 4  | [Regnanschlange](/de/units/Regnan Serpent/) | [Tagesgezeiten](/de/Exclusive/Regnan Serpent Day Tides/) | - | Fernkampf | [Tagesgezeiten-Token](/ItemsDE/con_1003/) | [Tagesgezeiten-Spezialskin](/ItemsDE/con_671/) |
   | 5  | [Meerjungfrau](/de/units/Mermaid/) | [Nachtgezeiten](/de/Exclusive/Mermaid Night Tides/) | - | Fernkampf | [Nachtgezeiten-Token](/ItemsDE/con_1004/) | [Nachtgezeiten-Spezialskin](/ItemsDE/con_672/) |
   | 6  | [Drachenschildkröte](/de/units/Dragon Turtle/) | [Gehorsamkeit](/de/Exclusive/Dragon Turtle Obedience/) | - | Unterstützung | [Gehorsamkeit-Token](/ItemsDE/con_1005/) | [Gehorsamkeit-Spezialskin](/ItemsDE/con_673/) |

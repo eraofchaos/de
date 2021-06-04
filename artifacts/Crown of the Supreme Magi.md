@@ -2,7 +2,7 @@
 title: "Artefakt - Axt der Wildheit - Krone der höchsten Magier"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Era of Chaos  Axt der Wildheit - Krone der höchsten Magier. Eine Krone, Dankesgeschenk für die Rettung eines verrückten Zauberers. Eine der Komponenten für die Axt der Wildheit."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Crown of the Supreme Magi.md"
 toc: false

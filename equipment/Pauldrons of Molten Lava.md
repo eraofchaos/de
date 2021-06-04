@@ -2,7 +2,7 @@
 title: "Magma-Schulterschutz"
 permalink: /equipment/Pauldrons of Molten Lava/
 excerpt: "Era of Chaos Magma-Schulterschutz. Magma-Schulterschutz"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Pauldrons of Molten Lava.md"
 toc: false

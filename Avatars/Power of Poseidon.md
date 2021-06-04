@@ -2,7 +2,7 @@
 title: "Avatar - Poseidons Macht"
 permalink: /Avatars/Power of Poseidon/
 excerpt: "Era of Chaos  Poseidons Macht"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Power of Poseidon.md"
 toc: false

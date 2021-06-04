@@ -3,7 +3,7 @@ title: "Richterin"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Richterin. Richterin Einheiten. null. Era of Chaos Die Richterinnen Erathias stellen ihr Leben in den Dienst des Heiligen Lichts. Diese Frauen, die aufgrund ihrer Begabung auserwählt werden, bringen den Bedürftigen Wärme und Licht."
 unitID: 109
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Richterin"
 toc: true
@@ -89,6 +89,7 @@ toc: true
 
 * [Immerwährendes Geheimnis](/de/Emblem/Everlasting Secret/) (Rechtschaffen)
 * [Zorn](/de/Emblem/Anger/) (Chaos)
+* [Quell der Unsterblichkeit](/de/Emblem/Spring of Immortality/) (Gut)
 
 ## Kombinationsinfo
 

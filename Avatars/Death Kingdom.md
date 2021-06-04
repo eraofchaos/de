@@ -2,7 +2,7 @@
 title: "Avatar - Todesreich"
 permalink: /Avatars/Death Kingdom/
 excerpt: "Era of Chaos  Todesreich"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Death Kingdom.md"
 toc: false

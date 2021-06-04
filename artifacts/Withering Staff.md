@@ -2,7 +2,7 @@
 title: "Artefakt - Schwert des Frostes - Verheerender Stab"
 permalink: /artifacts/Withering Staff/
 excerpt: "Era of Chaos  Schwert des Frostes - Verheerender Stab. Ein Stab eines Erz-Lichs. Eine der Komponenten für das Schwert des Frostes."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Withering Staff.md"
 toc: false
