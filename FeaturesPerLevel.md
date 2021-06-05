@@ -2,7 +2,7 @@
 title: "Era of Chaos  Features per Level"
 permalink: /Features per Level/
 excerpt: "Era of Chaos Neue Funktionen freigeschaltet!. Features per Level."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-05
 locale: de
 ref: "Peak Talent EXP.md"
 toc: false
