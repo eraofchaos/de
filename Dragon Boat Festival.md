@@ -42,7 +42,7 @@ sidebar:
 
 ## Magieschere
 
-  **Event Item:** Magieschere
+  **Event Item:** [Magieschere](/de/Items/con_2175/)
 
   **Beschreibung:** Drachenboot-Fest-Ereignisgegenstand. Diese Schere ist mit einer geheimnisvollen Magie überzogen, die es ermöglicht, das Seil zu durchschneiden, das die magischen Reisklöße festhält, allerdings wird sie durch die Benutzung zerstört.
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Drachenboot-Quest
 
-  **Talk Pikeman:** [color=000000]Danke, dass du mich gefunden hast! Lass mich das Drachenboot rudern.[-]
+  **Talk Pikeman:** <span style="color: #000000">Danke, dass du mich gefunden hast! Lass mich das Drachenboot rudern.</span>
 
-  **Talk Mermaid:** [color=000000]Du Glückspilz, du hast mich tatsächlich gefunden! Lass mich dir helfen.[-]
+  **Talk Mermaid:** <span style="color: #000000">Du Glückspilz, du hast mich tatsächlich gefunden! Lass mich dir helfen.</span>
 
-  **First Talk Regnan Seer :** [color=000000]Deine Entschlossenheit rührt mich, tapferer Krieger des Drachenboots. Komm, wähle deine Belohnung.[-]
+  **First Talk Regnan Seer :** <span style="color: #000000">Deine Entschlossenheit rührt mich, tapferer Krieger des Drachenboots. Komm, wähle deine Belohnung.</span>
 
-  **Second Talk Regnan Seer:** [color=000000]So trifft man sich wieder, tapferer Krieger des Drachenboots. Deine Entschlossenheit ist ergreifend. Komm, wähle deine Belohnung.[-]
+  **Second Talk Regnan Seer:** <span style="color: #000000">So trifft man sich wieder, tapferer Krieger des Drachenboots. Deine Entschlossenheit ist ergreifend. Komm, wähle deine Belohnung.</span>
 
-  **Final Talk Regnan Seer:** [color=000000]Das sind alle Belohnungen, tapferer Krieger des Drachenboots. Glückwunsch zum Abschluss deines Abenteuers![-]
+  **Final Talk Regnan Seer:** <span style="color: #000000">Das sind alle Belohnungen, tapferer Krieger des Drachenboots. Glückwunsch zum Abschluss deines Abenteuers!</span>
 
   **Movement Notification 1:** Da ein neuer Seefahrer hinzugekommen ist, kann das Drachenboot in noch entlegenere Wasserdomänen vorstoßen.
 
