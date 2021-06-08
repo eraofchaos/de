@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 15 - 15-3 Die Engelsstatue"
 permalink: /Underground/Chapter 15_3/
 excerpt: "Kapitel 15 - 3. Era of Chaos  Untergrund - Kapitel 15_3. 15-3 Die Engelsstatue"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 15_3.md"
 toc: false

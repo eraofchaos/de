@@ -2,7 +2,7 @@
 title: "Avatar - Infernodämon"
 permalink: /Avatars/Inferno Demon/
 excerpt: "Era of Chaos  Infernodämon"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Inferno Demon.md"
 toc: false
@@ -14,5 +14,5 @@ classes: wide
 
  **Tips:** Erhältlich durch Teilnahme am Ereignis. 
 
- **Is available:**  - 
+ **Is available:**  + 
 

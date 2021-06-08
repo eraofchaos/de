@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-6 Pilzplantage"
 permalink: /Main Story/Chapter 27_6/
 excerpt: "Kapitel 27 - 6. Era of Chaos  Hauptstory - Kapitel 27_6. 27-6 Pilzplantage"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 27_6.md"
 toc: false

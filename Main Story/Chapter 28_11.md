@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-11 Massengrab"
 permalink: /Main Story/Chapter 28_11/
 excerpt: "Kapitel 28 - 11. Era of Chaos  Hauptstory - Kapitel 28_11. 28-11 Massengrab"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 28_11.md"
 toc: false

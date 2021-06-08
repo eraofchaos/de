@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Wandelnde Tote Exklusiv."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Walking Dead Irisschild.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Irisschild-Token](/ItemsDE/con_913/) | Wenn das Ziel „Niedrige Moral“ hat, werden Angriffstempo und Lebensentzug des Wandelnden Toten um 20 % erhöht. |
   | **4x** <i class="fas fa-star"/> | **170x** [Irisschild-Token](/ItemsDE/con_913/) | Der Wandelnde Tote stellt jede Sekunde 1 % seiner max. LP wieder her. |
   | **5x** <i class="fas fa-star"/> | **210x** [Irisschild-Token](/ItemsDE/con_913/) | Der Wandelnde Tote reduziert die ABW benachbarter gegnerischer Einheiten die nächsten 5 Sek. lang alle 4 Sek. um 25. Dieser Effekt ist stapelbar. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/ItemsDE/con_913/) | Zu Beginn der Schlacht wird das Bewegungstempo aller gegnerischen Einheiten 4 Sek. lang um 30 reduziert. Anschließend wird der Schaden aller verbündeten Nekropolis-Einheiten 20 Sek. lang um 20 % erhöht. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Irisschild-Token](/ItemsDE/con_913/) | Zu Beginn der Schlacht wird das Bewegungstempo aller gegnerischen und verbündeten Einheiten 4 Sek. lang um 30 reduziert. Anschließend wird der Schaden aller verbündeten Nekropolis-Einheiten 20 Sek. lang um 20 % erhöht. |
 
 
 ## Stufenaufst.

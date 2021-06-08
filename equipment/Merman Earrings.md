@@ -2,7 +2,7 @@
 title: "Meermensch-Ohrringe"
 permalink: /equipment/Merman Earrings/
 excerpt: "Era of Chaos Meermensch-Ohrringe. Meermensch-Ohrringe"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Merman Earrings.md"
 toc: false

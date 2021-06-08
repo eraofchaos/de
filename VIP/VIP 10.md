@@ -2,7 +2,7 @@
 title: "VIP - VIP 10"
 permalink: /VIP/VIP 10/
 excerpt: "Era of Chaos  VIP-System. VIP 10"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "VIP 10.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
 
  **4** <span style="color: black"><span style="color: #00FF1E;font-size:19px"> Hiermit kannst du jede Kaserne dreimal täglich beschleunigen.</span><span style="color: black">[pic=vip_newImg.png]</span><span style="color: black">
 
- **5** <span style="color: black"><span style="color: #FFECCD"> Hiermit kannst du Zugang zur Ruhmesarena </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #FFECCD"> Mal täglich kaufen.</span><span style="color: black">
+ **5** <span style="color: black"><span style="color: #462800"> Hiermit kannst du Zugang zur Ruhmesarena </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #462800"> Mal täglich kaufen.</span><span style="color: black">
 
  **6** <span style="color: black"><span style="color: #462800"> Hiermit kannst du </span><span style="color: black"><span style="color: #00FF1E;font-size:19px">30 </span><span style="color: black"><span style="color: #462800">Mal täglich weissagen.</span><span style="color: black">
 

@@ -2,7 +2,7 @@
 title: "Abgrundklaue"
 permalink: /equipment/Abyss Claw/
 excerpt: "Era of Chaos Abgrundklaue. Abgrundklaue"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Abyss Claw.md"
 toc: false

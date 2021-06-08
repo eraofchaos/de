@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Conflux"
 permalink: /Exclusive/Exclusive Conflux/
 excerpt: "Era of Chaos Exklusiv Conflux. Exklusiv Conflux. List of Exklusiv Conflux in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Exclusive Conflux"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 3  | [Eiselementar](/de/units/Ice Elemental/) | [Arkangesang](/de/Exclusive/Ice Elemental Arcane Chant/) | - | Aufladung | [Arkangesang-Token](/ItemsDE/con_915/) | - |
   | 4  | [Feuerelementar](/de/units/Fire Elemental/) | [Feuerenergie](/de/Exclusive/Fire Elemental Fire Energy/) | - | Fernkampf | [Feuerenergie-Token](/ItemsDE/con_998/) | [„Feuerenergie“-Spezialskin](/ItemsDE/con_666/) |
   | 5  | [Steinelementar](/de/units/Stone Elemental/) | [Energiekern](/de/Exclusive/Stone Elemental Energy Core/) | - | Fernkampf | [Energiekern-Token](/ItemsDE/con_999/) | [„Energiekern“-Spezialskin](/ItemsDE/con_667/) |
-  | 6  | [Psy-Elementar](/de/units/Psychic Elemental/) | [Geistkern](/de/Exclusive/Psychic Elemental Spirit Core/) | - | Unterstützung | [Geistkern-Token](/ItemsDE/con_1000/) | [Geistkern-Spezialskin](/ItemsDE/con_668/) |
+  | 6  | [Psy-Elementar](/de/units/Psychic Elemental/) | [Geistkern](/de/Exclusive/Psychic Elemental Spirit Core/) | + | Unterstützung | [Geistkern-Token](/ItemsDE/con_1000/) | [Geistkern-Spezialskin](/ItemsDE/con_668/) |
   | 7  | [Feuervogel](/de/units/Firebird/) | [Ewige Flamme](/de/Exclusive/Firebird Eternal Flame/) | + | Fernkampf | [„Ewige Flamme“-Token](/ItemsDE/con_1001/) | [„Ewige Flamme“-Spezialskin](/ItemsDE/con_669/) |
   | 8  | [Eisdämon](/de/units/Ice Demon/) | - | - | - | none | none |
   | 9  | [Leprechaun](/de/units/Leprechaun/) | [Dornen](/de/Exclusive/Leprechaun Thorns/) | - | Unterstützung | - | - |

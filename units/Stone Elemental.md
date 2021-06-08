@@ -3,7 +3,7 @@ title: "Steinelementar"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Steinelementar. Steinelementar Einheiten. null. Era of Chaos Der Steinelementar ist das Ergebnis geologischer Verschmelzung mehrerer Mineralien. Teilt sich in kleinere Steinelementare auf, die weiterkämpfen."
 unitID: 905
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Steinelementar"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
- **Race:** Bestienmeister
+ **Race:** Unhold
 
  **Members:** [x4](/de/units/Unit Member x4/)
 

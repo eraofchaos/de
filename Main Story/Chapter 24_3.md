@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-3 Freundschaft mit Sterblichen"
 permalink: /Main Story/Chapter 24_3/
 excerpt: "Kapitel 24 - 3. Era of Chaos  Hauptstory - Kapitel 24_3. 24-3 Freundschaft mit Sterblichen"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 24_3.md"
 toc: false

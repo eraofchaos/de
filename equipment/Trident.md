@@ -2,7 +2,7 @@
 title: "Dreizack"
 permalink: /equipment/Trident/
 excerpt: "Era of Chaos Dreizack. Dreizack"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Trident.md"
 toc: false

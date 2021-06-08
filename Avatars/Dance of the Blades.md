@@ -2,7 +2,7 @@
 title: "Avatar - Tanz der Klingen"
 permalink: /Avatars/Dance of the Blades/
 excerpt: "Era of Chaos  Tanz der Klingen"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Dance of the Blades.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-14 Glanz des Reichs"
 permalink: /Main Story/Chapter 9_14/
 excerpt: "Kapitel 9 - 14. Era of Chaos  Hauptstory - Kapitel 9_14. 9-14 Glanz des Reichs"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 9_14.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Psy-Elementar"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Psy-Elementar. Psy-Elementar Einheiten. Magie-Elementar. Era of Chaos Ein Energiewesen, das aus Ideen der stofflichen Welt entstand. Es greift den Geist seiner Feinde an; wer nicht willensstark genug ist, vergeht in Chaos und Delirium."
 unitID: 906
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Psy-Elementar"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
- **Race:** Bestienmeister
+ **Race:** Unhold
 
  **Members:** [x1](/de/units/Unit Member x1/)
 
@@ -78,7 +78,7 @@ toc: true
 
  **Name:** [Geistkern](/de/Exclusive/Psychic Elemental Spirit Core/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Geistkern-Token](/ItemsDE/con_1000/)
 

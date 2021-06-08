@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-11 Silverwing-Turm"
 permalink: /Main Story/Chapter 4_11/
 excerpt: "Kapitel 4 - 11. Era of Chaos  Hauptstory - Kapitel 4_11. 4-11 Silverwing-Turm"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 4_11.md"
 toc: false

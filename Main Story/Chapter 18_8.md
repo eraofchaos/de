@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-8 Der magische Gürtel"
 permalink: /Main Story/Chapter 18_8/
 excerpt: "Kapitel 18 - 8. Era of Chaos  Hauptstory - Kapitel 18_8. 18-8 Der magische Gürtel"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 18_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatarrahmen & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatarrahmen & Avatar. Avatarrahmen & Avatar"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "index.md"
 toc: false
@@ -44,7 +44,7 @@ classes: wide
   | 31 | ![Immerwährende Flamme](/images/a/avatarFrame_77.png) | [Immerwährende Flamme](/de/Avatars/Everlasting Flame/) | - | „Immerwährende Flamme“-Avatarrahmen |
   | 32 | ![Inferno](/images/a/avatarFrame_3.png) | [Inferno](/de/Avatars/Inferno/) | - | Inferno-Avatarrahmen |
   | 33 | ![Inferno-Herrscher](/images/a/avatarFrame_58.png) | [Inferno-Herrscher](/de/Avatars/Inferno Ruler/) | + | Inferno-Herrscher-Avatarrahmen |
-  | 34 |  | [Infernodämon](/de/Avatars/Inferno Demon/) | - | Infernodämon-Avatarrahmen |
+  | 34 |  | [Infernodämon](/de/Avatars/Inferno Demon/) | + | Infernodämon-Avatarrahmen |
   | 35 | ![Jahrestagsfeier](/images/a/avatarFrame_65.png) | [Jahrestagsfeier](/de/Avatars/Anniversary Celebration/) | + | Jahrestagsfeier-Avatarrahmen |
   | 36 | ![Kampflord](/images/a/avatarFrame_9.png) | [Kampflord](/de/Avatars/Lord of War/) | + | Kampflord-Avatarrahmen |
   | 37 | ![Karneval](/images/a/avatarFrame_95.png) | [Karneval](/de/Avatars/Carnival/) | + | Karneval-Avatarrahmen |

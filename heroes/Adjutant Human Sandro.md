@@ -2,7 +2,7 @@
 title: "Adjutant Mensch Sandro"
 permalink: /heroes/Adjutant Human Sandro/
 excerpt: "Era of Chaos  Adjutant Mensch Sandro"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Adjutant Human Sandro.md"
 QR: adhero_60503

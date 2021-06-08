@@ -2,7 +2,7 @@
 title: "Tödlicher Giftzahn"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Era of Chaos Tödlicher Giftzahn. Tödlicher Giftzahn"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Fatal Poison Fang.md"
 toc: false

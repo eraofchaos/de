@@ -2,7 +2,7 @@
 title: "Uraltes Eis"
 permalink: /equipment/Ancient Ice/
 excerpt: "Era of Chaos Uraltes Eis. Uraltes Eis"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Ancient Ice.md"
 toc: false

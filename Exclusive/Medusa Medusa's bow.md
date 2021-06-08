@@ -2,7 +2,7 @@
 title: "Exklusiv - Medusas Bogen (Medusa)"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Medusas Bogen. Medusas Bogen. Era of Chaos Exklusiv Medusas Bogen. Medusa Exklusiv."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Medusa Medusas Bogen.md"
 toc: false

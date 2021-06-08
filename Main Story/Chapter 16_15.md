@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-15 Zwergenwache"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Kapitel 16 - 15. Era of Chaos  Hauptstory - Kapitel 16_15. 16-15 Zwergenwache"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 16_15.md"
 toc: false

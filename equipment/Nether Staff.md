@@ -2,7 +2,7 @@
 title: "Unheilsstab"
 permalink: /equipment/Nether Staff/
 excerpt: "Era of Chaos Unheilsstab. Unheilsstab"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Nether Staff.md"
 toc: false

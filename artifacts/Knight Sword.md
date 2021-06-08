@@ -2,7 +2,7 @@
 title: "Artefakt - Armageddonklinge - Ritterschwert"
 permalink: /artifacts/Knight Sword/
 excerpt: "Era of Chaos  Armageddonklinge - Ritterschwert. Ein Schwert, wie es Schlosshelden tragen. Eine der Komponenten für die Armageddonklinge."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Knight Sword.md"
 toc: false

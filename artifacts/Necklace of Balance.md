@@ -2,7 +2,7 @@
 title: "Artefakt - Spiegel der Rache - Kette des Gleichgewichts"
 permalink: /artifacts/Necklace of Balance/
 excerpt: "Era of Chaos  Spiegel der Rache - Kette des Gleichgewichts. Mit diesem Gegenstand kann Magie bei der Fusion von magischen Kräften kontrolliert und reguliert werden. Eine der Komponenten für den Spiegel der Rache."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Necklace of Balance.md"
 toc: false

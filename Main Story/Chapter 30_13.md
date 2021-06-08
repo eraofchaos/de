@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-13 Von der Lava versengte Erde"
 permalink: /Main Story/Chapter 30_13/
 excerpt: "Kapitel 30 - 13. Era of Chaos  Hauptstory - Kapitel 30_13. 30-13 Von der Lava versengte Erde"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 30_13.md"
 toc: false

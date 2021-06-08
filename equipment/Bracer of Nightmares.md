@@ -2,7 +2,7 @@
 title: "Albtraum-Armschutz"
 permalink: /equipment/Bracer of Nightmares/
 excerpt: "Era of Chaos Albtraum-Armschutz. Albtraum-Armschutz"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Bracer of Nightmares.md"
 toc: false

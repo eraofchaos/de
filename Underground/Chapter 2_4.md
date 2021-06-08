@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 2 - 2-4 Wiedervereinigung und Wiedergeburt"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Kapitel 2 - 4. Era of Chaos  Untergrund - Kapitel 2_4. 2-4 Wiedervereinigung und Wiedergeburt"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 2_4.md"
 toc: false

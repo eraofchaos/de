@@ -2,7 +2,7 @@
 title: "Präziser Schlag. Höchstes Talent - Präziser Schlag"
 permalink: /PeakTalent/Precise Strike/
 excerpt: "Era of Chaos Höchstes Talent Präziser Schlag. Höchstes Talent Präziser Schlag. Präziser Schlag"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Precise Strike.md"
 toc: false

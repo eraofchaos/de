@@ -3,7 +3,7 @@ title: "Eiselementar"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Eiselementar. Eiselementar Einheiten. Stiller Schneegeist. Era of Chaos Ein gefrorenes Lebewesen, das von einem Wasserelementar erschaffen wurde. Im Kampf entfesselt es die eiskalte Luft in sich, um seine Gegner einzufrieren."
 unitID: 903
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Eiselementar"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
- **Race:** Bestienmeister
+ **Race:** Unhold
 
  **Members:** [x4](/de/units/Unit Member x4/)
 

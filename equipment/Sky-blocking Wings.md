@@ -2,7 +2,7 @@
 title: "Verdunkelnde Schwingen"
 permalink: /equipment/Sky-blocking Wings/
 excerpt: "Era of Chaos Verdunkelnde Schwingen. Verdunkelnde Schwingen"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Sky-blocking Wings.md"
 toc: false

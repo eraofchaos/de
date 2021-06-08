@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 8 - 8-5 Armee der Toten"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Kapitel 8 - 5. Era of Chaos  Untergrund - Kapitel 8_5. 8-5 Armee der Toten"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 8_5.md"
 toc: false

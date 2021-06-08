@@ -2,7 +2,7 @@
 title: "Krallen der Meerjungfrau"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Era of Chaos Krallen der Meerjungfrau. Krallen der Meerjungfrau"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Mermaid Claws.md"
 toc: false

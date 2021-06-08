@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 15 - 15-1 Die Dämonenstatue"
 permalink: /Underground/Chapter 15_1/
 excerpt: "Kapitel 15 - 1. Era of Chaos  Untergrund - Kapitel 15_1. 15-1 Die Dämonenstatue"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 15_1.md"
 toc: false

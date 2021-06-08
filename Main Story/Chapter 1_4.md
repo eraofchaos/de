@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-4 Baum des Wissens"
 permalink: /Main Story/Chapter 1_4/
 excerpt: "Kapitel 1 - 4. Era of Chaos  Hauptstory - Kapitel 1_4. 1-4 Baum des Wissens"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 1_4.md"
 toc: false

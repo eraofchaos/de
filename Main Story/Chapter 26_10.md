@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-10 Säule des Betrachters"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "Kapitel 26 - 10. Era of Chaos  Hauptstory - Kapitel 26_10. 26-10 Säule des Betrachters"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 26_10.md"
 toc: false

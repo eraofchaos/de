@@ -2,7 +2,7 @@
 title: "Fußlappen"
 permalink: /equipment/Footwraps/
 excerpt: "Era of Chaos Fußlappen. Fußlappen"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Footwraps.md"
 toc: false

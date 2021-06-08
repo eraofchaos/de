@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-1 Verborgene Zähne"
 permalink: /Main Story/Chapter 7_1/
 excerpt: "Kapitel 7 - 1. Era of Chaos  Hauptstory - Kapitel 7_1. 7-1 Verborgene Zähne"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 7_1.md"
 toc: false

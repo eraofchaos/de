@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Tarnums Schuld"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Era of Chaos Tarnums Schuld. Tarnums Schuld. Era of Chaos Heiliges Emblem Tarnums Schuld. Era of Chaos Neutral Tarnums Schuld"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Tarnum's Culpability.md"
 toc: false

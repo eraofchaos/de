@@ -3,7 +3,7 @@ title: "Druidin"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Druidin. Druidin Einheiten. Erzdruide. Era of Chaos Dies sind Elfen, die den Willen der Natur geerbt haben und jeden beschützen, der mit der Kraft der Natur für den Wald eintritt."
 unitID: 208
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Druidin"
 toc: true

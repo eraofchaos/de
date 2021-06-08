@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-14 Waldzerstörung"
 permalink: /Main Story/Chapter 8_14/
 excerpt: "Kapitel 8 - 14. Era of Chaos  Hauptstory - Kapitel 8_14. 8-14 Waldzerstörung"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 8_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-13 Söldnergilde"
 permalink: /Main Story/Chapter 4_13/
 excerpt: "Kapitel 4 - 13. Era of Chaos  Hauptstory - Kapitel 4_13. 4-13 Söldnergilde"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 4_13.md"
 toc: false

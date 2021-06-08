@@ -2,7 +2,7 @@
 title: "Leichter Umhang"
 permalink: /equipment/Light Cape/
 excerpt: "Era of Chaos Leichter Umhang. Leichter Umhang"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Light Cape.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Sturmelementar"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Sturmelementar. Sturmelementar Einheiten. Blitzgewitter. Era of Chaos Ein Energiewesen, das aus dem Kampf von Luftelementaren entstand. Seine Gegner erwartet ein elektrisches Sperrfeuer."
 unitID: 902
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Sturmelementar"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
- **Race:** Bestienmeister
+ **Race:** Unhold
 
  **Members:** [x4](/de/units/Unit Member x4/)
 

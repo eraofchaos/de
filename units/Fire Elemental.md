@@ -3,7 +3,7 @@ title: "Feuerelementar"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Feuerelementar. Feuerelementar Einheiten. Energieelementar. Era of Chaos Ein instabiles Wesen aus reiner Energie. Wenn es zerstört wird, werden seine Gegner durch die freigesetzte Energie geschockt."
 unitID: 904
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Feuerelementar"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fraktion:** [Konflux](/de/units/Faction Conflux/)
 
- **Race:** Bestienmeister
+ **Race:** Unhold
 
  **Members:** [x4](/de/units/Unit Member x4/)
 

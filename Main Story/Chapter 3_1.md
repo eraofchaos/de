@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-1 Grab des Kriegers"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "Kapitel 3 - 1. Era of Chaos  Hauptstory - Kapitel 3_1. 3-1 Grab des Kriegers"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 3_1.md"
 toc: false

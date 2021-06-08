@@ -2,7 +2,7 @@
 title: "Azurlanze"
 permalink: /equipment/Azure Lance/
 excerpt: "Era of Chaos Azurlanze. Azurlanze"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Azure Lance.md"
 toc: false

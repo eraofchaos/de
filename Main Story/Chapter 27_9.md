@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-9 Bergwerke von Nighon"
 permalink: /Main Story/Chapter 27_9/
 excerpt: "Kapitel 27 - 9. Era of Chaos  Hauptstory - Kapitel 27_9. 27-9 Bergwerke von Nighon"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 27_9.md"
 toc: false

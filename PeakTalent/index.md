@@ -2,7 +2,7 @@
 title: "Höchstes Talent"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Höchstes Talent. Höchstes Talent. Spitzentalente stehen ab St. 110 zur Verfügung."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "index.md"
 toc: false

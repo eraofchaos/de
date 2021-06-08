@@ -2,7 +2,7 @@
 title: "Drachenboot-Fest"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Drachenboot-Fest - Drachenboot-Quest"
-last_modified_at: 2021-06-05
+last_modified_at: 2021-06-08
 locale: de
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ sidebar:
 
   <span style="color: #3c2a1e">1. Während des Drachenboot-Fests erhielt ein Pikenier den Befehl, die neu entdeckten geheimnisvollen Wasserdomänen in einem Drachenboot zu erkunden. In den Wasserdomänen fand er viele magische Speisen namens „Magische Reisklöße.“</span><br/>
 
-<br/>  <span style="color: #3c2a1e">2. Jede Wasserdomäne bietet %s Mal Magischer Reiskloß. Tippe auf den Magischen Reiskloß, um ihn zu öffnen, und erhalte entweder einen seltenen Gegenstand oder löse ein Ereignis aus.</span><br/>
+<br/>  <span style="color: #3c2a1e">2. Jede Wasserdomäne bietet 20 Mal Magischer Reiskloß. Tippe auf den Magischen Reiskloß, um ihn zu öffnen, und erhalte entweder einen seltenen Gegenstand oder löse ein Ereignis aus.</span><br/>
 
 <br/>  <span style="color: #3c2a1e">3. Jede Wasserdomäne beinhaltet garantiert 1 Ereignis. Sobald das Ereignis ausgelöst wurde, kannst du mit dem Drachenboot zur nächsten Wasserdomäne segeln. Nach der Ankunft bei der nächsten Wasserdomäne kannst du zur vorherigen Wasserdomäne zurückkehren.</span><br/>
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Drachenboot-Quest
 
-  **Talk Pikeman:** Danke, dass du mich gefunden hast! Lass mich das Drachenboot rudern.
+  **Talk Pikeman:** [color=000000]Danke, dass du mich gefunden hast! Lass mich das Drachenboot rudern.[-]
 
-  **Talk Mermaid:** Du Glückspilz, du hast mich tatsächlich gefunden! Lass mich dir helfen.
+  **Talk Mermaid:** [color=000000]Du Glückspilz, du hast mich tatsächlich gefunden! Lass mich dir helfen.[-]
 
-  **First Talk Regnan Seer :** Deine Entschlossenheit rührt mich, tapferer Krieger des Drachenboots. Komm, wähle deine Belohnung.
+  **First Talk Regnan Seer :** [color=000000]Deine Entschlossenheit rührt mich, tapferer Krieger des Drachenboots. Komm, wähle deine Belohnung.[-]
 
-  **Second Talk Regnan Seer:** So trifft man sich wieder, tapferer Krieger des Drachenboots. Deine Entschlossenheit ist ergreifend. Komm, wähle deine Belohnung.
+  **Second Talk Regnan Seer:** [color=000000]So trifft man sich wieder, tapferer Krieger des Drachenboots. Deine Entschlossenheit ist ergreifend. Komm, wähle deine Belohnung.[-]
 
-  **Final Talk Regnan Seer:** Das sind alle Belohnungen, tapferer Krieger des Drachenboots. Glückwunsch zum Abschluss deines Abenteuers!
+  **Final Talk Regnan Seer:** [color=000000]Das sind alle Belohnungen, tapferer Krieger des Drachenboots. Glückwunsch zum Abschluss deines Abenteuers![-]
 
   **Movement Notification 1:** Da ein neuer Seefahrer hinzugekommen ist, kann das Drachenboot in noch entlegenere Wasserdomänen vorstoßen.
 

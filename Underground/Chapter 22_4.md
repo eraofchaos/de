@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 22 - 22-4 Götterlisten"
 permalink: /Underground/Chapter 22_4/
 excerpt: "Kapitel 22 - 4. Era of Chaos  Untergrund - Kapitel 22_4. 22-4 Götterlisten"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 22_4.md"
 toc: false

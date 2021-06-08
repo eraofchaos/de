@@ -2,7 +2,7 @@
 title: "Wirbelnarbe"
 permalink: /equipment/Vortex Scar/
 excerpt: "Era of Chaos Wirbelnarbe. Wirbelnarbe"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Vortex Scar.md"
 toc: false

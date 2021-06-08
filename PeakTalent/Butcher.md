@@ -2,7 +2,7 @@
 title: "Schlächter. Höchstes Talent - Schlächter"
 permalink: /PeakTalent/Butcher/
 excerpt: "Era of Chaos Höchstes Talent Schlächter. Höchstes Talent Schlächter. Schlächter"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Butcher.md"
 toc: false

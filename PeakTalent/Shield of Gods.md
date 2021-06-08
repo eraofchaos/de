@@ -2,7 +2,7 @@
 title: "Götterschild. Höchstes Talent - Götterschild"
 permalink: /PeakTalent/Shield of Gods/
 excerpt: "Era of Chaos Höchstes Talent Götterschild. Höchstes Talent Götterschild. Götterschild"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Shield of Gods.md"
 toc: false

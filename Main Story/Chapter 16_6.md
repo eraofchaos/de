@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-6 Der Goldkönig"
 permalink: /Main Story/Chapter 16_6/
 excerpt: "Kapitel 16 - 6. Era of Chaos  Hauptstory - Kapitel 16_6. 16-6 Der Goldkönig"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 16_6.md"
 toc: false

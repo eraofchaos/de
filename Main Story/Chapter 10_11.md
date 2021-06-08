@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-11 Geist durchtränken"
 permalink: /Main Story/Chapter 10_11/
 excerpt: "Kapitel 10 - 11. Era of Chaos  Hauptstory - Kapitel 10_11. 10-11 Geist durchtränken"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 10_11.md"
 toc: false

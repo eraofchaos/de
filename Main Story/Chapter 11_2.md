@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-2 Einsamer Widerstand"
 permalink: /Main Story/Chapter 11_2/
 excerpt: "Kapitel 11 - 2. Era of Chaos  Hauptstory - Kapitel 11_2. 11-2 Einsamer Widerstand"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 11_2.md"
 toc: false

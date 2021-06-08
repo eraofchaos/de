@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 10 - 10-5 Wiedergeburt des Königs"
 permalink: /Underground/Chapter 10_5/
 excerpt: "Kapitel 10 - 5. Era of Chaos  Untergrund - Kapitel 10_5. 10-5 Wiedergeburt des Königs"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 10_5.md"
 toc: false

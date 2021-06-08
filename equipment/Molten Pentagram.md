@@ -2,7 +2,7 @@
 title: "Magma-Pentagramm"
 permalink: /equipment/Molten Pentagram/
 excerpt: "Era of Chaos Magma-Pentagramm. Magma-Pentagramm"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Molten Pentagram.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters - Drachenschuppen-Rüstung"
 permalink: /artifacts/Dragon Scale Armor/
 excerpt: "Era of Chaos  Macht des Drachenvaters - Drachenschuppen-Rüstung. Eine vom heiligen Drachen gesegnete Rüstung. Eine der Komponenten für die Macht des Drachenvaters."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Dragon Scale Armor.md"
 toc: false

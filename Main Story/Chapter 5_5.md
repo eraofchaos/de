@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-5 Skrupelloser Verrat"
 permalink: /Main Story/Chapter 5_5/
 excerpt: "Kapitel 5 - 5. Era of Chaos  Hauptstory - Kapitel 5_5. 5-5 Skrupelloser Verrat"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 5_5.md"
 toc: false

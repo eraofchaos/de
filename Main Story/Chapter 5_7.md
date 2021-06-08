@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-7 Eine Chance auf Leben"
 permalink: /Main Story/Chapter 5_7/
 excerpt: "Kapitel 5 - 7. Era of Chaos  Hauptstory - Kapitel 5_7. 5-7 Eine Chance auf Leben"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 5_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-10 Invasoren"
 permalink: /Main Story/Chapter 7_10/
 excerpt: "Kapitel 7 - 10. Era of Chaos  Hauptstory - Kapitel 7_10. 7-10 Invasoren"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 7_10.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Naga. Naga Einheiten. Nagakönigin. Era of Chaos Diese mit zahlreichen Armen gesegneten Kreaturen haben den Kampf im Blut. Je schwächer der Gegner, desto mehr gieren sie nach Vernichtung."
 unitID: 606
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Naga"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fraktion:** [Turm](/de/units/Faction Tower/)
 
- **Race:** Mensch
+ **Race:** Zauberer
 
  **Members:** [x1](/de/units/Unit Member x1/)
 

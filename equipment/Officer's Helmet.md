@@ -2,7 +2,7 @@
 title: "Ofiziershelm"
 permalink: /equipment/Officer's Helmet/
 excerpt: "Era of Chaos Ofiziershelm. Ofiziershelm"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Officer's Helmet.md"
 toc: false

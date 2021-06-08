@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 28 - 28-3  Himmlisches Verlangen"
 permalink: /Underground/Chapter 28_3/
 excerpt: "Kapitel 28 - 3. Era of Chaos  Untergrund - Kapitel 28_3. 28-3  Himmlisches Verlangen"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Chapter 28_3.md"
 toc: false

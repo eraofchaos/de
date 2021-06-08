@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 25  Infernowoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **21 Jun** | **5x [Imp](/ItemsDE/unt_226/)**  | Ein Trupp von Imps schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **22 Jun** | **5x [Gog](/ItemsDE/unt_227/)**  | Ein Trupp von Gogs schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **23 Jun** | **3x [Höllenhund](/ItemsDE/unt_228/)**  | Ein Trupp von Höllenhunden schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **24 Jun** | **5x [Einheitentruhe (Inferno)](/ItemsDE/con_1273/)**  | Eure Infernotruppe präsentiert Euch eine Reihe wertvoller Schatztruhen! |
+  | **25 Jun** | **3x [Dämon](/ItemsDE/unt_229/)**  | Ein Trupp von Dämonen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **26 Jun** | **3x [Grottenteufel](/ItemsDE/unt_230/)**  | Ein Trupp von Grottenteufeln schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **27 Jun** | **5x [Rashka](/ItemsDE/her_384/)**  | Der Held Rashka zeigt Interesse an deiner Expansion und möchte sich deiner Fraktion anschließen! |
+
 
 #### 2021 Week 24  Dungeonwoche
 

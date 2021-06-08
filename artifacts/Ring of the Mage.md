@@ -2,7 +2,7 @@
 title: "Artefakt - Ring des Magiers"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Era of Chaos  Ring des Magiers. Ring des Magiers Magischer Ring, aus verzauberten Gegenständen geschmiedet. Kann Zauberschaden erhöhen."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Ring of the Mage.md"
 toc: false

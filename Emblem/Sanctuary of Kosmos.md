@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Kosmos-Heiligtum"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Era of Chaos Kosmos-Heiligtum. Kosmos-Heiligtum. Era of Chaos Heiliges Emblem Kosmos-Heiligtum. Era of Chaos Rechtschaffen Kosmos-Heiligtum"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Sanctuary of Kosmos.md"
 toc: false

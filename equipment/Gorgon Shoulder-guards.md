@@ -2,7 +2,7 @@
 title: "Gorgonen-Schulterpanzer"
 permalink: /equipment/Gorgon Shoulder-guards/
 excerpt: "Era of Chaos Gorgonen-Schulterpanzer. Gorgonen-Schulterpanzer"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Gorgon Shoulder-guards.md"
 toc: false

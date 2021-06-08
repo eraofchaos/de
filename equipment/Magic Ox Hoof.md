@@ -2,7 +2,7 @@
 title: "Magischer Ochsenhuf"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Era of Chaos Magischer Ochsenhuf. Magischer Ochsenhuf"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Magic Ox Hoof.md"
 toc: false

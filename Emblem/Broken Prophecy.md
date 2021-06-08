@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Gebrochene Prophez."
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Era of Chaos Gebrochene Prophez.. Gebrochene Prophez.. Era of Chaos Heiliges Emblem Gebrochene Prophez.. Era of Chaos Böse Gebrochene Prophez."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Broken Prophecy.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Herrscher des Frostes"
 permalink: /Avatars/Ruler of Frost/
 excerpt: "Era of Chaos  Herrscher des Frostes"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Ruler of Frost.md"
 toc: false

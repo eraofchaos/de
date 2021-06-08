@@ -2,7 +2,7 @@
 title: "Durchdringender Speer"
 permalink: /equipment/Piercing Spear/
 excerpt: "Era of Chaos Durchdringender Speer. Durchdringender Speer"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "Piercing Spear.md"
 toc: false
