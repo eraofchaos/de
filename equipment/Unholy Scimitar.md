@@ -2,7 +2,7 @@
 title: "Unheiliger Säbel"
 permalink: /equipment/Unholy Scimitar/
 excerpt: "Era of Chaos Unheiliger Säbel. Unheiliger Säbel"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Unholy Scimitar.md"
 toc: false

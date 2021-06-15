@@ -2,7 +2,7 @@
 title: "Klauen des Verfalls"
 permalink: /equipment/Claws of Decay/
 excerpt: "Era of Chaos Klauen des Verfalls. Klauen des Verfalls"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Claws of Decay.md"
 toc: false

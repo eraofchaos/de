@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 28 - 28-1  Axtköpfige Truppe"
 permalink: /Underground/Chapter 28_1/
 excerpt: "Kapitel 28 - 1. Era of Chaos  Untergrund - Kapitel 28_1. 28-1  Axtköpfige Truppe"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 28_1.md"
 toc: false

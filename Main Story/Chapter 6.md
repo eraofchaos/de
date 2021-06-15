@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 Erster Spatenstich"
 permalink: /Main Story/Chapter 6/
 excerpt: "Kapitel 6. Era of Chaos  Hauptstory - Kapitel 6. Erster Spatenstich"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 6.md"
 toc: false

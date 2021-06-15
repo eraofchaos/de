@@ -2,7 +2,7 @@
 title: "Atem des Todes"
 permalink: /equipment/Breath of Death/
 excerpt: "Era of Chaos Atem des Todes. Atem des Todes"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Breath of Death.md"
 toc: false

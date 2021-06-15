@@ -2,7 +2,7 @@
 title: "Exklusiv -  (Paladin)"
 permalink: /Exclusive/Paladin /
 excerpt: "Era of Chaos . . Era of Chaos Exklusiv . Paladin Exklusiv."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Paladin .md"
 toc: false

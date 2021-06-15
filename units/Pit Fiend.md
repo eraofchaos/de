@@ -3,7 +3,7 @@ title: "Grottenteufel"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Grottenteufel. Grottenteufel Einheiten. Foltermeister. Era of Chaos Grottenteufel sind kampferprobte Dämonen, denen Zehntausende Inferno-Truppen unterstehen. Sie leben nur für den Blutrausch."
 unitID: 505
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Grottenteufel"
 toc: true

@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Roc)"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Roc Exklusiv."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Roc Arkangesang.md"
 toc: false

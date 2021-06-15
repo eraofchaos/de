@@ -2,7 +2,7 @@
 title: "Avatar - Pionier-Lord"
 permalink: /Avatars/Pioneer Lord/
 excerpt: "Era of Chaos  Pionier-Lord"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Pioneer Lord.md"
 toc: false

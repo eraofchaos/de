@@ -2,7 +2,7 @@
 title: "Teufelssense"
 permalink: /equipment/Devil's Scythe/
 excerpt: "Era of Chaos Teufelssense. Teufelssense"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Devil's Scythe.md"
 toc: false

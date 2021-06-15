@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-5 Bloßgelegter Plan"
 permalink: /Main Story/Chapter 4_5/
 excerpt: "Kapitel 4 - 5. Era of Chaos  Hauptstory - Kapitel 4_5. 4-5 Bloßgelegter Plan"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 4_5.md"
 toc: false

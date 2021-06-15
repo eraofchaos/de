@@ -2,7 +2,7 @@
 title: "Verzauberte Haube"
 permalink: /equipment/Enchanted Hood/
 excerpt: "Era of Chaos Verzauberte Haube. Verzauberte Haube"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Enchanted Hood.md"
 toc: false

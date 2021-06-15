@@ -2,7 +2,7 @@
 title: "Gorgonen-Kriegsaxt"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "Era of Chaos Gorgonen-Kriegsaxt. Gorgonen-Kriegsaxt"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Gorgon Battle Axe.md"
 toc: false

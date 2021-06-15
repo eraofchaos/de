@@ -2,7 +2,7 @@
 title: "Geisterhafte Klauen"
 permalink: /equipment/Ghostly Claws/
 excerpt: "Era of Chaos Geisterhafte Klauen. Geisterhafte Klauen"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Ghostly Claws.md"
 toc: false

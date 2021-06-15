@@ -2,7 +2,7 @@
 title: "Kampfformation Bucht"
 permalink: /Battle Formation/Battle Formation Faction Cove
 excerpt: "Kampfformation Bucht"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "BattleFormationFactionCove"
 toc: false

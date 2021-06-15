@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 9 Gier"
 permalink: /Underground/Chapter 9/
 excerpt: "Kapitel 9 Gier. Era of Chaos  Untergrund - Kapitel 9. Gier"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 9.md"
 toc: false

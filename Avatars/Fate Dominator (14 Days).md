@@ -2,7 +2,7 @@
 title: "Avatar - Herrscher über das Schicksal (14 Tage)"
 permalink: /Avatars/Fate Dominator (14 Days)/
 excerpt: "Era of Chaos  Herrscher über das Schicksal (14 Tage)"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Fate Dominator (14 Days).md"
 toc: false

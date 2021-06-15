@@ -2,7 +2,7 @@
 title: "Militärische Errungenschaft. Höchstes Talent - Militärische Errungenschaft"
 permalink: /PeakTalent/Military Attainment/
 excerpt: "Era of Chaos Höchstes Talent Militärische Errungenschaft. Höchstes Talent Militärische Errungenschaft. Militärische Errungenschaft"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Military Attainment.md"
 toc: false

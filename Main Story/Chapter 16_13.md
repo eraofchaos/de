@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-13 Kreaturenfalle"
 permalink: /Main Story/Chapter 16_13/
 excerpt: "Kapitel 16 - 13. Era of Chaos  Hauptstory - Kapitel 16_13. 16-13 Kreaturenfalle"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 16_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Jägerkleidung"
 permalink: /equipment/Hunter's Clothing/
 excerpt: "Era of Chaos Jägerkleidung. Jägerkleidung"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Hunter's Clothing.md"
 toc: false

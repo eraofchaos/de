@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 5 - 5-4 Krieg der Restauration"
 permalink: /Underground/Chapter 5_4/
 excerpt: "Kapitel 5 - 4. Era of Chaos  Untergrund - Kapitel 5_4. 5-4 Krieg der Restauration"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 5_4.md"
 toc: false

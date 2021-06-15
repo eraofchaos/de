@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 2 - 2-2 Durch den Nebel"
 permalink: /Underground/Chapter 2_2/
 excerpt: "Kapitel 2 - 2. Era of Chaos  Untergrund - Kapitel 2_2. 2-2 Durch den Nebel"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 2_2.md"
 toc: false

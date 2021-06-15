@@ -2,7 +2,7 @@
 title: "Aggressor. Höchstes Talent - Aggressor"
 permalink: /PeakTalent/Aggressor/
 excerpt: "Era of Chaos Höchstes Talent Aggressor. Höchstes Talent Aggressor. Aggressor"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Aggressor.md"
 toc: false

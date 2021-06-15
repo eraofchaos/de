@@ -3,7 +3,7 @@ title: "Harpyie"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Harpyie. Harpyie Einheiten. Harpyienhexe. Era of Chaos Dieses Monster ist halb Mensch, halb Vogel. Niemand erträgt seinen gellenden Schrei, der sogar Wolken auseinandertreibt."
 unitID: 702
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Harpyie"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Name:** [Ritterpike](/de/Exclusive/Harpy Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 

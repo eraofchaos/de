@@ -2,7 +2,7 @@
 title: "Avatar - Berührung des teuflischen Gottes"
 permalink: /Avatars/Evil God's Touch/
 excerpt: "Era of Chaos  Berührung des teuflischen Gottes"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Evil God's Touch.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 14 - 14-2 Untergrundweg"
 permalink: /Underground/Chapter 14_2/
 excerpt: "Kapitel 14 - 2. Era of Chaos  Untergrund - Kapitel 14_2. 14-2 Untergrundweg"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 14_2.md"
 toc: false

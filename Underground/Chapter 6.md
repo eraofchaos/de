@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 6 Der Verlust der Hauptstadt"
 permalink: /Underground/Chapter 6/
 excerpt: "Kapitel 6 Der Verlust der Hauptstadt. Era of Chaos  Untergrund - Kapitel 6. Der Verlust der Hauptstadt"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 6.md"
 toc: false

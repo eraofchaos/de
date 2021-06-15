@@ -2,7 +2,7 @@
 title: "Wildes Gebiet. Höchstes Talent - Wildes Gebiet"
 permalink: /PeakTalent/Wild Region/
 excerpt: "Era of Chaos Höchstes Talent Wildes Gebiet. Höchstes Talent Wildes Gebiet. Wildes Gebiet"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Wild Region.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Gewitterflügel"
 permalink: /equipment/Wings of a Thunderbolt/
 excerpt: "Era of Chaos Gewitterflügel. Gewitterflügel"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Wings of a Thunderbolt.md"
 toc: false

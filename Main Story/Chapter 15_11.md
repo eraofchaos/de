@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-11 Der Dämon wird beschworen"
 permalink: /Main Story/Chapter 15_11/
 excerpt: "Kapitel 15 - 11. Era of Chaos  Hauptstory - Kapitel 15_11. 15-11 Der Dämon wird beschworen"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 15_11.md"
 toc: false

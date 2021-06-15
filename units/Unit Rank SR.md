@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Unit Rank SR"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | ![Erzmagier](/images/u/ti_dafashi.jpg) | [Erzmagier](/de/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Erzmagier  |
   | 14 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 15 | ![Nachtmahr](/images/u/ti_mengyanshou.jpg) | [Nachtmahr](/de/units/Nightmare/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nachtmahr-König  |
-  | 16 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpyienhexe  |
+  | 16 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpyienhexe  |
   | 17 | ![Dschinn](/images/u/ti_shenguai.jpg) | [Dschinn](/de/units/Genie/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Meisterdschinn  |
   | 18 | ![Meerjungfrau](/images/u/ti_meirenyu.jpg) | [Meerjungfrau](/de/units/Mermaid/) | Zauberer | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 19 | ![Greif](/images/u/ti_shijiu.jpg) | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Königlicher Greif  |

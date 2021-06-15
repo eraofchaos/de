@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 30 - 30-4  Niemand kommt hier durch"
 permalink: /Underground/Chapter 30_4/
 excerpt: "Kapitel 30 - 4. Era of Chaos  Untergrund - Kapitel 30_4. 30-4  Niemand kommt hier durch"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 30_4.md"
 toc: false

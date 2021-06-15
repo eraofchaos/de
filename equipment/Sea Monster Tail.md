@@ -2,7 +2,7 @@
 title: "Schwanz des Seemonsters"
 permalink: /equipment/Sea Monster Tail/
 excerpt: "Era of Chaos Schwanz des Seemonsters. Schwanz des Seemonsters"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Sea Monster Tail.md"
 toc: false

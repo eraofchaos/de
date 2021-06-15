@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Der Preis der Loyalität"
 permalink: /Emblem/The Price of Loyalty/
 excerpt: "Era of Chaos Der Preis der Loyalität. Der Preis der Loyalität. Era of Chaos Heiliges Emblem Der Preis der Loyalität. Era of Chaos Rechtschaffen Der Preis der Loyalität"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "The Price of Loyalty.md"
 toc: false

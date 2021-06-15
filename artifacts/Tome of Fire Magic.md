@@ -2,7 +2,7 @@
 title: "Artefakt - Zauberhut - Buch der Feuermagie"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "Era of Chaos  Zauberhut - Buch der Feuermagie. Ein Zauberbuch über höhere Feuermagie. War einst Lunas Bettlektüre. Eine der Komponenten für den Zauberhut."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Tome of Fire Magic.md"
 toc: false

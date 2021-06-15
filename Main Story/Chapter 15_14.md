@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-14 Der Dämon erscheint"
 permalink: /Main Story/Chapter 15_14/
 excerpt: "Kapitel 15 - 14. Era of Chaos  Hauptstory - Kapitel 15_14. 15-14 Der Dämon erscheint"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 15_14.md"
 toc: false

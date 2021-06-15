@@ -2,7 +2,7 @@
 title: "Giftkralle"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Era of Chaos Giftkralle. Giftkralle"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Poisoned Claw.md"
 toc: false

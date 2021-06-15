@@ -2,7 +2,7 @@
 title: "Königreichsorden. Höchstes Talent - Königreichsorden"
 permalink: /PeakTalent/Medal of Kingdom/
 excerpt: "Era of Chaos Höchstes Talent Königreichsorden. Höchstes Talent Königreichsorden. Königreichsorden"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Medal of Kingdom.md"
 toc: false

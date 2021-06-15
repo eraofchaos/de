@@ -2,7 +2,7 @@
 title: "Rostiger Schulterschutz"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "Era of Chaos Rostiger Schulterschutz. Rostiger Schulterschutz"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Rusted Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Star 2"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/de/units/Efreeti/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreetsultan  |
   | 9 | ![Stein-Wasserspeier](/images/u/ti_shixianggui.jpg) | [Stein-Wasserspeier](/de/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 10 | ![Erzmagier](/images/u/ti_dafashi.jpg) | [Erzmagier](/de/units/Arch Mage/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Erzmagier  |
-  | 11 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpyienhexe  |
+  | 11 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpyienhexe  |
   | 12 | ![Greif](/images/u/ti_shijiu.jpg) | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Königlicher Greif  |
   | 13 | ![Schwertkämpfer](/images/u/ti_shizijun.jpg) | [Schwertkämpfer](/de/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kreuzritter  |
   | 14 | ![Zwerg](/images/u/ti_airen.jpg) | [Zwerg](/de/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |

@@ -2,7 +2,7 @@
 title: "Brutaler Drachenschwanz"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Era of Chaos Brutaler Drachenschwanz. Brutaler Drachenschwanz"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Vehement Dragon Tail.md"
 toc: false

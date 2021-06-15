@@ -2,7 +2,7 @@
 title: "Blitzflegel"
 permalink: /equipment/Lightning's Flail/
 excerpt: "Era of Chaos Blitzflegel. Blitzflegel"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Lightning's Flail.md"
 toc: false

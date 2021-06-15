@@ -3,7 +3,7 @@ title: "Steinelementar"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Steinelementar. Steinelementar Einheiten. null. Era of Chaos Der Steinelementar ist das Ergebnis geologischer Verschmelzung mehrerer Mineralien. Teilt sich in kleinere Steinelementare auf, die weiterkämpfen."
 unitID: 905
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Steinelementar"
 toc: true

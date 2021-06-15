@@ -2,7 +2,7 @@
 title: "Scharfe Rückenstacheln"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "Era of Chaos Scharfe Rückenstacheln. Scharfe Rückenstacheln"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Sharp Back-spikes.md"
 toc: false

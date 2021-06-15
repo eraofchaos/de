@@ -1,9 +1,9 @@
 ---
 title: "Pixie"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Pixie. Pixie Einheiten. . Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
+excerpt: "Era of Chaos Pixie. Pixie Einheiten. Elfenmagierin. Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Pixie"
 toc: true
@@ -175,12 +175,12 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_mofaxianling.jpg)
+  ![Elfenmagierin](/images/u/tia_mofaxianling.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Elfenmagierin
 
  **Awaking Beschreibung:** Man steht am Fenster und bewundert die Blumen, während einen ein Pixie aus den Blumen heraus beobachtet. So wie die frischen Blumen das Heim der Pixies schmücken, so verschönern die Pixies die Träume anderer.
 
@@ -195,23 +195,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Beschreibung:** 
+### 1st Skill (or 2nd): Explosive Energie
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energiebruch&gt;</span><span style="color: #645252;font-size:18px"> Fügt der Zieleinheit alle 20 Sek. Schaden in Höhe von 200 % des eigenen ANG zu.</span>
 
-### 2nd Skill (or 1st): 
- **Beschreibung:** 
+### 2nd Skill (or 1st): Energie-Vertigo
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Energiebruch&gt;</span><span style="color: #645252;font-size:18px"> Der erste Angriff auf die Zieleinheit fügt Schaden in Höhe von 200 % des eigenen ANG zu.</span>
 
-### 3rd Skill (or 4th): 
- **Beschreibung:** 
+### 3rd Skill (or 4th): Pixie-Gunst
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Pixie-Segen&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die SCHD-Reduzierung (Einheit) aller verbündeten Einheiten im Weg zusätzlich um 10 %. Der Effekt wird für den Wirker verdoppelt.</span>
 
-### 4th Skill (or 3rd): 
- **Beschreibung:** 
+### 4th Skill (or 3rd): Dienersegen
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Pixie-Segen&gt;</span><span style="color: #645252;font-size:18px"> Verringert SCHD-Reduzierung (Einheit) und ANG aller gegnerischen Einheiten im Weg zusätzlich um jeweils 10 %.</span>
 
-### 5th Skill (or 6th): 
- **Beschreibung:** 
+### 5th Skill (or 6th): Tribut
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hingabe&gt;</span><span style="color: #645252;font-size:18px"> Fügt 3 zufälligen Einheiten auf dem Feld zusätzlich „Stille“ zu. Hält 4 Sek. lang an.</span>
 
-### 6th Skill (or 5th): 
- **Beschreibung:** 
+### 6th Skill (or 5th): Worte der Toten
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Hingabe&gt;</span><span style="color: #645252;font-size:18px"> Der aufgewertete Fähigkeitseffekt belegt das Ziel mit „Stille“ und verringert seine SCHD-Reduzierung (Einheit) um 15 %. Hält 4 Sek. lang an.</span>
 
 ## Technical info
  **runart:** 1

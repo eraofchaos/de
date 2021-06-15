@@ -2,7 +2,7 @@
 title: "Backup - Schlitzer des Todes"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Schlitzer des Todes"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Scythe of the Death.md"
 toc: false

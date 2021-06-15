@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 20 - 20-3 Die Schüler Gottes"
 permalink: /Underground/Chapter 20_3/
 excerpt: "Kapitel 20 - 3. Era of Chaos  Untergrund - Kapitel 20_3. 20-3 Die Schüler Gottes"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 20_3.md"
 toc: false

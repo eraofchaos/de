@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-4 Verbotserlass"
 permalink: /Main Story/Chapter 21_4/
 excerpt: "Kapitel 21 - 4. Era of Chaos  Hauptstory - Kapitel 21_4. 21-4 Verbotserlass"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 21_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-14 Schwefelgestank"
 permalink: /Main Story/Chapter 23_14/
 excerpt: "Kapitel 23 - 14. Era of Chaos  Hauptstory - Kapitel 23_14. 23-14 Schwefelgestank"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 23_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 30 Die Rettung des Königs"
 permalink: /Underground/Chapter 30/
 excerpt: "Kapitel 30 Die Rettung des Königs. Era of Chaos  Untergrund - Kapitel 30. Die Rettung des Königs"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 30.md"
 toc: false

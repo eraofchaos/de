@@ -2,7 +2,7 @@
 title: "Rostiger Helm"
 permalink: /equipment/Rusted Helmet/
 excerpt: "Era of Chaos Rostiger Helm. Rostiger Helm"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Rusted Helmet.md"
 toc: false

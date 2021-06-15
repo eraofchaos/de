@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "Era of Chaos Exklusiv Dungeon. Exklusiv Dungeon. List of Exklusiv Dungeon in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Exclusive Dungeon"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodyt](/de/units/Troglodyte/) | [Schwert](/de/Exclusive/Troglodyte Sword/) | - | Aufladung | [Schwert-Token](/ItemsDE/con_912/) | - |
-  | 2  | [Harpyie](/de/units/Harpy/) | [Ritterpike](/de/Exclusive/Harpy Knight Pike/) | - | Aufladung | [Ritterpike-Token](/ItemsDE/con_916/) | - |
+  | 2  | [Harpyie](/de/units/Harpy/) | [Ritterpike](/de/Exclusive/Harpy Knight Pike/) | + | Aufladung | [Ritterpike-Token](/ItemsDE/con_916/) | - |
   | 3  | [Betrachter](/de/units/Beholder/) | [Dunkler Blick](/de/Exclusive/Beholder Dark Gaze/) | - | Fernkampf | [Dunkler-Blick-Token](/ItemsDE/con_990/) | [Dunkler-Blick-Spezialskin](/ItemsDE/con_658/) |
   | 4  | [Medusa](/de/units/Medusa/) | [Medusas Bogen](/de/Exclusive/Medusa Medusa's Bow/) | + | Fernkampf | [„Medusas Bogen“-Token](/ItemsDE/con_991/) | [„Medusas Bogen“-Spezialskin](/ItemsDE/con_659/) |
   | 5  | [Minotaurus](/de/units/Minotaur/) | [Irisschild](/de/Exclusive/Minotaur Iris Shield/) | - | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |

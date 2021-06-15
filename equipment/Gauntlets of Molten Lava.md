@@ -2,7 +2,7 @@
 title: "Magma-Panzerhandschuhe"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Era of Chaos Magma-Panzerhandschuhe. Magma-Panzerhandschuhe"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Gauntlets of Molten Lava.md"
 toc: false

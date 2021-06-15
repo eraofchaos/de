@@ -2,7 +2,7 @@
 title: "Avatar - Krieger"
 permalink: /Avatars/Warrior/
 excerpt: "Era of Chaos  Krieger"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Warrior.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Legierungsrüstung"
 permalink: /equipment/Alloy Armor/
 excerpt: "Era of Chaos Legierungsrüstung. Legierungsrüstung"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Alloy Armor.md"
 toc: false

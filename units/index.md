@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "index.md"
 toc: false
@@ -55,7 +55,7 @@ classes: wide
   | 33 | ![Grottenteufel](/images/u/ti_diyulingzhu.jpg) | [Grottenteufel](/de/units/Pit Fiend/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Foltermeister  |
   | 34 | ![Grüner Drache](/images/u/ti_lvlong.jpg) | [Grüner Drache](/de/units/Green Dragon/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Goldener Drache  |
   | 35 | ![Hai-Ausbilder](/images/u/ti_xunshashi.jpg) | [Hai-Ausbilder](/de/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Hai-Reiter  |
-  | 36 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpyienhexe  |
+  | 36 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpyienhexe  |
   | 37 | ![Hydra](/images/u/ti_duotoulong.jpg) | [Hydra](/de/units/Hydra/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Chaoshydra  |
   | 38 | ![Höllenhund](/images/u/ti_santouquan.jpg) | [Höllenhund](/de/units/Hell Hound/) | Ansturm | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 39 | ![Imp](/images/u/ti_xiaoemo.jpg) | [Imp](/de/units/Imp/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Intimus  |
@@ -79,7 +79,7 @@ classes: wide
   | 57 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/de/units/Paladin/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Oberster Paladin  |
   | 58 | ![Pegasus](/images/u/ti_feima.jpg) | [Pegasus](/de/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Silberpegasus  |
   | 59 | ![Pikenier](/images/u/ti_jibing.jpg) | [Pikenier](/de/units/Pikeman/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hellebardenträger  |
-  | 60 | ![Pixie](/images/u/ti_mofaxianling.jpg) | [Pixie](/de/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 60 | ![Pixie](/images/u/ti_mofaxianling.jpg) | [Pixie](/de/units/Sprite/) | Ansturm | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Elfenmagierin  |
   | 61 | ![Psy-Elementar](/images/u/ti_jingshenyuansu.jpg) | [Psy-Elementar](/de/units/Psychic Elemental/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Magie-Elementar  |
   | 62 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 63 | ![Regnanpirat](/images/u/ti_haidao.jpg) | [Regnanpirat](/de/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  König der Piraten  |

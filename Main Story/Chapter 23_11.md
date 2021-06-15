@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-11 Der Drachentöter-Pfeil"
 permalink: /Main Story/Chapter 23_11/
 excerpt: "Kapitel 23 - 11. Era of Chaos  Hauptstory - Kapitel 23_11. 23-11 Der Drachentöter-Pfeil"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 23_11.md"
 toc: false

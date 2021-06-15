@@ -2,7 +2,7 @@
 title: "Exklusiv - Gaze (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Gaze. Gaze. Era of Chaos Exklusiv Gaze. Mumie Exklusiv."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Mummy Gaze.md"
 toc: false

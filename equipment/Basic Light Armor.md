@@ -2,7 +2,7 @@
 title: "Einfache leichte Rüstung"
 permalink: /equipment/Basic Light Armor/
 excerpt: "Era of Chaos Einfache leichte Rüstung. Einfache leichte Rüstung"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Basic Light Armor.md"
 toc: false

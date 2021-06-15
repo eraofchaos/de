@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Dungeon -  Units"
 permalink: /units/Faction Dungeon/
 excerpt: "Era of Chaos Faction Dungeon. Faction Dungeon. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Faction Dungeon"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Rang |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpyienhexe  |
+  | 1 | ![Harpyie](/images/u/ti_yingshenren.jpg) | [Harpyie](/de/units/Harpy/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpyienhexe  |
   | 2 | ![Troglodyt](/images/u/ti_dongxueren.jpg) | [Troglodyt](/de/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dunkler Troglodyt  |
   | 3 | ![Betrachter](/images/u/ti_xieyan.jpg) | [Betrachter](/de/units/Beholder/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Böses Auge  |
   | 4 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/de/units/Medusa/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusenkönigin  |

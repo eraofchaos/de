@@ -2,7 +2,7 @@
 title: "Green Artifacts"
 permalink: /artifacts/Green Artifacts/
 excerpt: "Era of Chaos  List of all Green Artifacts . Sammle Artefakte, um die Attribute deiner Helden zu verbessern und mächtige Fähigkeiten freizuschalten."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Green Artifacts.md"
 toc: false

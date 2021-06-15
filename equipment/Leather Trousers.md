@@ -2,7 +2,7 @@
 title: "Lederhose"
 permalink: /equipment/Leather Trousers/
 excerpt: "Era of Chaos Lederhose. Lederhose"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Leather Trousers.md"
 toc: false

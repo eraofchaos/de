@@ -2,7 +2,7 @@
 title: "Kampfformation Schloss"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "Kampfformation Schloss"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "BattleFormationFactionCastle"
 toc: false

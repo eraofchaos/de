@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-8 Auftakt des Kriegs"
 permalink: /Main Story/Chapter 15_8/
 excerpt: "Kapitel 15 - 8. Era of Chaos  Hauptstory - Kapitel 15_8. 15-8 Auftakt des Kriegs"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 15_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Wilder Abstieg. Höchstes Talent - Wilder Abstieg"
 permalink: /PeakTalent/Savage Descent/
 excerpt: "Era of Chaos Höchstes Talent Wilder Abstieg. Höchstes Talent Wilder Abstieg. Wilder Abstieg"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Savage Descent.md"
 toc: false

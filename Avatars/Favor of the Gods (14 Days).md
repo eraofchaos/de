@@ -2,7 +2,7 @@
 title: "Avatar - Gunst der Götter (14 Tage)"
 permalink: /Avatars/Favor of the Gods (14 Days)/
 excerpt: "Era of Chaos  Gunst der Götter (14 Tage)"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Favor of the Gods (14 Days).md"
 toc: false

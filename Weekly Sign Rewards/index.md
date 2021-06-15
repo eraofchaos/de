@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 26  Festungswoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **28 Jun** | **5x [Gnoll](/ItemsDE/unt_253/)**  | Ein Trupp von Gnolls schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **29 Jun** | **5x [Festung-Fraktion-Truhe](/ItemsDE/con_1277/)**  | Eure Festungstruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
+  | **30 Jun** | **100x <i class="fas fa-gem"/>**  | Eure Armee fand im dunklen Sumpf jede Menge Schätze! |
+  | **1 Jul** | **3x [Echsenmensch](/ItemsDE/unt_254/)**  | Ein Trupp von Echsenmenschen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **2 Jul** | **5x [Festung-Kaderrunen](/ItemsDE/con_818/)**  | Eure Infernotruppe überreicht Euch eine Reihe wertvoller Runen! |
+  | **3 Jul** | **3x [Schlangenfliege](/ItemsDE/unt_255/)**  | Ein Trupp von Schlangenfliegen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **4 Jul** | **5x [Korbac](/ItemsDE/her_394/)**  | Ein kühner Bestienmeister hat Euer Gebiet besucht! |
+
 
 #### 2021 Week 25  Infernowoche
 

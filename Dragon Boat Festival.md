@@ -2,7 +2,7 @@
 title: "Drachenboot-Fest"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Drachenboot-Fest - Drachenboot-Quest"
-last_modified_at: 2021-06-10
+last_modified_at: 2021-06-15
 locale: de
 ref: "index.md"
 toc: false

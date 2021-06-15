@@ -4,7 +4,7 @@ permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan ist der älteste Schwiegersohn von König Tralossk und steht in der Thronfolge an zweiter Stelle. Er wartet auf den Tag, an dem er den Thron besteigen kann."
 heroID: 61504
 QR: hero_61504
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Wystan"
 toc: true

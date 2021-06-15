@@ -2,7 +2,7 @@
 title: "Avatar - Gieriges Herz"
 permalink: /Avatars/Greedy Heart/
 excerpt: "Era of Chaos  Gieriges Herz"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Greedy Heart.md"
 toc: false

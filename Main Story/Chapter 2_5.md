@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-5 Das Tor an der Grenze"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "Kapitel 2 - 5. Era of Chaos  Hauptstory - Kapitel 2_5. 2-5 Das Tor an der Grenze"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 2_5.md"
 toc: false

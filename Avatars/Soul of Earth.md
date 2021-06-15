@@ -2,7 +2,7 @@
 title: "Avatar - Erdseele"
 permalink: /Avatars/Soul of Earth/
 excerpt: "Era of Chaos  Erdseele"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Soul of Earth.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-9 Alchemie"
 permalink: /Main Story/Chapter 19_9/
 excerpt: "Kapitel 19 - 9. Era of Chaos  Hauptstory - Kapitel 19_9. 19-9 Alchemie"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Chapter 19_9.md"
 toc: false

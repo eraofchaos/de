@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Unit Member x4"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![Mantikor](/images/u/ti_shixie.jpg) | [Mantikor](/de/units/Manticore/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Skorpikor  |
   | 24 | ![Pegasus](/images/u/ti_feima.jpg) | [Pegasus](/de/units/Pegasus/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Silberpegasus  |
   | 25 | ![Basilisk](/images/u/ti_xiyi.jpg) | [Basilisk](/de/units/Basilisk/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 26 | ![Pixie](/images/u/ti_mofaxianling.jpg) | [Pixie](/de/units/Sprite/) | Ansturm | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![Pixie](/images/u/ti_mofaxianling.jpg) | [Pixie](/de/units/Sprite/) | Ansturm | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Elfenmagierin  |
   | 27 | ![Regnanpirat](/images/u/ti_haidao.jpg) | [Regnanpirat](/de/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  König der Piraten  |
   | 28 | ![Dendroidenwache](/images/u/ti_shuyao.jpg) | [Dendroidenwache](/de/units/Dendroid Guard/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Dendroidensoldat  |
   | 29 | ![Sturmelementar](/images/u/ti_leiyuansu2.jpg) | [Sturmelementar](/de/units/Storm Elemental/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Blitzgewitter  |

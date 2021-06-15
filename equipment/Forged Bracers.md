@@ -2,7 +2,7 @@
 title: "Geschmiedeter Armschutz"
 permalink: /equipment/Forged Bracers/
 excerpt: "Era of Chaos Geschmiedeter Armschutz. Geschmiedeter Armschutz"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Forged Bracers.md"
 toc: false
