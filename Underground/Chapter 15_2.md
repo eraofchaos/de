@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 15 - 15-2 Untergrundlava"
 permalink: /Underground/Chapter 15_2/
 excerpt: "Kapitel 15 - 2. Era of Chaos  Untergrund - Kapitel 15_2. 15-2 Untergrundlava"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 15_2.md"
 toc: false

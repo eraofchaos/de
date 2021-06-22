@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-14 Drachen-Bedeutung"
 permalink: /Main Story/Chapter 25_14/
 excerpt: "Kapitel 25 - 14. Era of Chaos  Hauptstory - Kapitel 25_14. 25-14 Drachen-Bedeutung"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 25_14.md"
 toc: false

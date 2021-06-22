@@ -1,9 +1,9 @@
 ---
 title: "Regnanschlange"
 permalink: /units/Regnan Serpent/
-excerpt: "Era of Chaos Regnanschlange. Regnanschlange Einheiten. . Era of Chaos Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
+excerpt: "Era of Chaos Regnanschlange. Regnanschlange Einheiten. Seelenstein des Gezeitenwächters. Era of Chaos Der loyalste Diener des Meeresthrons. Nutzt seine Macht der Druckwelle, um die Würde des Königs der Meere zu verteidigen."
 unitID: 9904
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Regnanschlange"
 toc: true
@@ -192,43 +192,43 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_yurenyongshi.jpg)
+  ![Seelenstein des Gezeitenwächters](/images/u/tia_yurenyongshi.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Seelenstein des Gezeitenwächters
 
- **Awaking Beschreibung:** 
+ **Awaking Beschreibung:** Die tosenden Wellen der regnerischen Nächte vertreiben auch das letzte Fischerboot, aber für die Regnanschlangen ist dieses Naturschauspiel eine große Gelegenheit. Scharenweise lassen sie sich an die Oberfläche treiben, spielen freudig in den Wellen und spüren die Macht der Natur, die sich in Regen und Wellen widerspiegelt. Für sie ist es ein liebgewonnenes Ritual – hier erwachen die Regnanschlangen zum Leben.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Setze eine Regnanschlange und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Bucht-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia einmal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> Ausrüstungsteile im Gildenabenteuer.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Gezeitenwächter-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Setze eine Regnanschlange ein, um </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Meisterduell-Kampf zu gewinnen.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Beschreibung:** 
+### 1st Skill (or 2nd): Tiefseebeben
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tiefseestampfer&gt;</span><span style="color: #645252;font-size:18px"> Der Schaden wird verdoppelt und der SCHD (Einheit) der gegnerischen Einheiten wird 5 Sek. lang um 20 % reduziert.</span>
 
-### 2nd Skill (or 1st): 
- **Beschreibung:** 
+### 2nd Skill (or 1st): Beben des fernen Meers
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tiefseestampfer&gt;</span><span style="color: #645252;font-size:18px"> Der Schaden wird verdoppelt und die SCHD-Reduzierung (Einheit) der gegnerischen Einheiten wird 5 Sek. lang um 20 % reduziert.</span>
 
-### 3rd Skill (or 4th): 
- **Beschreibung:** 
+### 3rd Skill (or 4th): Gezeitenschutz
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Gezeitenkunde&gt;</span><span style="color: #645252;font-size:18px"> Der Buff dieser Fähigkeit kann 2 weitere Male gestapelt werden.</span>
 
-### 4th Skill (or 3rd): 
- **Beschreibung:** 
+### 4th Skill (or 3rd): Unterströmungskunde
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Gezeitenkunde&gt;</span><span style="color: #645252;font-size:18px"> Der Buff-Effekt durch jeden Stapel dieser Fähigkeit wird um 50 % erhöht.</span>
 
-### 5th Skill (or 6th): 
- **Beschreibung:** 
+### 5th Skill (or 6th): Horn des Haiwächters
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kriegshorn&gt;</span><span style="color: #645252;font-size:18px"> Verringert ABW und Zähigkeit gegnerischer Einheiten in der Umgebung in einem großen Bereich 7 Sek. lang um 20 % bzw. um 100. Dieser Effekt wird um 50 % erhöht, wenn gegnerische Einheiten von „Verlangsamung“ betroffen sind.</span>
 
-### 6th Skill (or 5th): 
- **Beschreibung:** 
+### 6th Skill (or 5th): Horn der Meerjungfrau
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kriegshorn&gt;</span><span style="color: #645252;font-size:18px"> Verringert Angriffstempo und Krit. Treffer gegnerischer Einheiten in der Umgebung in einem großen Bereich 7 Sek. lang um 20 % bzw. um 100. Dieser Effekt wird um 50 % erhöht, wenn gegnerische Einheiten von „Verlangsamung“ betroffen sind.</span>
 
 ## Technical info
  **runart:** 1

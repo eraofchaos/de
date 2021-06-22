@@ -2,7 +2,7 @@
 title: "Artefakt - Elixier des Lebens"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Era of Chaos  Elixier des Lebens. Elixier des Lebens Eine heilige Reliquie mit immenser Gesundheit. Kann die LP einer Armee erhöhen."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Elixir of Life.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-2 Angeworbene Kampfkraft"
 permalink: /Main Story/Chapter 9_2/
 excerpt: "Kapitel 9 - 2. Era of Chaos  Hauptstory - Kapitel 9_2. 9-2 Angeworbene Kampfkraft"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 9_2.md"
 toc: false

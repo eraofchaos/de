@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-13 Leidenschaftliche Rache"
 permalink: /Main Story/Chapter 5_13/
 excerpt: "Kapitel 5 - 13. Era of Chaos  Hauptstory - Kapitel 5_13. 5-13 Leidenschaftliche Rache"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 5_13.md"
 toc: false

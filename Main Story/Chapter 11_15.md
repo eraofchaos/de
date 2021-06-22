@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-15 Fisch in unruhigen Gewässern"
 permalink: /Main Story/Chapter 11_15/
 excerpt: "Kapitel 11 - 15. Era of Chaos  Hauptstory - Kapitel 11_15. 11-15 Fisch in unruhigen Gewässern"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 11_15.md"
 toc: false

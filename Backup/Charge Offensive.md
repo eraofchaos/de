@@ -2,7 +2,7 @@
 title: "Backup - Ansturmoffensive"
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Ansturmoffensive"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Charge Offensive.md"
 toc: false

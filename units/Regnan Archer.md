@@ -1,9 +1,9 @@
 ---
 title: "Regnanbogensch."
 permalink: /units/Regnan Archer/
-excerpt: "Era of Chaos Regnanbogensch.. Regnanbogensch. Einheiten. null. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
+excerpt: "Era of Chaos Regnanbogensch.. Regnanbogensch. Einheiten. Regnanpräzisionsschützin. Era of Chaos Sie kämpft für Reichtum. Wohin ihr Pfeil auch zeigen mag, wartet ein Ziel."
 unitID: 9902
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Regnanbogensch."
 toc: true
@@ -184,12 +184,12 @@ toc: true
 
 ## Awaking
 
-  ![null](/images/u/tia_baozang.jpg)
+  ![Regnanpräzisionsschützin](/images/u/tia_baozang.jpg)
 
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** null
+ **Awaking Name:** Regnanpräzisionsschützin
 
  **Awaking Beschreibung:** Die Piratinnen mit ihren glutroten Augen erfüllen die Männer mit Angst und Schrecken. Narren und Ignoranten verfallen ihrem Charme, während all jene, die mit wahrer Intelligenz gesegnet sind, niemals ihre Blicke kreuzen.
 
@@ -204,23 +204,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Beschreibung:** 
+### 1st Skill (or 2nd): Seelenentzugsprojektil
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tödlicher Pfeil&gt;</span><span style="color: #645252;font-size:18px"> Fügt der Zieleinheit 8 Sek. nach Kampfbeginn Schaden in Höhe von 500 % des eigenen ANG zu und löst „Blutung“ aus, was jede Sekunde Schaden in Höhe von 1 % der max. LP zufügt. Hält 10 Sek. an. Kann Zielen, die gegen „Blutung“ immun sind, Schaden zufügen. Die AKZ beträgt 20 Sek.</span>
 
-### 2nd Skill (or 1st): null
- **Beschreibung:** 
+### 2nd Skill (or 1st): Lebensentzugsprojektil
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Tödlicher Pfeil&gt;</span><span style="color: #645252;font-size:18px"> Fügt der Zieleinheit 8 Sek. nach Kampfbeginn Schaden in Höhe von 500 % des eigenen ANG zu und löst „Verlangsamung“ aus, was jede Sekunde Schaden in Höhe von 1 % der max. LP zufügt. Hält 10 Sek. an. Kann Zielen, die gegen „Verlangsamung“ immun sind, Schaden zufügen. Die AKZ beträgt 20 Sek.</span>
 
-### 3rd Skill (or 4th): null
- **Beschreibung:** 
+### 3rd Skill (or 4th): Taktisches Ausweichen
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Taktiktraining&gt;</span><span style="color: #645252;font-size:18px"> Erzeugt unter dem Einfluss von „Betäuben“, „Versteinerung“, „Kristallisation“, „Erstarren“ oder „Zeitstopp“ eine Blase, die 30 % der max. LP entspricht und die ABW um 15 % erhöht. Hält 6 Sek. an. Die AKZ beträgt 12 Sek. (Strahlkraft muss ausgerüstet sein, sonst ist diese Fähigkeit wirkungslos.)</span>
 
-### 4th Skill (or 3rd): null
- **Beschreibung:** 
+### 4th Skill (or 3rd): Taktische Ausrüstung
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Taktiktraining&gt;</span><span style="color: #645252;font-size:18px"> Unter dem Einfluss von „Stille“, „Niedrige Moral“, „Lähmung“, „Abschreckung“ oder „Blindheit“ wird das eigene Angriffstempo um 30 % und der Krit. Gesamt-SCHD um 15 % erhöht. Hält 6 Sek. an. Die AKZ beträgt 12 Sek. (Strahlkraft muss ausgerüstet sein, sonst ist diese Fähigkeit wirkungslos.)</span>
 
-### 5th Skill (or 6th): null
- **Beschreibung:** 
+### 5th Skill (or 6th): Feuer aus nächster Nähe
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schussunterstützung&gt;</span><span style="color: #645252;font-size:18px"> Wirkt einmal alle 13 Sek. &lt;Feuer aus nächster Nähe&gt; gegen die am nächsten befindliche, gegnerische Einheit und fügt Schaden in Höhe von 230 % des eigenen ANG zu. Gegen Einheiten, die unter „Auszehrung“ leiden, wird der Schaden verdoppelt.</span>
 
-### 6th Skill (or 5th): null
- **Beschreibung:** 
+### 6th Skill (or 5th): Unterstützende Feuerkraft
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schussunterstützung&gt;</span><span style="color: #645252;font-size:18px"> Wenn eine verbündete Einheit Schaden erleidet, der 20 % ihrer max. LP übersteigt, wirkt die Regnanbogenschützin &lt;Unterstützende Feuerkraft&gt;, was den eigenen Krit. Treffer um 200 und den ANG um 40 % erhöht. Hält 5 Sek. an. Bis zu 2 Mal stapelbar.</span>
 
 ## Technical info
  **runart:** 0

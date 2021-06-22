@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 17 - 17-4 Die Wunderlampe"
 permalink: /Underground/Chapter 17_4/
 excerpt: "Kapitel 17 - 4. Era of Chaos  Untergrund - Kapitel 17_4. 17-4 Die Wunderlampe"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 17_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-11 Der Höhlenpalast"
 permalink: /Main Story/Chapter 18_11/
 excerpt: "Kapitel 18 - 11. Era of Chaos  Hauptstory - Kapitel 18_11. 18-11 Der Höhlenpalast"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 18_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-1 Land der Untoten"
 permalink: /Main Story/Chapter 6_1/
 excerpt: "Kapitel 6 - 1. Era of Chaos  Hauptstory - Kapitel 6_1. 6-1 Land der Untoten"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 6_1.md"
 toc: false

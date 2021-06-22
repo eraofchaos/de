@@ -2,7 +2,7 @@
 title: "Steuersystem"
 permalink: /equipment/Control System/
 excerpt: "Era of Chaos Steuersystem. Steuersystem"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Control System.md"
 toc: false

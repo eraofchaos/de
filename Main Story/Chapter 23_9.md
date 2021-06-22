@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-9 Rostkrankheit"
 permalink: /Main Story/Chapter 23_9/
 excerpt: "Kapitel 23 - 9. Era of Chaos  Hauptstory - Kapitel 23_9. 23-9 Rostkrankheit"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 23_9.md"
 toc: false

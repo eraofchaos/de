@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Schild"
 permalink: /combination/Shield/
 excerpt: "Kombinationsinfo - Schild. Units and Heroes Formation."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Schild.md"
 toc: false

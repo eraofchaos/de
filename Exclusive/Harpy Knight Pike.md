@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Harpyie Exklusiv."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Harpy Ritterpike.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-5 Düsteres Labyrinth"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Kapitel 26 - 5. Era of Chaos  Hauptstory - Kapitel 26_5. 26-5 Düsteres Labyrinth"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 26_5.md"
 toc: false

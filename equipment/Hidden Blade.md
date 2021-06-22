@@ -2,7 +2,7 @@
 title: "Versteckte Klinge"
 permalink: /equipment/Hidden Blade/
 excerpt: "Era of Chaos Versteckte Klinge. Versteckte Klinge"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Hidden Blade.md"
 toc: false

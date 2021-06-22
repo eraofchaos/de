@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-9 Elfenbehausungen"
 permalink: /Main Story/Chapter 8_9/
 excerpt: "Kapitel 8 - 9. Era of Chaos  Hauptstory - Kapitel 8_9. 8-9 Elfenbehausungen"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 8_9.md"
 toc: false

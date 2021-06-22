@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 21 - 21-5 Das Schicksal der Vernichtung"
 permalink: /Underground/Chapter 21_5/
 excerpt: "Kapitel 21 - 5. Era of Chaos  Untergrund - Kapitel 21_5. 21-5 Das Schicksal der Vernichtung"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 21_5.md"
 toc: false

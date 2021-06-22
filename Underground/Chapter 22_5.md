@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 22 - 22-5 Essenz des Lebens"
 permalink: /Underground/Chapter 22_5/
 excerpt: "Kapitel 22 - 5. Era of Chaos  Untergrund - Kapitel 22_5. 22-5 Essenz des Lebens"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 22_5.md"
 toc: false

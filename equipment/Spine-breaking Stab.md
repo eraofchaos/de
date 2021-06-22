@@ -2,7 +2,7 @@
 title: "Rückenbrecherstich"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "Era of Chaos Rückenbrecherstich. Rückenbrecherstich"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Spine-breaking Stab.md"
 toc: false

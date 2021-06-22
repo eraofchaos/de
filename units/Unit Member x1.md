@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Unit Member x1"
 toc: false
@@ -22,9 +22,9 @@ classes: wide
   | 8 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Todesheuler  |
   | 9 | ![Leprechaun](/images/u/ti_conglinyaojing.jpg) | [Leprechaun](/de/units/Leprechaun/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Meister-Leprechaun  |
   | 10 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/de/units/Troll/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 11 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 11 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Regnanpräzisionsschützin  |
   | 12 | ![Teufel](/images/u/ti_daemo.jpg) | [Teufel](/de/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzteufel  |
-  | 13 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 13 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 14 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/de/units/Naga/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Nagakönigin  |
   | 15 | ![Drachenschildkröte](/images/u/ti_longgui.jpg) | [Drachenschildkröte](/de/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Urzeit-Drachenschildkröte  |
   | 16 | ![Gigant](/images/u/ti_taitan.jpg) | [Gigant](/de/units/Giant/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |

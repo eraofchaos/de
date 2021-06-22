@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-12 Versteck der Todesfee"
 permalink: /Main Story/Chapter 26_12/
 excerpt: "Kapitel 26 - 12. Era of Chaos  Hauptstory - Kapitel 26_12. 26-12 Versteck der Todesfee"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 26_12.md"
 toc: false

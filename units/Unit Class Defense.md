@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Unit Class Defense"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
   | 5 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/de/units/Behemoth/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ur-Behemoth  |
   | 6 | ![Leprechaun](/images/u/ti_conglinyaojing.jpg) | [Leprechaun](/de/units/Leprechaun/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Meister-Leprechaun  |
   | 7 | ![Eisengolem](/images/u/ti_tieren.jpg) | [Eisengolem](/de/units/Iron Golem/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Goldgolem  |
-  | 8 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 8 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Seelenstein des Gezeitenwächters  |
   | 9 | ![Nachtmahr](/images/u/ti_mengyanshou.jpg) | [Nachtmahr](/de/units/Nightmare/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nachtmahr-König  |
-  | 10 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 10 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 11 | ![Schwertkämpfer](/images/u/ti_shizijun.jpg) | [Schwertkämpfer](/de/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kreuzritter  |
   | 12 | ![Drachenschildkröte](/images/u/ti_longgui.jpg) | [Drachenschildkröte](/de/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Urzeit-Drachenschildkröte  |
   | 13 | ![Zentaur](/images/u/ti_banrenma.jpg) | [Zentaur](/de/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Zentaurenführer  |

@@ -2,7 +2,7 @@
 title: "Artefakt - Glückshufeisen - Karten der Prophezeiung"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Era of Chaos  Glückshufeisen - Karten der Prophezeiung. Wahrsagerei-Karten mit starker Magie. Eine der Komponenten für das Glückshufeisen."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Cards of Prophecy.md"
 toc: false

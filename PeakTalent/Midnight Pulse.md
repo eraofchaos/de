@@ -2,7 +2,7 @@
 title: "Mitternachtspuls. Höchstes Talent - Mitternachtspuls"
 permalink: /PeakTalent/Midnight Pulse/
 excerpt: "Era of Chaos Höchstes Talent Mitternachtspuls. Höchstes Talent Mitternachtspuls. Mitternachtspuls"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Midnight Pulse.md"
 toc: false

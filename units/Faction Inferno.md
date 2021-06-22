@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Units"
 permalink: /units/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Faction Inferno"
 toc: false
@@ -22,4 +22,4 @@ classes: wide
   | 6 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/de/units/Efreeti/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreetsultan  |
   | 7 | ![Teufel](/images/u/ti_daemo.jpg) | [Teufel](/de/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzteufel  |
   | 8 | ![Nachtmahr](/images/u/ti_mengyanshou.jpg) | [Nachtmahr](/de/units/Nightmare/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nachtmahr-König  |
-  | 9 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 9 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |

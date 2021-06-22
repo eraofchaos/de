@@ -2,7 +2,7 @@
 title: "Unsterbliche Berührung"
 permalink: /equipment/Immortal Touch/
 excerpt: "Era of Chaos Unsterbliche Berührung. Unsterbliche Berührung"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Immortal Touch.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Kristallhufe"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Era of Chaos Kristallhufe. Kristallhufe"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Crystal Hooves.md"
 toc: false

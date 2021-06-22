@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 13 - 13-13 Die Jagd"
 permalink: /Main Story/Chapter 13_13/
 excerpt: "Kapitel 13 - 13. Era of Chaos  Hauptstory - Kapitel 13_13. 13-13 Die Jagd"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 13_13.md"
 toc: false

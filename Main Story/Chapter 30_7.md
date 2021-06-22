@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-7 Schwefelminen"
 permalink: /Main Story/Chapter 30_7/
 excerpt: "Kapitel 30 - 7. Era of Chaos  Hauptstory - Kapitel 30_7. 30-7 Schwefelminen"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 30_7.md"
 toc: false

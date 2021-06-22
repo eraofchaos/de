@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-13 Magierführung"
 permalink: /Main Story/Chapter 22_13/
 excerpt: "Kapitel 22 - 13. Era of Chaos  Hauptstory - Kapitel 22_13. 22-13 Magierführung"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 22_13.md"
 toc: false

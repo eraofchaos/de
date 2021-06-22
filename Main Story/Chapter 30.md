@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 Die Rettung des Königs"
 permalink: /Main Story/Chapter 30/
 excerpt: "Kapitel 30. Era of Chaos  Hauptstory - Kapitel 30. Die Rettung des Königs"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 30.md"
 toc: false

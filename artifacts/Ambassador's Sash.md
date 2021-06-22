@@ -2,7 +2,7 @@
 title: "Artefakt - Gesandten-Füllhalter - Botschafterschärpe"
 permalink: /artifacts/Ambassador's Sash/
 excerpt: "Era of Chaos  Gesandten-Füllhalter - Botschafterschärpe. Ihr habt dem Botschafter geholfen, seine Achse zu reparieren. Als Dank gibt er Euch einen Orden mit den Worten: „Dies kann Euch dabei helfen, andere zu überzeugen.“ Er ist eine der Komponenten des Gesandten-Füllhalters."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Ambassador's Sash.md"
 toc: false

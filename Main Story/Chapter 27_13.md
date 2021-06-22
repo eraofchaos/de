@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-13 Zweck des Drachenbluts"
 permalink: /Main Story/Chapter 27_13/
 excerpt: "Kapitel 27 - 13. Era of Chaos  Hauptstory - Kapitel 27_13. 27-13 Zweck des Drachenbluts"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 27_13.md"
 toc: false

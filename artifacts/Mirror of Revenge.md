@@ -2,7 +2,7 @@
 title: "Artefakt - Spiegel der Rache"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Spiegel der Rache. Spiegel der Rache Ein schwacher Magier hat dieses böse Artefakt mit verbotenen Zaubern erschaffen, um seinen Rachedurst zu stillen. Dieses Artefakt kann die Kampfkraft deiner Truppen stärken."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Mirror of Revenge.md"
 toc: false

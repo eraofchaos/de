@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-5 Drachenodem"
 permalink: /Main Story/Chapter 23_5/
 excerpt: "Kapitel 23 - 5. Era of Chaos  Hauptstory - Kapitel 23_5. 23-5 Drachenodem"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 23_5.md"
 toc: false

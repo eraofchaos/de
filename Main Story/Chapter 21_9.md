@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-9 Ursprung der Orks"
 permalink: /Main Story/Chapter 21_9/
 excerpt: "Kapitel 21 - 9. Era of Chaos  Hauptstory - Kapitel 21_9. 21-9 Ursprung der Orks"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 21_9.md"
 toc: false

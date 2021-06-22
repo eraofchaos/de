@@ -2,7 +2,7 @@
 title: "Versteinernder Zahn"
 permalink: /equipment/Petrification Fang/
 excerpt: "Era of Chaos Versteinernder Zahn. Versteinernder Zahn"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Petrification Fang.md"
 toc: false

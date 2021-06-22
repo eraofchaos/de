@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "index.md"
 toc: false
@@ -44,7 +44,7 @@ classes: wide
   | 22 | ![Feuerelementar](/images/u/ti_liehuoyuansu.jpg) | [Feuerelementar](/de/units/Fire Elemental/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Energieelementar  |
   | 23 | ![Feuervogel](/images/u/ti_fenghuang.jpg) | [Feuervogel](/de/units/Firebird/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phönix  |
   | 24 | ![Geist](/images/u/ti_youling.jpg) | [Geist](/de/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Gespenst  |
-  | 25 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 25 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 26 | ![Gigant](/images/u/ti_taitan.jpg) | [Gigant](/de/units/Giant/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |
   | 27 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnollkrieger  |
   | 28 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/de/units/Goblin/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
@@ -81,9 +81,9 @@ classes: wide
   | 59 | ![Pikenier](/images/u/ti_jibing.jpg) | [Pikenier](/de/units/Pikeman/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hellebardenträger  |
   | 60 | ![Pixie](/images/u/ti_mofaxianling.jpg) | [Pixie](/de/units/Sprite/) | Ansturm | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Elfenmagierin  |
   | 61 | ![Psy-Elementar](/images/u/ti_jingshenyuansu.jpg) | [Psy-Elementar](/de/units/Psychic Elemental/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Magie-Elementar  |
-  | 62 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 62 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Regnanpräzisionsschützin  |
   | 63 | ![Regnanpirat](/images/u/ti_haidao.jpg) | [Regnanpirat](/de/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  König der Piraten  |
-  | 64 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 64 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Seelenstein des Gezeitenwächters  |
   | 65 | ![Regnanseherin](/images/u/ti_haihou.jpg) | [Regnanseherin](/de/units/Regnan Seer/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Gezeitenelementar  |
   | 66 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
   | 67 | ![Richterin](/images/u/ti_shenpanguan.jpg) | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |

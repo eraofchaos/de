@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-1 Das blaue Zelt"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "Kapitel 4 - 1. Era of Chaos  Hauptstory - Kapitel 4_1. 4-1 Das blaue Zelt"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 4_1.md"
 toc: false

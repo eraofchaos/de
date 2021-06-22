@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Efreeti)"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Efreet Exklusiv."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Efreeti Arkangesang.md"
 toc: false

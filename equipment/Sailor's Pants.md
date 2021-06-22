@@ -2,7 +2,7 @@
 title: "Seemannshose"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Era of Chaos Seemannshose. Seemannshose"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Sailor's Pants.md"
 toc: false

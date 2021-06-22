@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-1 Geistervilla"
 permalink: /Main Story/Chapter 29_1/
 excerpt: "Kapitel 29 - 1. Era of Chaos  Hauptstory - Kapitel 29_1. 29-1 Geistervilla"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 29_1.md"
 toc: false

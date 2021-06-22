@@ -2,7 +2,7 @@
 title: "Kopfschutz der Schnelligkeit"
 permalink: /equipment/Headplate of Speed/
 excerpt: "Era of Chaos Kopfschutz der Schnelligkeit. Kopfschutz der Schnelligkeit"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Headplate of Speed.md"
 toc: false

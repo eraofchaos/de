@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-15 Jede Minute zählt"
 permalink: /Main Story/Chapter 12_15/
 excerpt: "Kapitel 12 - 15. Era of Chaos  Hauptstory - Kapitel 12_15. 12-15 Jede Minute zählt"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 12_15.md"
 toc: false

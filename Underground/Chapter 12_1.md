@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 12 - 12-1 Truppenbewegungen"
 permalink: /Underground/Chapter 12_1/
 excerpt: "Kapitel 12 - 1. Era of Chaos  Untergrund - Kapitel 12_1. 12-1 Truppenbewegungen"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 12_1.md"
 toc: false

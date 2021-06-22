@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Era of Chaos Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Unit Class Ranged"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Eisdämon](/images/u/ti_bingmo.jpg) | [Eisdämon](/de/units/Ice Demon/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 3 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/de/units/Gremlin/) | Fernkampf | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 4 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/de/units/Troll/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 5 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 5 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Regnanpräzisionsschützin  |
   | 6 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Meisterbogenschütze  |
   | 7 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/de/units/Medusa/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusenkönigin  |
   | 8 | ![Echsenmensch](/images/u/ti_xiyiren.jpg) | [Echsenmensch](/de/units/Lizardman/) | Fernkampf | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

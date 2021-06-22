@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-4 Ein Lied singen"
 permalink: /Main Story/Chapter 19_4/
 excerpt: "Kapitel 19 - 4. Era of Chaos  Hauptstory - Kapitel 19_4. 19-4 Ein Lied singen"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Chapter 19_4.md"
 toc: false

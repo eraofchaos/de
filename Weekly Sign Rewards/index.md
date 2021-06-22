@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 27  Buchtwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Jul** | **3x [Meerelementar](/ItemsDE/unt_275/)**  | Ein Trupp von Meerelementaren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **6 Jul** | **3x [Regnanpirat](/ItemsDE/unt_273/)**  | Ein Trupp von Regnanpiraten schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **7 Jul** | **100x <i class="fas fa-gem"/>**  | Die Kreaturen des Piratenhafens überreichen Euch einen kleinen Haufen Diamanten! |
+  | **8 Jul** | **3x [Bucht-Fraktion-Truhe](/ItemsDE/con_1278/)**  | Eure Hafentruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
+  | **9 Jul** | **3x [Bucht-Kaderrunen](/ItemsDE/con_868/)**  | Eure Hafentruppe überreicht Euch eine Reihe wertvoller Schatzrunen! |
+  | **10 Jul** | **1x [Drachenschildkröte](/ItemsDE/unt_278/)**  | Ein Trupp von Drachenschildkröten schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **11 Jul** | **1x [Universal-Helden-Tokens](/ItemsDE/her_358/)**  | Die Kreaturen der Piratenbucht überreichen dir ein Universal-(Helden-)Token! |
+
 
 #### 2021 Week 26  Festungswoche
 
