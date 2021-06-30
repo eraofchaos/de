@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 18 - 18-2 Infernoflamme"
 permalink: /Underground/Chapter 18_2/
 excerpt: "Kapitel 18 - 2. Era of Chaos  Untergrund - Kapitel 18_2. 18-2 Infernoflamme"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 18_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Exklusiv Castle. Exklusiv Castle. List of Exklusiv Castle in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Exclusive Castle"
 toc: false

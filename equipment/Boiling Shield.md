@@ -2,7 +2,7 @@
 title: "Kochender Schild"
 permalink: /equipment/Boiling Shield/
 excerpt: "Era of Chaos Kochender Schild. Kochender Schild"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Boiling Shield.md"
 toc: false

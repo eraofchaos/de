@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-15 Der mutige Vorstoß"
 permalink: /Main Story/Chapter 8_15/
 excerpt: "Kapitel 8 - 15. Era of Chaos  Hauptstory - Kapitel 8_15. 8-15 Der mutige Vorstoß"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 8_15.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 28  Schutzwallwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Jul** | **5x [Zentaur](/ItemsDE/unt_199/)**  | Ein Trupp Zentauren schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **13 Jul** | **3x [Waldelfe](/ItemsDE/unt_201/)**  | Ein Trupp Waldelfen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **14 Jul** | **3x [Pegasus](/ItemsDE/unt_202/)**  | Ein Trupp Pegasi schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **15 Jul** | **3x [Einhorn](/ItemsDE/unt_204/)**  | Ein Trupp Einhörner schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **16 Jul** | **3x [Zwerg](/ItemsDE/unt_200/)**  | Ein Trupp Zwerge schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **17 Jul** | **3x [Dendroidenwache](/ItemsDE/unt_203/)**  | Ein Trupp Dendroidenwachen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **18 Jul** | **5x [Ryland](/ItemsDE/her_368/)**  | Held Ryland schätzt Eure Taten zum Schutz der Natur, er möchte Euch dienen! |
+
 
 #### 2021 Week 27  Buchtwoche
 

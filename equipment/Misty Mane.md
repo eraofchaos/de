@@ -2,7 +2,7 @@
 title: "Nebelmähne"
 permalink: /equipment/Misty Mane/
 excerpt: "Era of Chaos Nebelmähne. Nebelmähne"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Misty Mane.md"
 toc: false

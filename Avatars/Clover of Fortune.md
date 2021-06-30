@@ -2,7 +2,7 @@
 title: "Avatar - Kleeblatt des Glücks"
 permalink: /Avatars/Clover of Fortune/
 excerpt: "Era of Chaos  Kleeblatt des Glücks"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Clover of Fortune.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Schwurhelm"
 permalink: /equipment/Vow Helmet/
 excerpt: "Era of Chaos Schwurhelm. Schwurhelm"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Vow Helmet.md"
 toc: false

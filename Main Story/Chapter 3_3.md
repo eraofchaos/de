@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-3 Massengräber"
 permalink: /Main Story/Chapter 3_3/
 excerpt: "Kapitel 3 - 3. Era of Chaos  Hauptstory - Kapitel 3_3. 3-3 Massengräber"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 3_3.md"
 toc: false

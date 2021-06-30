@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 Sicherer Weg"
 permalink: /Main Story/Chapter 14/
 excerpt: "Kapitel 14. Era of Chaos  Hauptstory - Kapitel 14. Sicherer Weg"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 14.md"
 toc: false

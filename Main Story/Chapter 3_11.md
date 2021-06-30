@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-11 Stein des Lernens"
 permalink: /Main Story/Chapter 3_11/
 excerpt: "Kapitel 3 - 11. Era of Chaos  Hauptstory - Kapitel 3_11. 3-11 Stein des Lernens"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 3_11.md"
 toc: false

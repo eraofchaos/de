@@ -3,7 +3,7 @@ title: "Schwertkämpfer"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Schwertkämpfer. Schwertkämpfer Einheiten. Kreuzritter. Era of Chaos Nur die tapfersten, heldenhaftesten und erfahrensten Soldaten werden in die Reihen der Kreuzritter aufgenommen, deren Kampftechniken im ganzen Land berühmt sind."
 unitID: 104
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Schwertkämpfer"
 toc: true

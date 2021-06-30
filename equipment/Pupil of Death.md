@@ -2,7 +2,7 @@
 title: "Pupille des Todes"
 permalink: /equipment/Pupil of Death/
 excerpt: "Era of Chaos Pupille des Todes. Pupille des Todes"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Pupil of Death.md"
 toc: false

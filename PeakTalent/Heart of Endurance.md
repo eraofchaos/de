@@ -2,7 +2,7 @@
 title: "Ausdauerndes Herz. Höchstes Talent - Ausdauerndes Herz"
 permalink: /PeakTalent/Heart of Endurance/
 excerpt: "Era of Chaos Höchstes Talent Ausdauerndes Herz. Höchstes Talent Ausdauerndes Herz. Ausdauerndes Herz"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Heart of Endurance.md"
 toc: false

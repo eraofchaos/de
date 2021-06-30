@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Gnoll Exklusiv."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Gnoll Schwert.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Aufladung
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 

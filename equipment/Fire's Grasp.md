@@ -2,7 +2,7 @@
 title: "Griff des Feuers"
 permalink: /equipment/Fire's Grasp/
 excerpt: "Era of Chaos Griff des Feuers. Griff des Feuers"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Fire's Grasp.md"
 toc: false

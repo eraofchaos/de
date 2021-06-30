@@ -2,7 +2,7 @@
 title: "Todesschluck"
 permalink: /equipment/Swallow of Death/
 excerpt: "Era of Chaos Todesschluck. Todesschluck"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Swallow of Death.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Düstere leichte Rüstung"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "Era of Chaos Düstere leichte Rüstung. Düstere leichte Rüstung"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Sinister Light Armor.md"
 toc: false

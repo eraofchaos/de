@@ -2,7 +2,7 @@
 title: "Fels"
 permalink: /equipment/Boulder/
 excerpt: "Era of Chaos Fels. Fels"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Boulder.md"
 toc: false

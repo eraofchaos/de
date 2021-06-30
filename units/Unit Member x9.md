@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Unit Member x9"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
   | 12 | ![Greif](/images/u/ti_shijiu.jpg) | [Greif](/de/units/Griffin/) | Ansturm | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Königlicher Greif  |
   | 13 | ![Betrachter](/images/u/ti_xieyan.jpg) | [Betrachter](/de/units/Beholder/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Böses Auge  |
   | 14 | ![Zentaur](/images/u/ti_banrenma.jpg) | [Zentaur](/de/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Zentaurenführer  |
-  | 15 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnollkrieger  |
+  | 15 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Gnollkrieger  |
   | 16 | ![Zwerg](/images/u/ti_airen.jpg) | [Zwerg](/de/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 17 | ![Waldelfe](/images/u/ti_mujingling.jpg) | [Waldelfe](/de/units/Wood Elf/) | Fernkampf | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Großelf  |
   | 18 | ![Skelett](/images/u/ti_kulouzhanshi.jpg) | [Skelett](/de/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skelettkrieger  |

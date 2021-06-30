@@ -2,7 +2,7 @@
 title: "Wilde Reißzähne"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Era of Chaos Wilde Reißzähne. Wilde Reißzähne"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Ferocious Fangs.md"
 toc: false

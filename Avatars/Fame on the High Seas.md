@@ -2,7 +2,7 @@
 title: "Avatar - Ruhm zu hoher See"
 permalink: /Avatars/Fame on the High Seas/
 excerpt: "Era of Chaos  Ruhm zu hoher See"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Fame on the High Seas.md"
 toc: false

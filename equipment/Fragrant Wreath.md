@@ -2,7 +2,7 @@
 title: "Duftender Kranz"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "Era of Chaos Duftender Kranz. Duftender Kranz"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Fragrant Wreath.md"
 toc: false

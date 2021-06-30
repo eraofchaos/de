@@ -2,7 +2,7 @@
 title: "Rittertum. Höchstes Talent - Rittertum"
 permalink: /PeakTalent/Chivalry/
 excerpt: "Era of Chaos Höchstes Talent Rittertum. Höchstes Talent Rittertum. Rittertum"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chivalry.md"
 toc: false

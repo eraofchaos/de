@@ -2,7 +2,7 @@
 title: "Avatar - Geheimnisse der Sphinx"
 permalink: /Avatars/Sphinx's Secrets/
 excerpt: "Era of Chaos  Geheimnisse der Sphinx"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Sphinx's Secrets.md"
 toc: false

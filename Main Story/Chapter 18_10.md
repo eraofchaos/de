@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-10 Die Vergangenheit"
 permalink: /Main Story/Chapter 18_10/
 excerpt: "Kapitel 18 - 10. Era of Chaos  Hauptstory - Kapitel 18_10. 18-10 Die Vergangenheit"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 18_10.md"
 toc: false

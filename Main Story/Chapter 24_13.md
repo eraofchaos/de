@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-13 Elfen-Entmutigung"
 permalink: /Main Story/Chapter 24_13/
 excerpt: "Kapitel 24 - 13. Era of Chaos  Hauptstory - Kapitel 24_13. 24-13 Elfen-Entmutigung"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 24_13.md"
 toc: false

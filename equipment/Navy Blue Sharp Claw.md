@@ -2,7 +2,7 @@
 title: "Meerblaue scharfe Kralle"
 permalink: /equipment/Navy Blue Sharp Claw/
 excerpt: "Era of Chaos Meerblaue scharfe Kralle. Meerblaue scharfe Kralle"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Navy Blue Sharp Claw.md"
 toc: false

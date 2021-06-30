@@ -2,7 +2,7 @@
 title: "Garnisonsstiefel"
 permalink: /equipment/Garrison Boots/
 excerpt: "Era of Chaos Garnisonsstiefel. Garnisonsstiefel"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Garrison Boots.md"
 toc: false

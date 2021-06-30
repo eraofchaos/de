@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Unit Class Offense"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Teufel](/images/u/ti_daemo.jpg) | [Teufel](/de/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzteufel  |
   | 9 | ![Troglodyt](/images/u/ti_dongxueren.jpg) | [Troglodyt](/de/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dunkler Troglodyt  |
   | 10 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/de/units/Naga/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Nagakönigin  |
-  | 11 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnollkrieger  |
+  | 11 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Gnollkrieger  |
   | 12 | ![Engel](/images/u/ti_datianshi.jpg) | [Engel](/de/units/Angel/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzengel  |
   | 13 | ![Regnanpirat](/images/u/ti_haidao.jpg) | [Regnanpirat](/de/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  König der Piraten  |
   | 14 | ![Roter Drache](/images/u/ti_chilong.jpg) | [Roter Drache](/de/units/Red Dragon/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |

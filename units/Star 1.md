@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Star 1"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 6 | ![Scharfschütze](/images/u/ti_nushou.jpg) | [Scharfschütze](/de/units/Marksman/) | Fernkampf | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Meisterbogenschütze  |
   | 7 | ![Troglodyt](/images/u/ti_dongxueren.jpg) | [Troglodyt](/de/units/Troglodyte/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dunkler Troglodyt  |
   | 8 | ![Zentaur](/images/u/ti_banrenma.jpg) | [Zentaur](/de/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Zentaurenführer  |
-  | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnollkrieger  |
+  | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Gnollkrieger  |
   | 10 | ![Mönch](/images/u/ti_senglv.jpg) | [Mönch](/de/units/Monk/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zelot  |
   | 11 | ![Kavallerist](/images/u/ti_qishi.jpg) | [Kavallerist](/de/units/Cavalier/) | Ansturm | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Heldenhafte Ritter  |
   | 12 | ![Skelett](/images/u/ti_kulouzhanshi.jpg) | [Skelett](/de/units/Skeleton/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skelettkrieger  |

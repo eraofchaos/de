@@ -2,7 +2,7 @@
 title: "Plattenschulterpanzer"
 permalink: /equipment/Plated Shoulderpads/
 excerpt: "Era of Chaos Plattenschulterpanzer. Plattenschulterpanzer"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Plated Shoulderpads.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Überbleibsel der Flammen"
 permalink: /equipment/Remnant of Flames/
 excerpt: "Era of Chaos Überbleibsel der Flammen. Überbleibsel der Flammen"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Remnant of Flames.md"
 toc: false

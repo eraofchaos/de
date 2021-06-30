@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Uraltes Feuer"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Uraltes Feuer. Uraltes Feuer. Era of Chaos Heiliges Emblem Uraltes Feuer. Era of Chaos Rechtschaffen Uraltes Feuer"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Ancient Fire.md"
 toc: false

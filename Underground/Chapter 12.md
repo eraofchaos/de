@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 12 Prügelstrafe"
 permalink: /Underground/Chapter 12/
 excerpt: "Kapitel 12 Prügelstrafe. Era of Chaos  Untergrund - Kapitel 12. Prügelstrafe"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 12.md"
 toc: false

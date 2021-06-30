@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-15 Schwarzsteinschlund"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Kapitel 29 - 15. Era of Chaos  Hauptstory - Kapitel 29_15. 29-15 Schwarzsteinschlund"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 29_15.md"
 toc: false

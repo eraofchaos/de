@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Schock"
 permalink: /combination/Static/
 excerpt: "Kombinationsinfo - Schock. Units and Heroes Formation."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Schock.md"
 toc: false

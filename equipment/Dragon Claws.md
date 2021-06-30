@@ -2,7 +2,7 @@
 title: "Drachenklauen"
 permalink: /equipment/Dragon Claws/
 excerpt: "Era of Chaos Drachenklauen. Drachenklauen"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Dragon Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefakt - Titanendonner"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Titanendonner. Titanendonner Eine legendäre heilige Reliquie aus Gigantenschätzen. Entfesselt Blitze auf den Gegner."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Titan's Thunder.md"
 toc: false

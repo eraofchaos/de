@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 1 - 1-3 Jungbrunnen"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Kapitel 1 - 3. Era of Chaos  Hauptstory - Kapitel 1_3. 1-3 Jungbrunnen"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 1_3.md"
 toc: false

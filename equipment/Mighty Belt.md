@@ -2,7 +2,7 @@
 title: "Mächtiger Gürtel"
 permalink: /equipment/Mighty Belt/
 excerpt: "Era of Chaos Mächtiger Gürtel. Mächtiger Gürtel"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Mighty Belt.md"
 toc: false

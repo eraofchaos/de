@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "index.md"
 toc: false
@@ -46,7 +46,7 @@ classes: wide
   | 24 | ![Geist](/images/u/ti_youling.jpg) | [Geist](/de/units/Wight/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Gespenst  |
   | 25 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 26 | ![Gigant](/images/u/ti_taitan.jpg) | [Gigant](/de/units/Giant/) | Zauberer | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |
-  | 27 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnollkrieger  |
+  | 27 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/de/units/Gnoll/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Gnollkrieger  |
   | 28 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/de/units/Goblin/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 29 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/de/units/Gog/) | Zauberer | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 30 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/de/units/Gorgon/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mächtige Gorgone  |

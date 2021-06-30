@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 10 - 10-2 Suche nach einer Leiche"
 permalink: /Main Story/Chapter 10_2/
 excerpt: "Kapitel 10 - 2. Era of Chaos  Hauptstory - Kapitel 10_2. 10-2 Suche nach einer Leiche"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Chapter 10_2.md"
 toc: false

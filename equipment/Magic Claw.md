@@ -2,7 +2,7 @@
 title: "Magische Klaue"
 permalink: /equipment/Magic Claw/
 excerpt: "Era of Chaos Magische Klaue. Magische Klaue"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Magic Claw.md"
 toc: false

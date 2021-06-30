@@ -2,7 +2,7 @@
 title: "Artefakt - Lebendiges Falkenauge - Vogel der Beobachtung"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Era of Chaos  Lebendiges Falkenauge - Vogel der Beobachtung. Von einer Hexe verzauberte Falkenaugen-Skulptur. Eine der Komponenten für das Lebendige Falkenauge."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "Bird of Perception.md"
 toc: false
