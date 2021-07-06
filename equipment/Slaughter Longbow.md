@@ -2,7 +2,7 @@
 title: "Langbogen des Gemetzels"
 permalink: /equipment/Slaughter Longbow/
 excerpt: "Era of Chaos Langbogen des Gemetzels. Langbogen des Gemetzels"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Slaughter Longbow.md"
 toc: false

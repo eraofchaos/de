@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-1 Eroberer"
 permalink: /Main Story/Chapter 21_1/
 excerpt: "Kapitel 21 - 1. Era of Chaos  Hauptstory - Kapitel 21_1. 21-1 Eroberer"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 21_1.md"
 toc: false

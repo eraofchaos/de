@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 11 - 11-1 Sicherer Weg"
 permalink: /Underground/Chapter 11_1/
 excerpt: "Kapitel 11 - 1. Era of Chaos  Untergrund - Kapitel 11_1. 11-1 Sicherer Weg"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 11_1.md"
 toc: false

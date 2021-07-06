@@ -2,7 +2,7 @@
 title: "Avatar - Riesengorgone"
 permalink: /Avatars/Mighty Gorgon/
 excerpt: "Era of Chaos  Riesengorgone"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Mighty Gorgon.md"
 toc: false

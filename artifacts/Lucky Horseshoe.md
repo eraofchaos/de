@@ -2,7 +2,7 @@
 title: "Artefakt - Glückshufeisen"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Era of Chaos  Glückshufeisen. Glückshufeisen Eine heilige Reliquie voller Kraft. Kann den Angriff einer Armee steigern."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Lucky Horseshoe.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Stahlsäbel"
 permalink: /equipment/Steel Scimitar/
 excerpt: "Era of Chaos Stahlsäbel. Stahlsäbel"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Steel Scimitar.md"
 toc: false

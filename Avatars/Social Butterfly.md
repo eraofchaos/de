@@ -2,7 +2,7 @@
 title: "Avatar - Partylöwe"
 permalink: /Avatars/Social Butterfly/
 excerpt: "Era of Chaos  Partylöwe"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Social Butterfly.md"
 toc: false

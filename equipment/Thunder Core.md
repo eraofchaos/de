@@ -2,7 +2,7 @@
 title: "Donnerkern"
 permalink: /equipment/Thunder Core/
 excerpt: "Era of Chaos Donnerkern. Donnerkern"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Thunder Core.md"
 toc: false

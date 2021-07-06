@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 19 Neutrales Gebiet"
 permalink: /Underground/Chapter 19/
 excerpt: "Kapitel 19 Neutrales Gebiet. Era of Chaos  Untergrund - Kapitel 19. Neutrales Gebiet"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 19.md"
 toc: false

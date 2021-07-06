@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-10 Nacht der Verzweiflung"
 permalink: /Main Story/Chapter 6_10/
 excerpt: "Kapitel 6 - 10. Era of Chaos  Hauptstory - Kapitel 6_10. 6-10 Nacht der Verzweiflung"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 6_10.md"
 toc: false

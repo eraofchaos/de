@@ -2,7 +2,7 @@
 title: "Herzstoßdolch"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Era of Chaos Herzstoßdolch. Herzstoßdolch"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Heart Stab Dagger.md"
 toc: false

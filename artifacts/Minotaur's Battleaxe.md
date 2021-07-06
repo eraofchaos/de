@@ -2,7 +2,7 @@
 title: "Artefakt - Schwert des Frostes - Minotauren-Streitaxt"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "Era of Chaos  Schwert des Frostes - Minotauren-Streitaxt. Eine von den Tauren weitergegebene Streitaxt. Eine der Komponenten für das Schwert des Frostes."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Minotaur's Battleaxe.md"
 toc: false

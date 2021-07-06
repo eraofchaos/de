@@ -2,7 +2,7 @@
 title: "Windfester Umhang"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Era of Chaos Windfester Umhang. Windfester Umhang"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Windproof Cloak.md"
 toc: false

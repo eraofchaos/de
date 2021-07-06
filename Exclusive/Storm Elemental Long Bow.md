@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen (Storm Elemental)"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Sturmelementar Exklusiv."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Storm Elemental Langbogen.md"
 toc: false

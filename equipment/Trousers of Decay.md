@@ -2,7 +2,7 @@
 title: "Hose des Verfalls"
 permalink: /equipment/Trousers of Decay/
 excerpt: "Era of Chaos Hose des Verfalls. Hose des Verfalls"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Trousers of Decay.md"
 toc: false

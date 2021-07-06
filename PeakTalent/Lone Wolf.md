@@ -2,7 +2,7 @@
 title: "Einsamer Wolf. Höchstes Talent - Einsamer Wolf"
 permalink: /PeakTalent/Lone Wolf/
 excerpt: "Era of Chaos Höchstes Talent Einsamer Wolf. Höchstes Talent Einsamer Wolf. Einsamer Wolf"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Lone Wolf.md"
 toc: false

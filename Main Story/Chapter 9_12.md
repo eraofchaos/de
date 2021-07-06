@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-12 Erfolgreicher Vorstoß"
 permalink: /Main Story/Chapter 9_12/
 excerpt: "Kapitel 9 - 12. Era of Chaos  Hauptstory - Kapitel 9_12. 9-12 Erfolgreicher Vorstoß"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 9_12.md"
 toc: false

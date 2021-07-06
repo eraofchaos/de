@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 13 - 13-4 Die Macht der Untoten"
 permalink: /Underground/Chapter 13_4/
 excerpt: "Kapitel 13 - 4. Era of Chaos  Untergrund - Kapitel 13_4. 13-4 Die Macht der Untoten"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 13_4.md"
 toc: false

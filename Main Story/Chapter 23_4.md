@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-4 Der vergiftete alte Mann"
 permalink: /Main Story/Chapter 23_4/
 excerpt: "Kapitel 23 - 4. Era of Chaos  Hauptstory - Kapitel 23_4. 23-4 Der vergiftete alte Mann"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 23_4.md"
 toc: false

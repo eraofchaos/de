@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 23 Unabhängigkeit"
 permalink: /Underground/Chapter 23/
 excerpt: "Kapitel 23 Unabhängigkeit. Era of Chaos  Untergrund - Kapitel 23. Unabhängigkeit"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 23.md"
 toc: false

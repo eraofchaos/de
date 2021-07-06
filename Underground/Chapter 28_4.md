@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 28 - 28-4  Ehrenhafte Aufopferung"
 permalink: /Underground/Chapter 28_4/
 excerpt: "Kapitel 28 - 4. Era of Chaos  Untergrund - Kapitel 28_4. 28-4  Ehrenhafte Aufopferung"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 28_4.md"
 toc: false

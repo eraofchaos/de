@@ -2,7 +2,7 @@
 title: "Wahnsinniges Peinigen. Höchstes Talent - Wahnsinniges Peinigen"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "Era of Chaos Höchstes Talent Wahnsinniges Peinigen. Höchstes Talent Wahnsinniges Peinigen. Wahnsinniges Peinigen"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Crazy Smite.md"
 toc: false

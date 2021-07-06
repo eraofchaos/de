@@ -2,7 +2,7 @@
 title: "Blitzschlag"
 permalink: /equipment/Thunderbolt/
 excerpt: "Era of Chaos Blitzschlag. Blitzschlag"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Thunderbolt.md"
 toc: false

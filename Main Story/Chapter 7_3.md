@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-3 Grenzkonflikt"
 permalink: /Main Story/Chapter 7_3/
 excerpt: "Kapitel 7 - 3. Era of Chaos  Hauptstory - Kapitel 7_3. 7-3 Grenzkonflikt"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 7_3.md"
 toc: false

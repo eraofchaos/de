@@ -2,7 +2,7 @@
 title: "Kriegsmeister. Höchstes Talent - Kriegsmeister"
 permalink: /PeakTalent/War Master/
 excerpt: "Era of Chaos Höchstes Talent Kriegsmeister. Höchstes Talent Kriegsmeister. Kriegsmeister"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "War Master.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 Chaoslande"
 permalink: /Main Story/Chapter 9/
 excerpt: "Kapitel 9. Era of Chaos  Hauptstory - Kapitel 9. Chaoslande"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 9.md"
 toc: false

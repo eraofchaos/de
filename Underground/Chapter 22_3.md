@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 22 - 22-3 Kanonenfutter"
 permalink: /Underground/Chapter 22_3/
 excerpt: "Kapitel 22 - 3. Era of Chaos  Untergrund - Kapitel 22_3. 22-3 Kanonenfutter"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 22_3.md"
 toc: false

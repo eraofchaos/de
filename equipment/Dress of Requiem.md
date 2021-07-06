@@ -2,7 +2,7 @@
 title: "Kleid des Requiems"
 permalink: /equipment/Dress of Requiem/
 excerpt: "Era of Chaos Kleid des Requiems. Kleid des Requiems"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Dress of Requiem.md"
 toc: false

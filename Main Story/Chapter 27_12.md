@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-12 Drachenvater"
 permalink: /Main Story/Chapter 27_12/
 excerpt: "Kapitel 27 - 12. Era of Chaos  Hauptstory - Kapitel 27_12. 27-12 Drachenvater"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 27_12.md"
 toc: false

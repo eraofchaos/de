@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 26 - 26-2 Brennende Eifersucht"
 permalink: /Underground/Chapter 26_2/
 excerpt: "Kapitel 26 - 2. Era of Chaos  Untergrund - Kapitel 26_2. 26-2 Brennende Eifersucht"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 26_2.md"
 toc: false

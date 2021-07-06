@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "Era of Chaos Exklusiv Neutral Army. Exklusiv Neutral Army. List of Exklusiv Neutral Army in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Exclusive Neutral Army"
 toc: false
@@ -17,5 +17,5 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Assassine](/de/units/Assassin/) | - | - | - | none | none |
+  | 1  | [Assassine](/de/units/Assassin/) | [Versteckte Klinge](/de/Exclusive/Assassin Hidden Blade/) | + | Unterstützung | [„Versteckte Klinge“-Token](/de/Items/con_2200/) | [„Versteckte Klinge“-Spezialskin](/de/Items/con_2199/) |
   | 2  | [Spartaner](/de/units/Spartan Warriors/) | - | - | - | none | none |

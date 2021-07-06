@@ -2,7 +2,7 @@
 title: "Krone der Königin"
 permalink: /equipment/Queen's Crown/
 excerpt: "Era of Chaos Krone der Königin. Krone der Königin"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Queen's Crown.md"
 toc: false

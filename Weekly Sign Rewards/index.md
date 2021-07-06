@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 29  Nekropoliswoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Jul** | **3x [Skelett](/ItemsDE/unt_208/)**  | Ein Trupp Skelette schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **20 Jul** | **3x [Wandelnde Tote](/ItemsDE/unt_209/)**  | Ein Trupp Wandelnder Toter schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **21 Jul** | **100x <i class="fas fa-gem"/>**  | Eure Truppen haben mehrere Schätze in einer alten eingestürzten Gruft gefunden! |
+  | **22 Jul** | **2x [Vampir](/ItemsDE/unt_211/)**  | Ein Trupp Vampire schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **23 Jul** | **2x [Geist](/ItemsDE/unt_210/)**  | Ein Trupp Geister schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **24 Jul** | **5x [Einheitentruhe (Nekropolis)](/ItemsDE/con_1271/)**  | Deine Nekropolis-Einheiten haben dir mehrere Schatztruhen überreicht! |
+  | **25 Jul** | **3x [Vidomina](/ItemsDE/her_372/)**  | Vidomina ist fasziniert von Euren untoten Kriegern, sie möchte sich Euch anschließen! |
+
 
 #### 2021 Week 28  Schutzwallwoche
 

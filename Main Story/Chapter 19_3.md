@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 19 - 19-3 Die Säule von Kurl"
 permalink: /Main Story/Chapter 19_3/
 excerpt: "Kapitel 19 - 3. Era of Chaos  Hauptstory - Kapitel 19_3. 19-3 Die Säule von Kurl"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 19_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Kopfschmuck des Schlangengottes"
 permalink: /equipment/Headdress of the Serpent God/
 excerpt: "Era of Chaos Kopfschmuck des Schlangengottes. Kopfschmuck des Schlangengottes"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Headdress of the Serpent God.md"
 toc: false

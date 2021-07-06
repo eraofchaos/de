@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-4 Familie aus Drachenhaltern"
 permalink: /Main Story/Chapter 25_4/
 excerpt: "Kapitel 25 - 4. Era of Chaos  Hauptstory - Kapitel 25_4. 25-4 Familie aus Drachenhaltern"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 25_4.md"
 toc: false

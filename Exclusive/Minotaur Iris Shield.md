@@ -2,7 +2,7 @@
 title: "Exklusiv - Irisschild (Minotaur)"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Irisschild. Irisschild. Era of Chaos Exklusiv Irisschild. Minotaurus Exklusiv."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Minotaur Irisschild.md"
 toc: false

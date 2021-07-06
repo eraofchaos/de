@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Stein-Wasserspeier Exklusiv."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Stone Gargoyle Schwert.md"
 toc: false

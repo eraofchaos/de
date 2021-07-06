@@ -2,7 +2,7 @@
 title: "Artefakt - Zaubererbrunnen - Magischer Glücksbringer"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Zaubererbrunnen - Magischer Glücksbringer. Ein Glücksbringer mit magischen Kräften. Eine der Komponenten für den Zaubererbrunnen."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Magic Charm.md"
 toc: false

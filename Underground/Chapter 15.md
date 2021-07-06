@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 15 Vereinigte Front"
 permalink: /Underground/Chapter 15/
 excerpt: "Kapitel 15 Vereinigte Front. Era of Chaos  Untergrund - Kapitel 15. Vereinigte Front"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 15.md"
 toc: false

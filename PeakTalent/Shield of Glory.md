@@ -2,7 +2,7 @@
 title: "Ruhmesschild. Höchstes Talent - Ruhmesschild"
 permalink: /PeakTalent/Shield of Glory/
 excerpt: "Era of Chaos Höchstes Talent Ruhmesschild. Höchstes Talent Ruhmesschild. Ruhmesschild"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Shield of Glory.md"
 toc: false

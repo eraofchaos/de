@@ -2,7 +2,7 @@
 title: "Schulterschutz der Wolfszunge"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Era of Chaos Schulterschutz der Wolfszunge. Schulterschutz der Wolfszunge"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false

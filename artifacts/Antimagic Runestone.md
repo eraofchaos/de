@@ -2,7 +2,7 @@
 title: "Artefakt - Antimagie-Runenstein"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Era of Chaos  Antimagie-Runenstein. Antimagie-Runenstein Antimagie-Runenstein, aus verzauberten Gegenständen gefertigt. Kann Zauberschaden widerstehen."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Antimagic Runestone.md"
 toc: false

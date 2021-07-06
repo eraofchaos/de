@@ -2,7 +2,7 @@
 title: "Armschutz der Flamme"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Era of Chaos Armschutz der Flamme. Armschutz der Flamme"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Bracers of Flame.md"
 toc: false

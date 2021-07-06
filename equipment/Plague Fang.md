@@ -2,7 +2,7 @@
 title: "Seuchenzahn"
 permalink: /equipment/Plague Fang/
 excerpt: "Era of Chaos Seuchenzahn. Seuchenzahn"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Plague Fang.md"
 toc: false

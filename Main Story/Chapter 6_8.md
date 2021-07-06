@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 6 - 6-8 Die Plage"
 permalink: /Main Story/Chapter 6_8/
 excerpt: "Kapitel 6 - 8. Era of Chaos  Hauptstory - Kapitel 6_8. 6-8 Die Plage"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 6_8.md"
 toc: false

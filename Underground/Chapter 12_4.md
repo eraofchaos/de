@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 12 - 12-4 Engel und heiliges Licht"
 permalink: /Underground/Chapter 12_4/
 excerpt: "Kapitel 12 - 4. Era of Chaos  Untergrund - Kapitel 12_4. 12-4 Engel und heiliges Licht"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 12_4.md"
 toc: false

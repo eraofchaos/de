@@ -2,7 +2,7 @@
 title: "Orden des Lords. Höchstes Talent - Orden des Lords"
 permalink: /PeakTalent/Medal of Lords/
 excerpt: "Era of Chaos Höchstes Talent Orden des Lords. Höchstes Talent Orden des Lords. Orden des Lords"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Medal of Lords.md"
 toc: false

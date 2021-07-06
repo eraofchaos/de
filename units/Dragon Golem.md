@@ -3,7 +3,7 @@ title: "Drachengolem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Drachengolem. Drachengolem Einheiten. null. Era of Chaos Die ultimative Erfindung der Zwergenschmiede: Jede Komponente ist die perfekte Kombination von Maschine und Magie und erfüllt von unerschöpflicher Macht."
 unitID: 609
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Drachengolem"
 toc: true

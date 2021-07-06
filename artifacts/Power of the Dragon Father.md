@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Era of Chaos  Macht des Drachenvaters. Macht des Drachenvaters Eine heilige Reliquie, durch die Kraft des Drachenkönigs aus kostbaren Gegenständen geschmiedet. Kann Zauberschaden verringern."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Power of the Dragon Father.md"
 toc: false

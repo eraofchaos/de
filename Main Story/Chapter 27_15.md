@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-15 Nighons Vereinigung"
 permalink: /Main Story/Chapter 27_15/
 excerpt: "Kapitel 27 - 15. Era of Chaos  Hauptstory - Kapitel 27_15. 27-15 Nighons Vereinigung"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 27_15.md"
 toc: false

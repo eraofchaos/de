@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-6 Dämonenaltar"
 permalink: /Main Story/Chapter 15_6/
 excerpt: "Kapitel 15 - 6. Era of Chaos  Hauptstory - Kapitel 15_6. 15-6 Dämonenaltar"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 15_6.md"
 toc: false

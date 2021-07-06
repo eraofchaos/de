@@ -2,7 +2,7 @@
 title: "Artefakt - Ring des Magiers - Kragen der Beschwörung"
 permalink: /artifacts/Collar of Conjuring/
 excerpt: "Era of Chaos  Ring des Magiers - Kragen der Beschwörung. Verstärkt die magischen Kräfte des Trägers. Eine der Komponenten für den Ring des Magiers."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Collar of Conjuring.md"
 toc: false

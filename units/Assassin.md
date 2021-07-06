@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassine. Assassine Einheiten. null. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Assassine"
 toc: true
@@ -75,6 +75,14 @@ toc: true
   |  | [Lederstiefel](/de/equipment/Leather Boots/) | **LP** | **ABW** | 
 
 ## Exklusiv
+
+ **Name:** [Versteckte Klinge](/de/Exclusive/Assassin Hidden Blade/) 
+
+ **Is Open:** + 
+
+ **Item to Rangaufstieg:** [„Versteckte Klinge“-Token](/de/Items/con_2200/)
+
+ **Skin:** [„Versteckte Klinge“-Spezialskin](/de/Items/con_2199/)
 
 
 ## Empfohlene Heilige Embleme

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-2 Die Hexenhütte"
 permalink: /Main Story/Chapter 2_2/
 excerpt: "Kapitel 2 - 2. Era of Chaos  Hauptstory - Kapitel 2_2. 2-2 Die Hexenhütte"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 2_2.md"
 toc: false

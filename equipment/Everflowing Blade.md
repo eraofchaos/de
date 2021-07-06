@@ -2,7 +2,7 @@
 title: "Strömende Klinge"
 permalink: /equipment/Everflowing Blade/
 excerpt: "Era of Chaos Strömende Klinge. Strömende Klinge"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Everflowing Blade.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Titan-Drachenkopf"
 permalink: /equipment/Titanium Dragon Head/
 excerpt: "Era of Chaos Titan-Drachenkopf. Titan-Drachenkopf"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Titanium Dragon Head.md"
 toc: false

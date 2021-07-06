@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-14 Hochrangiger Tempel"
 permalink: /Main Story/Chapter 29_14/
 excerpt: "Kapitel 29 - 14. Era of Chaos  Hauptstory - Kapitel 29_14. 29-14 Hochrangiger Tempel"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 29_14.md"
 toc: false

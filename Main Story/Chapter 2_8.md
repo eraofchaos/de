@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-8 Freundschaftlicher Austausch"
 permalink: /Main Story/Chapter 2_8/
 excerpt: "Kapitel 2 - 8. Era of Chaos  Hauptstory - Kapitel 2_8. 2-8 Freundschaftlicher Austausch"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Chapter 2_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Gladiatorenorden. Höchstes Talent - Gladiatorenorden"
 permalink: /PeakTalent/Medal of Gladiators/
 excerpt: "Era of Chaos Höchstes Talent Gladiatorenorden. Höchstes Talent Gladiatorenorden. Gladiatorenorden"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Medal of Gladiators.md"
 toc: false
