@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 27 - 27-4 Wahnsinniger Poet"
 permalink: /Underground/Chapter 27_4/
 excerpt: "Kapitel 27 - 4. Era of Chaos  Untergrund - Kapitel 27_4. 27-4 Wahnsinniger Poet"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 27_4.md"
 toc: false

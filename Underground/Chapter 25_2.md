@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 25 - 25-2 Die Eisenpuppe"
 permalink: /Underground/Chapter 25_2/
 excerpt: "Kapitel 25 - 2. Era of Chaos  Untergrund - Kapitel 25_2. 25-2 Die Eisenpuppe"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 25_2.md"
 toc: false

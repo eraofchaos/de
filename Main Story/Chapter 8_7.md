@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-7 Unbarmherziger Krieg"
 permalink: /Main Story/Chapter 8_7/
 excerpt: "Kapitel 8 - 7. Era of Chaos  Hauptstory - Kapitel 8_7. 8-7 Unbarmherziger Krieg"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 8_7.md"
 toc: false

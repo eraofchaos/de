@@ -2,7 +2,7 @@
 title: "Feuerkern"
 permalink: /equipment/Core of Fire/
 excerpt: "Era of Chaos Feuerkern. Feuerkern"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Core of Fire.md"
 toc: false

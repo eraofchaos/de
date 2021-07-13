@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-4 Raffinerie"
 permalink: /Main Story/Chapter 4_4/
 excerpt: "Kapitel 4 - 4. Era of Chaos  Hauptstory - Kapitel 4_4. 4-4 Raffinerie"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 4_4.md"
 toc: false

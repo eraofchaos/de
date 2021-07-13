@@ -2,7 +2,7 @@
 title: "Übler Zacken"
 permalink: /equipment/Bleak Barb/
 excerpt: "Era of Chaos Übler Zacken. Übler Zacken"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Bleak Barb.md"
 toc: false

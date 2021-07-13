@@ -2,7 +2,7 @@
 title: "Blutrünstig. Höchstes Talent - Blutrünstig"
 permalink: /PeakTalent/Bloodthirsty/
 excerpt: "Era of Chaos Höchstes Talent Blutrünstig. Höchstes Talent Blutrünstig. Blutrünstig"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Bloodthirsty.md"
 toc: false

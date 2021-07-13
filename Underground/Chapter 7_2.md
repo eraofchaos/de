@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 7 - 7-2 Die Gnade der Nachbarn"
 permalink: /Underground/Chapter 7_2/
 excerpt: "Kapitel 7 - 2. Era of Chaos  Untergrund - Kapitel 7_2. 7-2 Die Gnade der Nachbarn"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 7_2.md"
 toc: false

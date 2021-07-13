@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-11 Rot und schwarz"
 permalink: /Main Story/Chapter 22_11/
 excerpt: "Kapitel 22 - 11. Era of Chaos  Hauptstory - Kapitel 22_11. 22-11 Rot und schwarz"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 22_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Verbergen. Höchstes Talent - Verbergen"
 permalink: /PeakTalent/Concealment/
 excerpt: "Era of Chaos Höchstes Talent Verbergen. Höchstes Talent Verbergen. Verbergen"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Concealment.md"
 toc: false

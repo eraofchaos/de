@@ -2,7 +2,7 @@
 title: "Artefakt - Zaubererbrunnen"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Era of Chaos  Zaubererbrunnen. Zaubererbrunnen Magischer Gegenstand zum Kampf gegen Dämonen. Kann das Mana-Regenerationstempo erhöhen."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Wizard's Well.md"
 toc: false

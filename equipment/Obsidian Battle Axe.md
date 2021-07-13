@@ -2,7 +2,7 @@
 title: "Obsidian-Kriegsaxt"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Era of Chaos Obsidian-Kriegsaxt. Obsidian-Kriegsaxt"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Obsidian Battle Axe.md"
 toc: false

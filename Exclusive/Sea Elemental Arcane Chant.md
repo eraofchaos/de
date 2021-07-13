@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Sea Elemental)"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Meerelementar Exklusiv."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Sea Elemental Arkangesang.md"
 toc: false

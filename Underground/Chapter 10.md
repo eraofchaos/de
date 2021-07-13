@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 10 Greifenherz"
 permalink: /Underground/Chapter 10/
 excerpt: "Kapitel 10 Greifenherz. Era of Chaos  Untergrund - Kapitel 10. Greifenherz"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 10.md"
 toc: false

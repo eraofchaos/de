@@ -2,7 +2,7 @@
 title: "Avatar - Eisige Weihnacht"
 permalink: /Avatars/Ice Christmas/
 excerpt: "Era of Chaos  Eisige Weihnacht"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Ice Christmas.md"
 toc: false

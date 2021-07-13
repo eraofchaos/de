@@ -2,7 +2,7 @@
 title: "Zum Herrschen geboren. Höchstes Talent - Zum Herrschen geboren"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Höchstes Talent Zum Herrschen geboren. Höchstes Talent Zum Herrschen geboren. Zum Herrschen geboren"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Born to Be King.md"
 toc: false

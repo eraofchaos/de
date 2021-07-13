@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 9 - 9-2 Eskalation"
 permalink: /Underground/Chapter 9_2/
 excerpt: "Kapitel 9 - 2. Era of Chaos  Untergrund - Kapitel 9_2. 9-2 Eskalation"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 9_2.md"
 toc: false

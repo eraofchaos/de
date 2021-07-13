@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 23 - 23-3 Donnernde Verwüstung"
 permalink: /Underground/Chapter 23_3/
 excerpt: "Kapitel 23 - 3. Era of Chaos  Untergrund - Kapitel 23_3. 23-3 Donnernde Verwüstung"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 23_3.md"
 toc: false

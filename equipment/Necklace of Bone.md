@@ -2,7 +2,7 @@
 title: "Knochenkette"
 permalink: /equipment/Necklace of Bone/
 excerpt: "Era of Chaos Knochenkette. Knochenkette"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Necklace of Bone.md"
 toc: false

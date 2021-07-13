@@ -2,7 +2,7 @@
 title: "Artefakt - Gesandten-Füllhalter"
 permalink: /artifacts/Envoy's Pen/
 excerpt: "Era of Chaos  Gesandten-Füllhalter. Gesandten-Füllhalter Ein Symbol der Macht und Stärke. Ein verehrtes Relikt, das Siegern vorbehalten ist."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Envoy's Pen.md"
 toc: false

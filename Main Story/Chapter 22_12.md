@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-12 Drachenmagie"
 permalink: /Main Story/Chapter 22_12/
 excerpt: "Kapitel 22 - 12. Era of Chaos  Hauptstory - Kapitel 22_12. 22-12 Drachenmagie"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 22_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Wilde Krallen"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Era of Chaos Wilde Krallen. Wilde Krallen"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Ferocious Claws.md"
 toc: false

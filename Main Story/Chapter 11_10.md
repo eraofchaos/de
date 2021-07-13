@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-10 Der Schatten des Drachen"
 permalink: /Main Story/Chapter 11_10/
 excerpt: "Kapitel 11 - 10. Era of Chaos  Hauptstory - Kapitel 11_10. 11-10 Der Schatten des Drachen"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 11_10.md"
 toc: false

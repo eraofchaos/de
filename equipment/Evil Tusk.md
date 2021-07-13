@@ -2,7 +2,7 @@
 title: "Böser Stoßzahn"
 permalink: /equipment/Evil Tusk/
 excerpt: "Era of Chaos Böser Stoßzahn. Böser Stoßzahn"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Evil Tusk.md"
 toc: false

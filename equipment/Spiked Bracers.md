@@ -2,7 +2,7 @@
 title: "Stachliger Armschutz"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Era of Chaos Stachliger Armschutz. Stachliger Armschutz"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Spiked Bracers.md"
 toc: false

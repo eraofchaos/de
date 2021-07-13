@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exklusiv Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exklusiv Rampart. Exklusiv Rampart. List of Exklusiv Rampart in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Exclusive Rampart"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Exklusiv | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Zentaur](/de/units/Centaur/) | [Irisschild](/de/Exclusive/Centaur Iris Shield/) | - | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
+  | 1  | [Zentaur](/de/units/Centaur/) | [Irisschild](/de/Exclusive/Centaur Iris Shield/) | + | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
   | 2  | [Zwerg](/de/units/Dwarf/) | [Irisschild](/de/Exclusive/Dwarf Iris Shield/) | - | Aufladung | [Irisschild-Token](/ItemsDE/con_913/) | - |
   | 3  | [Waldelfe](/de/units/Wood Elf/) | [Langbogen](/de/Exclusive/Wood Elf Long Bow/) | - | Aufladung | [Langbogen-Token](/ItemsDE/con_914/) | - |
   | 4  | [Pegasus](/de/units/Pegasus/) | [Langbogen](/de/Exclusive/Pegasus Long Bow/) | + | Aufladung | [Langbogen-Token](/ItemsDE/con_914/) | - |

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-2 Kopfgeldjäger"
 permalink: /Main Story/Chapter 16_2/
 excerpt: "Kapitel 16 - 2. Era of Chaos  Hauptstory - Kapitel 16_2. 16-2 Kopfgeldjäger"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 16_2.md"
 toc: false

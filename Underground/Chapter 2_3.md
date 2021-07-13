@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 2 - 2-3 Die nächste Krise"
 permalink: /Underground/Chapter 2_3/
 excerpt: "Kapitel 2 - 3. Era of Chaos  Untergrund - Kapitel 2_3. 2-3 Die nächste Krise"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 2_3.md"
 toc: false

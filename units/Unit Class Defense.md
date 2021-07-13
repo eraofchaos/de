@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Unit Class Defense"
 toc: false
@@ -24,8 +24,8 @@ classes: wide
   | 10 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/de/units/Venom Spawn/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 11 | ![Schwertkämpfer](/images/u/ti_shizijun.jpg) | [Schwertkämpfer](/de/units/Swordsman/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kreuzritter  |
   | 12 | ![Drachenschildkröte](/images/u/ti_longgui.jpg) | [Drachenschildkröte](/de/units/Dragon Turtle/) | Abwehr | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Urzeit-Drachenschildkröte  |
-  | 13 | ![Zentaur](/images/u/ti_banrenma.jpg) | [Zentaur](/de/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Zentaurenführer  |
-  | 14 | ![Zwerg](/images/u/ti_airen.jpg) | [Zwerg](/de/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 13 | ![Zentaur](/images/u/ti_banrenma.jpg) | [Zentaur](/de/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Zentaurenführer  |
+  | 14 | ![Zwerg](/images/u/ti_airen.jpg) | [Zwerg](/de/units/Dwarf/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kampfzwerg  |
   | 15 | ![Minotaurus](/images/u/ti_niutouguai.jpg) | [Minotaurus](/de/units/Minotaur/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotaurenkönig  |
   | 16 | ![Drachengolem](/images/u/ti_kuileilong.jpg) | [Drachengolem](/de/units/Dragon Golem/) | Abwehr | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 17 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/de/units/Paladin/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Oberster Paladin  |

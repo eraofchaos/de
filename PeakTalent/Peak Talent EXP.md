@@ -2,7 +2,7 @@
 title: "Höchstes Talent EXP"
 permalink: /PeakTalent/Peak Talent EXP/
 excerpt: "Era of Chaos Höchstes Talent EXP. Höchstes Talent EXP"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Peak Talent EXP.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Unheiliger Schild"
 permalink: /equipment/Unholy Shield/
 excerpt: "Era of Chaos Unheiliger Schild. Unheiliger Schild"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Unholy Shield.md"
 toc: false

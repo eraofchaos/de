@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 5 - 5-4 Standhalten"
 permalink: /Main Story/Chapter 5_4/
 excerpt: "Kapitel 5 - 4. Era of Chaos  Hauptstory - Kapitel 5_4. 5-4 Standhalten"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 5_4.md"
 toc: false

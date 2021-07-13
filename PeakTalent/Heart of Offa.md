@@ -2,7 +2,7 @@
 title: "Offas Herz. Höchstes Talent - Offas Herz"
 permalink: /PeakTalent/Heart of Offa/
 excerpt: "Era of Chaos Höchstes Talent Offas Herz. Höchstes Talent Offas Herz. Offas Herz"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Heart of Offa.md"
 toc: false

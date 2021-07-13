@@ -2,7 +2,7 @@
 title: "Bestialisches Auge"
 permalink: /equipment/Beastly Eye/
 excerpt: "Era of Chaos Bestialisches Auge. Bestialisches Auge"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Beastly Eye.md"
 toc: false

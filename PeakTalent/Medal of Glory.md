@@ -2,7 +2,7 @@
 title: "Ruhmesorden. Höchstes Talent - Ruhmesorden"
 permalink: /PeakTalent/Medal of Glory/
 excerpt: "Era of Chaos Höchstes Talent Ruhmesorden. Höchstes Talent Ruhmesorden. Ruhmesorden"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Medal of Glory.md"
 toc: false

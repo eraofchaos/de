@@ -1,9 +1,9 @@
 ---
 title: "Zwerg"
 permalink: /units/Dwarf/
-excerpt: "Era of Chaos Zwerg. Zwerg Einheiten. null. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
+excerpt: "Era of Chaos Zwerg. Zwerg Einheiten. Kampfzwerg. Era of Chaos Zwerge sind geborene Verteidiger, die Feinde mit stählerner Entschlossenheit abwehren. Sie sind jähzornig, und der Klang ihrer Hämmer schlägt Furcht in die Herzen aller, die sich ihnen entgegenstellen."
 unitID: 202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Zwerg"
 toc: true
@@ -186,41 +186,43 @@ toc: true
 
 ## Awaking
 
+  ![Kampfzwerg](/images/u/unknown.png)
+
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Kampfzwerg
 
- **Awaking Beschreibung:** null
+ **Awaking Beschreibung:** Einst nannte man mich Zwerg. Ich bin 333 Jahre alt und lebe in AvLee. Ich bin noch nicht verheiratet. Jeden Tag schlage ich in der Zwergenschatzkammer Leute, bis sie Sternchen sehen. Ich mache Überstunden bis 5 Uhr morgens, wenn ich endlich heimgehen kann. Dann, nicht einmal eine Minute später, packe ich alles wieder von vorne an.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Setze Pikeniere und mindestens </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Schloss-Einheiten ein, um </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Zwerge in der Zwergenschatzkammer mit einem einzelnen Angriff zu töten. (Überfälle zählen nicht für die Mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Setze einen Zwerg und mindestens 3 Schutzwall-Einheiten ein, um die Stufe Gnadenlos oder höher von Drachenutopia einmal zu bestehen. (Durchmärsche zählen nicht für die Mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Töte </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Monster während eines Gildenabenteuers. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Sammle während eines Gildenabenteuers 5 Ressourcen.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Sammle </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Hellebardenträger-Seelen im Untergrund: Stufen 14-2 und 14-4. </span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Sammle 100 Kampfzwerg-Seelen im Untergrund: Stufen 15-2 und 15-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Setze einen Zwerg ein und gewinne 1 Meisterduell-Kampf.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Speerform.-Durchm.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px"> hat das Ziel auf größere gegnerische Einheiten gewechselt.</span>
+### 1st Skill (or 2nd): Verzweiflungsgebrüll
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Verzweiflungsgebrüll&gt;</span><span style="color: #645252;font-size:18px"> Der Wirkungsbereich von &lt;Zwergengebrüll&gt; reicht über das gesamte Schlachtfeld und erhöht außerdem den SCHD (Einheit) verbündeter Einheiten um 10 %.</span>
 
-### 2nd Skill (or 1st): Speerf.-Überr.-Angr.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Speerformation&gt;</span><span style="color: #645252;font-size:18px">Schadenserhöhung auf 150 %, Verlängerung des Betäubungseffekts auf 4,5 Sekunden.</span>
+### 2nd Skill (or 1st): Schutzwallgebrüll
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Schutzwallgebrüll&gt;</span><span style="color: #645252;font-size:18px"> &lt;Zwergengebrüll&gt; gewährt verbündeten Einheiten innerhalb einer bestimmten Reichweite zusätzlich einen Schild in Höhe von 15 % der max. LP. Hält 20 Sek. lang an.</span>
 
-### 3rd Skill (or 4th): Dichte Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Schadensreduzierung 10 Sek. lang um 30 % erhöht.</span>
+### 3rd Skill (or 4th): Dornenexplosion
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Dornenexplosion&gt;</span><span style="color: #645252;font-size:18px"> Beim Auslösen der Fähigkeit wird die SCHD-Reduzierung (Einheit) der Zieleinheit zusätzlich 5 Sek. lang um 20 % reduziert.</span>
 
-### 4th Skill (or 3rd): Gefeite Formation
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Führung&gt;</span><span style="color: #645252;font-size:18px">Wenn die Einheit „Hohe Moral“ hat, wird ihre Magieresistenz 10 Sek. lang um 30 % erhöht.</span>
+### 4th Skill (or 3rd): Kopfschmerz-Elixier
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Kopfschmerz-Elixier&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die Dauer des Betäubungseffekts der Fähigkeit um 4 Sek. Ist die Zieleinheit außerdem von „Blutung“ betroffen, wird der SCHD (Einheit) zusätzlich um 10 % reduziert. Hält 8 Sek. lang an.</span>
 
-### 5th Skill (or 6th): Infiltrationsstrat.
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Wirkt beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten „Abschreckung“ auf das Ziel. „Abschreckung“: Reduziert Kritischer Treffer des Ziels um 300.</span>
+### 5th Skill (or 6th): Klingenholzformation
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Klingenholzformation&gt;</span><span style="color: #645252;font-size:18px"> Erhöht die Zähigkeit verbündeter Einheiten im Schutzfeld zusätzlich um 300.</span>
 
-### 6th Skill (or 5th): Erschöpfungstaktik
- **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Drachentöter&gt;</span><span style="color: #645252;font-size:18px">Reduziert beim Kampf gegen 1-Mann- oder 4-Mann-Einheiten Ausweichen des Ziels um 300.</span>
+### 6th Skill (or 5th): Eisenbirkenwand
+ **Beschreibung:** <span style="color: #48b946;font-size:18px">&lt;Eisenbirkenwand&gt;</span><span style="color: #645252;font-size:18px"> Erhöht Krit. Gesamt-SCHD-Reduzierung verbündeter Einheiten im Schutzfeld um 20 %.</span>
 
 ## Technical info
  **runart:** 1

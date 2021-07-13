@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-2 Das funkelnde Objekt"
 permalink: /Main Story/Chapter 23_2/
 excerpt: "Kapitel 23 - 2. Era of Chaos  Hauptstory - Kapitel 23_2. 23-2 Das funkelnde Objekt"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 23_2.md"
 toc: false

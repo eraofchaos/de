@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-13 Nighons Legenden"
 permalink: /Main Story/Chapter 25_13/
 excerpt: "Kapitel 25 - 13. Era of Chaos  Hauptstory - Kapitel 25_13. 25-13 Nighons Legenden"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 25_13.md"
 toc: false

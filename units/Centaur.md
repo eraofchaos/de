@@ -3,7 +3,7 @@ title: "Zentaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Zentaur. Zentaur Einheiten. Zentaurenführer. Era of Chaos Zentauren sind geborene Krieger, die sich von jungen Jahren an der Kunst des Krieges widmen. Sie sind vielseitige Kämpfer, die sich auf Ansturm, Kampf und Erkundung spezialisieren."
 unitID: 201
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Zentaur"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Irisschild](/de/Exclusive/Centaur Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Irisschild-Token](/ItemsDE/con_913/)
 

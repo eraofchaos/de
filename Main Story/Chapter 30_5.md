@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-5 Pause am Feuer"
 permalink: /Main Story/Chapter 30_5/
 excerpt: "Kapitel 30 - 5. Era of Chaos  Hauptstory - Kapitel 30_5. 30-5 Pause am Feuer"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 30_5.md"
 toc: false

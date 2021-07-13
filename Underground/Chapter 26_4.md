@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 26 - 26-4 Klingenkönigin"
 permalink: /Underground/Chapter 26_4/
 excerpt: "Kapitel 26 - 4. Era of Chaos  Untergrund - Kapitel 26_4. 26-4 Klingenkönigin"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 26_4.md"
 toc: false

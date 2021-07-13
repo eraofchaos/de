@@ -2,7 +2,7 @@
 title: "Flexibler Fischschwanz"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "Era of Chaos Flexibler Fischschwanz. Flexibler Fischschwanz"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Flexible Fishtail.md"
 toc: false

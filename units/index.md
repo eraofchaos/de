@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "index.md"
 toc: false
@@ -109,6 +109,6 @@ classes: wide
   | 87 | ![Wespenwurz](/images/u/ti_dufengcao.jpg) | [Wespenwurz](/de/units/Waspwort/) | Fernkampf | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
   | 88 | ![Wolfsreiter](/images/u/ti_langqibing.jpg) | [Wolfsreiter](/de/units/Wolf Rider/) | Ansturm | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Wolfskrieger  |
   | 89 | ![Wyvern](/images/u/ti_feilong.jpg) | [Wyvern](/de/units/Wyvern/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Wyvernkönig  |
-  | 90 | ![Zentaur](/images/u/ti_banrenma.jpg) | [Zentaur](/de/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Zentaurenführer  |
-  | 91 | ![Zwerg](/images/u/ti_airen.jpg) | [Zwerg](/de/units/Dwarf/) | Abwehr | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 90 | ![Zentaur](/images/u/ti_banrenma.jpg) | [Zentaur](/de/units/Centaur/) | Abwehr | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Zentaurenführer  |
+  | 91 | ![Zwerg](/images/u/ti_airen.jpg) | [Zwerg](/de/units/Dwarf/) | Abwehr | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Kampfzwerg  |
   | 92 | ![Zyklop](/images/u/ti_duyanjuren.jpg) | [Zyklop](/de/units/Cyclops/) | Fernkampf | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Zyklopenkönig  |

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-3 Barde"
 permalink: /Main Story/Chapter 21_3/
 excerpt: "Kapitel 21 - 3. Era of Chaos  Hauptstory - Kapitel 21_3. 21-3 Barde"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 21_3.md"
 toc: false

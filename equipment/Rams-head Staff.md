@@ -2,7 +2,7 @@
 title: "Widderkopf-Stab"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Era of Chaos Widderkopf-Stab. Widderkopf-Stab"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Rams-head Staff.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Tödliches Ochsenhorn"
 permalink: /equipment/Deadly Ox Horn/
 excerpt: "Era of Chaos Tödliches Ochsenhorn. Tödliches Ochsenhorn"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Deadly Ox Horn.md"
 toc: false

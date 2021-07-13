@@ -2,7 +2,7 @@
 title: "Klauenmörder"
 permalink: /equipment/Claw Killer/
 excerpt: "Era of Chaos Klauenmörder. Klauenmörder"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Claw Killer.md"
 toc: false

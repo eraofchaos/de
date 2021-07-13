@@ -2,7 +2,7 @@
 title: "Sägekrallen"
 permalink: /equipment/Serrated Claws/
 excerpt: "Era of Chaos Sägekrallen. Sägekrallen"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Serrated Claws.md"
 toc: false

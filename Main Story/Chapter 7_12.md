@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-12 Strategischer Rückzug"
 permalink: /Main Story/Chapter 7_12/
 excerpt: "Kapitel 7 - 12. Era of Chaos  Hauptstory - Kapitel 7_12. 7-12 Strategischer Rückzug"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Chapter 7_12.md"
 toc: false
