@@ -3,7 +3,7 @@ title: "Spartaner"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Spartaner. Spartaner Einheiten. null. Era of Chaos Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Spartaner"
 toc: true

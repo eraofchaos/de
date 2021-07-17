@@ -2,7 +2,7 @@
 title: "Schwert des Lords. Höchstes Talent - Schwert des Lords"
 permalink: /PeakTalent/Sword of Lords/
 excerpt: "Era of Chaos Höchstes Talent Schwert des Lords. Höchstes Talent Schwert des Lords. Schwert des Lords"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Sword of Lords.md"
 toc: false

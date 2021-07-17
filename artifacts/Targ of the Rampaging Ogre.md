@@ -2,7 +2,7 @@
 title: "Artefakt - Axt der Wildheit - Schild des wütenden Ogers"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "Era of Chaos  Axt der Wildheit - Schild des wütenden Ogers. Ein Souvenir vom Sieg über einen Oger-Unterführer. Eine der Komponenten für die Axt der Wildheit."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Targ of the Rampaging Ogre.md"
 toc: false

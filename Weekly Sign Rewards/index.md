@@ -2,7 +2,7 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "index.md"
 toc: true

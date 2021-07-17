@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 21 - 21-3 Kriegssalven"
 permalink: /Underground/Chapter 21_3/
 excerpt: "Kapitel 21 - 3. Era of Chaos  Untergrund - Kapitel 21_3. 21-3 Kriegssalven"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 21_3.md"
 toc: false

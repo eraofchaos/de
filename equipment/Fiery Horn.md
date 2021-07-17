@@ -2,7 +2,7 @@
 title: "Feuriges Horn"
 permalink: /equipment/Fiery Horn/
 excerpt: "Era of Chaos Feuriges Horn. Feuriges Horn"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Fiery Horn.md"
 toc: false

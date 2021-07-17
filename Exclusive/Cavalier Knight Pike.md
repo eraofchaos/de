@@ -2,7 +2,7 @@
 title: "Exklusiv - Ritterpike (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Ritterpike. Ritterpike. Era of Chaos Exklusiv Ritterpike. Kavallerist Exklusiv."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Cavalier Ritterpike.md"
 toc: false

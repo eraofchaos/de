@@ -2,7 +2,7 @@
 title: "Tierknochenhelm"
 permalink: /equipment/Beast-boned Helmet/
 excerpt: "Era of Chaos Tierknochenhelm. Tierknochenhelm"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Beast-boned Helmet.md"
 toc: false

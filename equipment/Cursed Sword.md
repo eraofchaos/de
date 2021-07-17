@@ -2,7 +2,7 @@
 title: "Verfluchtes Schwert"
 permalink: /equipment/Cursed Sword/
 excerpt: "Era of Chaos Verfluchtes Schwert. Verfluchtes Schwert"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Cursed Sword.md"
 toc: false

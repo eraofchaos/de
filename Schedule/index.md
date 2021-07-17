@@ -2,7 +2,7 @@
 title: "Ereignisse Zeitplan"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Ereignisse Zeitplan. Ereignisse Zeitplan. Schedule for all near events and shop sales."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "index.md"
 toc: false

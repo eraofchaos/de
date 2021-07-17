@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 7 Grenzländer"
 permalink: /Underground/Chapter 7/
 excerpt: "Kapitel 7 Grenzländer. Era of Chaos  Untergrund - Kapitel 7. Grenzländer"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 7.md"
 toc: false

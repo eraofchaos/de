@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-10 Heiligtum"
 permalink: /Main Story/Chapter 12_10/
 excerpt: "Kapitel 12 - 10. Era of Chaos  Hauptstory - Kapitel 12_10. 12-10 Heiligtum"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 12_10.md"
 toc: false

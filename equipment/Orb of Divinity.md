@@ -2,7 +2,7 @@
 title: "Kugel der Göttlichkeit"
 permalink: /equipment/Orb of Divinity/
 excerpt: "Era of Chaos Kugel der Göttlichkeit. Kugel der Göttlichkeit"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Orb of Divinity.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-3 Vulkankristall"
 permalink: /Main Story/Chapter 4_3/
 excerpt: "Kapitel 4 - 3. Era of Chaos  Hauptstory - Kapitel 4_3. 4-3 Vulkankristall"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 4_3.md"
 toc: false

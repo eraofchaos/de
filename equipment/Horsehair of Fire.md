@@ -2,7 +2,7 @@
 title: "Flammende Pferdemähne"
 permalink: /equipment/Horsehair of Fire/
 excerpt: "Era of Chaos Flammende Pferdemähne. Flammende Pferdemähne"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Horsehair of Fire.md"
 toc: false

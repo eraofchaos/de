@@ -2,7 +2,7 @@
 title: "Stahlcollier"
 permalink: /equipment/Steel Necklet/
 excerpt: "Era of Chaos Stahlcollier. Stahlcollier"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Steel Necklet.md"
 toc: false

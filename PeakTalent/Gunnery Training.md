@@ -2,7 +2,7 @@
 title: "Schusswaffenausbildung. Höchstes Talent - Schusswaffenausbildung"
 permalink: /PeakTalent/Gunnery Training/
 excerpt: "Era of Chaos Höchstes Talent Schusswaffenausbildung. Höchstes Talent Schusswaffenausbildung. Schusswaffenausbildung"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Gunnery Training.md"
 toc: false

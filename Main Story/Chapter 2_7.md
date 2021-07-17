@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 2 - 2-7 Der Pferdedieb"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Kapitel 2 - 7. Era of Chaos  Hauptstory - Kapitel 2_7. 2-7 Der Pferdedieb"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 2_7.md"
 toc: false

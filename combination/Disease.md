@@ -2,7 +2,7 @@
 title: "Kombinationsinfo for Krankheit"
 permalink: /combination/Disease/
 excerpt: "Kombinationsinfo - Krankheit. Units and Heroes Formation."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Krankheit.md"
 toc: false

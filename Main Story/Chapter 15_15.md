@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-15 Die letzte Schlacht"
 permalink: /Main Story/Chapter 15_15/
 excerpt: "Kapitel 15 - 15. Era of Chaos  Hauptstory - Kapitel 15_15. 15-15 Die letzte Schlacht"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 15_15.md"
 toc: false

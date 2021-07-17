@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-10 Pilze"
 permalink: /Main Story/Chapter 25_10/
 excerpt: "Kapitel 25 - 10. Era of Chaos  Hauptstory - Kapitel 25_10. 25-10 Pilze"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 25_10.md"
 toc: false

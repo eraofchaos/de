@@ -2,7 +2,7 @@
 title: "Versengende Zähne"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Era of Chaos Versengende Zähne. Versengende Zähne"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Scalding Teeth.md"
 toc: false

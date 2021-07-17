@@ -2,7 +2,7 @@
 title: "Backup - Zauberbefehlskreis"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Zauberbefehlskreis"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Spell Commandment.md"
 toc: false

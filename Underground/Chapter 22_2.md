@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 22 - 22-2 Entscheidungen"
 permalink: /Underground/Chapter 22_2/
 excerpt: "Kapitel 22 - 2. Era of Chaos  Untergrund - Kapitel 22_2. 22-2 Entscheidungen"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 22_2.md"
 toc: false

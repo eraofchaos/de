@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 29 - 29-7 Der heilige Wald"
 permalink: /Main Story/Chapter 29_7/
 excerpt: "Kapitel 29 - 7. Era of Chaos  Hauptstory - Kapitel 29_7. 29-7 Der heilige Wald"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 29_7.md"
 toc: false

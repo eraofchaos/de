@@ -2,7 +2,7 @@
 title: "Robuste Machete"
 permalink: /equipment/Toughened Machete/
 excerpt: "Era of Chaos Robuste Machete. Robuste Machete"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Toughened Machete.md"
 toc: false

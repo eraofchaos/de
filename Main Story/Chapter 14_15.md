@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-15 Die verrückte Bestie"
 permalink: /Main Story/Chapter 14_15/
 excerpt: "Kapitel 14 - 15. Era of Chaos  Hauptstory - Kapitel 14_15. 14-15 Die verrückte Bestie"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 14_15.md"
 toc: false

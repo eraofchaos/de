@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 9 - 9-1 Die Schlacht der zwei Heere"
 permalink: /Underground/Chapter 9_1/
 excerpt: "Kapitel 9 - 1. Era of Chaos  Untergrund - Kapitel 9_1. 9-1 Die Schlacht der zwei Heere"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 9_1.md"
 toc: false

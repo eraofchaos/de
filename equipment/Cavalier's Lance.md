@@ -2,7 +2,7 @@
 title: "Kavalleristenlanze"
 permalink: /equipment/Cavalier's Lance/
 excerpt: "Era of Chaos Kavalleristenlanze. Kavalleristenlanze"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Cavalier's Lance.md"
 toc: false

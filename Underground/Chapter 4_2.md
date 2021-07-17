@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 4 - 4-2 Die Belagerung"
 permalink: /Underground/Chapter 4_2/
 excerpt: "Kapitel 4 - 2. Era of Chaos  Untergrund - Kapitel 4_2. 4-2 Die Belagerung"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 4_2.md"
 toc: false

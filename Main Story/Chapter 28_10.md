@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-10 Siegesfanfaren"
 permalink: /Main Story/Chapter 28_10/
 excerpt: "Kapitel 28 - 10. Era of Chaos  Hauptstory - Kapitel 28_10. 28-10 Siegesfanfaren"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 28_10.md"
 toc: false

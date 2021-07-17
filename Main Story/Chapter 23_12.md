@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-12 Gebadet im Drachenblut"
 permalink: /Main Story/Chapter 23_12/
 excerpt: "Kapitel 23 - 12. Era of Chaos  Hauptstory - Kapitel 23_12. 23-12 Gebadet im Drachenblut"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 23_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-5 Elfensorge"
 permalink: /Main Story/Chapter 9_5/
 excerpt: "Kapitel 9 - 5. Era of Chaos  Hauptstory - Kapitel 9_5. 9-5 Elfensorge"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 9_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 25 - 25-1 Arkanes Geheimnis"
 permalink: /Underground/Chapter 25_1/
 excerpt: "Kapitel 25 - 1. Era of Chaos  Untergrund - Kapitel 25_1. 25-1 Arkanes Geheimnis"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 25_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Schulterschutz des Seefahrers"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Era of Chaos Schulterschutz des Seefahrers. Schulterschutz des Seefahrers"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Seafaring Pauldrons.md"
 toc: false

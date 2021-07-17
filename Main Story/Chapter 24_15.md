@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-15 Magisches Reich"
 permalink: /Main Story/Chapter 24_15/
 excerpt: "Kapitel 24 - 15. Era of Chaos  Hauptstory - Kapitel 24_15. 24-15 Magisches Reich"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 24_15.md"
 toc: false

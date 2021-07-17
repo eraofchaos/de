@@ -2,7 +2,7 @@
 title: "Artefakt - Gesandten-Füllhalter - Diplomatenring"
 permalink: /artifacts/Diplomat's Ring /
 excerpt: "Era of Chaos  Gesandten-Füllhalter - Diplomatenring. Dieser funkelnde Ring weist die Bevölkerung auf den Adelsstatus seines Trägers hin. Er ist eine der Komponenten des Gesandten-Füllhalters."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Diplomat's Ring .md"
 toc: false

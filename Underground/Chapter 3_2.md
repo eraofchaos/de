@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 3 - 3-2 Das Mal des Drachen"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Kapitel 3 - 2. Era of Chaos  Untergrund - Kapitel 3_2. 3-2 Das Mal des Drachen"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Chapter 3_2.md"
 toc: false

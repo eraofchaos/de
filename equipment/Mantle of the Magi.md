@@ -2,7 +2,7 @@
 title: "Umhang der Magier"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "Era of Chaos Umhang der Magier. Umhang der Magier"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "Mantle of the Magi.md"
 toc: false
