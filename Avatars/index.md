@@ -2,7 +2,7 @@
 title: "Avatarrahmen & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatarrahmen & Avatar. Avatarrahmen & Avatar"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "index.md"
 toc: false
@@ -90,7 +90,7 @@ classes: wide
   | 77 | ![Taktischer Kommandant](/images/a/avatarFrame_20.png) | [Taktischer Kommandant](/de/Avatars/Tactical Commander/) | + | „Taktischer Kommandant“-Avatarrahmen |
   | 78 | ![Tanz der Klingen](/images/a/avatarFrame_26.png) | [Tanz der Klingen](/de/Avatars/Dance of the Blades/) | + | „Tanz der Klingen“-Avatarrahmen |
   | 79 | ![Tiefeneis-Kristall](/images/a/avatarFrame_91.png) | [Tiefeneis-Kristall](/de/Avatars/Deep Ice Crystal/) | + | Tiefeneis-Kristall-Avatarrahmen |
-  | 80 | ![Todesreich](/images/a/avatarFrame_86.png) | [Todesreich](/de/Avatars/Death Kingdom/) | - | Todesreich-Avatarrahmen |
+  | 80 | ![Todesreich](/images/a/avatarFrame_86.png) | [Todesreich](/de/Avatars/Death Kingdom/) | + | Todesreich-Avatarrahmen |
   | 81 | ![Turm](/images/a/avatarFrame_5.png) | [Turm](/de/Avatars/Tower/) | - | Turm-Avatarrahmen |
   | 82 | ![Tödlicher Kommandant](/images/a/avatarFrame_21.png) | [Tödlicher Kommandant](/de/Avatars/Deadly Commander/) | + | „Tödlicher Kommandant“-Avatarrahmen |
   | 83 | ![Unknown Avatar Frame 1007](/images/a/avatarFrame_7.png) | [Unknown Avatar Frame 1007](/de/Avatars/Unknown Avatar Frame 1007/) | - |  |
@@ -104,15 +104,16 @@ classes: wide
   | 91 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/de/Avatars/Unknown Avatar Frame 1066/) | - |  |
   | 92 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/de/Avatars/Unknown Avatar Frame 1067/) | - |  |
   | 93 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/de/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 94 | ![Vorherrschaft der Dunkelheit](/images/a/avatarFrame_34.png) | [Vorherrschaft der Dunkelheit](/de/Avatars/Darkness Dominance/) | + | „Vorherrschaft der Dunkelheit“-Avatarrahmen |
-  | 95 | ![Warme Weihnacht](/images/a/avatarFrame_47.png) | [Warme Weihnacht](/de/Avatars/Warm Christmas/) | + | „Warme Weihnacht“-Avatarrahmen |
-  | 96 | ![Weg des Wachstums](/images/a/avatarFrame_68.png) | [Weg des Wachstums](/de/Avatars/Path to Growth/) | - | „Weg des Wachstums“-Avatarrahmen |
-  | 97 | ![Weltexpedition](/images/a/avatarFrame_201.png) | [Weltexpedition](/de/Avatars/Global Expedition/) | + | Weltexpedition-Avatarrahmen |
-  | 98 | ![Wilder Overlord](/images/a/avatarFrame_98.png) | [Wilder Overlord](/de/Avatars/Wild Overlord/) | + | „Wilder Overlord“-Avatarrahmen |
-  | 99 | ![Wille der Götter](/images/a/avatarFrame_30.png) | [Wille der Götter](/de/Avatars/Will of the Gods/) | + | „Wille der Götter“-Avatarrahmen |
-  | 100 | ![Wut des Berserkers](/images/a/avatarFrame_73.png) | [Wut des Berserkers](/de/Avatars/Berserker Rage/) | + | „Wut des Berserkers“-Avatarrahmen |
-  | 101 | ![Zaubermeister](/images/a/avatarFrame_10.png) | [Zaubermeister](/de/Avatars/Spell Master/) | + | Zaubermeister- Avatarrahmen |
-  | 102 | ![Zorn der Wildnis](/images/a/avatarFrame_29.png) | [Zorn der Wildnis](/de/Avatars/Fury of the Wilderness/) | + | „Zorn der Wildnis“-Avatarrahmen |
-  | 103 | ![Zorn des Donners](/images/a/avatarFrame_57.png) | [Zorn des Donners](/de/Avatars/Thunder Rage/) | + | „Zorn des Donners“-Avatarrahmen |
-  | 104 | ![„NFL Honors“-Erinnerung](/images/a/avatarFrame_94.png) | [„NFL Honors“-Erinnerung](/de/Avatars/NFL Honors Commemoration/) | + | „NFL Honors“-Erinnerung-Avatarrahmen |
-  | 105 |  | [„Schatten des Eisreiches“-Drache](/de/Avatars/Shadow of Ice Kingdom Dragon/) | - | „Schatten des Eisreiches“-Drachen-Avatarrahmen |
+  | 94 | ![Unknown Avatar Frame 1126](/images/a/avatarFrame_126.png) | [Unknown Avatar Frame 1126](/de/Avatars/Unknown Avatar Frame 1126/) | + |  |
+  | 95 | ![Vorherrschaft der Dunkelheit](/images/a/avatarFrame_34.png) | [Vorherrschaft der Dunkelheit](/de/Avatars/Darkness Dominance/) | + | „Vorherrschaft der Dunkelheit“-Avatarrahmen |
+  | 96 | ![Warme Weihnacht](/images/a/avatarFrame_47.png) | [Warme Weihnacht](/de/Avatars/Warm Christmas/) | + | „Warme Weihnacht“-Avatarrahmen |
+  | 97 | ![Weg des Wachstums](/images/a/avatarFrame_68.png) | [Weg des Wachstums](/de/Avatars/Path to Growth/) | - | „Weg des Wachstums“-Avatarrahmen |
+  | 98 | ![Weltexpedition](/images/a/avatarFrame_201.png) | [Weltexpedition](/de/Avatars/Global Expedition/) | + | Weltexpedition-Avatarrahmen |
+  | 99 | ![Wilder Overlord](/images/a/avatarFrame_98.png) | [Wilder Overlord](/de/Avatars/Wild Overlord/) | + | „Wilder Overlord“-Avatarrahmen |
+  | 100 | ![Wille der Götter](/images/a/avatarFrame_30.png) | [Wille der Götter](/de/Avatars/Will of the Gods/) | + | „Wille der Götter“-Avatarrahmen |
+  | 101 | ![Wut des Berserkers](/images/a/avatarFrame_73.png) | [Wut des Berserkers](/de/Avatars/Berserker Rage/) | + | „Wut des Berserkers“-Avatarrahmen |
+  | 102 | ![Zaubermeister](/images/a/avatarFrame_10.png) | [Zaubermeister](/de/Avatars/Spell Master/) | + | Zaubermeister- Avatarrahmen |
+  | 103 | ![Zorn der Wildnis](/images/a/avatarFrame_29.png) | [Zorn der Wildnis](/de/Avatars/Fury of the Wilderness/) | + | „Zorn der Wildnis“-Avatarrahmen |
+  | 104 | ![Zorn des Donners](/images/a/avatarFrame_57.png) | [Zorn des Donners](/de/Avatars/Thunder Rage/) | + | „Zorn des Donners“-Avatarrahmen |
+  | 105 | ![„NFL Honors“-Erinnerung](/images/a/avatarFrame_94.png) | [„NFL Honors“-Erinnerung](/de/Avatars/NFL Honors Commemoration/) | + | „NFL Honors“-Erinnerung-Avatarrahmen |
+  | 106 |  | [„Schatten des Eisreiches“-Drache](/de/Avatars/Shadow of Ice Kingdom Dragon/) | - | „Schatten des Eisreiches“-Drachen-Avatarrahmen |

@@ -2,7 +2,7 @@
 title: "Schlachtfeldreserve"
 permalink: /Backup/
 excerpt: "Era of Chaos  Schlachtfeldreserve - Magierinnen können ein Raumportal auf dem Schlachtfeld öffnen und 3 Hilfseinheiten dorthin holen, während sie eine starke Zauber-Aura erzeugen. Die Gegner werden erzittern."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "index.md"
 toc: false

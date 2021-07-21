@@ -2,7 +2,7 @@
 title: "Artefakt - Axt der Wildheit"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "Era of Chaos  Axt der Wildheit. Axt der Wildheit Eine aus heiligen Reliquien verschiedener Völker geschmiedete Waffe. Kann die Nahkampffähigkeit verbessern."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Axe of Ferocity.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Assassine"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassine. Assassine Einheiten. null. Era of Chaos Wir arbeiten im Dunkel, um dem Licht zu dienen. Nichts ist wahr, alles ist erlaubt."
 unitID: 9701
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Assassine"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Klasse Beschreibung:** Ansturm: Ansturm-Einheiten können Gegner in der hinteren Reihe angreifen, wodurch der Krit. Gesamt-SCHD gegen Fernkampf- und Zauberer-Einheiten erhöht wird.
 
- **Fraktion:** [Neutrale Armee](/de/units/Faction Neutral Army/)
+ **Fraktion:** [Neutral](/de/units/Faction Neutral/)
 
  **Race:** Assassinengilde
 

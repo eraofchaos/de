@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 16 - 16-11 Steinmaske"
 permalink: /Main Story/Chapter 16_11/
 excerpt: "Kapitel 16 - 11. Era of Chaos  Hauptstory - Kapitel 16_11. 16-11 Steinmaske"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 16_11.md"
 toc: false

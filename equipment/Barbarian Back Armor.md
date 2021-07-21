@@ -2,7 +2,7 @@
 title: "Barbaren-Rückenpanzerung"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "Era of Chaos Barbaren-Rückenpanzerung. Barbaren-Rückenpanzerung"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Barbarian Back Armor.md"
 toc: false

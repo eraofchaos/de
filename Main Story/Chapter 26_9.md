@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-9 Lied der Zauberin"
 permalink: /Main Story/Chapter 26_9/
 excerpt: "Kapitel 26 - 9. Era of Chaos  Hauptstory - Kapitel 26_9. 26-9 Lied der Zauberin"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 26_9.md"
 toc: false

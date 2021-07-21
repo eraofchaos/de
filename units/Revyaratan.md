@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Einheiten. Uraltes Seemonster. Era of Chaos Ein Monster, das in der Tiefsee haust. Mit seinem gewaltigen Maul kann es alles verschlingen."
 unitID: 9908
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Revyaratan"
 toc: true
@@ -80,11 +80,11 @@ toc: true
 
  **Name:** [Düstere Gezeiten](/de/Exclusive/Revyaratan Gloom Tides/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [Düstere-Gezeiten-Token](/de/Items/con_2224/)
 
- **Skin:** -
+ **Skin:** [Düstere-Gezeiten-Spezialskin](/de/Items/con_2222/)
 
 
 ## Empfohlene Heilige Embleme

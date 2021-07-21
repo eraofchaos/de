@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-14 Bestienmeister-Festung"
 permalink: /Main Story/Chapter 14_14/
 excerpt: "Kapitel 14 - 14. Era of Chaos  Hauptstory - Kapitel 14_14. 14-14 Bestienmeister-Festung"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 14_14.md"
 toc: false

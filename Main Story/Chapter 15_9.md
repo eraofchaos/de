@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-9 Erneute Begegnung"
 permalink: /Main Story/Chapter 15_9/
 excerpt: "Kapitel 15 - 9. Era of Chaos  Hauptstory - Kapitel 15_9. 15-9 Erneute Begegnung"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 15_9.md"
 toc: false

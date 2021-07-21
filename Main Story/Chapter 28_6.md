@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 28 - 28-6 Verlassene Goldmine"
 permalink: /Main Story/Chapter 28_6/
 excerpt: "Kapitel 28 - 6. Era of Chaos  Hauptstory - Kapitel 28_6. 28-6 Verlassene Goldmine"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 28_6.md"
 toc: false

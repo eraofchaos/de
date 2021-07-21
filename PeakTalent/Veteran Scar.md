@@ -2,7 +2,7 @@
 title: "Veteranennarbe. Höchstes Talent - Veteranennarbe"
 permalink: /PeakTalent/Veteran Scar/
 excerpt: "Era of Chaos Höchstes Talent Veteranennarbe. Höchstes Talent Veteranennarbe. Veteranennarbe"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Veteran Scar.md"
 toc: false

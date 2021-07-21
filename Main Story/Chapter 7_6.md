@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 7 - 7-6 Zerstörtes Zuhause"
 permalink: /Main Story/Chapter 7_6/
 excerpt: "Kapitel 7 - 6. Era of Chaos  Hauptstory - Kapitel 7_6. 7-6 Zerstörtes Zuhause"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 7_6.md"
 toc: false

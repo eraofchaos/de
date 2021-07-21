@@ -2,7 +2,7 @@
 title: "Leichte Rüstung des Blutdurstes"
 permalink: /equipment/Light Armor of Bloodthirst/
 excerpt: "Era of Chaos Leichte Rüstung des Blutdurstes. Leichte Rüstung des Blutdurstes"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Light Armor of Bloodthirst.md"
 toc: false

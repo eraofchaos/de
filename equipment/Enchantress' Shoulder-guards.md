@@ -2,7 +2,7 @@
 title: "Schulterpanzer der Zauberin"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "Era of Chaos Schulterpanzer der Zauberin. Schulterpanzer der Zauberin"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Enchantress' Shoulder-guards.md"
 toc: false

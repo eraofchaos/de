@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "Era of Chaos Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Hero Rank SSR"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![Gem](/images/h/h_Gem.jpg) | [Gem](/de/heroes/Gem/) | Schutzwall | Druidin | **SSR** |  Natürliche Heilung | SSR |
   | 5 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/de/heroes/Xeron/) | Inferno | Dämoniker | **SSR** |  Erzteufel | SSR |
   | 6 | ![Lord Haart](/images/h/h_LordHaart.jpg) | [Lord Haart](/de/heroes/Lord Haart/) | Nekropolis | Todesritter | **SSR** |  Todesritter | SR- |
-  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/de/heroes/Ezio/) | Neutrale Armee |  | **SSR** |  Bruderschaft | R+ |
+  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/de/heroes/Ezio/) | Neutral |  | **SSR** |  Bruderschaft | R+ |
   | 8 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/de/heroes/Tazar/) | Festung | Bestienmeister | **SSR** |  Blutiger Zorn | SSR |
   | 9 | ![Sandro](/images/h/h_Sandro.jpg) | [Sandro](/de/heroes/Sandro/) | Nekropolis | Totenbeschwörer | **SSR** |  Dunkelheit | SSR |
   | 10 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/de/heroes/Astral/) | Turm | Zauberer | **SSR** |  Magieverstärkung | SSR |

@@ -3,7 +3,7 @@ title: "Hai-Ausbilder"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Hai-Ausbilder. Hai-Ausbilder Einheiten. Hai-Reiter. Era of Chaos Der Albtraum des Todes herrscht über die See und schwingt einen Säbel, während er auf dem Hai steht."
 unitID: 9909
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Hai-Ausbilder"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rangaufstieg:** -
+ **Item to Rangaufstieg:** [„Wellen brechen“-Token](/de/Items/con_2225/)
 
- **Skin:** -
+ **Skin:** [„Wellen brechen“-Spezialskin](/de/Items/con_2223/)
 
 
 ## Empfohlene Heilige Embleme

@@ -2,7 +2,7 @@
 title: "Klinge des Imperiums"
 permalink: /equipment/Empire's Sword/
 excerpt: "Era of Chaos Klinge des Imperiums. Klinge des Imperiums"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Empire's Sword.md"
 toc: false

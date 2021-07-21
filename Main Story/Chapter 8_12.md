@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-12 Einstiger Bruder"
 permalink: /Main Story/Chapter 8_12/
 excerpt: "Kapitel 8 - 12. Era of Chaos  Hauptstory - Kapitel 8_12. 8-12 Einstiger Bruder"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 8_12.md"
 toc: false

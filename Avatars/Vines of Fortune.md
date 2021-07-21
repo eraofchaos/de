@@ -2,7 +2,7 @@
 title: "Avatar - Ranken des Glücks"
 permalink: /Avatars/Vines of Fortune/
 excerpt: "Era of Chaos  Ranken des Glücks"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Vines of Fortune.md"
 toc: false

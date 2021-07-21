@@ -2,13 +2,13 @@
 title: "Exklusiv - Ewige Flamme (Firebird)"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Ewige Flamme. Ewige Flamme. Era of Chaos Exklusiv Ewige Flamme. Feuervogel Exklusiv."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Firebird Ewige Flamme.md"
 toc: false
 classes: wide
 ---
- [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--success} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutrale Armee](/de/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Neutral](/de/Exclusive/Exclusive Neutral/){: .btn .btn--primary} [Konflux](/de/Exclusive/Exclusive Conflux/){: .btn .btn--success} [Inferno](/de/Exclusive/Exclusive Inferno/){: .btn .btn--warning} [Dungeon](/de/Exclusive/Exclusive Dungeon/){: .btn .btn--danger} [Festung](/de/Exclusive/Exclusive Fortress/){: .btn .btn--info} [Schutzwall](/de/Exclusive/Exclusive Rampart/){: .btn .btn--primary} [Schloss](/de/Exclusive/Exclusive Castle/){: .btn .btn--success} [Turm](/de/Exclusive/Exclusive Tower/){: .btn .btn--warning} [Burg](/de/Exclusive/Exclusive Stronghold/){: .btn .btn--danger} [Bucht](/de/Exclusive/Exclusive Cove/){: .btn .btn--info} [Nekropolis](/de/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ### Details
  **Name: Ewige Flamme** 

@@ -2,7 +2,7 @@
 title: "Gladiatorenschild. Höchstes Talent - Gladiatorenschild"
 permalink: /PeakTalent/Shield of Gladiators/
 excerpt: "Era of Chaos Höchstes Talent Gladiatorenschild. Höchstes Talent Gladiatorenschild. Gladiatorenschild"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Shield of Gladiators.md"
 toc: false

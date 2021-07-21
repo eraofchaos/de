@@ -2,7 +2,7 @@
 title: "Artefakt - Gesandten-Füllhalter - Staatsmannsorden"
 permalink: /artifacts/Statesman's Medal/
 excerpt: "Era of Chaos  Gesandten-Füllhalter - Staatsmannsorden. Dieser Orden zeugt von den glorreichen Errungenschaften seines Besitzers. Er ist eine der Komponenten des Gesandten-Füllhalters."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Statesman's Medal.md"
 toc: false

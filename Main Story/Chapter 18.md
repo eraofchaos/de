@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 Geschäft mit dem Teufel"
 permalink: /Main Story/Chapter 18/
 excerpt: "Kapitel 18. Era of Chaos  Hauptstory - Kapitel 18. Geschäft mit dem Teufel"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 18.md"
 toc: false

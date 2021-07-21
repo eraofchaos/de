@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-2 Magie ersehnen"
 permalink: /Main Story/Chapter 20_2/
 excerpt: "Kapitel 20 - 2. Era of Chaos  Hauptstory - Kapitel 20_2. 20-2 Magie ersehnen"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 20_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-6 Abscheuliche Begegnung"
 permalink: /Main Story/Chapter 14_6/
 excerpt: "Kapitel 14 - 6. Era of Chaos  Hauptstory - Kapitel 14_6. 14-6 Abscheuliche Begegnung"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 14_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-4 Baum des Wissens"
 permalink: /Main Story/Chapter 30_4/
 excerpt: "Kapitel 30 - 4. Era of Chaos  Hauptstory - Kapitel 30_4. 30-4 Baum des Wissens"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 30_4.md"
 toc: false

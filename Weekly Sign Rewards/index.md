@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 31  Burgwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **2 Aug** | **5x [Goblin](/ItemsDE/unt_217/)**  | Ein Trupp von Goblins schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **3 Aug** | **5x [Wolfsreiter](/ItemsDE/unt_218/)**  | Ein Trupp von Wolfsreitern schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **4 Aug** | **100x <i class="fas fa-gem"/>**  | Die Orks unter deinem Befehl haben einen Haufen Diamanten für dich geplündert! |
+  | **5 Aug** | **5x [Ork](/ItemsDE/unt_219/)**  | Ein Trupp von Orks schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **6 Aug** | **3x [Oger](/ItemsDE/unt_220/)**  | Ein Trupp von Ogern schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **7 Aug** | **3x [Zyklop](/ItemsDE/unt_222/)**  | Ein Trupp von Zyklopen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **8 Aug** | **5x [Crag Hack](/ItemsDE/her_375/)**  | Eure andauernde Expedition brachten den Helden Crag Hack dazu, sich Eurer Armee anzuschließen! |
+
 
 #### 2021 Week 30  Schlosswoche
 

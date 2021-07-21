@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-11 Magierinnen-Orden"
 permalink: /Main Story/Chapter 20_11/
 excerpt: "Kapitel 20 - 11. Era of Chaos  Hauptstory - Kapitel 20_11. 20-11 Magierinnen-Orden"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 20_11.md"
 toc: false

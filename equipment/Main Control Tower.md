@@ -2,7 +2,7 @@
 title: "Hauptkontrollturm"
 permalink: /equipment/Main Control Tower/
 excerpt: "Era of Chaos Hauptkontrollturm. Hauptkontrollturm"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Main Control Tower.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ledergürtel"
 permalink: /equipment/Leather Belt/
 excerpt: "Era of Chaos Ledergürtel. Ledergürtel"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Leather Belt.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 8 - 8-2 In der Unterzahl"
 permalink: /Underground/Chapter 8_2/
 excerpt: "Kapitel 8 - 2. Era of Chaos  Untergrund - Kapitel 8_2. 8-2 In der Unterzahl"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 8_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 27 - 27-11 Immerwährend"
 permalink: /Main Story/Chapter 27_11/
 excerpt: "Kapitel 27 - 11. Era of Chaos  Hauptstory - Kapitel 27_11. 27-11 Immerwährend"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 27_11.md"
 toc: false

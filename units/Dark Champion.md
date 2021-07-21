@@ -3,7 +3,7 @@ title: "Dunkler Kämpe"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Dunkler Kämpe. Dunkler Kämpe Einheiten. null. Era of Chaos Er ist der Unsterbliche König, aber auch der Lord des Dunkels. Er richtet jede lebende Kreatur grausam hin, um an ihre Seele zu kommen."
 unitID: 309
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Dunkler Kämpe"
 toc: true
@@ -110,7 +110,7 @@ toc: true
  **Beschreibung:** <span style="color: #645252;font-size:20px">Wenn die LP des Ziels unter 40 % liegen, begräbt der Dunkle Kämpe es </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Sek. lang unter einem Grabstein. Die begrabene Einheit verstummt und kann nicht geheilt werden; außerdem kann sie sich weder bewegen noch angreifen. Während der Wirkungsdauer wird der Schaden, den sie erleidet, auf 4 zufällige gegnerische Fernkampfeinheiten aufgeteilt. Solange der Grabstein besteht, erhalten alle verbündeten Nekropolis-Einheiten in Reichweite pro Sekunde </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> ihrer max. LP zurück. AKZ 28 Sek.</span><span style="color: black">
 
 ### Gewöhnliche Fähigkeit 3 : Knochenkönig
- **Beschreibung:** <span style="color: #645252;font-size:20px">Der Schaden der Einheit wird erhöht um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Die LP, die durch Schicksalsende regeneriert werden, steigen um zusätzliche 4 % pro Nekropolis-Einheit auf dem Schlachtfeld sowie um zusätzliche 1 % für jede Einheit, die die Nekropolis beschwört. Der Bonus auf Schicksalsende ist auf bis zu 25 % stapelbar. Wenn eine verbündete Einheit einen Erdzauber wirkt, wird die AKZ eines zufälligen Zaubers um 4 Sek. reduziert.</span><span style="color: black">
+ **Beschreibung:** <span style="color: #645252;font-size:20px">Die Schadensreduzierung und der Schaden der Einheit werden um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px"> erhöht. Die LP, die durch Schicksalsende regeneriert werden, steigen um zusätzliche 4 % pro Nekropolis-Einheit auf dem Schlachtfeld sowie um zusätzliche 1 % für jede Einheit, die die Nekropolis beschwört. Der Bonus auf Schicksalsende ist auf bis zu 25 % stapelbar. Wenn eine verbündete Einheit einen Erdzauber wirkt, wird die AKZ eines zufälligen Zaubers um 4 Sek. reduziert.</span><span style="color: black">
 
 ### Fraktions-Spezialfähigkeit I : Trostlose Verteidigung
  **Beschreibung:** <span style="color: #645252;font-size:20px">Nekropolis-Einheiten laben sich an Trostlosigkeit. Im Kampf gegen Einheiten, die unter „Niedrige Moral“ leiden, erhöht sich die SCHD-Reduzierung (Einheit) um </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">

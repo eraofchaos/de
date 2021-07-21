@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-14 Kavalleristenangriff"
 permalink: /Main Story/Chapter 11_14/
 excerpt: "Kapitel 11 - 14. Era of Chaos  Hauptstory - Kapitel 11_14. 11-14 Kavalleristenangriff"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 11_14.md"
 toc: false

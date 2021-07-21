@@ -2,7 +2,7 @@
 title: "Kristallkrone der Magie"
 permalink: /equipment/Crystal Crown of Magic/
 excerpt: "Era of Chaos Kristallkrone der Magie. Kristallkrone der Magie"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Crystal Crown of Magic.md"
 toc: false

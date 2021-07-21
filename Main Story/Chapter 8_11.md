@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-11 Waldelfe"
 permalink: /Main Story/Chapter 8_11/
 excerpt: "Kapitel 8 - 11. Era of Chaos  Hauptstory - Kapitel 8_11. 8-11 Waldelfe"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 8_11.md"
 toc: false

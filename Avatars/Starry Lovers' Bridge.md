@@ -2,7 +2,7 @@
 title: "Avatar - Liebesbrücke unter Sternen"
 permalink: /Avatars/Starry Lovers' Bridge/
 excerpt: "Era of Chaos  Liebesbrücke unter Sternen"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Starry Lovers' Bridge.md"
 toc: false

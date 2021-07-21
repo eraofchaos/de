@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 9 - 9-9 Völliger Zusammenbruch"
 permalink: /Main Story/Chapter 9_9/
 excerpt: "Kapitel 9 - 9. Era of Chaos  Hauptstory - Kapitel 9_9. 9-9 Völliger Zusammenbruch"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 9_9.md"
 toc: false

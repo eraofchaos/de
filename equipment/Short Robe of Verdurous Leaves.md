@@ -2,7 +2,7 @@
 title: "Kurzrobe der grünen Blätter"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Era of Chaos Kurzrobe der grünen Blätter. Kurzrobe der grünen Blätter"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

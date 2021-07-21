@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Fraktion: [Konflux](/de/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/de/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/de/units/Faction Dungeon/){: .btn .btn--warning} [Festung](/de/units/Faction Fortress/){: .btn .btn--danger} [Schutzwall](/de/units/Faction Rampart/){: .btn .btn--info} [Schloss](/de/units/Faction Castle/){: .btn .btn--primary} [Turm](/de/units/Faction Tower/){: .btn .btn--success} [Burg](/de/units/Faction Stronghold/){: .btn .btn--warning} [Bucht](/de/units/Faction Cove/){: .btn .btn--danger} [Neutrale Armee](/de/units/Faction Neutral Army/){: .btn .btn--info} [Nekropolis](/de/units/Faction Necropolis/){: .btn .btn--primary} 
+  by Fraktion: [Neutral](/de/units/Faction Neutral/){: .btn .btn--primary} [Konflux](/de/units/Faction Conflux/){: .btn .btn--success} [Inferno](/de/units/Faction Inferno/){: .btn .btn--warning} [Dungeon](/de/units/Faction Dungeon/){: .btn .btn--danger} [Festung](/de/units/Faction Fortress/){: .btn .btn--info} [Schutzwall](/de/units/Faction Rampart/){: .btn .btn--primary} [Schloss](/de/units/Faction Castle/){: .btn .btn--success} [Turm](/de/units/Faction Tower/){: .btn .btn--warning} [Burg](/de/units/Faction Stronghold/){: .btn .btn--danger} [Bucht](/de/units/Faction Cove/){: .btn .btn--info} [Nekropolis](/de/units/Faction Necropolis/){: .btn .btn--primary} 
 
   by Klasse: [Fernkampf](/de/units/Unit Class Ranged/){: .btn .btn--primary} [Ansturm](/de/units/Unit Class Charging/){: .btn .btn--success} [Zauberer](/de/units/Unit Class Caster/){: .btn .btn--warning} [Offensiv](/de/units/Unit Class Offense/){: .btn .btn--danger} [Abwehr](/de/units/Unit Class Defense/){: .btn .btn--info} 
 
@@ -85,7 +85,7 @@ classes: wide
   | 63 | ![Regnanpirat](/images/u/ti_haidao.jpg) | [Regnanpirat](/de/units/Regnan Pirates/) | Offensiv | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  König der Piraten  |
   | 64 | ![Regnanschlange](/images/u/ti_yurenyongshi.jpg) | [Regnanschlange](/de/units/Regnan Serpent/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Seelenstein des Gezeitenwächters  |
   | 65 | ![Regnanseherin](/images/u/ti_haihou.jpg) | [Regnanseherin](/de/units/Regnan Seer/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Gezeitenelementar  |
-  | 66 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Uraltes Seemonster  |
+  | 66 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Uraltes Seemonster  |
   | 67 | ![Richterin](/images/u/ti_shenpanguan.jpg) | [Richterin](/de/units/Judicator/) | Zauberer | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 68 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/de/units/Roc/) | Zauberer | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Donnervogel  |
   | 69 | ![Roter Drache](/images/u/ti_chilong.jpg) | [Roter Drache](/de/units/Red Dragon/) | Offensiv | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |

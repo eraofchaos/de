@@ -2,7 +2,7 @@
 title: "Thron aus Eis"
 permalink: /equipment/Throne of Ice/
 excerpt: "Era of Chaos Thron aus Eis. Thron aus Eis"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Throne of Ice.md"
 toc: false

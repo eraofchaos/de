@@ -3,7 +3,7 @@ title: "Spartaner"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Spartaner. Spartaner Einheiten. null. Era of Chaos Krieger der Thermopylen, hier schlagen wir unsere letzte Schlacht gegen die Eindringlinge. Für Sparta!"
 unitID: 9702
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Spartaner"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Klasse Beschreibung:** Offensiv-Einheiten können den Rüstungswert ihrer Ziele senken. Der Effekt ist nicht stapelbar.
 
- **Fraktion:** [Neutrale Armee](/de/units/Faction Neutral Army/)
+ **Fraktion:** [Neutral](/de/units/Faction Neutral/)
 
  **Race:** Assassinengilde
 

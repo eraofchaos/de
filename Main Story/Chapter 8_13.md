@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 8 - 8-13 Schwer angeschlagen"
 permalink: /Main Story/Chapter 8_13/
 excerpt: "Kapitel 8 - 13. Era of Chaos  Hauptstory - Kapitel 8_13. 8-13 Schwer angeschlagen"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 8_13.md"
 toc: false

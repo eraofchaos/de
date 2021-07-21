@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 8 - 8-1 Eine neue Strategie"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Kapitel 8 - 1. Era of Chaos  Untergrund - Kapitel 8_1. 8-1 Eine neue Strategie"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 8_1.md"
 toc: false

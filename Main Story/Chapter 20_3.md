@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-3 Magische Schöpfung"
 permalink: /Main Story/Chapter 20_3/
 excerpt: "Kapitel 20 - 3. Era of Chaos  Hauptstory - Kapitel 20_3. 20-3 Magische Schöpfung"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 20_3.md"
 toc: false

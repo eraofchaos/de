@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 - 26-11 Führung des Betrachters"
 permalink: /Main Story/Chapter 26_11/
 excerpt: "Kapitel 26 - 11. Era of Chaos  Hauptstory - Kapitel 26_11. 26-11 Führung des Betrachters"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "Chapter 26_11.md"
 toc: false
