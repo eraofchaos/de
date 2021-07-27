@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-11 Zusammenstehen"
 permalink: /Main Story/Chapter 12_11/
 excerpt: "Kapitel 12 - 11. Era of Chaos  Hauptstory - Kapitel 12_11. 12-11 Zusammenstehen"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 12_11.md"
 toc: false

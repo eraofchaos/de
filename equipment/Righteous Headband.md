@@ -2,7 +2,7 @@
 title: "Rechtschaffenes Stirnband"
 permalink: /equipment/Righteous Headband/
 excerpt: "Era of Chaos Rechtschaffenes Stirnband. Rechtschaffenes Stirnband"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Righteous Headband.md"
 toc: false

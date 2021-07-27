@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-3 Das rostige Metall"
 permalink: /Main Story/Chapter 23_3/
 excerpt: "Kapitel 23 - 3. Era of Chaos  Hauptstory - Kapitel 23_3. 23-3 Das rostige Metall"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 23_3.md"
 toc: false

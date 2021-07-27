@@ -2,7 +2,7 @@
 title: "Leuchtende Schmetterlingsflügel"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Era of Chaos Leuchtende Schmetterlingsflügel. Leuchtende Schmetterlingsflügel"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Phosphorus Butterfly Wings.md"
 toc: false

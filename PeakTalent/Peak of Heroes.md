@@ -2,7 +2,7 @@
 title: "Heldenspitze. Höchstes Talent - Heldenspitze"
 permalink: /PeakTalent/Peak of Heroes/
 excerpt: "Era of Chaos Höchstes Talent Heldenspitze. Höchstes Talent Heldenspitze. Heldenspitze"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Peak of Heroes.md"
 toc: false

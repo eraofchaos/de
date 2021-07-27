@@ -2,7 +2,7 @@
 title: "Armschutz des Kriegers"
 permalink: /equipment/Warrior's Bracers/
 excerpt: "Era of Chaos Armschutz des Kriegers. Armschutz des Kriegers"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Warrior's Bracers.md"
 toc: false

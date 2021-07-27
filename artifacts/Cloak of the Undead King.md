@@ -2,7 +2,7 @@
 title: "Artefakt - Mantel des untoten Königs"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Era of Chaos  Mantel des untoten Königs. Mantel des untoten Königs Eine heilige Reliquie, von einem großen Untotenkönig angefertigt, um sein Gesicht zu verbergen. Kann eine Skelettarmee herbeirufen."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Cloak of the Undead King.md"
 toc: false

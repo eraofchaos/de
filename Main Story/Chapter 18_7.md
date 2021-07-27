@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 18 - 18-7 Lied der Dichterin"
 permalink: /Main Story/Chapter 18_7/
 excerpt: "Kapitel 18 - 7. Era of Chaos  Hauptstory - Kapitel 18_7. 18-7 Lied der Dichterin"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 18_7.md"
 toc: false

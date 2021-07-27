@@ -2,7 +2,7 @@
 title: "Göttliche Armschiene"
 permalink: /equipment/Divine Vambrace/
 excerpt: "Era of Chaos Göttliche Armschiene. Göttliche Armschiene"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Divine Vambrace.md"
 toc: false

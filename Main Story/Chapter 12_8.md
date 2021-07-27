@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-8 Blitzschlacht"
 permalink: /Main Story/Chapter 12_8/
 excerpt: "Kapitel 12 - 8. Era of Chaos  Hauptstory - Kapitel 12_8. 12-8 Blitzschlacht"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 12_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-15 Kristalltal"
 permalink: /Main Story/Chapter 22_15/
 excerpt: "Kapitel 22 - 15. Era of Chaos  Hauptstory - Kapitel 22_15. 22-15 Kristalltal"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 22_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Schulterblatt des Kriegers"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Era of Chaos Schulterblatt des Kriegers. Schulterblatt des Kriegers"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Warrior's Scapula.md"
 toc: false

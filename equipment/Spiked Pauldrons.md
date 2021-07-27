@@ -2,7 +2,7 @@
 title: "Stachelbewehrter Schulterschutz"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Era of Chaos Stachelbewehrter Schulterschutz. Stachelbewehrter Schulterschutz"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Spiked Pauldrons.md"
 toc: false

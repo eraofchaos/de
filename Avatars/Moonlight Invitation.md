@@ -2,7 +2,7 @@
 title: "Avatar - Mondlicht-Einladung"
 permalink: /Avatars/Moonlight Invitation/
 excerpt: "Era of Chaos  Mondlicht-Einladung"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Moonlight Invitation.md"
 toc: false

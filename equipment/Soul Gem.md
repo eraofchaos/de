@@ -2,7 +2,7 @@
 title: "Seelenedelstein"
 permalink: /equipment/Soul Gem/
 excerpt: "Era of Chaos Seelenedelstein. Seelenedelstein"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Soul Gem.md"
 toc: false

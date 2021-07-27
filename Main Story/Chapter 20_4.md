@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-4 Luftfahrzeug"
 permalink: /Main Story/Chapter 20_4/
 excerpt: "Kapitel 20 - 4. Era of Chaos  Hauptstory - Kapitel 20_4. 20-4 Luftfahrzeug"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 20_4.md"
 toc: false

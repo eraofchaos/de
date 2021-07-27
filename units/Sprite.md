@@ -3,7 +3,7 @@ title: "Pixie"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Pixie. Pixie Einheiten. Elfenmagierin. Era of Chaos Ein wunderschöner Kobold, den man nur in Legenden und Fabeln findet. Wer ihn schlecht behandelt, wird von den Lesern gehasst und kann mit keinem guten Ende rechnen."
 unitID: 901
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Pixie"
 toc: true

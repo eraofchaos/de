@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 14 - 14-2 Den Kundschafter ausschalten"
 permalink: /Main Story/Chapter 14_2/
 excerpt: "Kapitel 14 - 2. Era of Chaos  Hauptstory - Kapitel 14_2. 14-2 Den Kundschafter ausschalten"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 14_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 21 - 21-12 Schlechter Eindruck"
 permalink: /Main Story/Chapter 21_12/
 excerpt: "Kapitel 21 - 12. Era of Chaos  Hauptstory - Kapitel 21_12. 21-12 Schlechter Eindruck"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 21_12.md"
 toc: false

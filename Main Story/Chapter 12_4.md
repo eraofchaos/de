@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 12 - 12-4 Unduldsamkeit"
 permalink: /Main Story/Chapter 12_4/
 excerpt: "Kapitel 12 - 4. Era of Chaos  Hauptstory - Kapitel 12_4. 12-4 Unduldsamkeit"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 12_4.md"
 toc: false

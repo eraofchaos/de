@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-1 Magische Quelle"
 permalink: /Main Story/Chapter 30_1/
 excerpt: "Kapitel 30 - 1. Era of Chaos  Hauptstory - Kapitel 30_1. 30-1 Magische Quelle"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 30_1.md"
 toc: false

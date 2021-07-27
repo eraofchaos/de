@@ -2,7 +2,7 @@
 title: "Versengender Armschutz"
 permalink: /equipment/Scalding Bracers/
 excerpt: "Era of Chaos Versengender Armschutz. Versengender Armschutz"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Scalding Bracers.md"
 toc: false

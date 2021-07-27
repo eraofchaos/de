@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-5 Das Geisterschloss"
 permalink: /Main Story/Chapter 3_5/
 excerpt: "Kapitel 3 - 5. Era of Chaos  Hauptstory - Kapitel 3_5. 3-5 Das Geisterschloss"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 3_5.md"
 toc: false

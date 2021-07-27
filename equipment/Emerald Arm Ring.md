@@ -2,7 +2,7 @@
 title: "Smaragd-Armreif"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Era of Chaos Smaragd-Armreif. Smaragd-Armreif"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Emerald Arm Ring.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 22 - 22-10 Die Kreuzung"
 permalink: /Main Story/Chapter 22_10/
 excerpt: "Kapitel 22 - 10. Era of Chaos  Hauptstory - Kapitel 22_10. 22-10 Die Kreuzung"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 22_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-10 Menschen verändern sich"
 permalink: /Main Story/Chapter 15_10/
 excerpt: "Kapitel 15 - 10. Era of Chaos  Hauptstory - Kapitel 15_10. 15-10 Menschen verändern sich"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 15_10.md"
 toc: false

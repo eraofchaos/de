@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-8 Eisenschnabelturm"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Kapitel 4 - 8. Era of Chaos  Hauptstory - Kapitel 4_8. 4-8 Eisenschnabelturm"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 4_8.md"
 toc: false

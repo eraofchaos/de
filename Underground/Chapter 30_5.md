@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 30 - 30-5  Erkundung des Todes"
 permalink: /Underground/Chapter 30_5/
 excerpt: "Kapitel 30 - 5. Era of Chaos  Untergrund - Kapitel 30_5. 30-5  Erkundung des Todes"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 30_5.md"
 toc: false

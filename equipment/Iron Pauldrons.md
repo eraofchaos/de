@@ -2,7 +2,7 @@
 title: "Eiserner Schulterschutz"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "Era of Chaos Eiserner Schulterschutz. Eiserner Schulterschutz"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Iron Pauldrons.md"
 toc: false

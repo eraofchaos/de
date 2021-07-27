@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-2 Verfluchter Tempel"
 permalink: /Main Story/Chapter 3_2/
 excerpt: "Kapitel 3 - 2. Era of Chaos  Hauptstory - Kapitel 3_2. 3-2 Verfluchter Tempel"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 3_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefakt - Bogen des Meisterschützen"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Era of Chaos  Bogen des Meisterschützen. Bogen des Meisterschützen Eine heilige Reliquie, von den Elfen aus Schätzen geschmiedet. Kann den Fernangriff verstärken."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Bow of the Sharpshooter.md"
 toc: false

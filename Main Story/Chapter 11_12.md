@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-12 Silberner Glücksvogel"
 permalink: /Main Story/Chapter 11_12/
 excerpt: "Kapitel 11 - 12. Era of Chaos  Hauptstory - Kapitel 11_12. 11-12 Silberner Glücksvogel"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 11_12.md"
 toc: false

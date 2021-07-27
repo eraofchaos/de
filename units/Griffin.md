@@ -3,7 +3,7 @@ title: "Greif"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Greif. Greif Einheiten. Königlicher Greif. Era of Chaos Greifen, das Symbol Erathias, beherrschen den Himmel über dem Königreich. Diese unerbittlichen Tiere sind loyal und tapfer und kämpfen bis zu ihrem letzten Atemzug."
 unitID: 103
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Greif"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Name:** [Ritterpike](/de/Exclusive/Griffin Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Ritterpike-Token](/ItemsDE/con_916/)
 

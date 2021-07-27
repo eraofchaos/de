@@ -2,7 +2,7 @@
 title: "Kern des Polarsterns"
 permalink: /equipment/Core of the Pole Star/
 excerpt: "Era of Chaos Kern des Polarsterns. Kern des Polarsterns"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Core of the Pole Star.md"
 toc: false

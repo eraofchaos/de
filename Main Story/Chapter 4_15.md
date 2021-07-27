@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 4 - 4-15 Windnest"
 permalink: /Main Story/Chapter 4_15/
 excerpt: "Kapitel 4 - 15. Era of Chaos  Hauptstory - Kapitel 4_15. 4-15 Windnest"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 4_15.md"
 toc: false

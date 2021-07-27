@@ -2,7 +2,7 @@
 title: "Eisenschuppe"
 permalink: /equipment/Ironclad Scale/
 excerpt: "Era of Chaos Eisenschuppe. Eisenschuppe"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Ironclad Scale.md"
 toc: false

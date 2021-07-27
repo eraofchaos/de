@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert (Pit Fiend)"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Grottenteufel Exklusiv."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Pit Fiend Schwert.md"
 toc: false

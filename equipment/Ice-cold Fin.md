@@ -2,7 +2,7 @@
 title: "Eiskalte Flosse"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "Era of Chaos Eiskalte Flosse. Eiskalte Flosse"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Ice-cold Fin.md"
 toc: false

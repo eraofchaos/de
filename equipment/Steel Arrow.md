@@ -2,7 +2,7 @@
 title: "Stahlpfeil"
 permalink: /equipment/Steel Arrow/
 excerpt: "Era of Chaos Stahlpfeil. Stahlpfeil"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Steel Arrow.md"
 toc: false

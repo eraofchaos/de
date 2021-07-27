@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-10 Der Fluch des Drachentötens"
 permalink: /Main Story/Chapter 24_10/
 excerpt: "Kapitel 24 - 10. Era of Chaos  Hauptstory - Kapitel 24_10. 24-10 Der Fluch des Drachentötens"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Chapter 24_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Göttliches Recht der Meeresseele"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "Era of Chaos Göttliches Recht der Meeresseele. Göttliches Recht der Meeresseele"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 32  Turmwoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **9 Aug** | **5x [Gremlin](/ItemsDE/unt_235/)**  | Ein Trupp von Gremlins schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **10 Aug** | **3x [Stein-Wasserspeier](/ItemsDE/unt_236/)**  | Ein Trupp von Stein-Wasserspeiern schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **11 Aug** | **100x <i class="fas fa-gem"/>**  | Während Eures Studiums der Alchemie ereilten Euch einige Überraschungen! |
+  | **12 Aug** | **3x [Eisengolem](/ItemsDE/unt_237/)**  | Ein Trupp von Eisengolems schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **13 Aug** | **3x [Einheitentruhe (Turm)](/ItemsDE/con_1274/)**  | Du hast mehrere wunderschöne Truhen im arkanen Laboratorium des Turms gefunden! |
+  | **14 Aug** | **3x [Magierin](/ItemsDE/unt_238/)**  | Ein Trupp Magierinnen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **15 Aug** | **5x [Solmyr](/ItemsDE/her_386/)**  | Eure Erforschung des Arkanen brachte Solmyr dazu, sich Eurer Armee anzuschließen! |
+
 
 #### 2021 Week 31  Burgwoche
 

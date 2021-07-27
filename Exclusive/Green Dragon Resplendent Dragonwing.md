@@ -2,7 +2,7 @@
 title: "Exklusiv - Prächtiger Drachenflügel (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Prächtiger Drachenflügel. Prächtiger Drachenflügel. Era of Chaos Exklusiv Prächtiger Drachenflügel. Grüner Drache Exklusiv."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Green Dragon Prächtiger Drachenflügel.md"
 toc: false

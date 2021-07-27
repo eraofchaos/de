@@ -2,7 +2,7 @@
 title: "VIP - VIP 6"
 permalink: /VIP/VIP 6/
 excerpt: "Era of Chaos  VIP-System. VIP 6"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "VIP 6.md"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
 
 ## Bonus: 
 
- **1** <span style="color: black"><span style="color: #462800"> V6-Geschenkpaket: </span><span style="color: black"><span style="color: #00FF1E;font-size:19px"> Auswahl einer 3-Sterne-SR-Einheit </span><span style="color: black">
+ **1** <span style="color: black"><span style="color: #462800"> V6-Geschenkpaket: </span><span style="color: black"><span style="color: #00FF1E;font-size:19px"> Auswahl einer 3-Sterne-SR-Einheit</span><span style="color: black">
 
  **2** <span style="color: black"><span style="color: #00FF1E;font-size:19px">Bei der Meisterungsaktualisierung können 2 Attribute des Helden gesperrt werden.</span><span style="color: black">[pic=vip_newImg.png]</span><span style="color: black">
 
@@ -36,7 +36,7 @@ classes: wide
 
 ## Details
 
- **Belohnung:** **1x** [Premiumpaket V6](/ItemsDE/con_1302/)
+ **Belohnung:** **1x** [Premiumpaket V6](/de/Items/con_2225/)
 
  **EXP:** 3000
 

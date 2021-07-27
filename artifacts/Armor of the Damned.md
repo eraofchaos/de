@@ -2,7 +2,7 @@
 title: "Artefakt - Rüstung der Verdammten"
 permalink: /artifacts/Armor of the Damned/
 excerpt: "Era of Chaos  Rüstung der Verdammten. Rüstung der Verdammten Aus magischen Reliquien von Untoten geschmiedet. Befähigt den Träger, die Fähigkeiten eines Gegners zu schwächen."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Armor of the Damned.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Königreichsschwert. Höchstes Talent - Königreichsschwert"
 permalink: /PeakTalent/Sword of Kingdom/
 excerpt: "Era of Chaos Höchstes Talent Königreichsschwert. Höchstes Talent Königreichsschwert. Königreichsschwert"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Sword of Kingdom.md"
 toc: false

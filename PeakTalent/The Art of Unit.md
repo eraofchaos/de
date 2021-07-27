@@ -2,7 +2,7 @@
 title: "Die Kunst der Einheit. Höchstes Talent - Die Kunst der Einheit"
 permalink: /PeakTalent/The Art of Unit/
 excerpt: "Era of Chaos Höchstes Talent Die Kunst der Einheit. Höchstes Talent Die Kunst der Einheit. Die Kunst der Einheit"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "The Art of Unit.md"
 toc: false

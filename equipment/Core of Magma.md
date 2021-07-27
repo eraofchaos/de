@@ -2,7 +2,7 @@
 title: "Magmakern"
 permalink: /equipment/Core of Magma/
 excerpt: "Era of Chaos Magmakern. Magmakern"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "Core of Magma.md"
 toc: false
