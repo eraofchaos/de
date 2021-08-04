@@ -2,7 +2,7 @@
 title: "Exklusiv - Schwert (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Schwert. Schwert. Era of Chaos Exklusiv Schwert. Pikenier Exklusiv."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Pikeman Schwert.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Unit Class Offense"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Dunkler Kämpe](/images/u/ti_sishen.jpg) | [Dunkler Kämpe](/de/units/Dark Champion/) | Offensiv | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 3 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/de/units/Revyaratan/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Uraltes Seemonster  |
   | 4 | ![Grottenteufel](/images/u/ti_diyulingzhu.jpg) | [Grottenteufel](/de/units/Pit Fiend/) | Offensiv | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Foltermeister  |
-  | 5 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Todesheuler  |
+  | 5 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Todesheuler  |
   | 6 | ![Stein-Wasserspeier](/images/u/ti_shixianggui.jpg) | [Stein-Wasserspeier](/de/units/Stone Gargoyle/) | Offensiv | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 7 | ![Pikenier](/images/u/ti_jibing.jpg) | [Pikenier](/de/units/Pikeman/) | Offensiv | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Hellebardenträger  |
   | 8 | ![Teufel](/images/u/ti_daemo.jpg) | [Teufel](/de/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzteufel  |

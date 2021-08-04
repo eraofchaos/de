@@ -2,7 +2,7 @@
 title: "Armschutz des Wolfes"
 permalink: /equipment/Bracer of the Wolf/
 excerpt: "Era of Chaos Armschutz des Wolfes. Armschutz des Wolfes"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Bracer of the Wolf.md"
 toc: false

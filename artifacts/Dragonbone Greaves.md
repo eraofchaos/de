@@ -2,7 +2,7 @@
 title: "Artefakt - Macht des Drachenvaters - Knochenschienen"
 permalink: /artifacts/Dragonbone Greaves/
 excerpt: "Era of Chaos  Macht des Drachenvaters - Knochenschienen. Beinschienen aus den Schienbeinknochen des Drachenkönigs. Eine der Komponenten für die Macht des Drachenvaters."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Dragonbone Greaves.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Gladiatorenschwert. Höchstes Talent - Gladiatorenschwert"
 permalink: /PeakTalent/Sword of Gladiators/
 excerpt: "Era of Chaos Höchstes Talent Gladiatorenschwert. Höchstes Talent Gladiatorenschwert. Gladiatorenschwert"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Sword of Gladiators.md"
 toc: false

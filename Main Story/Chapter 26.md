@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 26 Die Führung ausbauen"
 permalink: /Main Story/Chapter 26/
 excerpt: "Kapitel 26. Era of Chaos  Hauptstory - Kapitel 26. Die Führung ausbauen"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 26.md"
 toc: false

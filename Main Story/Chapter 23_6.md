@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-6 Bergwerkshöhle"
 permalink: /Main Story/Chapter 23_6/
 excerpt: "Kapitel 23 - 6. Era of Chaos  Hauptstory - Kapitel 23_6. 23-6 Bergwerkshöhle"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 23_6.md"
 toc: false

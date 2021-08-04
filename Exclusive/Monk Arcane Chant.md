@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Mönch Exklusiv."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Monk Arkangesang.md"
 toc: false

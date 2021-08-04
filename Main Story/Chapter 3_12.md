@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-12 Mammutbaum-Turm"
 permalink: /Main Story/Chapter 3_12/
 excerpt: "Kapitel 3 - 12. Era of Chaos  Hauptstory - Kapitel 3_12. 3-12 Mammutbaum-Turm"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 3_12.md"
 toc: false

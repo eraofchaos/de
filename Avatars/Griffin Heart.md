@@ -2,7 +2,7 @@
 title: "Avatar - Greifenherz"
 permalink: /Avatars/Griffin Heart/
 excerpt: "Era of Chaos  Greifenherz"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Griffin Heart.md"
 toc: false

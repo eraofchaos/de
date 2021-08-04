@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 10 - 10-1 Finsternis lauert"
 permalink: /Underground/Chapter 10_1/
 excerpt: "Kapitel 10 - 1. Era of Chaos  Untergrund - Kapitel 10_1. 10-1 Finsternis lauert"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 10_1.md"
 toc: false

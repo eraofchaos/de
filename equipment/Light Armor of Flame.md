@@ -2,7 +2,7 @@
 title: "Leichte Rüstung der Flamme"
 permalink: /equipment/Light Armor of Flame/
 excerpt: "Era of Chaos Leichte Rüstung der Flamme. Leichte Rüstung der Flamme"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Light Armor of Flame.md"
 toc: false

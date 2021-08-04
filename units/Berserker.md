@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Berserker. Berserker Einheiten. Todesheuler. Era of Chaos Berserker sind die besten Krieger des Orks; sie sind groß, stark und stets wütend. In der Schlacht stürzen sie sich auf ihren Gegner, um ihn mit ihren Äxten zu zerhacken."
 unitID: 408
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Berserker"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Berserkeraxt](/de/Exclusive/Berserker Berserker's Axe/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rangaufstieg:** [Berserkeraxt-Token](/ItemsDE/con_983/)
 

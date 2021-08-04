@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Unit Member x1"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/de/units/Behemoth/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ur-Behemoth  |
   | 6 | ![Eisdämon](/images/u/ti_bingmo.jpg) | [Eisdämon](/de/units/Ice Demon/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 7 | ![Hai-Ausbilder](/images/u/ti_xunshashi.jpg) | [Hai-Ausbilder](/de/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Hai-Reiter  |
-  | 8 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Todesheuler  |
+  | 8 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Todesheuler  |
   | 9 | ![Leprechaun](/images/u/ti_conglinyaojing.jpg) | [Leprechaun](/de/units/Leprechaun/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Meister-Leprechaun  |
   | 10 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/de/units/Troll/) | Fernkampf | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 11 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Regnanpräzisionsschützin  |

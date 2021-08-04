@@ -3,7 +3,7 @@ title: "Einhorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Einhorn. Einhorn Einheiten. Kriegseinhorn. Era of Chaos Über die Existenz des Einhorns streitet man sich; viele sehen in ihm nur ein hehres Märchen. Aber dieses Wesen ist nicht nur schön, sondern auch von legendärer Erbarmungslosigkeit im Kampf."
 unitID: 206
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Einhorn"
 toc: true

@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 20 - 20-8 Magiegilde"
 permalink: /Main Story/Chapter 20_8/
 excerpt: "Kapitel 20 - 8. Era of Chaos  Hauptstory - Kapitel 20_8. 20-8 Magiegilde"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 20_8.md"
 toc: false

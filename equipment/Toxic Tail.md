@@ -2,7 +2,7 @@
 title: "Giftschwanz"
 permalink: /equipment/Toxic Tail/
 excerpt: "Era of Chaos Giftschwanz. Giftschwanz"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Toxic Tail.md"
 toc: false

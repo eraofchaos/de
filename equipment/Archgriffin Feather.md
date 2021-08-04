@@ -2,7 +2,7 @@
 title: "Erzgreifenfeder"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "Era of Chaos Erzgreifenfeder. Erzgreifenfeder"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Archgriffin Feather.md"
 toc: false

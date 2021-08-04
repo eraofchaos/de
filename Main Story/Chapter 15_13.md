@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 15 - 15-13 Schlachtaltar"
 permalink: /Main Story/Chapter 15_13/
 excerpt: "Kapitel 15 - 13. Era of Chaos  Hauptstory - Kapitel 15_13. 15-13 Schlachtaltar"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 15_13.md"
 toc: false

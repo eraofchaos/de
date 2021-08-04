@@ -2,7 +2,7 @@
 title: "Seelengürtel"
 permalink: /equipment/Soul Belt/
 excerpt: "Era of Chaos Seelengürtel. Seelengürtel"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Soul Belt.md"
 toc: false

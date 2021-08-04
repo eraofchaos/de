@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 25 - 25-2 Untergrundwelt"
 permalink: /Main Story/Chapter 25_2/
 excerpt: "Kapitel 25 - 2. Era of Chaos  Hauptstory - Kapitel 25_2. 25-2 Untergrundwelt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 25_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Elementare Immunität. Höchstes Talent - Elementare Immunität"
 permalink: /PeakTalent/Elemental Immunization/
 excerpt: "Era of Chaos Höchstes Talent Elementare Immunität. Höchstes Talent Elementare Immunität. Elementare Immunität"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Elemental Immunization.md"
 toc: false

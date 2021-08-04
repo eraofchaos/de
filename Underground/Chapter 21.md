@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 21 Der Gral"
 permalink: /Underground/Chapter 21/
 excerpt: "Kapitel 21 Der Gral. Era of Chaos  Untergrund - Kapitel 21. Der Gral"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 21.md"
 toc: false

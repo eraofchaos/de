@@ -2,7 +2,7 @@
 title: "Schwanz der Drachenschildkröte"
 permalink: /equipment/Dragon Turtle's Tail/
 excerpt: "Era of Chaos Schwanz der Drachenschildkröte. Schwanz der Drachenschildkröte"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Dragon Turtle's Tail.md"
 toc: false

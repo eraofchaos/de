@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 17 Befreiung des Imperiums"
 permalink: /Underground/Chapter 17/
 excerpt: "Kapitel 17 Befreiung des Imperiums. Era of Chaos  Untergrund - Kapitel 17. Befreiung des Imperiums"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 17.md"
 toc: false

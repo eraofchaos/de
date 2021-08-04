@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 23 - 23-13 Den Schatz bewachen"
 permalink: /Main Story/Chapter 23_13/
 excerpt: "Kapitel 23 - 13. Era of Chaos  Hauptstory - Kapitel 23_13. 23-13 Den Schatz bewachen"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 23_13.md"
 toc: false

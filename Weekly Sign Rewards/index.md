@@ -2,11 +2,24 @@
 title: "„Volle Anmeldung“-Belohn."
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly „Volle Anmeldung“-Belohn.."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 33  Festungswoche
+
+  |  Date  |  Belohnung  |  Belohnung Beschreibung    |
+  |:-------|:---------------|:------------------------:|
+  | **16 Aug** | **5x [Gnoll](/ItemsDE/unt_253/)**  | Ein Trupp von Gnolls schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **17 Aug** | **5x [Festung-Fraktion-Truhe](/ItemsDE/con_1277/)**  | Eure Festungstruppe überreicht Euch eine Reihe wertvoller Schatztruhen! |
+  | **18 Aug** | **100x <i class="fas fa-gem"/>**  | Eure Armee fand im dunklen Sumpf jede Menge Schätze! |
+  | **19 Aug** | **3x [Echsenmensch](/ItemsDE/unt_254/)**  | Ein Trupp von Echsenmenschen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **20 Aug** | **5x [Festung-Kaderrunen](/ItemsDE/con_818/)**  | Eure Infernotruppe überreicht Euch eine Reihe wertvoller Runen! |
+  | **21 Aug** | **3x [Schlangenfliege](/ItemsDE/unt_255/)**  | Ein Trupp von Schlangenfliegen schloss sich Eurer Armee an, Ihr werdet stärker! |
+  | **22 Aug** | **5x [Korbac](/ItemsDE/her_394/)**  | Ein kühner Bestienmeister hat Euer Gebiet besucht! |
+
 
 #### 2021 Week 32  Turmwoche
 

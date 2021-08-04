@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 17 - 17-5 Böser Befehl"
 permalink: /Main Story/Chapter 17_5/
 excerpt: "Kapitel 17 - 5. Era of Chaos  Hauptstory - Kapitel 17_5. 17-5 Böser Befehl"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 17_5.md"
 toc: false

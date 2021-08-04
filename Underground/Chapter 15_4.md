@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 15 - 15-4 Infernoweg"
 permalink: /Underground/Chapter 15_4/
 excerpt: "Kapitel 15 - 4. Era of Chaos  Untergrund - Kapitel 15_4. 15-4 Infernoweg"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 15_4.md"
 toc: false

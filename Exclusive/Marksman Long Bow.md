@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Scharfschütze Exklusiv."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Marksman Langbogen.md"
 toc: false

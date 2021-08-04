@@ -2,7 +2,7 @@
 title: "Avatar - Chilliger Sommer"
 permalink: /Avatars/Chilled-out Summer/
 excerpt: "Era of Chaos  Chilliger Sommer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chilled-out Summer.md"
 toc: false

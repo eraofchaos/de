@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 30 - 30-8 Feueraltar"
 permalink: /Main Story/Chapter 30_8/
 excerpt: "Kapitel 30 - 8. Era of Chaos  Hauptstory - Kapitel 30_8. 30-8 Feueraltar"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 30_8.md"
 toc: false

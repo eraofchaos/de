@@ -2,7 +2,7 @@
 title: "Brustpanzer aus gehärtetem Eisen"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "Era of Chaos Brustpanzer aus gehärtetem Eisen. Brustpanzer aus gehärtetem Eisen"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Hardened Iron Chest Armor.md"
 toc: false

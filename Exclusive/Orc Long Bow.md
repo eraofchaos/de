@@ -2,7 +2,7 @@
 title: "Exklusiv - Langbogen (Orc)"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Langbogen. Langbogen. Era of Chaos Exklusiv Langbogen. Ork Exklusiv."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Orc Langbogen.md"
 toc: false

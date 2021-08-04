@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 19 - 19-2 Anbetung der Seele"
 permalink: /Underground/Chapter 19_2/
 excerpt: "Kapitel 19 - 2. Era of Chaos  Untergrund - Kapitel 19_2. 19-2 Anbetung der Seele"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 19_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Imp-Rückenstacheln"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "Era of Chaos Imp-Rückenstacheln. Imp-Rückenstacheln"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Imp Back-spikes.md"
 toc: false

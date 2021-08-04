@@ -2,7 +2,7 @@
 title: "Avatarrahmen & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatarrahmen & Avatar. Avatarrahmen & Avatar"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "index.md"
 toc: false
@@ -112,8 +112,9 @@ classes: wide
   | 99 | ![Wilder Overlord](/images/a/avatarFrame_98.png) | [Wilder Overlord](/de/Avatars/Wild Overlord/) | + | „Wilder Overlord“-Avatarrahmen |
   | 100 | ![Wille der Götter](/images/a/avatarFrame_30.png) | [Wille der Götter](/de/Avatars/Will of the Gods/) | + | „Wille der Götter“-Avatarrahmen |
   | 101 | ![Wut des Berserkers](/images/a/avatarFrame_73.png) | [Wut des Berserkers](/de/Avatars/Berserker Rage/) | + | „Wut des Berserkers“-Avatarrahmen |
-  | 102 | ![Zaubermeister](/images/a/avatarFrame_10.png) | [Zaubermeister](/de/Avatars/Spell Master/) | + | Zaubermeister- Avatarrahmen |
-  | 103 | ![Zorn der Wildnis](/images/a/avatarFrame_29.png) | [Zorn der Wildnis](/de/Avatars/Fury of the Wilderness/) | + | „Zorn der Wildnis“-Avatarrahmen |
-  | 104 | ![Zorn des Donners](/images/a/avatarFrame_57.png) | [Zorn des Donners](/de/Avatars/Thunder Rage/) | + | „Zorn des Donners“-Avatarrahmen |
-  | 105 | ![„NFL Honors“-Erinnerung](/images/a/avatarFrame_94.png) | [„NFL Honors“-Erinnerung](/de/Avatars/NFL Honors Commemoration/) | + | „NFL Honors“-Erinnerung-Avatarrahmen |
-  | 106 |  | [„Schatten des Eisreiches“-Drache](/de/Avatars/Shadow of Ice Kingdom Dragon/) | - | „Schatten des Eisreiches“-Drachen-Avatarrahmen |
+  | 102 |  | [Wütender Nordwind](/de/Avatars/Raging Northern Wind/) | + | „Wütender Nordwind“-Avatarrahmen |
+  | 103 | ![Zaubermeister](/images/a/avatarFrame_10.png) | [Zaubermeister](/de/Avatars/Spell Master/) | + | Zaubermeister- Avatarrahmen |
+  | 104 | ![Zorn der Wildnis](/images/a/avatarFrame_29.png) | [Zorn der Wildnis](/de/Avatars/Fury of the Wilderness/) | + | „Zorn der Wildnis“-Avatarrahmen |
+  | 105 | ![Zorn des Donners](/images/a/avatarFrame_57.png) | [Zorn des Donners](/de/Avatars/Thunder Rage/) | + | „Zorn des Donners“-Avatarrahmen |
+  | 106 | ![„NFL Honors“-Erinnerung](/images/a/avatarFrame_94.png) | [„NFL Honors“-Erinnerung](/de/Avatars/NFL Honors Commemoration/) | + | „NFL Honors“-Erinnerung-Avatarrahmen |
+  | 107 |  | [„Schatten des Eisreiches“-Drache](/de/Avatars/Shadow of Ice Kingdom Dragon/) | - | „Schatten des Eisreiches“-Drachen-Avatarrahmen |

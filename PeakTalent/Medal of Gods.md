@@ -2,7 +2,7 @@
 title: "Götterorden. Höchstes Talent - Götterorden"
 permalink: /PeakTalent/Medal of Gods/
 excerpt: "Era of Chaos Höchstes Talent Götterorden. Höchstes Talent Götterorden. Götterorden"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Medal of Gods.md"
 toc: false

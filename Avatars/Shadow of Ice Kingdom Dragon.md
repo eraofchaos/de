@@ -2,7 +2,7 @@
 title: "Avatar - „Schatten des Eisreiches“-Drache"
 permalink: /Avatars/Shadow of Ice Kingdom Dragon/
 excerpt: "Era of Chaos  „Schatten des Eisreiches“-Drache"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Shadow of Ice Kingdom Dragon.md"
 toc: false

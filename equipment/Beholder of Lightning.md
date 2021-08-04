@@ -2,7 +2,7 @@
 title: "Blitzbetrachter"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Era of Chaos Blitzbetrachter. Blitzbetrachter"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Beholder of Lightning.md"
 toc: false

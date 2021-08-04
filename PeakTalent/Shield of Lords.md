@@ -2,7 +2,7 @@
 title: "Schild des Lords. Höchstes Talent - Schild des Lords"
 permalink: /PeakTalent/Shield of Lords/
 excerpt: "Era of Chaos Höchstes Talent Schild des Lords. Höchstes Talent Schild des Lords. Schild des Lords"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Shield of Lords.md"
 toc: false

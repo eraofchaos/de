@@ -2,7 +2,7 @@
 title: "Scharfer Säbel"
 permalink: /equipment/Razor-bladed Sabre/
 excerpt: "Era of Chaos Scharfer Säbel. Scharfer Säbel"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Razor-bladed Sabre.md"
 toc: false

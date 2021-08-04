@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 3 - 3-7 Himmelsstadt"
 permalink: /Main Story/Chapter 3_7/
 excerpt: "Kapitel 3 - 7. Era of Chaos  Hauptstory - Kapitel 3_7. 3-7 Himmelsstadt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 3_7.md"
 toc: false

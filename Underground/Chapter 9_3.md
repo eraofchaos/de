@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 9 - 9-3 Eruption"
 permalink: /Underground/Chapter 9_3/
 excerpt: "Kapitel 9 - 3. Era of Chaos  Untergrund - Kapitel 9_3. 9-3 Eruption"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 9_3.md"
 toc: false

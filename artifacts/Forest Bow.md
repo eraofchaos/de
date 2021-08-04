@@ -2,7 +2,7 @@
 title: "Artefakt - Armageddonklinge - Waldbogen"
 permalink: /artifacts/Forest Bow/
 excerpt: "Era of Chaos  Armageddonklinge - Waldbogen. Ein Bogen, wie ihn Waldelfen häufig nutzen. Eine der Komponenten für die Armageddonklinge."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Forest Bow.md"
 toc: false

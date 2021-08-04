@@ -2,7 +2,7 @@
 title: "Avatar - Konflux"
 permalink: /Avatars/Conflux/
 excerpt: "Era of Chaos  Konflux"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Conflux.md"
 toc: false

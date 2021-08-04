@@ -2,7 +2,7 @@
 title: "Königreichsschild. Höchstes Talent - Königreichsschild"
 permalink: /PeakTalent/Shield of Kingdom/
 excerpt: "Era of Chaos Höchstes Talent Königreichsschild. Höchstes Talent Königreichsschild. Königreichsschild"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Shield of Kingdom.md"
 toc: false

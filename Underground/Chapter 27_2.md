@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 27 - 27-2 Zwergenhandwerker"
 permalink: /Underground/Chapter 27_2/
 excerpt: "Kapitel 27 - 2. Era of Chaos  Untergrund - Kapitel 27_2. 27-2 Zwergenhandwerker"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 27_2.md"
 toc: false

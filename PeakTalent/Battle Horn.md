@@ -2,7 +2,7 @@
 title: "Kriegshorn. Höchstes Talent - Kriegshorn"
 permalink: /PeakTalent/Battle Horn/
 excerpt: "Era of Chaos Höchstes Talent Kriegshorn. Höchstes Talent Kriegshorn. Kriegshorn"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Battle Horn.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Verzauberte Handschuhe"
 permalink: /equipment/Enchanted Gloves/
 excerpt: "Era of Chaos Verzauberte Handschuhe. Verzauberte Handschuhe"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Enchanted Gloves.md"
 toc: false

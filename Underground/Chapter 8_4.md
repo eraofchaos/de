@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 8 - 8-4 Erweckung der Toten"
 permalink: /Underground/Chapter 8_4/
 excerpt: "Kapitel 8 - 4. Era of Chaos  Untergrund - Kapitel 8_4. 8-4 Erweckung der Toten"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 8_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Paladin-Schulterschutz"
 permalink: /equipment/Paladin's Pauldron/
 excerpt: "Era of Chaos Paladin-Schulterschutz. Paladin-Schulterschutz"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Paladin's Pauldron.md"
 toc: false

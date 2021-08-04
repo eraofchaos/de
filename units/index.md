@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Einheiten"
 permalink: /units/
 excerpt: "Era of Chaos Einheiten. List of ALL Einheiten in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "index.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
   | 1 | ![Assassine](/images/u/ti_cishazhe.jpg) | [Assassine](/de/units/Assassin/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 2 | ![Basilisk](/images/u/ti_xiyi.jpg) | [Basilisk](/de/units/Basilisk/) | Abwehr | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 3 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/de/units/Behemoth/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ur-Behemoth  |
-  | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Todesheuler  |
+  | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Todesheuler  |
   | 5 | ![Betrachter](/images/u/ti_xieyan.jpg) | [Betrachter](/de/units/Beholder/) | Zauberer | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Böses Auge  |
   | 6 | ![Böse Zauberin](/images/u/ti_xiemonv.jpg) | [Böse Zauberin](/de/units/Evil Sorceress/) | Ansturm | - | Kommandant | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 7 | ![Dendroidenwache](/images/u/ti_shuyao.jpg) | [Dendroidenwache](/de/units/Dendroid Guard/) | Abwehr | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Dendroidensoldat  |

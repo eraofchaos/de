@@ -2,7 +2,7 @@
 title: "Artefakt - Lebendiges Falkenauge - Geduldiger Wachmann"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Era of Chaos  Lebendiges Falkenauge - Geduldiger Wachmann. Skulptur eines Abenteurers mit flammenden Augen. Eine der Komponenten für das Lebendige Falkenauge."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Stoic Watchman.md"
 toc: false

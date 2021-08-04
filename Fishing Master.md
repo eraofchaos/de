@@ -2,7 +2,7 @@
 title: "Fischermeister"
 permalink: /Fishing Master/
 excerpt: "Era of Chaos  Fischermeister - []　　Geehrter Lord, hier sind die Abschlussbelohnungen für den Fischermeister-Versuch. Jetzt ansehen.[]"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "index.md"
 toc: false

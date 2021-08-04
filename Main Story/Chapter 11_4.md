@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 11 - 11-4 Belagerungsvorhut"
 permalink: /Main Story/Chapter 11_4/
 excerpt: "Kapitel 11 - 4. Era of Chaos  Hauptstory - Kapitel 11_4. 11-4 Belagerungsvorhut"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 11_4.md"
 toc: false

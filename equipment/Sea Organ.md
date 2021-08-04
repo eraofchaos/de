@@ -2,7 +2,7 @@
 title: "Meeresorgan"
 permalink: /equipment/Sea Organ/
 excerpt: "Era of Chaos Meeresorgan. Meeresorgan"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Sea Organ.md"
 toc: false

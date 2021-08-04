@@ -2,7 +2,7 @@
 title: "Eiskalter Helm"
 permalink: /equipment/Frigid Helm/
 excerpt: "Era of Chaos Eiskalter Helm. Eiskalter Helm"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Frigid Helm.md"
 toc: false

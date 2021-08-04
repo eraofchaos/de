@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 6 - 6-5 Mission bewältigt"
 permalink: /Underground/Chapter 6_5/
 excerpt: "Kapitel 6 - 5. Era of Chaos  Untergrund - Kapitel 6_5. 6-5 Mission bewältigt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 6_5.md"
 toc: false

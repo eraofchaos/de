@@ -2,7 +2,7 @@
 title: "Hauptstory - Kapitel 24 - 24-8 Wirre Entscheidungen"
 permalink: /Main Story/Chapter 24_8/
 excerpt: "Kapitel 24 - 8. Era of Chaos  Hauptstory - Kapitel 24_8. 24-8 Wirre Entscheidungen"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 24_8.md"
 toc: false

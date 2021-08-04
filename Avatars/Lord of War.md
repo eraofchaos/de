@@ -2,7 +2,7 @@
 title: "Avatar - Kampflord"
 permalink: /Avatars/Lord of War/
 excerpt: "Era of Chaos  Kampflord"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Lord of War.md"
 toc: false

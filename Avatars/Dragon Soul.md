@@ -2,7 +2,7 @@
 title: "Avatar - Drachenseele"
 permalink: /Avatars/Dragon Soul/
 excerpt: "Era of Chaos  Drachenseele"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Dragon Soul.md"
 toc: false

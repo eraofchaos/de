@@ -2,7 +2,7 @@
 title: "Heiliges Emblem - Quell der Unsterblichkeit"
 permalink: /Emblem/Spring of Immortality/
 excerpt: "Era of Chaos Quell der Unsterblichkeit. Quell der Unsterblichkeit. Era of Chaos Heiliges Emblem Quell der Unsterblichkeit. Era of Chaos Gut Quell der Unsterblichkeit"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Spring of Immortality.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Befestigungen. Höchstes Talent - Befestigungen"
 permalink: /PeakTalent/Fortifications/
 excerpt: "Era of Chaos Höchstes Talent Befestigungen. Höchstes Talent Befestigungen. Befestigungen"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Fortifications.md"
 toc: false

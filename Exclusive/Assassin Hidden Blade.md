@@ -2,7 +2,7 @@
 title: "Exklusiv - Versteckte Klinge (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Era of Chaos Versteckte Klinge. Versteckte Klinge. Era of Chaos Exklusiv Versteckte Klinge. Assassine Exklusiv."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Assassin Versteckte Klinge.md"
 toc: false

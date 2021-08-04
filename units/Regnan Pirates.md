@@ -3,7 +3,7 @@ title: "Regnanpirat"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Regnanpirat. Regnanpirat Einheiten. König der Piraten. Era of Chaos Diese brutalen und verschlagenen Schiffe wurden versenkt und endeten als Wracks auf dem Boden der Tiefsee."
 unitID: 9901
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Regnanpirat"
 toc: true

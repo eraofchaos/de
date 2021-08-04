@@ -2,7 +2,7 @@
 title: "Böses Opfer. Höchstes Talent - Böses Opfer"
 permalink: /PeakTalent/Evil Sacrifice/
 excerpt: "Era of Chaos Höchstes Talent Böses Opfer. Höchstes Talent Böses Opfer. Böses Opfer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Evil Sacrifice.md"
 toc: false

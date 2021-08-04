@@ -2,7 +2,7 @@
 title: "Untergrund - Kapitel 7 - 7-5 Mission bewältigt"
 permalink: /Underground/Chapter 7_5/
 excerpt: "Kapitel 7 - 5. Era of Chaos  Untergrund - Kapitel 7_5. 7-5 Mission bewältigt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Chapter 7_5.md"
 toc: false

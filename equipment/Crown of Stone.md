@@ -2,7 +2,7 @@
 title: "Steinkrone"
 permalink: /equipment/Crown of Stone/
 excerpt: "Era of Chaos Steinkrone. Steinkrone"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Crown of Stone.md"
 toc: false

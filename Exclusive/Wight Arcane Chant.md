@@ -2,7 +2,7 @@
 title: "Exklusiv - Arkangesang (Wight)"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Arkangesang. Arkangesang. Era of Chaos Exklusiv Arkangesang. Geist Exklusiv."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Wight Arkangesang.md"
 toc: false

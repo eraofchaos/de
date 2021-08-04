@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Unit Rank SSR"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | 1 | ![Psy-Elementar](/images/u/ti_jingshenyuansu.jpg) | [Psy-Elementar](/de/units/Psychic Elemental/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Magie-Elementar  |
   | 2 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/de/units/Behemoth/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ur-Behemoth  |
   | 3 | ![Hai-Ausbilder](/images/u/ti_xunshashi.jpg) | [Hai-Ausbilder](/de/units/Shark Trainer/) | Ansturm | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Hai-Reiter  |
-  | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Todesheuler  |
+  | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/de/units/Berserker/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Todesheuler  |
   | 5 | ![Leprechaun](/images/u/ti_conglinyaojing.jpg) | [Leprechaun](/de/units/Leprechaun/) | Abwehr | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Meister-Leprechaun  |
   | 6 | ![Regnanbogensch.](/images/u/ti_ruigenanushou.jpg) | [Regnanbogensch.](/de/units/Regnan Archer/) | Fernkampf | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Regnanpräzisionsschützin  |
   | 7 | ![Teufel](/images/u/ti_daemo.jpg) | [Teufel](/de/units/Devil/) | Offensiv | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Erzteufel  |

@@ -2,7 +2,7 @@
 title: "Fraktionsgeheimnisse. Höchstes Talent - Fraktionsgeheimnisse"
 permalink: /PeakTalent/Faction Secrets/
 excerpt: "Era of Chaos Höchstes Talent Fraktionsgeheimnisse. Höchstes Talent Fraktionsgeheimnisse. Fraktionsgeheimnisse"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Faction Secrets.md"
 toc: false
